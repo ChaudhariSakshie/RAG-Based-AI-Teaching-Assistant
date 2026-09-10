@@ -1,0 +1,10 @@
+streamlit==1.63.0
+faiss-cpu
+sentence-transformers
+numpy
+pandas
+groq
+matplotlib
+seaborn
+openpyxl
+
