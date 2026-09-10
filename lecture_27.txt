@@ -1,0 +1,304 @@
+[0.00 - 2.00] DAYS RUNANTS, Welcome to Good Smashers
+[2.00 - 7.00] In this video we are going to talk about how to create object 10 classes in Python
+[7.00 - 10.50] So, the object and the basic introduction of the class I had given in the last class
+[10.50 - 15.00] that a blueprint of a class is a template of an object
+[15.00 - 16.00] And what is an object?
+[16.00 - 17.50] Real-world entity
+[17.50 - 19.00] A simple example
+[19.00 - 20.50] What is a company's example?
+[20.50 - 23.00] Now companies work in thousands of employees
+[23.00 - 25.00] And they are working in a different department
+[25.00 - 29.00] in some IT, in HR, in some manufacturing, in marketing
+[29.00 - 33.00] Now companies say that I am a simple employee
+[33.00 - 35.00] Now what is the employee's example?
+[35.00 - 38.00] Some of the data is the ID of the employee
+[38.00 - 41.00] The name of the employee is the salary of the employee
+[41.00 - 43.00] I take so much data
+[43.00 - 44.00] So, I have a employee
+[44.00 - 47.00] I have collected the ID of the employee's salary
+[47.00 - 48.00] and added it to the system
+[48.00 - 50.00] The second day is an employee
+[50.00 - 52.00] So, what I will do next
+[52.00 - 55.00] I will make an ID, a name, a salary
+[55.00 - 57.00] The third day is an employee
+[57.00 - 59.00] I have come to 5 employees for 4 days
+[59.00 - 63.00] So, for 5 days, this task will be very long
+[63.00 - 64.00] It will be very big
+[64.00 - 67.00] What are you doing for every new employee?
+[67.00 - 69.00] It is a variable that is creating multiple
+[69.00 - 71.00] And then, I am doing data
+[71.00 - 72.00] What is better than this?
+[72.00 - 75.00] You know that what is an employee's real-world entity?
+[75.00 - 78.00] So, you create a blueprint of that
+[78.00 - 80.00] What do you want in the employee?
+[80.00 - 81.00] What do you want to do?
+[81.00 - 82.00] Is the data of that
+[82.00 - 84.00] What can he do?
+[84.00 - 87.00] He collected all the things and created a blueprint
+[87.00 - 90.00] And then, he created multiple objects
+[90.00 - 93.00] So, that is why he created a blueprint of that class
+[93.00 - 94.00] That he created a blueprint of that
+[94.00 - 96.00] That he created this watch
+[96.00 - 98.00] That is the way you want to create a watch
+[98.00 - 99.00] He created a design
+[99.00 - 104.00] After this design, you can create thousands of watches
+[104.00 - 108.00] You don't have to change the design for every new watch
+[108.00 - 110.00] Till the time, no new update was created
+[110.00 - 112.00] So, we are helping our task
+[112.00 - 115.00] What is easy to do in the task?
+[115.00 - 118.00] So, here you can find out more about the previous objects
+[118.00 - 120.00] In the interviews, you create the first object
+[120.00 - 121.00] First class
+[121.00 - 122.00] Now, you tell yourself
+[122.00 - 124.00] You will create a design directly
+[124.00 - 126.00] First you create a design
+[126.00 - 128.00] First you create a template
+[128.00 - 130.00] Then you create a template
+[130.00 - 131.00] You will create a design
+[131.00 - 132.00] You will create a house
+[132.00 - 134.00] Then you will create a house on that roof
+[134.00 - 136.00] Or you will create a house
+[136.00 - 137.00] Your husband is there
+[137.00 - 139.00] So, that is the same example
+[139.00 - 140.00] We are taking here
+[140.00 - 142.00] We are making a class here
+[142.00 - 143.00] Employee
+[143.00 - 145.00] What we have kept in that class
+[145.00 - 147.00] We want user to be there
+[147.00 - 149.00] Employee can add their data
+[149.00 - 151.00] So, we created a method
+[151.00 - 152.00] We created a function
+[152.00 - 153.00] Because I said
+[153.00 - 154.00] Two things
+[154.00 - 155.00] We have data
+[155.00 - 156.00] And method
+[156.00 - 158.00] Means what can be used in the function
+[158.00 - 159.00] And data means
+[159.00 - 161.00] What is the data related to that object?
+[161.00 - 163.00] So, what is the data related to that object?
+[163.00 - 165.00] Its ID
+[165.00 - 166.00] Its name
+[166.00 - 167.00] Its salary
+[167.00 - 169.00] So, here, I have taken a definition
+[169.00 - 171.00] Means, here, a function is created
+[171.00 - 172.00] Put data
+[172.00 - 173.00] Means, the data is
+[173.00 - 175.00] You can directly add the user
+[175.00 - 177.00] Add your ID, name, name, and salary
+[177.00 - 179.00] You can add it like this
+[179.00 - 181.00] And here, by default, this is the self
+[181.00 - 183.00] You will find these later on
+[183.00 - 184.00] You will find these later on
+[184.00 - 185.00] You will find these later on
+[185.00 - 186.00] You will find these later on
+[186.00 - 188.00] So, we have created an ID
+[188.00 - 189.00] User-celled name
+[189.00 - 190.00] User-celled
+[190.00 - 191.00] And we will input it here
+[191.00 - 193.00] We have created an user-celled
+[193.00 - 195.00] So, this type of casting
+[195.00 - 197.00] Because, by default, it is a string
+[197.00 - 198.00] So, it is an int-coledia
+[198.00 - 200.00] Because, it is a string in this
+[200.00 - 201.00] And here, it is a float-lady
+[201.00 - 203.00] Because, salary can be in float
+[203.00 - 205.00] And the second method is created
+[205.00 - 206.00] Display
+[206.00 - 208.00] We want to display that data
+[208.00 - 210.00] So, we can display that data
+[210.00 - 211.00] And we have printed these three things
+[211.00 - 213.00] So, this is a blue print-created
+[213.00 - 214.00] What is this?
+[214.00 - 215.00] A blue print-created
+[215.00 - 216.00] A template-created
+[216.00 - 218.00] Now, on that template's basis
+[218.00 - 220.00] You have 1, 2, 5, 10, 1000
+[220.00 - 222.00] As much as you want to create a margin
+[222.00 - 224.00] As much as you want to create a margin
+[224.00 - 226.00] So, A is equal to
+[226.00 - 228.00] So, here, it is an object-created
+[228.00 - 230.00] B is an object C object D object
+[230.00 - 232.00] As much as you want to create a margin
+[232.00 - 233.00] What is your work?
+[233.00 - 234.00] It is easy
+[234.00 - 237.00] Every time, the ID name, salary, ID name, salary
+[237.00 - 238.00] It is not the only thing to take
+[238.00 - 240.00] It is a design-created
+[240.00 - 243.00] Now, from that design, you want to create all the real-world objects
+[243.00 - 245.00] You want to create all the employees
+[245.00 - 247.00] You want to create all the data
+[247.00 - 248.00] You can create all the data
+[248.00 - 250.00] And then, you can display this
+[250.00 - 253.00] So, if you want to execute this method
+[253.00 - 254.00] You can execute it
+[254.00 - 255.00] So, if you want to execute this
+[255.00 - 257.00] You can call it run type
+[257.00 - 259.00] Add ID, name, salary, salary
+[259.00 - 261.00] And then, you can display that
+[261.00 - 263.00] So, from a simple program,
+[263.00 - 265.00] We can depict the real-world situation
+[265.00 - 267.00] By using the object-oriented programming
+[267.00 - 269.00] And what is your work?
+[269.00 - 270.00] It is easy
+[270.00 - 272.00] So, this is a basic introduction of
+[272.00 - 275.00] Classes and Object using Python
+[275.00 - 277.00] Okay, let's see the execution part
+[277.00 - 279.00] Here, I'll show you two simple examples
+[279.00 - 281.00] First of all, in the first example
+[281.00 - 283.00] We create a class
+[283.00 - 285.00] And then, in the class name
+[285.00 - 287.00] Like, I created a class with my first name
+[287.00 - 288.00] And, column
+[288.00 - 290.00] Now, this is called indentation automatically
+[290.00 - 292.00] It is x equal to 50
+[292.00 - 294.00] So, here, I have a simple variable
+[294.00 - 295.00] Because, I have already told you
+[295.00 - 297.00] The class, which we are creating
+[297.00 - 299.00] A blueprint of a particular object
+[299.00 - 301.00] So, it can be two things
+[301.00 - 302.00] Here, it is a data
+[302.00 - 303.00] And, a method
+[303.00 - 304.00] So, here, I am not creating a method
+[304.00 - 306.00] I am taking a simple data
+[306.00 - 308.00] I have added a variable x and its value to 50
+[308.00 - 310.00] Now, here, I have created an object
+[310.00 - 312.00] This is the template of the class
+[312.00 - 314.00] Now, I have taken a simple data
+[314.00 - 316.00] Now, the object
+[316.00 - 319.00] What is the object that is creating this class
+[319.00 - 321.00] First class, then, how to create it
+[321.00 - 323.00] And, this is the object equal to first
+[323.00 - 325.00] And, here, I have printed the object
+[325.00 - 329.00] And, the object's name is dot data
+[329.00 - 331.00] So, here, dot x
+[331.00 - 333.00] So, this is my simple
+[333.00 - 335.00] How to create it with 50 output
+[335.00 - 337.00] This is a simple template of a class
+[337.00 - 338.00] What can I say?
+[338.00 - 340.00] Now, the example I gave you
+[340.00 - 342.00] This is the example I will show you
+[342.00 - 343.00] Faculty
+[343.00 - 345.00] So, what are we creating here?
+[345.00 - 347.00] Here, we have created a class
+[347.00 - 349.00] Faculty name
+[349.00 - 350.00] A blueprint of a class
+[350.00 - 351.00] Faculty name
+[351.00 - 354.00] And, here, we have taken two methods
+[354.00 - 355.00] I have taken a method
+[355.00 - 357.00] From the output data
+[357.00 - 359.00] Now, whenever we take methods here
+[359.00 - 361.00] Whenever we take functions here
+[361.00 - 362.00] From the depth of the object
+[362.00 - 364.00] And, I have given some input data
+[364.00 - 366.00] Because, I am taking user's data
+[366.00 - 367.00] You cannot take user's data
+[367.00 - 368.00] You can take directly
+[368.00 - 370.00] But, if I am taking user's
+[370.00 - 372.00] Here, I have taken the data
+[372.00 - 373.00] And, self
+[373.00 - 375.00] What is the name of the self-journey
+[375.00 - 378.00] What we create with a class instance
+[378.00 - 380.00] A blueprint instance
+[380.00 - 382.00] We have to give reference
+[382.00 - 384.00] Again and again
+[384.00 - 386.00] So, I am also creating an attribute
+[386.00 - 388.00] ID, name, salary
+[388.00 - 389.00] So, it helps
+[389.00 - 391.00] So, if you want to use the ID
+[391.00 - 392.00] Then, self dot ID
+[392.00 - 394.00] Name is used by self dot name
+[394.00 - 396.00] So, it is called self dot salary
+[396.00 - 398.00] So, in this case, self dot
+[398.00 - 400.00] It helps me with reference
+[400.00 - 402.00] So, self dot ID
+[402.00 - 404.00] I have used self dot name
+[404.00 - 405.00] I have entered with user's
+[405.00 - 406.00] Self dot salary
+[406.00 - 407.00] I have entered with user's
+[407.00 - 409.00] I am making a automation
+[409.00 - 411.00] That directly, we are using the data user's
+[411.00 - 412.00] Enter through the database
+[412.00 - 414.00] And, after that, I have created a method
+[414.00 - 416.00] Toob, a function toob
+[416.00 - 417.00] A display name
+[417.00 - 419.00] And, we will also try by default
+[419.00 - 420.00] We will try by default
+[420.00 - 422.00] In extra parameter, I will tell you in the next video
+[422.00 - 424.00] Now, we are taking self parameter
+[424.00 - 426.00] And, I have printed the ID of the faculty
+[426.00 - 428.00] How to say self dot ID
+[428.00 - 429.00] Self dot name
+[429.00 - 430.00] Self dot salary
+[430.00 - 432.00] So, here we are just writing self
+[432.00 - 433.00] But, when we use
+[433.00 - 434.00] With some attribute
+[434.00 - 435.00] With some variable
+[435.00 - 436.00] We are using
+[436.00 - 438.00] So, we use it with self dot
+[438.00 - 440.00] And, look at this
+[440.00 - 442.00] Here, what is a blueprint?
+[442.00 - 444.00] If you execute it so much
+[444.00 - 445.00] Then, nothing will happen
+[445.00 - 447.00] If you execute it so much
+[447.00 - 448.00] I will show you
+[448.00 - 450.00] Let's suppose, I will remove this from here
+[450.00 - 452.00] If I remove it from here
+[452.00 - 454.00] And, I will execute this part
+[454.00 - 455.00] Then, nothing will happen
+[455.00 - 456.00] Nothing will happen here
+[456.00 - 457.00] Why?
+[457.00 - 458.00] This is just a blueprint
+[458.00 - 460.00] In memory, we have not yet
+[460.00 - 461.00] We have created something
+[461.00 - 462.00] Not yet
+[462.00 - 464.00] But, when we execute this
+[464.00 - 466.00] When we will create the object
+[466.00 - 467.00] What we will do?
+[467.00 - 468.00] We will create the object
+[468.00 - 469.00] This is the same
+[469.00 - 471.00] Like, the definition of function is written
+[471.00 - 472.00] Till the time, we will not call it
+[472.00 - 473.00] What is the definition?
+[473.00 - 475.00] We have created a class blueprint
+[475.00 - 477.00] But, till the object is not created
+[477.00 - 478.00] Then, it will not be able to run
+[478.00 - 480.00] So, that means, we will run
+[480.00 - 482.00] Because, I am making the object of this name
+[482.00 - 485.00] In which, we are giving the template
+[485.00 - 487.00] Fickle template
+[487.00 - 488.00] So, make this
+[488.00 - 489.00] Make this
+[489.00 - 490.00] Now, create the object of the object
+[490.00 - 492.00] In the company, thousands of employees
+[492.00 - 494.00] So, thousands of objects can create the object
+[494.00 - 496.00] You can take it repeatedly
+[496.00 - 499.00] Directly, we have to use this template
+[499.00 - 502.00] So, after this, we have called the data
+[502.00 - 504.00] We have called it
+[504.00 - 506.00] So, we will ask, as you see, I execute it
+[506.00 - 507.00] So, here, I execute it
+[507.00 - 508.00] So, look
+[508.00 - 510.00] We have called it the identity of the faculty
+[510.00 - 511.00] I have added it
+[511.00 - 513.00] I have added it to name
+[513.00 - 514.00] I have added it to one
+[514.00 - 516.00] And, after that, I have called it salary
+[516.00 - 518.00] I have added it to the salary of 10,000
+[518.00 - 520.00] So, here, I will enter the value of this place
+[520.00 - 522.00] This will be called as 3 things
+[522.00 - 524.00] It will be called as the name and salary of the cells
+[524.00 - 526.00] And, after that, I am doing what I am doing
+[526.00 - 527.00] Printing
+[527.00 - 529.00] So, what will happen with the 7th?
+[529.00 - 530.00] Store
+[530.00 - 531.00] And, the print will be stored
+[531.00 - 532.00] So, the value is stored inside
+[532.00 - 534.00] And, I have not done the display
+[534.00 - 535.00] And, I have done the display
+[535.00 - 536.00] And, I have done the display
+[536.00 - 540.00] So, this is how the actual functioning of class works
+[540.00 - 541.00] How to make an object?
+[541.00 - 542.00] How to create a class?
+[542.00 - 544.00] You can use this as an example
+[544.00 - 546.00] You can also give the application to the application
+[546.00 - 547.00] Thank you, Rhee

@@ -1,0 +1,234 @@
+[0.00 - 2.00] days students, welcome to great measures.
+[2.00 - 4.00] Today's video is starting
+[4.00 - 9.00] data visualization using Mac Plot LIB in Python.
+[9.00 - 15.00] So, here the Mac Plot LIB is a very important library which is used in Python
+[15.00 - 21.00] and this is especially used because of data visualization as well as data analysis
+[21.00 - 26.00] because analysis and visualization are related terms in the case of analysis
+[26.00 - 29.00] we take out the important things of data
+[29.00 - 33.00] but the output I present it in a very nice way
+[33.00 - 37.00] like if you go to a restaurant, there you have a dish
+[37.00 - 39.00] so the dish has been made very well
+[39.00 - 44.00] but if they don't do it well, then you will feel
+[44.00 - 49.00] a psychology is being made, it is not visible, it looks like it will be like this
+[49.00 - 52.00] so that's why we are making a dish here
+[52.00 - 55.00] the important ingredients, everything is great
+[55.00 - 58.00] and they are also doing very well on the representation
+[58.00 - 62.00] so in representation, the Mac Plot LIB is also used
+[62.00 - 64.00] and one more thing I will tell you
+[64.00 - 68.00] that the entire data visualization is used in the world
+[68.00 - 70.00] that means you will see how many data in the world
+[70.00 - 72.00] you will see how many huge amounts of data will be used
+[72.00 - 76.00] so 80% of the data is used whenever you are visualizing
+[76.00 - 78.00] so the third chart is used most
+[78.00 - 80.00] the first is your line chart
+[80.00 - 82.00] which I am going to tell you
+[82.00 - 85.00] the second is the bar and the third is the pipe
+[85.00 - 87.00] so many charts are used
+[87.00 - 89.00] different types of charts
+[89.00 - 91.00] one of the most important is the use of the pipe
+[91.00 - 95.00] and how many charts are used
+[95.00 - 97.00] I have already made a video on the pipe
+[97.00 - 99.00] the link is in the description box
+[99.00 - 101.00] I will also be coming to the next section
+[101.00 - 103.00] and you will also be able to check
+[103.00 - 105.00] the introduction of the pipe
+[105.00 - 107.00] which is the type of charts
+[107.00 - 111.00] and how they use the purpose
+[111.00 - 113.00] and how they use the scenarios
+[113.00 - 115.00] which chart are used in this video
+[115.00 - 117.00] I have already told you this video
+[117.00 - 119.00] but here it is okay
+[119.00 - 121.00] we are going to demonstrate
+[121.00 - 125.00] that how we have made the line chart
+[125.00 - 127.00] and look, it is very simple
+[127.00 - 129.00] there is no longer a long work in the kitchen
+[129.00 - 133.00] first of all, we have the pip install
+[133.00 - 135.00] which is our library
+[135.00 - 137.00] we have taken it in the environment
+[137.00 - 139.00] so pip install made plot
+[139.00 - 141.00] then I have imported the map plot
+[141.00 - 143.00] LIV dot p y plot
+[143.00 - 145.00] the plotting is
+[145.00 - 147.00] the line chart is pipe chart
+[147.00 - 149.00] this is all your p y plot
+[149.00 - 151.00] so in this library
+[151.00 - 153.00] I have accessed the dot
+[153.00 - 155.00] and I have created a new name
+[155.00 - 157.00] for this plot
+[157.00 - 159.00] and I have created a new name
+[159.00 - 161.00] and a small name
+[161.00 - 163.00] P L T
+[163.00 - 165.00] but then you have to write
+[165.00 - 167.00] P L O T P L O T
+[167.00 - 169.00] that is the name of the plot
+[169.00 - 171.00] you can write P L T
+[171.00 - 173.00] or you can do P B
+[173.00 - 175.00] which is not a big thing
+[175.00 - 177.00] which is the name of the plot
+[177.00 - 179.00] so this is the name of the plot
+[179.00 - 181.00] like the name of the children
+[181.00 - 183.00] but at home
+[183.00 - 185.00] we call it Kaku
+[185.00 - 187.00] Kaku Kaku Kaku
+[187.00 - 189.00] so this is the same thing
+[189.00 - 191.00] I have taken a list
+[191.00 - 193.00] I have taken it from the list name
+[193.00 - 195.00] which you can take
+[195.00 - 197.00] 1,4,9, whatever you want to take
+[197.00 - 199.00] I have made a list
+[199.00 - 201.00] first we will explain the syntax
+[201.00 - 203.00] if it comes
+[203.00 - 205.00] then it will be good
+[205.00 - 207.00] but if you are looking at it
+[207.00 - 209.00] then it is very important
+[209.00 - 211.00] because it is time to come
+[211.00 - 213.00] so what is the time to come
+[213.00 - 215.00] it is time to come
+[215.00 - 217.00] it is all field
+[217.00 - 219.00] so all the things that are changing
+[219.00 - 221.00] but the data visualization
+[221.00 - 223.00] analysis is getting very important
+[223.00 - 225.00] because the data is getting very huge
+[225.00 - 227.00] so it is analyzing
+[227.00 - 229.00] and visualizing
+[229.00 - 231.00] it is also necessary to make it
+[231.00 - 233.00] and understand
+[233.00 - 235.00] that is why
+[235.00 - 237.00] I will explain it
+[237.00 - 239.00] then plt.plot
+[239.00 - 241.00] I am plotting these values
+[241.00 - 243.00] I have passed the list
+[243.00 - 245.00] and what will I do
+[245.00 - 247.00] as I have done
+[247.00 - 249.00] you will become a line chart
+[249.00 - 251.00] now the important thing is
+[251.00 - 253.00] the chart is
+[253.00 - 255.00] 2x
+[255.00 - 257.00] 1x is the
+[257.00 - 259.00] y axis
+[259.00 - 261.00] I will pass the list
+[261.00 - 263.00] when the list is passed
+[263.00 - 265.00] the y axis
+[265.00 - 267.00] is the line of the vertical line
+[267.00 - 269.00] so this is the
+[269.00 - 271.00] x axis
+[271.00 - 273.00] I will explain the values
+[273.00 - 275.00] if you come
+[275.00 - 277.00] you will understand
+[277.00 - 279.00] as I am doing this
+[279.00 - 281.00] I will show you
+[281.00 - 283.00] how to make it
+[283.00 - 285.00] yes
+[285.00 - 287.00] I hope it will be visible
+[287.00 - 289.00] I will show you
+[289.00 - 291.00] as I have made
+[291.00 - 293.00] all the values
+[293.00 - 295.00] and all the squares
+[295.00 - 297.00] are in the y axis
+[297.00 - 299.00] and for the x axis
+[299.00 - 301.00] I have made 0,1,2,3
+[301.00 - 303.00] so this is my simple
+[303.00 - 305.00] initial level
+[305.00 - 307.00] I have made
+[307.00 - 309.00] this stop, temperature, data
+[309.00 - 311.00] I will show you
+[311.00 - 313.00] how to use this data
+[313.00 - 315.00] chart is made
+[315.00 - 317.00] but now
+[317.00 - 319.00] I will show you
+[319.00 - 321.00] how to make it
+[321.00 - 323.00] x axis
+[323.00 - 325.00] what is the y axis
+[325.00 - 327.00] and what is the whole chart
+[327.00 - 329.00] and the values
+[329.00 - 331.00] where the x and y
+[331.00 - 333.00] is in the intersection
+[333.00 - 335.00] I will show you
+[335.00 - 337.00] how to make it
+[337.00 - 339.00] so this is the whole chart
+[339.00 - 341.00] so I will show you
+[341.00 - 343.00] how to make it
+[343.00 - 345.00] I have made the same line
+[345.00 - 347.00] and I have also made the x axis
+[347.00 - 349.00] because the x axis
+[349.00 - 351.00] starts from 0
+[351.00 - 353.00] but you can also give the values
+[353.00 - 355.00] the same way
+[355.00 - 357.00] I have written the same
+[357.00 - 359.00] if you do the same
+[359.00 - 361.00] you will make the y axis
+[361.00 - 363.00] now I have made the first
+[363.00 - 365.00] make up
+[365.00 - 367.00] line width is equal to 1
+[367.00 - 369.00] 1,2,3,4
+[369.00 - 371.00] if you do the width of the line
+[371.00 - 373.00] you will make the same line
+[373.00 - 375.00] now I will show you
+[375.00 - 377.00] where the x and y value
+[377.00 - 379.00] intersects
+[379.00 - 381.00] where the star is
+[381.00 - 383.00] or square is
+[383.00 - 385.00] where you will show the circle
+[385.00 - 387.00] and then the color of the line
+[387.00 - 389.00] green is also
+[389.00 - 391.00] so I am listening to it
+[391.00 - 393.00] PLT.TITLE
+[393.00 - 395.00] my entire chart
+[395.00 - 397.00] I want to give it
+[397.00 - 399.00] title name
+[399.00 - 401.00] font size
+[401.00 - 403.00] label
+[403.00 - 405.00] y axis
+[405.00 - 407.00] grid
+[407.00 - 409.00] the grid
+[409.00 - 411.00] I can draw it
+[411.00 - 413.00] and show it
+[413.00 - 415.00] and the value
+[415.00 - 417.00] can save the chart
+[417.00 - 419.00] and then
+[419.00 - 421.00] the PLT.TITLE
+[421.00 - 423.00] I will show you
+[423.00 - 425.00] how to draw it
+[425.00 - 427.00] exactly
+[427.00 - 429.00] what is the logic
+[429.00 - 431.00] now you can see
+[431.00 - 433.00] what is the first
+[433.00 - 435.00] very beautiful
+[435.00 - 437.00] this is the value of y axis
+[437.00 - 439.00] where you are meeting
+[439.00 - 441.00] if you look at the star
+[441.00 - 443.00] this is the star
+[443.00 - 445.00] the line of the line
+[445.00 - 447.00] you can draw it
+[447.00 - 449.00] you can draw it
+[449.00 - 451.00] you can see the level of y axis
+[451.00 - 453.00] and the whole
+[453.00 - 455.00] and you can see
+[455.00 - 457.00] what is the grid
+[457.00 - 459.00] you can see
+[459.00 - 461.00] now you play the game
+[461.00 - 463.00] now let's pose
+[463.00 - 465.00] the width of the line
+[465.00 - 467.00] I will draw it
+[467.00 - 469.00] and circle it
+[469.00 - 471.00] so if I change it
+[471.00 - 473.00] I want to do
+[473.00 - 475.00] whatever you want
+[475.00 - 477.00] you can change the color
+[477.00 - 479.00] the color
+[479.00 - 481.00] the font
+[481.00 - 483.00] I will do the value of the grid
+[483.00 - 485.00] then I will show it
+[485.00 - 487.00] the rest of the story
+[487.00 - 489.00] the first grid
+[489.00 - 491.00] is not coming
+[491.00 - 493.00] the line is
+[493.00 - 495.00] small
+[495.00 - 497.00] and the plus is
+[497.00 - 499.00] hidden
+[499.00 - 501.00] the line is small
+[501.00 - 503.00] so this is the simple
+[503.00 - 505.00] first graph
+[505.00 - 507.00] you can see
+[507.00 - 509.00] the examples
+[509.00 - 511.00] thank you

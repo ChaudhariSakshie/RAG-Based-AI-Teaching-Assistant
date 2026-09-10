@@ -1,0 +1,1622 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "DS Food & Welcome to Greatsmishers"
+  },
+  {
+    "start": 2.0,
+    "end": 4.32,
+    "text": "Paitan Programming Series may you all welcome to"
+  },
+  {
+    "start": 4.32,
+    "end": 7.32,
+    "text": "Today in this video we will take an important question"
+  },
+  {
+    "start": 7.32,
+    "end": 9.72,
+    "text": "which we will solve in Paitan Programming"
+  },
+  {
+    "start": 9.72,
+    "end": 12.88,
+    "text": "First of all, let me tell you that we have to do this question"
+  },
+  {
+    "start": 12.88,
+    "end": 15.76,
+    "text": "and coding and decoding for you"
+  },
+  {
+    "start": 15.76,
+    "end": 17.28,
+    "text": "which is Caesar Cypher"
+  },
+  {
+    "start": 17.28,
+    "end": 19.72,
+    "text": "Well, today is 2,000 years ago"
+  },
+  {
+    "start": 19.72,
+    "end": 22.04,
+    "text": "It has been used in more than 2,000 years"
+  },
+  {
+    "start": 22.04,
+    "end": 24.52,
+    "text": "which used Caesar's thing"
+  },
+  {
+    "start": 24.52,
+    "end": 27.0,
+    "text": "to send a message directly to him"
+  },
+  {
+    "start": 27.0,
+    "end": 28.32,
+    "text": "which he will give a play text"
+  },
+  {
+    "start": 28.32,
+    "end": 30.32,
+    "text": "and send it directly to him"
+  },
+  {
+    "start": 30.32,
+    "end": 32.32,
+    "text": "to send it to him in the cipher text"
+  },
+  {
+    "start": 32.32,
+    "end": 34.32,
+    "text": "so that he can not read the message"
+  },
+  {
+    "start": 34.32,
+    "end": 35.32,
+    "text": "in the way"
+  },
+  {
+    "start": 35.32,
+    "end": 38.32,
+    "text": "After 2,000 years, we are doing this thing"
+  },
+  {
+    "start": 38.32,
+    "end": 40.32,
+    "text": "So you can see how much technology was used"
+  },
+  {
+    "start": 40.32,
+    "end": 42.32,
+    "text": "So that he used the amount of brain"
+  },
+  {
+    "start": 42.32,
+    "end": 44.32,
+    "text": "which is actually used in the actual technology"
+  },
+  {
+    "start": 44.32,
+    "end": 46.32,
+    "text": "but the amount of brain he used"
+  },
+  {
+    "start": 46.32,
+    "end": 48.32,
+    "text": "So what is Caesar Cypher here?"
+  },
+  {
+    "start": 48.32,
+    "end": 50.32,
+    "text": "So that if you have a simple message"
+  },
+  {
+    "start": 50.32,
+    "end": 51.32,
+    "text": "let's say"
+  },
+  {
+    "start": 51.32,
+    "end": 53.32,
+    "text": "A, B, C, D"
+  },
+  {
+    "start": 53.32,
+    "end": 55.32,
+    "text": "Now today we have to go through"
+  },
+  {
+    "start": 55.32,
+    "end": 57.32,
+    "text": "a little bit of trouble from the day of the day"
+  },
+  {
+    "start": 57.32,
+    "end": 59.32,
+    "text": "because of the bad things"
+  },
+  {
+    "start": 59.32,
+    "end": 61.32,
+    "text": "because of the bad things"
+  },
+  {
+    "start": 61.32,
+    "end": 63.32,
+    "text": "I thought that I will make a video for you"
+  },
+  {
+    "start": 63.32,
+    "end": 65.32,
+    "text": "so that you can make a video"
+  },
+  {
+    "start": 65.32,
+    "end": 67.32,
+    "text": "You can find some files or interviews"
+  },
+  {
+    "start": 67.32,
+    "end": 68.32,
+    "text": "or some other things"
+  },
+  {
+    "start": 68.32,
+    "end": 69.32,
+    "text": "If I talk about it"
+  },
+  {
+    "start": 69.32,
+    "end": 70.32,
+    "text": "I have a message"
+  },
+  {
+    "start": 70.32,
+    "end": 71.32,
+    "text": "A, B, C, D"
+  },
+  {
+    "start": 71.32,
+    "end": 72.32,
+    "text": "Well,"
+  },
+  {
+    "start": 72.32,
+    "end": 74.32,
+    "text": "Julius Caesar has sent a message"
+  },
+  {
+    "start": 74.32,
+    "end": 75.32,
+    "text": "to someone"
+  },
+  {
+    "start": 75.32,
+    "end": 77.32,
+    "text": "So what is this a play text?"
+  },
+  {
+    "start": 77.32,
+    "end": 78.32,
+    "text": "What does it mean?"
+  },
+  {
+    "start": 78.32,
+    "end": 80.32,
+    "text": "It can be read"
+  },
+  {
+    "start": 80.32,
+    "end": 81.32,
+    "text": "But if I send it to A, B, C, D"
+  },
+  {
+    "start": 81.32,
+    "end": 83.32,
+    "text": "then obviously it can be read in any way"
+  },
+  {
+    "start": 83.32,
+    "end": 86.32,
+    "text": "Julius Caesar sent a cipher"
+  },
+  {
+    "start": 86.32,
+    "end": 88.32,
+    "text": "to send a cipher to the A, B, C, D"
+  },
+  {
+    "start": 88.32,
+    "end": 90.32,
+    "text": "and send it to the other side"
+  },
+  {
+    "start": 90.32,
+    "end": 92.32,
+    "text": "and read it in the way"
+  },
+  {
+    "start": 92.32,
+    "end": 94.32,
+    "text": "It can be read"
+  },
+  {
+    "start": 94.32,
+    "end": 96.32,
+    "text": "But what does it mean?"
+  },
+  {
+    "start": 96.32,
+    "end": 98.32,
+    "text": "I will send it to A, B, C, D"
+  },
+  {
+    "start": 98.32,
+    "end": 100.32,
+    "text": "I will use the shift fund"
+  },
+  {
+    "start": 100.32,
+    "end": 101.32,
+    "text": "I will use the shift"
+  },
+  {
+    "start": 101.32,
+    "end": 103.32,
+    "text": "Now you can make a shift"
+  },
+  {
+    "start": 103.32,
+    "end": 104.32,
+    "text": "like shift 3"
+  },
+  {
+    "start": 104.32,
+    "end": 106.32,
+    "text": "You can use shift 5"
+  },
+  {
+    "start": 106.32,
+    "end": 107.32,
+    "text": "So what happens?"
+  },
+  {
+    "start": 107.32,
+    "end": 109.32,
+    "text": "If I use shift 3"
+  },
+  {
+    "start": 109.32,
+    "end": 110.32,
+    "text": "then what will it do?"
+  },
+  {
+    "start": 110.32,
+    "end": 112.32,
+    "text": "A, A, D, G, D"
+  },
+  {
+    "start": 112.32,
+    "end": 113.32,
+    "text": "So A, Alpha, Beta"
+  },
+  {
+    "start": 113.32,
+    "end": 114.32,
+    "text": "and then shift 3"
+  },
+  {
+    "start": 114.32,
+    "end": 115.32,
+    "text": "So what happens?"
+  },
+  {
+    "start": 115.32,
+    "end": 116.32,
+    "text": "B, C, D"
+  },
+  {
+    "start": 116.32,
+    "end": 141.32,
+    "text": "I mean in A"
+  },
+  {
+    "start": 141.32,
+    "end": 143.32,
+    "text": "msis"
+  },
+  {
+    "start": 143.32,
+    "end": 145.32,
+    "text": "july seager"
+  },
+  {
+    "start": 145.32,
+    "end": 147.32,
+    "text": "vcd"
+  },
+  {
+    "start": 147.32,
+    "end": 149.32,
+    "text": "sifatex"
+  },
+  {
+    "start": 149.32,
+    "end": 151.32,
+    "text": "sifatex"
+  },
+  {
+    "start": 151.32,
+    "end": 153.32,
+    "text": "rastai"
+  },
+  {
+    "start": 153.32,
+    "end": 155.32,
+    "text": "rastai"
+  },
+  {
+    "start": 155.32,
+    "end": 157.32,
+    "text": "msis"
+  },
+  {
+    "start": 157.32,
+    "end": 159.32,
+    "text": "thani"
+  },
+  {
+    "start": 159.32,
+    "end": 161.32,
+    "text": "receiver"
+  },
+  {
+    "start": 161.32,
+    "end": 163.32,
+    "text": "kaya karega"
+  },
+  {
+    "start": 163.32,
+    "end": 165.32,
+    "text": "kawai"
+  },
+  {
+    "start": 165.32,
+    "end": 167.32,
+    "text": "kawai"
+  },
+  {
+    "start": 167.32,
+    "end": 169.32,
+    "text": "kawai"
+  },
+  {
+    "start": 169.32,
+    "end": 173.32,
+    "text": "kawai"
+  },
+  {
+    "start": 173.32,
+    "end": 175.32,
+    "text": "kaya"
+  },
+  {
+    "start": 175.32,
+    "end": 177.32,
+    "text": "kewai"
+  },
+  {
+    "start": 177.32,
+    "end": 179.32,
+    "text": "kaha"
+  },
+  {
+    "start": 179.32,
+    "end": 181.32,
+    "text": "kong"
+  },
+  {
+    "start": 181.32,
+    "end": 183.32,
+    "text": "msis"
+  },
+  {
+    "start": 183.32,
+    "end": 193.32,
+    "text": "kowai"
+  },
+  {
+    "start": 193.32,
+    "end": 195.32,
+    "text": "n можem"
+  },
+  {
+    "start": 195.32,
+    "end": 196.23999999999998,
+    "text": "Normalweise, Dieni ka Saatтai Ka"
+  },
+  {
+    "start": 196.64,
+    "end": 198.4,
+    "text": "District picks up"
+  },
+  {
+    "start": 198.4,
+    "end": 200.12,
+    "text": "market"
+  },
+  {
+    "start": 203.54,
+    "end": 204.51999999999998,
+    "text": "WhatsApp"
+  },
+  {
+    "start": 204.51999999999998,
+    "end": 205.04,
+    "text": "Bitcoin"
+  },
+  {
+    "start": 205.04,
+    "end": 206.01999999999998,
+    "text": "atoon"
+  },
+  {
+    "start": 206.01999999999998,
+    "end": 206.48,
+    "text": "got"
+  },
+  {
+    "start": 206.48,
+    "end": 207.04,
+    "text": "ifying"
+  },
+  {
+    "start": 207.04,
+    "end": 207.66,
+    "text": "Sense"
+  },
+  {
+    "start": 207.66,
+    "end": 211.5,
+    "text": "یہاں پہ گر میں بات کروں, اسی چیچ کوگر ہم نے ایمپلیمٹ کرنا وہاں پائیتن سے"
+  },
+  {
+    "start": 211.5,
+    "end": 214.44,
+    "text": "آپ کے انٹریبیوںز وگرامے یا کالییوستی ایک زامی پوسکتے ہیں"
+  },
+  {
+    "start": 214.44,
+    "end": 215.28,
+    "text": "تو, کیسے کروں گے"
+  },
+  {
+    "start": 215.28,
+    "end": 217.76,
+    "text": "ہم نے کہاں, AlphaBats لی پہلے سارے"
+  },
+  {
+    "start": 217.76,
+    "end": 221.44,
+    "text": "ABCDFGH, IGKLMNUPI, QRSTUVWXVJ"
+  },
+  {
+    "start": 221.44,
+    "end": 223.32,
+    "text": "ٹیکہ سارے چھپیس نے جب بھی سملے لیے"
+  },
+  {
+    "start": 223.32,
+    "end": 225.04,
+    "text": "اس کے بعد ہم نے کہاں پہیں"
+  },
+  {
+    "start": 225.04,
+    "end": 226.66,
+    "text": "Encoated Messes دے دیا"
+  },
+  {
+    "start": 226.66,
+    "end": 229.76,
+    "text": "Encoated Messes, کی یہ ایکترے سے ریسیور کر رہے"
+  },
+  {
+    "start": 229.76,
+    "end": 231.26,
+    "text": "یہ جو میں نے پرغرام لکھا ہے"
+  },
+  {
+    "start": 231.26,
+    "end": 233.26,
+    "text": "یہ ریسیور کی پائیتن بیوسے لکھا ہے"
+  },
+  {
+    "start": 233.26,
+    "end": 235.28,
+    "text": "یہ ریسیور کی پائیتن بیوسے لکھا"
+  },
+  {
+    "start": 235.28,
+    "end": 236.28,
+    "text": "ریسیور مرم"
+  },
+  {
+    "start": 236.28,
+    "end": 238.39999999999998,
+    "text": "کی اس کے پاس سے Encoated Message"
+  },
+  {
+    "start": 238.39999999999998,
+    "end": 239.62,
+    "text": "Encoated Message"
+  },
+  {
+    "start": 239.62,
+    "end": 241.62,
+    "text": "اسی لیس کا نام میں نے Encoated رکھا ہے"
+  },
+  {
+    "start": 241.62,
+    "end": 242.72,
+    "text": "تو یہ Plane Text"
+  },
+  {
+    "start": 242.72,
+    "end": 244.01999999999998,
+    "text": "یہ Syphix Text"
+  },
+  {
+    "start": 244.01999999999998,
+    "end": 245.64,
+    "text": "اس کو Convert کریں گے"
+  },
+  {
+    "start": 245.64,
+    "end": 246.88,
+    "text": "تو DEFGH"
+  },
+  {
+    "start": 246.88,
+    "end": 248.01999999999998,
+    "text": "message آیا اس کے پاس"
+  },
+  {
+    "start": 248.01999999999998,
+    "end": 249.76,
+    "text": "اسے لے کہاں کرنا دیکوڑ کرنا تو"
+  },
+  {
+    "start": 249.76,
+    "end": 251.72,
+    "text": "دیکوڑ کے لی ابھی اس نے خلیسٹرنگ لی"
+  },
+  {
+    "start": 251.72,
+    "end": 254.62,
+    "text": "اس کے بعد ایم ریج Length of Encoated"
+  },
+  {
+    "start": 254.62,
+    "end": 257.08,
+    "text": "تو 0 سے لے کے پوری Length تک یہ چلے گا"
+  },
+  {
+    "start": 257.08,
+    "end": 258.08,
+    "text": "وریہے کیا کرے گا"
+  },
+  {
+    "start": 258.08,
+    "end": 260.22,
+    "text": "DECOAD is equal to DECOAD plus"
+  },
+  {
+    "start": 260.22,
+    "end": 261.26,
+    "text": "αBET"
+  },
+  {
+    "start": 261.26,
+    "end": 263.02,
+    "text": "αBET.index"
+  },
+  {
+    "start": 263.02,
+    "end": 266.24,
+    "text": "Encoated I minus 3% 26"
+  },
+  {
+    "start": 266.24,
+    "end": 267.44,
+    "text": "کیا نکہ مطلب کیا"
+  },
+  {
+    "start": 267.44,
+    "end": 269.64,
+    "text": "سب سے پیلہ message میں سے اس نے اٹھا لیا ہے"
+  },
+  {
+    "start": 269.64,
+    "end": 271.42,
+    "text": "کہ 0 3dx فلا کون سے DE"
+  },
+  {
+    "start": 271.42,
+    "end": 272.8,
+    "text": "تو DEی اٹھا لیا"
+  },
+  {
+    "start": 272.8,
+    "end": 276.32,
+    "text": "DEKا آپ کو پتے کی index کی αBET.index 3"
+  },
+  {
+    "start": 276.32,
+    "end": 277.58,
+    "text": "ابھی آپ کو پتے 0"
+  },
+  {
+    "start": 277.58,
+    "end": 278.28000000000003,
+    "text": "1"
+  },
+  {
+    "start": 278.28000000000003,
+    "end": 278.96,
+    "text": "2"
+  },
+  {
+    "start": 278.96,
+    "end": 279.68,
+    "text": "3"
+  },
+  {
+    "start": 279.68,
+    "end": 280.08,
+    "text": "3"
+  },
+  {
+    "start": 280.08,
+    "end": 280.48,
+    "text": "3"
+  },
+  {
+    "start": 280.48,
+    "end": 282.08,
+    "text": "اس کا کیا index آپ کا 3"
+  },
+  {
+    "start": 283.02,
+    "end": 283.96,
+    "text": "minus 3"
+  },
+  {
+    "start": 283.96,
+    "end": 285.09999999999997,
+    "text": "کیا سمپل فرمورا لگا ہے"
+  },
+  {
+    "start": 285.09999999999997,
+    "end": 285.78,
+    "text": "obviously"
+  },
+  {
+    "start": 285.78,
+    "end": 287.9,
+    "text": "اس نے plus 3 کیا تو یہ minus 3 کرے گا"
+  },
+  {
+    "start": 287.9,
+    "end": 289.68,
+    "text": "تو جس میں نے آپ کو بھی ایک زمپل میں اے رکے دیکھا"
+  },
+  {
+    "start": 289.68,
+    "end": 290.7,
+    "text": "دی minus 3"
+  },
+  {
+    "start": 290.7,
+    "end": 292.46,
+    "text": "تو DEKا index کی αG3"
+  },
+  {
+    "start": 292.46,
+    "end": 293.58,
+    "text": "اور اسم اس نے نے کیا کر دی"
+  },
+  {
+    "start": 293.58,
+    "end": 294.46,
+    "text": "اب minus 3 کر دی"
+  },
+  {
+    "start": 294.46,
+    "end": 295.62,
+    "text": "تو کیا آگیا 0"
+  },
+  {
+    "start": 295.62,
+    "end": 297.3,
+    "text": "% 26"
+  },
+  {
+    "start": 297.3,
+    "end": 298.4,
+    "text": "26 کیا تو"
+  },
+  {
+    "start": 298.4,
+    "end": 299.2,
+    "text": "لمر of"
+  },
+  {
+    "start": 299.2,
+    "end": 300.0,
+    "text": "αBET.index"
+  },
+  {
+    "start": 300.0,
+    "end": 300.53999999999996,
+    "text": "کیا چھا بیس"
+  },
+  {
+    "start": 300.53999999999996,
+    "end": 302.2,
+    "text": "اب آپ کسی بھی نمبر کو چھا بیس سے"
+  },
+  {
+    "start": 302.2,
+    "end": 303.09999999999997,
+    "text": "divide کرتے ہو"
+  },
+  {
+    "start": 303.09999999999997,
+    "end": 304.78,
+    "text": "تو آپ کو بتا ریمینڈر 0 سے"
+  },
+  {
+    "start": 304.78,
+    "end": 305.7,
+    "text": "پچھس کے بیچ میں آگے"
+  },
+  {
+    "start": 305.7,
+    "end": 306.79999999999995,
+    "text": "جسے اگر آپ کسی کو پانسے"
+  },
+  {
+    "start": 306.8,
+    "end": 307.5,
+    "text": "divide کرو"
+  },
+  {
+    "start": 307.5,
+    "end": 308.56,
+    "text": "یا تو reminder 0"
+  },
+  {
+    "start": 308.56,
+    "end": 309.26,
+    "text": "وانا گا 2"
+  },
+  {
+    "start": 309.26,
+    "end": 309.76,
+    "text": "واگا 3"
+  },
+  {
+    "start": 309.76,
+    "end": 310.14,
+    "text": "یا 4"
+  },
+  {
+    "start": 310.14,
+    "end": 310.46000000000004,
+    "text": "واگا"
+  },
+  {
+    "start": 310.46000000000004,
+    "end": 311.3,
+    "text": "ایس اگر میں"
+  },
+  {
+    "start": 311.3,
+    "end": 312.34000000000003,
+    "text": "چھا بیس سے divide کرتا ہو"
+  },
+  {
+    "start": 312.34000000000003,
+    "end": 313.26,
+    "text": "تو یہ تو 0"
+  },
+  {
+    "start": 313.26,
+    "end": 313.98,
+    "text": "یا maximum"
+  },
+  {
+    "start": 313.98,
+    "end": 314.66,
+    "text": "پچھسا سکتا"
+  },
+  {
+    "start": 314.66,
+    "end": 315.68,
+    "text": "تو گر میں 0%"
+  },
+  {
+    "start": 315.68,
+    "end": 316.42,
+    "text": "چھا بیس کروں گا تو"
+  },
+  {
+    "start": 316.42,
+    "end": 317.08,
+    "text": "obviously 0"
+  },
+  {
+    "start": 317.08,
+    "end": 317.58,
+    "text": "یہ گا"
+  },
+  {
+    "start": 317.58,
+    "end": 318.42,
+    "text": "0%"
+  },
+  {
+    "start": 318.42,
+    "end": 319.22,
+    "text": "آپ کا 1"
+  },
+  {
+    "start": 319.22,
+    "end": 320.34000000000003,
+    "text": "تو اس طریقے سے آپ کا"
+  },
+  {
+    "start": 320.34000000000003,
+    "end": 320.86,
+    "text": "جو"
+  },
+  {
+    "start": 320.86,
+    "end": 321.58000000000004,
+    "text": "یہ والا"
+  },
+  {
+    "start": 321.58000000000004,
+    "end": 322.42,
+    "text": "ایک چل میں message"
+  },
+  {
+    "start": 322.42,
+    "end": 322.90000000000003,
+    "text": "یہ DE"
+  },
+  {
+    "start": 322.90000000000003,
+    "end": 323.48,
+    "text": "آپ کا A"
+  },
+  {
+    "start": 323.48,
+    "end": 324.02,
+    "text": "میں convert"
+  },
+  {
+    "start": 324.02,
+    "end": 324.42,
+    "text": "ہو جا ہے"
+  },
+  {
+    "start": 324.42,
+    "end": 326.02,
+    "text": "نیکس ایک اور کر کی دیکھا تو"
+  },
+  {
+    "start": 326.02,
+    "end": 326.5,
+    "text": "لیکس میں"
+  },
+  {
+    "start": 326.5,
+    "end": 326.98,
+    "text": "پس آیا"
+  },
+  {
+    "start": 326.98,
+    "end": 327.42,
+    "text": "نیکس"
+  },
+  {
+    "start": 327.42,
+    "end": 327.90000000000003,
+    "text": "message"
+  },
+  {
+    "start": 327.90000000000003,
+    "end": 328.34000000000003,
+    "text": "میں کیا ہے"
+  },
+  {
+    "start": 328.34000000000003,
+    "end": 329.14,
+    "text": "میرا پس E"
+  },
+  {
+    "start": 329.14,
+    "end": 329.8,
+    "text": "اب E"
+  },
+  {
+    "start": 329.8,
+    "end": 330.64,
+    "text": "آپ کو بتا ہے"
+  },
+  {
+    "start": 330.64,
+    "end": 331.28000000000003,
+    "text": "کی index value"
+  },
+  {
+    "start": 331.28000000000003,
+    "end": 332.12,
+    "text": "کیا ہے 4"
+  },
+  {
+    "start": 332.12,
+    "end": 332.6,
+    "text": "تو E"
+  },
+  {
+    "start": 332.6,
+    "end": 332.90000000000003,
+    "text": "کا"
+  },
+  {
+    "start": 332.90000000000003,
+    "end": 333.26,
+    "text": "جو"
+  },
+  {
+    "start": 333.26,
+    "end": 333.40000000000003,
+    "text": "E"
+  },
+  {
+    "start": 333.40000000000003,
+    "end": 333.90000000000003,
+    "text": "alphabet value"
+  },
+  {
+    "start": 333.90000000000003,
+    "end": 334.18,
+    "text": "یہ"
+  },
+  {
+    "start": 334.18,
+    "end": 334.58,
+    "text": "کیا ہے"
+  },
+  {
+    "start": 334.58,
+    "end": 335.06,
+    "text": "اس کا index"
+  },
+  {
+    "start": 335.06,
+    "end": 335.8,
+    "text": "number 4"
+  },
+  {
+    "start": 335.8,
+    "end": 335.96000000000004,
+    "text": "تو"
+  },
+  {
+    "start": 335.96000000000004,
+    "end": 336.58,
+    "text": "Encoded"
+  },
+  {
+    "start": 336.58,
+    "end": 336.76,
+    "text": "میں سے"
+  },
+  {
+    "start": 336.76,
+    "end": 337.0,
+    "text": "2"
+  },
+  {
+    "start": 337.0,
+    "end": 337.48,
+    "text": "ra number"
+  },
+  {
+    "start": 337.48,
+    "end": 337.66,
+    "text": "کیا"
+  },
+  {
+    "start": 337.66,
+    "end": 338.0,
+    "text": "یہ"
+  },
+  {
+    "start": 338.0,
+    "end": 338.36,
+    "text": "لو"
+  },
+  {
+    "start": 338.36,
+    "end": 338.64,
+    "text": "کتک"
+  },
+  {
+    "start": 338.64,
+    "end": 339.06,
+    "text": "چلے گا"
+  },
+  {
+    "start": 339.06,
+    "end": 339.1,
+    "text": "جب"
+  },
+  {
+    "start": 339.1,
+    "end": 339.38,
+    "text": "تک"
+  },
+  {
+    "start": 339.38,
+    "end": 339.56,
+    "text": "سارے"
+  },
+  {
+    "start": 339.56,
+    "end": 340.08,
+    "text": "values"
+  },
+  {
+    "start": 340.08,
+    "end": 340.14,
+    "text": "جو"
+  },
+  {
+    "start": 340.14,
+    "end": 340.32,
+    "text": "وہ"
+  },
+  {
+    "start": 340.32,
+    "end": 340.64,
+    "text": "قبر"
+  },
+  {
+    "start": 340.64,
+    "end": 341.14,
+    "text": "نہیں ہوتے"
+  },
+  {
+    "start": 341.14,
+    "end": 341.58,
+    "text": "تو E"
+  },
+  {
+    "start": 341.58,
+    "end": 342.26,
+    "text": "کا index value"
+  },
+  {
+    "start": 342.26,
+    "end": 342.48,
+    "text": "کیا"
+  },
+  {
+    "start": 342.48,
+    "end": 343.0,
+    "text": "4"
+  },
+  {
+    "start": 343.0,
+    "end": 343.56,
+    "text": "minus"
+  },
+  {
+    "start": 343.56,
+    "end": 343.74,
+    "text": "کیا"
+  },
+  {
+    "start": 343.74,
+    "end": 344.06,
+    "text": "کیا"
+  },
+  {
+    "start": 344.06,
+    "end": 344.26,
+    "text": "کیا"
+  },
+  {
+    "start": 344.26,
+    "end": 344.66,
+    "text": "3"
+  },
+  {
+    "start": 344.66,
+    "end": 345.06,
+    "text": "کیا"
+  },
+  {
+    "start": 345.06,
+    "end": 345.16,
+    "text": "جو"
+  },
+  {
+    "start": 345.16,
+    "end": 345.46000000000004,
+    "text": "1"
+  },
+  {
+    "start": 345.46000000000004,
+    "end": 345.86,
+    "text": "1"
+  },
+  {
+    "start": 345.86,
+    "end": 346.36,
+    "text": "percent"
+  },
+  {
+    "start": 346.36,
+    "end": 346.96000000000004,
+    "text": "26"
+  },
+  {
+    "start": 346.96000000000004,
+    "end": 347.58000000000004,
+    "text": "کیا"
+  },
+  {
+    "start": 347.58000000000004,
+    "end": 347.90000000000003,
+    "text": "ایک"
+  },
+  {
+    "start": 347.90000000000003,
+    "end": 348.12,
+    "text": "کو"
+  },
+  {
+    "start": 348.12,
+    "end": 348.34000000000003,
+    "text": "چھا بیس"
+  },
+  {
+    "start": 348.34000000000003,
+    "end": 348.8,
+    "text": "divide"
+  },
+  {
+    "start": 348.8,
+    "end": 348.98,
+    "text": "کرو"
+  },
+  {
+    "start": 348.98,
+    "end": 349.46000000000004,
+    "text": "تو reminder"
+  },
+  {
+    "start": 349.46000000000004,
+    "end": 349.8,
+    "text": "obviously"
+  },
+  {
+    "start": 349.8,
+    "end": 349.82,
+    "text": "یہ"
+  },
+  {
+    "start": 349.82,
+    "end": 350.06,
+    "text": "کیا"
+  },
+  {
+    "start": 359.8,
+    "end": 360.8,
+    "text": "اور ایک"
+  },
+  {
+    "start": 360.8,
+    "end": 361.8,
+    "text": "نمبر"
+  },
+  {
+    "start": 361.8,
+    "end": 362.8,
+    "text": "minus 3"
+  },
+  {
+    "start": 362.8,
+    "end": 363.34000000000003,
+    "text": "تو"
+  },
+  {
+    "start": 363.34000000000003,
+    "end": 364.1,
+    "text": "پوزیٹی"
+  },
+  {
+    "start": 364.1,
+    "end": 364.42,
+    "text": "نمبر"
+  },
+  {
+    "start": 364.42,
+    "end": 365.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 365.40000000000003,
+    "end": 366.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 366.40000000000003,
+    "end": 367.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 367.40000000000003,
+    "end": 368.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 368.40000000000003,
+    "end": 369.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 369.40000000000003,
+    "end": 370.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 370.40000000000003,
+    "end": 371.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 371.40000000000003,
+    "end": 372.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 372.40000000000003,
+    "end": 373.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 373.40000000000003,
+    "end": 374.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 374.40000000000003,
+    "end": 375.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 375.40000000000003,
+    "end": 376.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 376.40000000000003,
+    "end": 377.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 377.40000000000003,
+    "end": 378.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 378.40000000000003,
+    "end": 379.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 379.40000000000003,
+    "end": 380.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 380.40000000000003,
+    "end": 381.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 381.40000000000003,
+    "end": 382.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 382.40000000000003,
+    "end": 383.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 383.40000000000003,
+    "end": 384.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 384.40000000000003,
+    "end": 385.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 385.40000000000003,
+    "end": 386.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 386.40000000000003,
+    "end": 387.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 387.40000000000003,
+    "end": 388.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 388.40000000000003,
+    "end": 389.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 389.40000000000003,
+    "end": 389.6,
+    "text": "ٹ"
+  },
+  {
+    "start": 389.64000000000004,
+    "end": 390.64000000000004,
+    "text": "ٹ"
+  },
+  {
+    "start": 390.64000000000004,
+    "end": 391.36,
+    "text": "ٹ"
+  },
+  {
+    "start": 391.36,
+    "end": 392.40000000000003,
+    "text": "ٹ"
+  },
+  {
+    "start": 392.40000000000003,
+    "end": 393.16,
+    "text": "٧"
+  },
+  {
+    "start": 393.16,
+    "end": 393.40000000000003,
+    "text": "٥"
+  },
+  {
+    "start": 393.40000000000003,
+    "end": 394.40000000000003,
+    "text": "٧"
+  },
+  {
+    "start": 394.40000000000003,
+    "end": 395.0,
+    "text": "٧"
+  },
+  {
+    "start": 395.0,
+    "end": 395.40000000000003,
+    "text": "٧"
+  },
+  {
+    "start": 395.40000000000003,
+    "end": 396.40000000000003,
+    "text": "٧"
+  },
+  {
+    "start": 396.40000000000003,
+    "end": 396.8,
+    "text": "٧"
+  },
+  {
+    "start": 396.8,
+    "end": 397.48,
+    "text": "٧"
+  },
+  {
+    "start": 397.48,
+    "end": 398.24,
+    "text": "٨"
+  },
+  {
+    "start": 398.24,
+    "end": 398.8,
+    "text": "ٹ"
+  },
+  {
+    "start": 398.8,
+    "end": 399.76000000000005,
+    "text": "٧"
+  },
+  {
+    "start": 399.76000000000005,
+    "end": 400.24,
+    "text": "ٹ"
+  },
+  {
+    "start": 400.24,
+    "end": 400.68,
+    "text": "٢"
+  },
+  {
+    "start": 400.68,
+    "end": 401.68,
+    "text": "٢"
+  },
+  {
+    "start": 401.68,
+    "end": 402.78000000000003,
+    "text": "٦"
+  },
+  {
+    "start": 402.78000000000003,
+    "end": 403.8,
+    "text": "٧"
+  },
+  {
+    "start": 403.8,
+    "end": 403.88,
+    "text": "٧"
+  },
+  {
+    "start": 403.88,
+    "end": 404.86,
+    "text": "٦"
+  },
+  {
+    "start": 404.86,
+    "end": 405.88,
+    "text": "٧"
+  },
+  {
+    "start": 405.88,
+    "end": 406.64000000000004,
+    "text": "٧"
+  },
+  {
+    "start": 406.64000000000004,
+    "end": 407.22,
+    "text": "٢"
+  },
+  {
+    "start": 407.22,
+    "end": 408.28000000000003,
+    "text": "٨"
+  },
+  {
+    "start": 408.28000000000003,
+    "end": 409.44,
+    "text": "٥"
+  },
+  {
+    "start": 409.44,
+    "end": 410.08000000000004,
+    "text": "ٹ"
+  },
+  {
+    "start": 410.08000000000004,
+    "end": 412.38,
+    "text": "٦"
+  },
+  {
+    "start": 412.38,
+    "end": 412.40000000000003,
+    "text": "٧"
+  },
+  {
+    "start": 412.40000000000003,
+    "end": 413.38,
+    "text": "٧"
+  },
+  {
+    "start": 413.38,
+    "end": 415.26000000000005,
+    "text": "٧"
+  },
+  {
+    "start": 415.26000000000005,
+    "end": 416.48,
+    "text": "٧"
+  },
+  {
+    "start": 416.48,
+    "end": 418.28000000000003,
+    "text": "٧"
+  },
+  {
+    "start": 418.28000000000003,
+    "end": 419.12,
+    "text": "٧"
+  },
+  {
+    "start": 419.12,
+    "end": 419.52000000000004,
+    "text": "٧"
+  },
+  {
+    "start": 419.52,
+    "end": 422.88,
+    "text": "Mathematics, so this way, this way, I will do the encoding decoding."
+  },
+  {
+    "start": 422.88,
+    "end": 427.64,
+    "text": "Now, say, what I have done? Decode, encoded message, decode, if you want to"
+  },
+  {
+    "start": 427.64,
+    "end": 431.71999999999997,
+    "text": "alter that you convert plain text into cipher, then you do plus 3."
+  },
+  {
+    "start": 431.71999999999997,
+    "end": 435.91999999999996,
+    "text": "This is what you can do, or tell in the comment section that if you want to do,"
+  },
+  {
+    "start": 435.91999999999996,
+    "end": 440.15999999999997,
+    "text": "then how can we do it? So if I also execute it, then"
+  },
+  {
+    "start": 440.15999999999997,
+    "end": 445.32,
+    "text": "note all these points. So if I execute it, then you are right, same thing,"
+  },
+  {
+    "start": 445.32,
+    "end": 449.71999999999997,
+    "text": "so DEMG, or else it will become A, B, C, D. And that's why I have changed here,"
+  },
+  {
+    "start": 449.71999999999997,
+    "end": 454.92,
+    "text": "let's say if I do a, G, G, G, A, or you can do a, then what is in the actual?"
+  },
+  {
+    "start": 454.92,
+    "end": 462.12,
+    "text": "That A minus Y, G is minus 3, minus 3, so 26 minus 3 will be 23, so 23 is your X cup,"
+  },
+  {
+    "start": 462.12,
+    "end": 465.12,
+    "text": "this is your E, so this way, all the points of this way,"
+  },
+  {
+    "start": 465.12,
+    "end": 467.12,
+    "text": "so, I will note all these points. Thank you."
+  }
+]

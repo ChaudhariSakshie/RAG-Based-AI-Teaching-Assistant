@@ -1,0 +1,175 @@
+[0.00 - 2.00] DS students, welcome to great smashers
+[2.00 - 4.00] Paitan Programming Series may have been answered
+[4.00 - 6.00] Today in this video again an important question
+[6.00 - 8.00] for you all who will execute Paitan
+[8.00 - 11.00] The question that is very important is
+[11.00 - 13.00] this whole series is important
+[13.00 - 14.00] I am saying this again
+[14.00 - 17.00] Because the person who is in Paitan
+[17.00 - 20.00] wants to learn something
+[20.00 - 22.00] without programming
+[22.00 - 24.00] without typing, without syntax
+[24.00 - 26.00] things will not understand
+[26.00 - 28.00] That is why this is the whole course
+[28.00 - 30.00] I have designed this
+[30.00 - 32.00] to show it properly
+[32.00 - 34.00] Because today's programming language is
+[34.00 - 36.00] Paitan is one side of the programming language
+[36.00 - 38.00] Paitan is very different
+[38.00 - 40.00] from different ways
+[40.00 - 42.00] from different applications
+[42.00 - 44.00] So children will also know about Paitan
+[44.00 - 46.00] because AI, machine learning
+[46.00 - 48.00] these things are generated
+[48.00 - 50.00] and all the fields inside this
+[50.00 - 52.00] have a heavily used Paitan
+[52.00 - 54.00] So what are the programs
+[54.00 - 56.00] Write a program to find
+[56.00 - 58.00] Reminder, when a positive number
+[58.00 - 60.00] X is divided with the positive number
+[60.00 - 62.00] Y means that a positive number is X
+[62.00 - 64.00] and a positive number is Y
+[64.00 - 68.00] Like, take something like a towel
+[68.00 - 70.00] Take one 5
+[70.00 - 72.00] So positive number is you know
+[72.00 - 74.00] positive numbers are there
+[74.00 - 76.00] I have to divide the positive and the
+[76.00 - 79.00] division after the
+[79.00 - 81.00] remainder of the division
+[81.00 - 83.00] I have to print it
+[83.00 - 84.00] It is very simple
+[84.00 - 86.00] You can divide it
+[86.00 - 88.00] like if you want to divide it
+[88.00 - 90.00] or use the function
+[90.00 - 92.00] or I can use the flow
+[92.00 - 94.00] and division
+[94.00 - 96.00] It is very simple
+[96.00 - 98.00] But they have told you
+[98.00 - 100.00] You are allowed to use only
+[100.00 - 102.00] plus minus symbol
+[102.00 - 104.00] Use of this symbol is
+[104.00 - 106.00] prohibited
+[106.00 - 108.00] You don't have to do symbols
+[108.00 - 110.00] It is a child's work
+[110.00 - 112.00] You have to use the plus or minus
+[112.00 - 114.00] and what you have to do
+[114.00 - 116.00] to find the remainder
+[116.00 - 118.00] and divide it
+[118.00 - 120.00] like a simple symbol
+[120.00 - 122.00] I will write 2 into 3
+[122.00 - 124.00] I will multiply it
+[124.00 - 126.00] So what is done in actual
+[126.00 - 128.00] we are doing it three times
+[128.00 - 130.00] plus one thing
+[130.00 - 132.00] I mean what is done in actual
+[132.00 - 134.00] For easyness
+[134.00 - 136.00] we have multiple
+[136.00 - 138.00] multiplication, division, many symbols
+[138.00 - 140.00] But the processor
+[140.00 - 142.00] mainly adder
+[142.00 - 144.00] subtractor is used
+[144.00 - 146.00] full adder half
+[146.00 - 148.00] adder half
+[148.00 - 150.00] This is used the most
+[150.00 - 152.00] Because I will also add multiplication
+[152.00 - 154.00] in the circuit
+[154.00 - 156.00] If I will also add shift
+[156.00 - 158.00] this is much heavier
+[158.00 - 160.00] So the circuit design
+[160.00 - 162.00] which you talk about
+[162.00 - 164.00] like we read in the last edition
+[164.00 - 166.00] Hardware design
+[166.00 - 168.00] does not add many chips
+[168.00 - 170.00] All the functions
+[170.00 - 172.00] have shift
+[172.00 - 174.00] You can write through shift
+[174.00 - 176.00] This is the complexity
+[176.00 - 178.00] that is less
+[178.00 - 180.00] and more than that
+[180.00 - 182.00] If I want to do this
+[182.00 - 184.00] plus and minus
+[184.00 - 186.00] how will we do it?
+[186.00 - 188.00] Again, many ways
+[188.00 - 190.00] I am using recursive approach
+[190.00 - 192.00] I already mentioned in the previous videos
+[192.00 - 194.00] that you have iterative approach
+[194.00 - 196.00] and recursive approach
+[196.00 - 198.00] So the recursive approach
+[198.00 - 200.00] function is calling itself again
+[200.00 - 202.00] That is a recursion
+[202.00 - 204.00] And we have used it here
+[204.00 - 206.00] So what is the function?
+[206.00 - 208.00] The function definition
+[208.00 - 210.00] X or Y?
+[210.00 - 212.00] Obviously, X is my positive integer
+[212.00 - 214.00] Y is my positive integer
+[214.00 - 216.00] If X is less than Y
+[216.00 - 218.00] then return X
+[218.00 - 220.00] Otherwise what do I do?
+[220.00 - 222.00] Return
+[222.00 - 224.00] function of X minus Y
+[224.00 - 226.00] What do I do?
+[226.00 - 228.00] Let me divide you
+[228.00 - 230.00] 30 to 10
+[230.00 - 232.00] If you divide it
+[232.00 - 234.00] then what will the remainder
+[234.00 - 236.00] divide it
+[236.00 - 238.00] and the remainder will be 0
+[238.00 - 240.00] So if I want to do this, then
+[240.00 - 242.00] function of 30 to 10
+[242.00 - 244.00] is it called?
+[244.00 - 246.00] Is it not 30 less than 10?
+[246.00 - 248.00] So return
+[248.00 - 250.00] What do we do?
+[250.00 - 252.00] Returns to function
+[252.00 - 254.00] Y is my X
+[254.00 - 256.00] So if we do it, then minus 20
+[256.00 - 258.00] and Y is it is Y
+[258.00 - 260.00] 10 as it is
+[260.00 - 262.00] Now this is X
+[262.00 - 264.00] So this is X less than 20
+[264.00 - 266.00] So again call it
+[266.00 - 268.00] function or 20 minus 10
+[268.00 - 270.00] So 10, Y is my
+[270.00 - 272.00] As it is
+[272.00 - 274.00] X minus Y
+[274.00 - 276.00] This is X
+[276.00 - 278.00] Is it 10 less than 10?
+[278.00 - 280.00] No, it is equal to
+[280.00 - 282.00] So then return
+[282.00 - 284.00] Then it will function call it
+[284.00 - 286.00] So here 10 minus 10 will be 0
+[286.00 - 288.00] and Y as it is
+[288.00 - 290.00] So this is my X
+[290.00 - 292.00] Then again call it 0 less than 10
+[292.00 - 294.00] This is true
+[294.00 - 296.00] As it is true, then return X
+[296.00 - 298.00] So the remainder should be 0
+[298.00 - 300.00] So this is the simple function
+[300.00 - 302.00] Now if you divide it
+[302.00 - 304.00] 2 positive
+[304.00 - 306.00] If you divide it
+[306.00 - 308.00] then this will print
+[308.00 - 310.00] The recursive approach
+[310.00 - 312.00] If you want to
+[312.00 - 314.00] function 10 comma 30
+[314.00 - 316.00] Let me divide 10
+[316.00 - 318.00] Now see 10 is
+[318.00 - 320.00] 10 is not coming
+[320.00 - 322.00] So in that case, you do not have to do something
+[322.00 - 324.00] 10 less than 30
+[324.00 - 326.00] Yes, so see the X
+[326.00 - 328.00] So this is not the case
+[328.00 - 330.00] But if you want to do X
+[330.00 - 332.00] and Y
+[332.00 - 334.00] Then if you do it, then you can do it
+[334.00 - 336.00] easily
+[336.00 - 338.00] So all these things
+[338.00 - 340.00] and even your code
+[340.00 - 342.00] You can note it
+[342.00 - 344.00] and execute it
+[344.00 - 346.00] And in the comment section, you can
+[346.00 - 348.00] If there is any other approach
+[348.00 - 350.00] Then you can write in the comment section
+[350.00 - 352.00] So that too, you can follow the student
+[352.00 - 354.00] Thank you

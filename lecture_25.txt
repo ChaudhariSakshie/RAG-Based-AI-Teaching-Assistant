@@ -1,0 +1,181 @@
+[0.00 - 2.00] DS students, welcome to Gets Measures
+[2.00 - 6.50] Today's video is explaining how to do sorting in numpy areas
+[6.50 - 9.00] So in one dimension area, in two dimension areas
+[9.00 - 12.50] How do sorting be the aspect of sorting?
+[12.50 - 16.50] All the points of all you will not have to execute with them
+[16.50 - 19.00] So if you liked this video, please like and subscribe
+[19.00 - 21.00] If you haven't yet, then also give it a thumbs up
+[21.00 - 23.00] And you can subscribe to the devices
+[23.00 - 25.00] Because subscribers are very important
+[25.00 - 27.00] Like studies are very important, hard work is very important
+[27.00 - 29.00] So even subscribers are very important
+[29.00 - 31.00] So let's start first
+[31.00 - 35.00] Our numpy library is already in that library
+[35.00 - 38.00] We have defined the name of the sort of sort
+[38.00 - 41.00] Now how do we use this?
+[41.00 - 43.00] This is our np.sort
+[43.00 - 45.00] Now the name of the np is already known
+[45.00 - 48.00] As I said, the name of the name of the name is np
+[48.00 - 52.00] Means we have created an LIs of numpy library
+[52.00 - 55.00] And we have created an LIs of the name of the name np
+[55.00 - 57.00] So I am using it
+[57.00 - 60.00] I mean using numpy as a numpy
+[60.00 - 63.00] So what does this sort of sort of sort do?
+[63.00 - 66.00] The area you will see is the copy
+[66.00 - 69.00] Means the copy of the copy is sorted
+[69.00 - 72.00] And the second is the np.aRG sort
+[72.00 - 75.00] What is the argument here?
+[75.00 - 77.00] What is the indices here?
+[77.00 - 81.00] Will return the index value of the index value of the index
+[81.00 - 83.00] That would sort an area
+[83.00 - 86.00] Means the area you will see is sorted
+[86.00 - 90.00] The index value of the index is printed
+[90.00 - 93.00] And here the nd array dot sort
+[93.00 - 95.00] What is this?
+[95.00 - 97.00] The area you have taken
+[97.00 - 99.00] So you will see the name of the array dot sort
+[99.00 - 102.00] Means in that area you will see the sort of the index
+[102.00 - 104.00] You will not get extra memory
+[104.00 - 106.00] The copy you will not generate
+[106.00 - 109.00] You will see the sort of the array in that
+[109.00 - 111.00] You will see three or three things
+[111.00 - 115.00] First of all, I am doing one dimension array
+[115.00 - 118.00] So I have done one important numpy as np
+[118.00 - 122.00] And I have created one dimensional array here
+[122.00 - 125.00] Np.array and I have taken some values here
+[125.00 - 127.00] Now what is the thing about this?
+[127.00 - 128.00] Np.sort
+[128.00 - 130.00] I am using the function of Np.sort
+[130.00 - 132.00] And the area I created
+[132.00 - 136.00] Means the copy of the x is sorted
+[136.00 - 138.00] Now I have sorted it
+[138.00 - 141.00] And I have put it in y
+[141.00 - 143.00] And printed it here in y
+[143.00 - 146.00] And here the x is printed here
+[146.00 - 148.00] And as the y is printed
+[148.00 - 150.00] See this is 23679
+[150.00 - 152.00] I have sorted it here
+[152.00 - 155.00] And by default it is sorted in sending order
+[155.00 - 158.00] Means it is sorted in the form of a script
+[158.00 - 161.00] If you execute the x here
+[161.00 - 164.00] If you write x, then you will see
+[164.00 - 168.00] As it is here, the data will come here
+[168.00 - 171.00] Because you have not changed the x
+[171.00 - 174.00] As it is here, you have sorted it
+[174.00 - 177.00] And you have printed it in y
+[177.00 - 180.00] And then what is the copy of the x?
+[180.00 - 182.00] Printed
+[182.00 - 185.00] This is simple and you have sorted it
+[185.00 - 187.00] Now let us ask you one thing
+[187.00 - 190.00] How to do by default in sending order
+[190.00 - 193.00] But if I want to show in descending
+[193.00 - 194.00] Then how will I do it?
+[194.00 - 196.00] I have to show in descending
+[196.00 - 198.00] So to do in descending
+[198.00 - 200.00] This is simple and you have sorted it
+[200.00 - 202.00] You have sorted the x
+[202.00 - 204.00] So it has made it in ascending order
+[204.00 - 206.00] Means 23679
+[206.00 - 209.00] Now you have printed it in reverse
+[209.00 - 210.00] It is a little logic
+[210.00 - 212.00] If you print it in reverse
+[212.00 - 214.00] Then what will be the reverse?
+[214.00 - 216.00] It will be descending
+[216.00 - 218.00] So you have sorted it and it will be reversed
+[218.00 - 221.00] And I have already told you
+[221.00 - 223.00] How do we reverse it?
+[223.00 - 224.00] This is logic
+[224.00 - 226.00] This is the way to reverse
+[226.00 - 227.00] So I execute it
+[227.00 - 229.00] As I have executed it
+[229.00 - 233.00] So here you have printed it in descending order
+[233.00 - 235.00] Actually I have printed it in reverse
+[235.00 - 237.00] So this is a very good logic
+[237.00 - 239.00] I have asked many times in interviews
+[239.00 - 241.00] Next
+[241.00 - 243.00] What is here?
+[243.00 - 245.00] Import Nampa as Np
+[245.00 - 246.00] Very simple
+[246.00 - 248.00] I have taken the same error
+[248.00 - 250.00] Here Np.airg
+[250.00 - 252.00] What has changed?
+[252.00 - 254.00] Np.airg
+[254.00 - 256.00] Now I will do the airg
+[256.00 - 258.00] So let us see the output
+[258.00 - 260.00] Now if you look at the output
+[260.00 - 262.00] So this is 12403
+[262.00 - 265.00] Now the student's brain is just 124 data
+[265.00 - 266.00] So this was
+[266.00 - 268.00] How did this happen?
+[268.00 - 269.00] This was my data
+[269.00 - 272.00] No matter what I had told you
+[272.00 - 274.00] What does this actually do?
+[274.00 - 277.00] This actually creates its index
+[277.00 - 279.00] Look what I am doing here
+[279.00 - 281.00] I will show you
+[281.00 - 282.00] What is this?
+[282.00 - 284.00] What is my index number?
+[284.00 - 285.00] Okay
+[285.00 - 288.00] I already know that we start with indexing 0
+[288.00 - 290.00] So this is 234
+[290.00 - 292.00] Now look what is the airg
+[292.00 - 294.00] What is the meaning of the short?
+[294.00 - 296.00] Here what is the print?
+[296.00 - 298.00] 01234
+[298.00 - 299.00] Look what is this?
+[299.00 - 300.00] The smallest element is
+[300.00 - 301.00] 2
+[301.00 - 302.00] What number is it?
+[302.00 - 303.00] 1
+[303.00 - 304.00] So this is it
+[304.00 - 305.00] What is the next element?
+[305.00 - 306.00] 3
+[306.00 - 307.00] Sorting recording
+[307.00 - 308.00] Look at this
+[308.00 - 312.00] You can see that it is 2.3679
+[312.00 - 314.00] So look where is the 2?
+[314.00 - 315.00] 1 number index
+[315.00 - 317.00] 3 where is the 2 number index?
+[317.00 - 320.00] 6 where is the 4 number?
+[320.00 - 321.00] 7 where is the 0?
+[321.00 - 323.00] And this is the 9th 3
+[323.00 - 325.00] So 1,2,4,0,3
+[325.00 - 327.00] So look what is 1,2,4,0,3
+[327.00 - 329.00] So this is the simple fund
+[329.00 - 331.00] So you can note that
+[331.00 - 332.00] In any interview
+[332.00 - 334.00] Let's ask the competitive exam
+[334.00 - 335.00] After that
+[335.00 - 336.00] We have come
+[336.00 - 337.00] After that
+[337.00 - 338.00] We have come
+[338.00 - 339.00] Let's ask
+[339.00 - 340.00] I have to do this here
+[340.00 - 342.00] What is the meaning of this place?
+[342.00 - 344.00] This is the simple fund of this place
+[344.00 - 346.00] Import number is np
+[346.00 - 347.00] np.ary
+[347.00 - 348.00] That is the area
+[348.00 - 349.00] Here I have said
+[349.00 - 350.00] x dot sort
+[350.00 - 352.00] I have added value to y
+[352.00 - 354.00] I have added x dot sort
+[354.00 - 356.00] So as I have printed the area
+[356.00 - 357.00] on the sort here
+[357.00 - 360.00] So this is the new copy of the generate
+[360.00 - 363.00] It has changed in the same x
+[363.00 - 365.00] Now if you do the original area
+[365.00 - 368.00] What did he do in the same way?
+[368.00 - 369.00] Sorting it
+[369.00 - 370.00] So did not get the memory
+[370.00 - 371.00] Sorting it
+[371.00 - 372.00] This is called in place
+[372.00 - 373.00] Sorting it
+[373.00 - 374.00] Sorting it
+[374.00 - 375.00] Sorting it
+[375.00 - 376.00] So this is all about the
+[376.00 - 377.00] One-dimensional
+[377.00 - 378.00] Area sorting
+[378.00 - 379.00] Next video we will discuss
+[379.00 - 380.00] In 2D
+[380.00 - 381.00] Thank you

@@ -1,0 +1,262 @@
+[0.00 - 2.00] Hey students and welcome to Gatesmaships
+[2.00 - 4.32] journalism videos
+[4.32 - 6.40] Read
+[6.40 - 8.58] read lines work in Python
+[8.58 - 11.32] So the simple concept is easy
+[11.32 - 13.58] But while we study basic functions
+[13.58 - 17.16] Read line is responsible forリd
+[17.16 - 18.64] For read line
+[18.64 - 19.90] For interviews
+[19.90 - 22.02] And study both the complicated topics
+[22.02 - 23.66] Another would be read
+[23.66 - 28.60] Read is simple
+[28.60 - 31.52] d, apne yagar simple mation kar dya read
+[31.52 - 33.60] to ye sari file ko read kar le ka
+[33.60 - 36.68] jai se mene yagar ek file kreet ki yag
+[36.68 - 38.84] nu dot txt namsi
+[38.84 - 41.56] abhi aja nu dot txt namsi file ay
+[41.56 - 44.12] yagar ek mene kia kia is ko read
+[44.12 - 45.84] simple open kar liya
+[45.84 - 47.20] apko pata open to kar na judi
+[47.20 - 49.00] aladi last video me aapko prachakum
+[49.00 - 51.08] open kar liya read mode
+[51.08 - 53.16] nik na ki jurthni bide fold read mode yutay
+[53.16 - 55.12] aur file pointer hula yagar ek yag
+[55.12 - 57.16] aaf dot read
+[57.72 - 59.20] a file kender jo bhi liya
+[59.20 - 61.00] aap saara read kar de ka
+[61.00 - 62.04] aap de ka file kender me ni
+[62.04 - 63.56] aladi ka fhi kuchi liya aap
+[63.56 - 65.32] to ye sari string jo hai
+[65.32 - 67.08] boi yaha p is tree ke se jo bhi liya
+[67.08 - 69.24] aapko saara is tree ke se
+[69.24 - 71.24] aap he aja aja aja as it is
+[71.24 - 73.24] aap he kaat tree ke se bhi karsak teo
+[73.24 - 75.24] aagar aap is tree ke se karna chateo
+[75.24 - 77.68] aaphe dot read ko print me
+[77.68 - 79.68] jai aaphe to aad dot read simple liya
+[79.68 - 81.68] aap print aap dot read bhi liya
+[81.68 - 83.96] aap bat ek ye aap
+[83.96 - 85.48] aap is ko bhi execute kar ke de ka
+[85.56 - 87.56] to yeh aaphe bhi kuchi neu
+[87.56 - 88.36] us ko is tree ke se
+[88.36 - 89.16] ripersan kar liya
+[89.16 - 90.52] leke nfark ka rakha
+[90.52 - 91.40] is me kaat
+[91.40 - 93.56] kontinue string me aara edita
+[93.56 - 94.40] aur yeh aaphe
+[94.40 - 96.92] har line ke baat jo mera original data
+[96.92 - 98.28] us me haal line ke baat
+[98.28 - 100.12] jaaphe bhol end orie line
+[100.12 - 102.28] us ke baat us ne slash elik de ka
+[102.28 - 104.76] yeh aaphe is ne kaakhe yaaf dot read me
+[104.76 - 106.44] pally line ka te mo ni ke baat jo
+[106.44 - 108.04] pe me ne dot li ka tea
+[108.04 - 109.64] us ke baat us ne automitikli
+[109.64 - 111.72] jo mere file me data li kaat
+[111.72 - 113.64] usi format me di ka dhiya
+[113.64 - 115.16] yeh aaphe kontinue sa
+[115.24 - 116.56] aur slash el lagara
+[116.56 - 117.96] jaaphe line ke te mo ni hea
+[117.96 - 119.72] yaaphe slash elik de ka ra
+[119.72 - 120.92] direkli jo mera data
+[120.92 - 122.68] as it is li ka ho es file me
+[122.68 - 124.44] usi ko hish okar dhiya
+[124.44 - 126.44] to yeh basic sa functioner read ka
+[126.44 - 128.04] aur isme kaap ush le tea
+[128.04 - 130.28] isme ka basic sa concept ush le tea
+[130.28 - 132.52] ki bite default to read kaakhe kakhe kakhe kakhe kakhe kakhe kakhe
+[132.52 - 134.68] sari ki sari jo
+[134.68 - 135.88] content hai
+[135.88 - 137.08] pura ka pura content hai
+[137.08 - 137.76] every content
+[137.76 - 139.16] isko om bite bhol sik tea
+[139.16 - 141.16] jaise je tane bite me mention karoonga
+[141.16 - 142.56] yaaphe kuchi ne mention ki hato
+[142.56 - 143.72] sara read ka liya
+[143.80 - 144.84] agar let's se me here
+[144.84 - 146.28] mention karoonga 5
+[146.28 - 147.40] to yeh ne yeh first
+[147.40 - 149.16] to 5 corrector ko
+[149.16 - 150.60] read kaalega
+[150.60 - 151.96] yeh loji
+[151.96 - 153.76] pale 5 corrector ko read kaalega
+[153.76 - 154.52] dhi koong
+[154.52 - 155.32] ek do
+[155.32 - 156.04] tine
+[156.04 - 157.80] yeh space ta chaaroga
+[157.80 - 159.08] aur s hoge 5
+[159.08 - 160.84] to pale 5 corrector ko read kaalega
+[160.84 - 162.28] bas joa mention karoonga
+[162.28 - 164.12] uci saap se waqarega
+[164.12 - 166.12] isme kaar variation mein kartoong
+[166.12 - 167.56] f dot read me
+[167.56 - 168.80] dubara se fir liktia yaa
+[168.80 - 170.84] aaphe dot reader
+[170.84 - 172.60] aur yeh aaphe dubara kakadhiya
+[172.64 - 173.66] mane feve kardhhia
+[173.66 - 175.02] fe dot read変
+[175.02 - 177.98] fe d dot read tint
+[177.98 - 179.14] ape napake nicely k double
+[179.14 - 181.44] ki yeh yeh all
+[181.44 - 184.14] qose min
+[184.14 - 186.24] saykon
+[186.24 - 193.70] yag
+[193.70 - 197.98] gye mas
+[197.98 - 199.68] ke yaat
+[199.68 - 204.36] وہ file pointer, 5 corrector ahead, 5 byte ahead,
+[204.36 - 206.14] meaning, sp point,
+[206.14 - 209.44] اُس کے بعد میں دوارا فر نقشت 5 READING,
+[209.44 - 211.98] تو اُس نے 1, 2, 3, 4, 5,
+[211.98 - 213.46] تو تیو دین,
+[213.46 - 215.56] اور لگنوشت تیو دین,
+[215.56 - 216.64] پر انت پو گیا,
+[216.64 - 217.84] یہ pointe,
+[217.84 - 220.06] تو اُس سڈیگے سے اپنے file pointer,
+[220.06 - 221.34] وہ اپنے pointer,
+[221.34 - 222.46] move کرتا رہتے
+[222.46 - 223.84] اور اُس کی movemente,
+[223.84 - 225.46] اُس سے کی بر پوش لتے ہیں
+[225.46 - 228.54] جس میں اگر میں چیک کرنا چاہتا ہوں
+[228.58 - 231.88] کی اے برزن میرا file pointer kes pointe primer
+[231.88 - 233.48] Kes particular corrector reservat,
+[233.48 - 234.72] یا byte payen,
+[234.72 - 237.12] تو دیکرو جیسی یا تعالkیں گے اви่ff
+[237.12 - 238.90] .10 naar جیا
+[238.90 - 257.04] اور دیکرو جھتن پیے Würk
+[257.04 - 257.88] یا تمہر دیکر فر ا Fonten
+[257.88 - 264.66] دوسرا, اب دیکھو 5f.tell th 10p آگیا, اب میں چاہتاں کی اس کو میں دبارا 0p لیکیاں
+[264.66 - 268.70] نہ چاہتاں, یہ جو میرا پوٹھر 10p آچاں اس کو میں دبارا لٹھس کو 0p لانے
+[268.70 - 274.34] تو کیا کرتے اف داٹھ سیک, سیک بڑی مپورٹنڈیاں پے, سیستمریکہ
+[274.34 - 277.58] بھی آپ بول سکتے ہوئے, یا سیمپل فنشن بھی بول سکتے ہو, سیک کا
+[277.58 - 282.02] فندہ یہ ہے کہ جو آپ کا پوٹھر ہے نہ اس کو آپ کہیں پے بھی موگ کر نہ
+[282.02 - 285.80] چاہتے ہو وہ اسی جگہ پے موگ ہوگے گا جسے ایک زمپل کرتاں پے
+[285.80 - 289.64] بگاتھوں یہ پہ میں نے 0 کیا تو اب میں دوسرا سے 0 کرنے کے بعد اگر
+[289.64 - 294.62] میں دوسرا سے tell کرتاں تو دیکھو جی آپ کا جو ہے وہ f.a.
+[294.62 - 299.72] اس کو میں نے remove کر دیا, لٹھس پوز میں یہ پہ F.Seek کر دیا اور
+[299.72 - 303.04] میں نے گیا کر دیا 0 کر دیا, ٹیک ہے اور لٹھس پوز اس کو میں enter
+[303.04 - 307.12] کر دیا تو یہ دیکھو جی آپ کا 0th position پہ جو ہے وہ pointer move
+[307.12 - 310.28] کر گیا اب میں اس کو کہیں پے بھی move کر سکتاں جیسے میں آگر چاہتاں
+[310.28 - 315.14] لٹھس پوزر میں چاہتاں کی یہ move کر جائے 15th position پے
+[315.14 - 320.08] چاہتے ہیں تو میں یہ پہ F.16 F.Seek جو ہے وہ 15 کر دیا
+[320.08 - 323.66] اور یہ پہ 15th position پہ کیا کر گیا تو f.a.
+[323.66 - 326.38] tell کر دیا تو جسی f.a.
+[326.38 - 330.38] تو یہاں پہ دیکھو جی 15th position پہ وہ pointer move کر گیا
+[330.38 - 333.74] اب آپ جو بھی read کر ہوگے گیاں, جسی میں یہ پہ دیکھو چاہتاں
+[333.74 - 336.62] جیسے میں چاہتاں کی 15 پہلے پنچادوں
+[336.62 - 341.54] میں لگ 1 2 3 4 5 6 7 8 9 10 10 12 13 14 15
+[341.54 - 345.76] 15 پنچادیا اس کے بعد اگر آپ read کر دیا اور وہ next
+[345.76 - 349.04] riske vala read کرے گا اسی same form it میں جیسے کو
+[349.04 - 351.84] جسی میں یہ پہ چاہتاں میں نے اس کے بعد کر دیا 5 اب
+[351.84 - 353.70] بتا ہے کیا کرے گا وہ next
+[353.70 - 357.64] یہ پہ پہنچ گیا تھا اس کے بعد اس نے 5 جو next 5 جو ہے وہ
+[357.64 - 360.36] یہاں تکا read کیا یہی اس کی بیٹیا
+[360.36 - 363.96] 1 2 3 4 5 so اس نے next vala 5 read ke to
+[363.96 - 365.90] آپ file pointer ko kahi pewis
+[365.90 - 368.20] jo read write pointer ko kahi pewis
+[368.20 - 371.24] move کر سکتے ہو کوئی بھی پڑیگل اور bite ko read کر سکتے ہو
+[371.24 - 373.24] by using the concept of seek
+[373.24 - 373.98] t ki a
+[373.98 - 376.98] to ye important funda tha اس کے بعد امریکہ سا جاتے
+[376.98 - 378.58] next agar آپ a
+[378.58 - 381.36] line by line جو ہے وہ access کرنا چاہتے ہو
+[381.36 - 383.32] kui biya push le ther interviews mea
+[383.32 - 385.22] a combiative exami push le ther
+[385.22 - 386.16] to aap ko pata na c
+[386.16 - 386.98] f dot seek
+[386.98 - 387.98] palley 0 pe lao
+[387.98 - 390.10] agar aaliydi 0 apet to baat khatam
+[390.10 - 391.84] lege nosek ta kisi padi kula moment
+[391.84 - 392.98] pea aa to aap aaliydi
+[392.98 - 394.04] usko 0 pe lao
+[394.04 - 396.56] aur uske baat 4 line in f
+[396.56 - 399.30] 4 line in f print line
+[399.30 - 400.30] to yeaap ae m aeka kaar aam
+[400.30 - 402.90] 4 line in f print line kaar aam
+[402.90 - 404.52] to degloji sne kia kia
+[404.52 - 408.64] 4 every line in f read print all the lines
+[408.64 - 410.36] to degloji sari lines jo hai
+[410.36 - 412.64] wo jo men a file mea li kiwia
+[412.64 - 414.18] usko line by line jo hai
+[414.18 - 414.98] wo print kari dhe
+[414.98 - 416.26] wo bluplag aake bhi
+[416.26 - 418.42] sari kese read karsak teo
+[418.42 - 421.12] dhe na agar ji mea reed line
+[421.12 - 423.56] abh read line ka fenda wadha kia hai
+[423.56 - 425.04] by default yea
+[425.04 - 427.02] pehli line ko hi read karta
+[427.02 - 428.14] jo bhi aap ke
+[428.14 - 430.42] jo se mea li kiwia ma file me pehli line kia hai
+[430.42 - 431.30] yea wali
+[431.30 - 434.18] to biya dee fold ye pehli line ko hi read kare ka
+[434.18 - 435.28] jase agar ma kku kui kasi mea
+[435.28 - 436.30] isha ni karta bhi kasi mea
+[436.30 - 437.50] isko khali raktao
+[437.50 - 439.80] to men a simpel yea li ka read line
+[439.80 - 442.10] to isne kia kia pehli line ko read karta
+[442.10 - 443.62] jehaa taka aap ka slation
+[443.62 - 445.06] mana jap ek khaa tama ni uta
+[445.06 - 446.98] tattak wo pehli line ko consider kare ka
+[446.98 - 448.70] aur uski ko hi print kare ka
+[448.70 - 450.18] haa iske baadha ka abh dhubara
+[450.18 - 451.18] fil lek de teo
+[451.18 - 452.94] f dot read line
+[452.94 - 454.14] tabhi a dhushri line ko
+[454.14 - 455.50] kki aap ne dhubar li kia na
+[455.50 - 456.94] to abh isne kia kia
+[456.94 - 457.90] pehli read line
+[457.90 - 459.94] pehli read line ko read kare li a
+[459.94 - 461.02] abh pointer jo hai
+[461.02 - 462.82] wa mera dhushri line peh aap chuk hai
+[462.82 - 464.70] to jase aap ne dhushri warkia
+[464.70 - 466.50] to usne dhushri line ko kare kia
+[466.50 - 467.66] to kare ka aap ek baar mein
+[467.66 - 468.94] ek line ko hi print
+[468.94 - 470.90] agar abh multiple ko print kare ka na chat teo
+[470.90 - 472.22] read lines
+[473.70 - 475.06] to read lines
+[475.06 - 476.12] dum know
+[476.12 - 476.78] the
+[476.78 - 477.94] vocation
+[477.94 - 480.62] tt
+[480.62 - 481.30] sabi kung the
+[481.30 - 482.22] уст hecho kare ka
+[482.22 - 483.18] sakit
+[483.18 - 483.26] purga
+[483.26 - 483.82] to
+[483.82 - 484.94] ti
+[484.94 - 485.82] sau
+[485.82 - 487.54] vick
+[487.54 - 487.98] last
+[487.98 - 488.34] End
+[488.34 - 490.10] folded
+[490.10 - 491.44] inh
+[491.44 - 492.54] irr
+[492.54 - 493.94] d…)
+[493.94 - 494.16] kare ka
+[494.16 - 495.14] par
+[495.14 - 496.54] tt
+[496.54 - 497.14] por
+[497.14 - 498.58] ttu
+[498.58 - 499.54] e
+[499.54 - 500.42] 58
+[500.42 - 501.58] nd
+[501.58 - 502.42] nd
+[502.42 - 502.98] yo
+[502.98 - 503.98] וیڈگریگہ
+[503.98 - 505.92] اب آپ کہتی اس سے نے اسے کرتے ہیں
+[505.92 - 508.56] اس میں آپ آپ بیس کی رگہ دو سو کر دے دے
+[508.56 - 510.20] تو یعنی دو سو تو obviously
+[510.20 - 511.20] پہلی لین سے
+[511.20 - 512.80] نگس بہلی میں بھی آ جائے گا
+[512.80 - 514.96] تو میں نے اس کو کہایا دو سو کر دیا
+[514.96 - 517.86] اور میں جہاں پہلی اتھنے سے چلاک کی کرتاوں
+[517.86 - 519.70] کی دو سو کر کے اگزی کیوںڈ کرتاوں
+[519.70 - 522.68] کیوں کی دو سو کرگریکٹر میں تو وہ نگس لائم میں بھی چلا جائے گا
+[522.68 - 526.30] لیکن نہیں ہوا کہا پہلی لین ہی ریڈ کرے گا
+[526.30 - 529.94] حالا جی 200 KRM میں وہ 2 3 LINE بھی آجے گی 3th رے گی گی
+[530.20 - 534.60] لیکن اس نے by default maximum جو ہے وہ پہلی LINE کو ہی READ کرتے
+[534.76 - 538.72] لیکن اگر آپ کم کروانا چاہتے ہو کرواصکتے ہو لیکن اگر آپ value بہت بہت بڑی دیتی ہو
+[538.98 - 541.32] کوئی فرق نہیں بڑے گا وہ پہلی LINE کو ہی READ کروائی گا
+[541.44 - 544.32] this is all about the read line, read and read lines
+[544.42 - 544.92] thank you

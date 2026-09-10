@@ -1,0 +1,667 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "DS students, Welcome to Greatsmashers"
+  },
+  {
+    "start": 2.0,
+    "end": 4.0,
+    "text": "Pytan program in series now welcome to greatsmashers"
+  },
+  {
+    "start": 4.0,
+    "end": 8.0,
+    "text": "In today's video, we will take a very important question and a very interesting question"
+  },
+  {
+    "start": 8.0,
+    "end": 12.0,
+    "text": "What is a question? We have taken some inputs string from user"
+  },
+  {
+    "start": 12.0,
+    "end": 14.0,
+    "text": "We can also put some inputs string in the heart of the user"
+  },
+  {
+    "start": 14.0,
+    "end": 20.0,
+    "text": "Now we have to take all the variables in the inputs string and operate them"
+  },
+  {
+    "start": 20.0,
+    "end": 24.0,
+    "text": "As the user has put inputs string in the I love you"
+  },
+  {
+    "start": 24.0,
+    "end": 26.0,
+    "text": "Ae, I, O, U"
+  },
+  {
+    "start": 26.0,
+    "end": 28.0,
+    "text": "Ae, I, O, U"
+  },
+  {
+    "start": 28.0,
+    "end": 30.0,
+    "text": "Now I love you"
+  },
+  {
+    "start": 30.0,
+    "end": 32.0,
+    "text": "Ae, I, O, U"
+  },
+  {
+    "start": 32.0,
+    "end": 34.0,
+    "text": "Who comes from this 5th level?"
+  },
+  {
+    "start": 34.0,
+    "end": 38.0,
+    "text": "All of you have to print the entire thing and enter"
+  },
+  {
+    "start": 38.0,
+    "end": 40.0,
+    "text": "So, we have to do this thing"
+  },
+  {
+    "start": 40.0,
+    "end": 42.0,
+    "text": "It is a very simple code"
+  },
+  {
+    "start": 42.0,
+    "end": 44.0,
+    "text": "But the question is very useful"
+  },
+  {
+    "start": 44.0,
+    "end": 46.0,
+    "text": "How we code it"
+  },
+  {
+    "start": 46.0,
+    "end": 48.0,
+    "text": "And its time complexity is also"
+  },
+  {
+    "start": 48.0,
+    "end": 50.0,
+    "text": "There are many things that are asked"
+  },
+  {
+    "start": 50.0,
+    "end": 52.0,
+    "text": "And we have to get interviews"
+  },
+  {
+    "start": 52.0,
+    "end": 54.0,
+    "text": "So, we will cover all the things here"
+  },
+  {
+    "start": 54.0,
+    "end": 56.0,
+    "text": "Just don't go to the topic today"
+  },
+  {
+    "start": 56.0,
+    "end": 58.0,
+    "text": "Because it is a little wrong from the second to the second"
+  },
+  {
+    "start": 58.0,
+    "end": 60.0,
+    "text": "But I thought I will be fine"
+  },
+  {
+    "start": 60.0,
+    "end": 62.0,
+    "text": "I will make a video but I didn't do it"
+  },
+  {
+    "start": 62.0,
+    "end": 64.0,
+    "text": "So, I said this video is not necessary"
+  },
+  {
+    "start": 64.0,
+    "end": 66.0,
+    "text": "You can also benefit from it"
+  },
+  {
+    "start": 66.0,
+    "end": 68.0,
+    "text": "So, I should not delay it"
+  },
+  {
+    "start": 68.0,
+    "end": 70.0,
+    "text": "So, I have taken this code"
+  },
+  {
+    "start": 70.0,
+    "end": 72.0,
+    "text": "So, what we have to do"
+  },
+  {
+    "start": 72.0,
+    "end": 74.0,
+    "text": "We have to import the string from user"
+  },
+  {
+    "start": 74.0,
+    "end": 76.0,
+    "text": "So, you know that we use the input function"
+  },
+  {
+    "start": 76.0,
+    "end": 78.0,
+    "text": "Now, with the input, you can also take the input"
+  },
+  {
+    "start": 78.0,
+    "end": 80.0,
+    "text": "But I have written the lower here"
+  },
+  {
+    "start": 80.0,
+    "end": 82.0,
+    "text": "Why is it lower?"
+  },
+  {
+    "start": 82.0,
+    "end": 84.0,
+    "text": "So, we can put it in the capital"
+  },
+  {
+    "start": 84.0,
+    "end": 86.0,
+    "text": "So, we have to do this"
+  },
+  {
+    "start": 86.0,
+    "end": 88.0,
+    "text": "If we put it in the capital, it will convert it to lower"
+  },
+  {
+    "start": 88.0,
+    "end": 90.0,
+    "text": "So, automatically, we will convert the input to lower"
+  },
+  {
+    "start": 90.0,
+    "end": 92.0,
+    "text": "And convert all the letters to lower"
+  },
+  {
+    "start": 92.0,
+    "end": 94.0,
+    "text": "And we have added a variable input"
+  },
+  {
+    "start": 94.0,
+    "end": 96.0,
+    "text": "In the underscore value"
+  },
+  {
+    "start": 96.0,
+    "end": 98.0,
+    "text": "You can also name it"
+  },
+  {
+    "start": 98.0,
+    "end": 100.0,
+    "text": "A, B, C, D, A, X, Y"
+  },
+  {
+    "start": 100.0,
+    "end": 102.0,
+    "text": "Whatever you want to take"
+  },
+  {
+    "start": 102.0,
+    "end": 104.0,
+    "text": "We have taken the string here"
+  },
+  {
+    "start": 104.0,
+    "end": 106.0,
+    "text": "Because I know that whatever I will come"
+  },
+  {
+    "start": 106.0,
+    "end": 108.0,
+    "text": "As if I am putting the input string"
+  },
+  {
+    "start": 108.0,
+    "end": 110.0,
+    "text": "I love you"
+  },
+  {
+    "start": 110.0,
+    "end": 111.0,
+    "text": "You"
+  },
+  {
+    "start": 111.0,
+    "end": 113.0,
+    "text": "Now, you know who comes to me"
+  },
+  {
+    "start": 113.0,
+    "end": 115.0,
+    "text": "A, E, I, O, U"
+  },
+  {
+    "start": 115.0,
+    "end": 117.0,
+    "text": "You know that this is also a vowel"
+  },
+  {
+    "start": 117.0,
+    "end": 118.0,
+    "text": "I"
+  },
+  {
+    "start": 118.0,
+    "end": 120.0,
+    "text": "You know that O is also a vowel"
+  },
+  {
+    "start": 120.0,
+    "end": 122.0,
+    "text": "A, E, I, O, U"
+  },
+  {
+    "start": 122.0,
+    "end": 125.0,
+    "text": "So, here, I have a total of 4 vowels here"
+  },
+  {
+    "start": 125.0,
+    "end": 127.0,
+    "text": "So, in this way, if I have to convert it"
+  },
+  {
+    "start": 127.0,
+    "end": 128.0,
+    "text": "And I have to print it"
+  },
+  {
+    "start": 128.0,
+    "end": 130.0,
+    "text": "I will print it in vowels"
+  },
+  {
+    "start": 130.0,
+    "end": 132.0,
+    "text": "So, you know that 5th is obviously"
+  },
+  {
+    "start": 132.0,
+    "end": 134.0,
+    "text": "You have to write this way"
+  },
+  {
+    "start": 134.0,
+    "end": 136.0,
+    "text": "If A is in input string"
+  },
+  {
+    "start": 136.0,
+    "end": 138.0,
+    "text": "Meaning, whatever I have input"
+  },
+  {
+    "start": 138.0,
+    "end": 140.0,
+    "text": "If A is in input"
+  },
+  {
+    "start": 140.0,
+    "end": 141.0,
+    "text": "Then, what will I do?"
+  },
+  {
+    "start": 141.0,
+    "end": 142.0,
+    "text": "Add the vowel in it"
+  },
+  {
+    "start": 142.0,
+    "end": 144.0,
+    "text": "Add it in the string"
+  },
+  {
+    "start": 144.0,
+    "end": 146.0,
+    "text": "So, if you have A in it"
+  },
+  {
+    "start": 146.0,
+    "end": 148.0,
+    "text": "Add one in the vowels"
+  },
+  {
+    "start": 148.0,
+    "end": 149.0,
+    "text": "But, A is not here"
+  },
+  {
+    "start": 149.0,
+    "end": 150.0,
+    "text": "So, obviously, the next one we have"
+  },
+  {
+    "start": 150.0,
+    "end": 152.0,
+    "text": "If e is in the VN"
+  },
+  {
+    "start": 152.0,
+    "end": 154.0,
+    "text": "So, e is here"
+  },
+  {
+    "start": 154.0,
+    "end": 155.0,
+    "text": "Add it in the E vowel"
+  },
+  {
+    "start": 155.0,
+    "end": 158.0,
+    "text": "First of all, the first is the e in the vowel"
+  },
+  {
+    "start": 158.0,
+    "end": 160.0,
+    "text": "Then it comes"
+  },
+  {
+    "start": 160.0,
+    "end": 162.0,
+    "text": "So, after that, its A is here"
+  },
+  {
+    "start": 162.0,
+    "end": 164.0,
+    "text": "Then, the O"
+  },
+  {
+    "start": 164.0,
+    "end": 166.0,
+    "text": "Yes, O is here"
+  },
+  {
+    "start": 166.0,
+    "end": 167.0,
+    "text": "Then, the next U is there"
+  },
+  {
+    "start": 197.0,
+    "end": 199.0,
+    "text": "input , if that string size is L"
+  },
+  {
+    "start": 199.0,
+    "end": 201.0,
+    "text": "i mean very infinite value"
+  },
+  {
+    "start": 201.0,
+    "end": 203.0,
+    "text": "very very very value value"
+  },
+  {
+    "start": 203.0,
+    "end": 205.0,
+    "text": "so let's say if i take its size"
+  },
+  {
+    "start": 205.0,
+    "end": 207.0,
+    "text": "n my total maximum is where can be n"
+  },
+  {
+    "start": 207.0,
+    "end": 209.0,
+    "text": "n can be n value"
+  },
+  {
+    "start": 209.0,
+    "end": 211.0,
+    "text": "infinite so obviously"
+  },
+  {
+    "start": 211.0,
+    "end": 213.0,
+    "text": "for the first one we are searching for"
+  },
+  {
+    "start": 213.0,
+    "end": 217.0,
+    "text": "n so that it will search for the whole last"
+  },
+  {
+    "start": 217.0,
+    "end": 219.0,
+    "text": "it can be that this is your last string"
+  },
+  {
+    "start": 219.0,
+    "end": 221.0,
+    "text": "it can be first"
+  },
+  {
+    "start": 221.0,
+    "end": 223.0,
+    "text": "but as it is"
+  },
+  {
+    "start": 223.0,
+    "end": 225.0,
+    "text": "in the first case, we have to go to the last"
+  },
+  {
+    "start": 225.0,
+    "end": 227.0,
+    "text": "n times that is the search that it will search for"
+  },
+  {
+    "start": 227.0,
+    "end": 229.0,
+    "text": "n times"
+  },
+  {
+    "start": 229.0,
+    "end": 231.0,
+    "text": "then after that, e is here"
+  },
+  {
+    "start": 231.0,
+    "end": 233.0,
+    "text": "in e case, we can find it in the first time"
+  },
+  {
+    "start": 233.0,
+    "end": 235.0,
+    "text": "e is also your maximum"
+  },
+  {
+    "start": 235.0,
+    "end": 237.0,
+    "text": "maximum is the last second last position"
+  },
+  {
+    "start": 237.0,
+    "end": 239.0,
+    "text": "so maximum time is also your"
+  },
+  {
+    "start": 239.0,
+    "end": 241.0,
+    "text": "even the end"
+  },
+  {
+    "start": 241.0,
+    "end": 243.0,
+    "text": "n if you take n, you will also make a value"
+  },
+  {
+    "start": 243.0,
+    "end": 245.0,
+    "text": "minus 1 and minus 2"
+  },
+  {
+    "start": 245.0,
+    "end": 247.0,
+    "text": "then you will also believe that"
+  },
+  {
+    "start": 247.0,
+    "end": 249.0,
+    "text": "your value is infinite"
+  },
+  {
+    "start": 249.0,
+    "end": 251.0,
+    "text": "if you take 1-1, then it will be infinite"
+  },
+  {
+    "start": 251.0,
+    "end": 253.0,
+    "text": "so you can say like"
+  },
+  {
+    "start": 253.0,
+    "end": 255.0,
+    "text": "the same with the case of"
+  },
+  {
+    "start": 255.0,
+    "end": 257.0,
+    "text": "because i am taking the worst case here"
+  },
+  {
+    "start": 257.0,
+    "end": 259.0,
+    "text": "which case i am taking the worst"
+  },
+  {
+    "start": 259.0,
+    "end": 261.0,
+    "text": "so let's say you have made a crore size"
+  },
+  {
+    "start": 261.0,
+    "end": 263.0,
+    "text": "and now you have to put an input of size"
+  },
+  {
+    "start": 263.0,
+    "end": 265.0,
+    "text": "and e i o u"
+  },
+  {
+    "start": 265.0,
+    "end": 267.0,
+    "text": "the last five letters"
+  },
+  {
+    "start": 267.0,
+    "end": 269.0,
+    "text": "so obviously n times your search"
+  },
+  {
+    "start": 269.0,
+    "end": 271.0,
+    "text": "n the n minus 1"
+  },
+  {
+    "start": 271.0,
+    "end": 273.0,
+    "text": "n minus 2"
+  },
+  {
+    "start": 273.0,
+    "end": 275.0,
+    "text": "n minus 3"
+  },
+  {
+    "start": 275.0,
+    "end": 277.0,
+    "text": "so if you total this, then what happens"
+  },
+  {
+    "start": 277.0,
+    "end": 279.0,
+    "text": "from one side of your"
+  },
+  {
+    "start": 279.0,
+    "end": 281.0,
+    "text": "5 n and which you can also"
+  },
+  {
+    "start": 281.0,
+    "end": 283.0,
+    "text": "add n times complexity"
+  },
+  {
+    "start": 283.0,
+    "end": 285.0,
+    "text": "so this is also extra"
+  },
+  {
+    "start": 285.0,
+    "end": 287.0,
+    "text": "so you can tell that you can"
+  },
+  {
+    "start": 287.0,
+    "end": 289.0,
+    "text": "ask interviews from you,"
+  },
+  {
+    "start": 289.0,
+    "end": 291.0,
+    "text": "just note the code,"
+  },
+  {
+    "start": 291.0,
+    "end": 293.0,
+    "text": "you can execute it"
+  },
+  {
+    "start": 295.0,
+    "end": 297.0,
+    "text": "we have put the string"
+  },
+  {
+    "start": 297.0,
+    "end": 299.0,
+    "text": "in the i-level"
+  },
+  {
+    "start": 299.0,
+    "end": 301.0,
+    "text": "so this is the output"
+  },
+  {
+    "start": 301.0,
+    "end": 303.0,
+    "text": "so note the code"
+  },
+  {
+    "start": 303.0,
+    "end": 305.0,
+    "text": "and write the code"
+  }
+]

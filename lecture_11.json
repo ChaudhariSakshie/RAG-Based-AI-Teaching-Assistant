@@ -1,0 +1,1147 @@
+[
+  {
+    "start": 0.0,
+    "end": 4.0,
+    "text": "DS students, welcome to great smishers, python programming series may have been a welcome to great smishers."
+  },
+  {
+    "start": 4.0,
+    "end": 9.0,
+    "text": "Today's video is very important, I have brought a lot of important questions."
+  },
+  {
+    "start": 9.0,
+    "end": 16.0,
+    "text": "And I am making all these series in the same way, so that you can participate in python programming."
+  },
+  {
+    "start": 16.0,
+    "end": 24.0,
+    "text": "You can participate in the maximum, maximum, maximum, maximum, so that you can give the interview in any place."
+  },
+  {
+    "start": 24.0,
+    "end": 28.0,
+    "text": "And I am very happy to share this video with you, because it is very easy."
+  },
+  {
+    "start": 28.0,
+    "end": 32.0,
+    "text": "But it will be easy, when you will practice daily."
+  },
+  {
+    "start": 32.0,
+    "end": 35.0,
+    "text": "And you will have to give some time, guys."
+  },
+  {
+    "start": 35.0,
+    "end": 39.0,
+    "text": "There is no skill, it is not possible to practice it, it is time to practice it."
+  },
+  {
+    "start": 39.0,
+    "end": 45.0,
+    "text": "You will have to work consistently, if you do it quickly, you will be able to do it."
+  },
+  {
+    "start": 45.0,
+    "end": 48.0,
+    "text": "And then you will have to develop the skill."
+  },
+  {
+    "start": 48.0,
+    "end": 51.0,
+    "text": "So, your programming is also there, nothing happens to you."
+  },
+  {
+    "start": 51.0,
+    "end": 59.0,
+    "text": "When we do the starting, we feel that we will have to study it, it is not going to be a good investment, it is not."
+  },
+  {
+    "start": 59.0,
+    "end": 65.0,
+    "text": "If you will do it for 20 days, and you will have to study it, if you want to survive in the market,"
+  },
+  {
+    "start": 65.0,
+    "end": 69.0,
+    "text": "you have to do some job or earn some money, so you have to take a lot of skills."
+  },
+  {
+    "start": 69.0,
+    "end": 74.0,
+    "text": "I am telling you guys, because we have only studied it, our main goal is to tell you,"
+  },
+  {
+    "start": 74.0,
+    "end": 77.0,
+    "text": "to study it, or not study it, or not study it, or not study it."
+  },
+  {
+    "start": 77.0,
+    "end": 82.0,
+    "text": "One good thing is that you should know what is the value of it."
+  },
+  {
+    "start": 82.0,
+    "end": 85.0,
+    "text": "So, look, if I am talking about this series,"
+  },
+  {
+    "start": 85.0,
+    "end": 90.0,
+    "text": "1 plus 1 plus 2 plus 2 plus 3, this way you are a series."
+  },
+  {
+    "start": 90.0,
+    "end": 98.0,
+    "text": "So, you must have seen this series of 1 plus 2 plus 3 plus 4 plus 5 plus up to end."
+  },
+  {
+    "start": 98.0,
+    "end": 101.0,
+    "text": "This series, you must have seen it a lot,"
+  },
+  {
+    "start": 101.0,
+    "end": 104.0,
+    "text": "which is called sum of 1st and natural number."
+  },
+  {
+    "start": 104.0,
+    "end": 108.0,
+    "text": "Sum of n natural number is a series, which is a simple formula,"
+  },
+  {
+    "start": 108.0,
+    "end": 114.0,
+    "text": "n into n plus 1 divided by 2, and this way we can find out some number of numbers."
+  },
+  {
+    "start": 114.0,
+    "end": 119.0,
+    "text": "But, here we have sum of 1st and natural numbers, double."
+  },
+  {
+    "start": 119.0,
+    "end": 124.0,
+    "text": "Because this one is the same series, but if I talk about the first number,"
+  },
+  {
+    "start": 124.0,
+    "end": 131.0,
+    "text": "2nd number is 1 plus 2, 3rd number is 1 plus 2 plus 3, 4th number is 1 plus 2 plus 3 plus 4."
+  },
+  {
+    "start": 131.0,
+    "end": 133.0,
+    "text": "If I am talking about this series, look here,"
+  },
+  {
+    "start": 133.0,
+    "end": 142.0,
+    "text": "if I am talking about n value, I am talking about 4, 4 into 4 plus 1 divided by 2."
+  },
+  {
+    "start": 142.0,
+    "end": 148.0,
+    "text": "So, 4 into 5 divided by 2, so what happens, 20 divided by 2, what happens, 10."
+  },
+  {
+    "start": 148.0,
+    "end": 152.0,
+    "text": "I have got 4, 1, 2, 3, 4."
+  },
+  {
+    "start": 152.0,
+    "end": 159.0,
+    "text": "I have got 4, 4, 4 natural numbers."
+  },
+  {
+    "start": 159.0,
+    "end": 162.0,
+    "text": "Because I have got 4 in my n value, so I have got 4 natural numbers."
+  },
+  {
+    "start": 162.0,
+    "end": 168.0,
+    "text": "Look, 1 plus 2 is 3, 3 plus 3 is 6, 6 plus 4 is 10."
+  },
+  {
+    "start": 168.0,
+    "end": 172.0,
+    "text": "I am talking about 10, so we can do it from the formula."
+  },
+  {
+    "start": 172.0,
+    "end": 177.0,
+    "text": "If I am talking about this series, if I have to find out the first 3 terms,"
+  },
+  {
+    "start": 177.0,
+    "end": 181.0,
+    "text": "which one is this one, this one, this one."
+  },
+  {
+    "start": 181.0,
+    "end": 187.0,
+    "text": "So, the first 3 terms, which is the sum, it will be like 1 plus 3 plus,"
+  },
+  {
+    "start": 187.0,
+    "end": 193.0,
+    "text": "this is your 6th one plus 3, 4 plus 6 is 10."
+  },
+  {
+    "start": 193.0,
+    "end": 195.0,
+    "text": "So, this is the first 3 terms, which is 10."
+  },
+  {
+    "start": 195.0,
+    "end": 199.0,
+    "text": "So, if I have to write a code like this, how will I write this?"
+  },
+  {
+    "start": 199.0,
+    "end": 201.0,
+    "text": "So, if I find out the first 4 terms,"
+  },
+  {
+    "start": 201.0,
+    "end": 204.0,
+    "text": "as I found out the first 4, then what was the total of 10."
+  },
+  {
+    "start": 204.0,
+    "end": 208.0,
+    "text": "If I do the first 4, then this is the first plus, this is the plus,"
+  },
+  {
+    "start": 208.0,
+    "end": 210.0,
+    "text": "this is the plus, this is the plus."
+  },
+  {
+    "start": 210.0,
+    "end": 213.0,
+    "text": "So, you have to understand the total."
+  },
+  {
+    "start": 213.0,
+    "end": 215.0,
+    "text": "So, if you have to tell me, then I think it will be 20."
+  },
+  {
+    "start": 215.0,
+    "end": 220.0,
+    "text": "If you can do it now, then if you have to do this thing in Python, then how will you do it?"
+  },
+  {
+    "start": 220.0,
+    "end": 221.0,
+    "text": "So, guys, look."
+  },
+  {
+    "start": 221.0,
+    "end": 226.0,
+    "text": "First of all, I have taken the user to know the number of the first terms."
+  },
+  {
+    "start": 226.0,
+    "end": 229.0,
+    "text": "So, let me print the number of the first terms."
+  },
+  {
+    "start": 229.0,
+    "end": 231.0,
+    "text": "So, this means I need to answer 20."
+  },
+  {
+    "start": 231.0,
+    "end": 234.0,
+    "text": "So, if I do 3, then I think 10 will come."
+  },
+  {
+    "start": 234.0,
+    "end": 237.0,
+    "text": "If I do 5, then 35 will be the same."
+  },
+  {
+    "start": 237.0,
+    "end": 239.0,
+    "text": "So, this is the value that increases."
+  },
+  {
+    "start": 239.0,
+    "end": 243.0,
+    "text": "Initially, we have taken the k, we will add it to the total,"
+  },
+  {
+    "start": 243.0,
+    "end": 245.0,
+    "text": "we will add it to the total."
+  },
+  {
+    "start": 245.0,
+    "end": 247.0,
+    "text": "Initially, I have taken the k, I will take the 0."
+  },
+  {
+    "start": 247.0,
+    "end": 250.0,
+    "text": "I in range 1, 2, n plus 1."
+  },
+  {
+    "start": 250.0,
+    "end": 253.0,
+    "text": "You know that in range, the value we give,"
+  },
+  {
+    "start": 253.0,
+    "end": 254.0,
+    "text": "it is less than that."
+  },
+  {
+    "start": 254.0,
+    "end": 256.0,
+    "text": "So, this is why we have done plus 1."
+  },
+  {
+    "start": 256.0,
+    "end": 257.0,
+    "text": "Now, what I have done here?"
+  },
+  {
+    "start": 257.0,
+    "end": 260.0,
+    "text": "Input, 4, 4 plus 1, what is the 5?"
+  },
+  {
+    "start": 260.0,
+    "end": 261.0,
+    "text": "1, 2, 5."
+  },
+  {
+    "start": 261.0,
+    "end": 264.0,
+    "text": "But, it will go to 1, 2, 3 and 4."
+  },
+  {
+    "start": 264.0,
+    "end": 266.0,
+    "text": "Because the value we give, it is less than that."
+  },
+  {
+    "start": 266.0,
+    "end": 269.0,
+    "text": "So, here, if I talk about i,"
+  },
+  {
+    "start": 269.0,
+    "end": 273.0,
+    "text": "then i will go to 1, then 2 will go to 3, then 4."
+  },
+  {
+    "start": 273.0,
+    "end": 276.0,
+    "text": "I mean, how many times do you have to check the loop?"
+  },
+  {
+    "start": 276.0,
+    "end": 278.0,
+    "text": "So, this is your outer loop."
+  },
+  {
+    "start": 278.0,
+    "end": 282.0,
+    "text": "This is your outer loop and this is your inner loop."
+  },
+  {
+    "start": 282.0,
+    "end": 284.0,
+    "text": "So, OL, inner loop."
+  },
+  {
+    "start": 284.0,
+    "end": 287.0,
+    "text": "So, OL, the outer loop, will go to i,"
+  },
+  {
+    "start": 287.0,
+    "end": 289.0,
+    "text": "then it will go to 1."
+  },
+  {
+    "start": 289.0,
+    "end": 292.0,
+    "text": "Then, when it will go to 2, then it will go to 2."
+  },
+  {
+    "start": 292.0,
+    "end": 294.0,
+    "text": "Then, it will go to 3."
+  },
+  {
+    "start": 294.0,
+    "end": 295.0,
+    "text": "Then, it will go to 4."
+  },
+  {
+    "start": 295.0,
+    "end": 296.0,
+    "text": "Then, it will go to 5."
+  },
+  {
+    "start": 296.0,
+    "end": 297.0,
+    "text": "We have done 5."
+  },
+  {
+    "start": 297.0,
+    "end": 299.0,
+    "text": "Because, the value we give in range,"
+  },
+  {
+    "start": 299.0,
+    "end": 301.0,
+    "text": "it is less than n."
+  },
+  {
+    "start": 301.0,
+    "end": 304.0,
+    "text": "So, we have to cut it to 4."
+  },
+  {
+    "start": 304.0,
+    "end": 305.0,
+    "text": "So, we have to cut it to 4."
+  },
+  {
+    "start": 305.0,
+    "end": 307.0,
+    "text": "If I cut it to 1, then it will go to 1,"
+  },
+  {
+    "start": 307.0,
+    "end": 308.0,
+    "text": "then it will go to 3."
+  },
+  {
+    "start": 308.0,
+    "end": 310.0,
+    "text": "Then, it will go to 3."
+  },
+  {
+    "start": 310.0,
+    "end": 311.0,
+    "text": "But, I want 4."
+  },
+  {
+    "start": 311.0,
+    "end": 314.0,
+    "text": "So, this is why we have done n plus 1."
+  },
+  {
+    "start": 314.0,
+    "end": 315.0,
+    "text": "Now, see."
+  },
+  {
+    "start": 316.0,
+    "end": 317.0,
+    "text": "Then, j."
+  },
+  {
+    "start": 317.0,
+    "end": 319.0,
+    "text": "For j, in range,"
+  },
+  {
+    "start": 319.0,
+    "end": 321.0,
+    "text": "1, 2, i plus 1."
+  },
+  {
+    "start": 321.0,
+    "end": 322.0,
+    "text": "So, for j,"
+  },
+  {
+    "start": 322.0,
+    "end": 325.0,
+    "text": "j is also a proper cut for 1 extra i plus 1."
+  },
+  {
+    "start": 325.0,
+    "end": 327.0,
+    "text": "Now, see, let's start with this."
+  },
+  {
+    "start": 327.0,
+    "end": 329.0,
+    "text": "I have 4 of n value."
+  },
+  {
+    "start": 329.0,
+    "end": 331.0,
+    "text": "So, I want to find out 4 terms."
+  },
+  {
+    "start": 331.0,
+    "end": 333.0,
+    "text": "So, what will be my n value here?"
+  },
+  {
+    "start": 333.0,
+    "end": 334.0,
+    "text": "4."
+  },
+  {
+    "start": 334.0,
+    "end": 335.0,
+    "text": "Now, it is inside."
+  },
+  {
+    "start": 335.0,
+    "end": 337.0,
+    "text": "First, i value 1."
+  },
+  {
+    "start": 337.0,
+    "end": 340.0,
+    "text": "So, we have to enter the 1 of i value 1."
+  },
+  {
+    "start": 340.0,
+    "end": 343.0,
+    "text": "For j, in range, 1, 2."
+  },
+  {
+    "start": 343.0,
+    "end": 344.0,
+    "text": "i value 1."
+  },
+  {
+    "start": 344.0,
+    "end": 345.0,
+    "text": "i value 1."
+  },
+  {
+    "start": 345.0,
+    "end": 346.0,
+    "text": "1 plus 1."
+  },
+  {
+    "start": 346.0,
+    "end": 347.0,
+    "text": "What will happen to 2?"
+  },
+  {
+    "start": 347.0,
+    "end": 351.0,
+    "text": "So, this means, the internal value of j value 1 to 2."
+  },
+  {
+    "start": 351.0,
+    "end": 354.0,
+    "text": "But, you know that 1 to 2 means 1 to 1."
+  },
+  {
+    "start": 354.0,
+    "end": 355.0,
+    "text": "1 to 1."
+  },
+  {
+    "start": 355.0,
+    "end": 357.0,
+    "text": "Because, the end value we always remember,"
+  },
+  {
+    "start": 357.0,
+    "end": 358.0,
+    "text": "I will repeat it once."
+  },
+  {
+    "start": 358.0,
+    "end": 360.0,
+    "text": "In range, the end value we always remember,"
+  },
+  {
+    "start": 360.0,
+    "end": 361.0,
+    "text": "it is less."
+  },
+  {
+    "start": 361.0,
+    "end": 362.0,
+    "text": "This means, 1 to 1 means, 1 to 1."
+  },
+  {
+    "start": 362.0,
+    "end": 363.0,
+    "text": "1 to 1 will go once."
+  },
+  {
+    "start": 363.0,
+    "end": 365.0,
+    "text": "When it goes once,"
+  },
+  {
+    "start": 365.0,
+    "end": 366.0,
+    "text": "it goes inside."
+  },
+  {
+    "start": 366.0,
+    "end": 367.0,
+    "text": "k plus j."
+  },
+  {
+    "start": 367.0,
+    "end": 368.0,
+    "text": "j value 1."
+  },
+  {
+    "start": 368.0,
+    "end": 370.0,
+    "text": "So, 1 plus k value is initially called 0."
+  },
+  {
+    "start": 370.0,
+    "end": 372.0,
+    "text": "1 plus 0 means,"
+  },
+  {
+    "start": 372.0,
+    "end": 374.0,
+    "text": "k value is here or,"
+  },
+  {
+    "start": 374.0,
+    "end": 375.0,
+    "text": "it goes once."
+  },
+  {
+    "start": 375.0,
+    "end": 377.0,
+    "text": "Because, 0 plus 1 means, 1."
+  },
+  {
+    "start": 377.0,
+    "end": 378.0,
+    "text": "Now, it is 12."
+  },
+  {
+    "start": 378.0,
+    "end": 379.0,
+    "text": "Now, don't say this."
+  },
+  {
+    "start": 379.0,
+    "end": 381.0,
+    "text": "Sir, you have 1 to j, and then 2."
+  },
+  {
+    "start": 381.0,
+    "end": 384.0,
+    "text": "1 to 2 means, 2 is not going once."
+  },
+  {
+    "start": 384.0,
+    "end": 386.0,
+    "text": "Actually, 1 to 1 is going once."
+  },
+  {
+    "start": 386.0,
+    "end": 388.0,
+    "text": "Because, this is only the range value."
+  },
+  {
+    "start": 388.0,
+    "end": 389.0,
+    "text": "That is why, you know that,"
+  },
+  {
+    "start": 389.0,
+    "end": 390.0,
+    "text": "plus 1 is added."
+  },
+  {
+    "start": 390.0,
+    "end": 392.0,
+    "text": "Because, when the end value is given in range,"
+  },
+  {
+    "start": 392.0,
+    "end": 393.0,
+    "text": "it is less."
+  },
+  {
+    "start": 393.0,
+    "end": 395.0,
+    "text": "So, 1 to 1 is written here."
+  },
+  {
+    "start": 395.0,
+    "end": 396.0,
+    "text": "Or, 1 to 2 is written here."
+  },
+  {
+    "start": 396.0,
+    "end": 397.0,
+    "text": "But, remember,"
+  },
+  {
+    "start": 397.0,
+    "end": 399.0,
+    "text": "it will go once, 2 to 1."
+  },
+  {
+    "start": 399.0,
+    "end": 400.0,
+    "text": "Then, it will go up."
+  },
+  {
+    "start": 400.0,
+    "end": 402.0,
+    "text": "What will be the value of i?"
+  },
+  {
+    "start": 402.0,
+    "end": 404.0,
+    "text": "Now, what will be the value of i?"
+  },
+  {
+    "start": 404.0,
+    "end": 406.0,
+    "text": "Now, what will be the value of i?"
+  },
+  {
+    "start": 406.0,
+    "end": 408.0,
+    "text": "Now, what will be the value of i?"
+  },
+  {
+    "start": 408.0,
+    "end": 409.0,
+    "text": "For i?"
+  },
+  {
+    "start": 409.0,
+    "end": 411.0,
+    "text": "For j, in range 1 to 2."
+  },
+  {
+    "start": 411.0,
+    "end": 414.0,
+    "text": "Now, see, the value of i is 2."
+  },
+  {
+    "start": 414.0,
+    "end": 416.0,
+    "text": "2 plus 1, what will be the value of i?"
+  },
+  {
+    "start": 416.0,
+    "end": 417.0,
+    "text": "3."
+  },
+  {
+    "start": 417.0,
+    "end": 418.0,
+    "text": "But, this is 1 to 3."
+  },
+  {
+    "start": 418.0,
+    "end": 420.0,
+    "text": "I mean, 3 times will go once."
+  },
+  {
+    "start": 420.0,
+    "end": 422.0,
+    "text": "It goes once, 2 times."
+  },
+  {
+    "start": 422.0,
+    "end": 423.0,
+    "text": "How do you write this?"
+  },
+  {
+    "start": 423.0,
+    "end": 424.0,
+    "text": "2 times will go."
+  },
+  {
+    "start": 424.0,
+    "end": 426.0,
+    "text": "So, when it goes once,"
+  },
+  {
+    "start": 426.0,
+    "end": 428.0,
+    "text": "when it goes once,"
+  },
+  {
+    "start": 429.0,
+    "end": 430.0,
+    "text": "what is the number of k plus j?"
+  },
+  {
+    "start": 430.0,
+    "end": 431.0,
+    "text": "1."
+  },
+  {
+    "start": 431.0,
+    "end": 432.0,
+    "text": "And what is the number of j here?"
+  },
+  {
+    "start": 432.0,
+    "end": 433.0,
+    "text": "1."
+  },
+  {
+    "start": 433.0,
+    "end": 435.0,
+    "text": "1 plus 1, what is the number of k?"
+  },
+  {
+    "start": 435.0,
+    "end": 437.0,
+    "text": "Do you remember that, 2 is the number of k, 2."
+  },
+  {
+    "start": 437.0,
+    "end": 439.0,
+    "text": "And, when it goes once again,"
+  },
+  {
+    "start": 439.0,
+    "end": 440.0,
+    "text": "it will go once again,"
+  },
+  {
+    "start": 440.0,
+    "end": 442.0,
+    "text": "where it goes once,"
+  },
+  {
+    "start": 442.0,
+    "end": 443.0,
+    "text": "and it goes once again."
+  },
+  {
+    "start": 443.0,
+    "end": 444.0,
+    "text": "But, where is the number of k?"
+  },
+  {
+    "start": 444.0,
+    "end": 445.0,
+    "text": "2."
+  },
+  {
+    "start": 445.0,
+    "end": 446.0,
+    "text": "2 plus 2 is the number of 2."
+  },
+  {
+    "start": 446.0,
+    "end": 447.0,
+    "text": "Why do you write this?"
+  },
+  {
+    "start": 447.0,
+    "end": 448.0,
+    "text": "2 plus j?"
+  },
+  {
+    "start": 448.0,
+    "end": 450.0,
+    "text": "So, it has broken down on the k-value."
+  },
+  {
+    "start": 450.0,
+    "end": 452.0,
+    "text": "If you arrange j-values,"
+  },
+  {
+    "start": 452.0,
+    "end": 454.0,
+    "text": "that number of 2 plus 2 is the number of k."
+  },
+  {
+    "start": 454.0,
+    "end": 456.0,
+    "text": "So, what will be the number of k?"
+  },
+  {
+    "start": 456.0,
+    "end": 457.0,
+    "text": "4."
+  },
+  {
+    "start": 457.0,
+    "end": 463.0,
+    "text": "2x3x4"
+  },
+  {
+    "start": 463.0,
+    "end": 467.0,
+    "text": "2x3x4"
+  },
+  {
+    "start": 467.0,
+    "end": 473.0,
+    "text": "2x3x4"
+  },
+  {
+    "start": 473.0,
+    "end": 477.0,
+    "text": "2x3x4"
+  },
+  {
+    "start": 477.0,
+    "end": 481.0,
+    "text": "2x3x4"
+  },
+  {
+    "start": 481.0,
+    "end": 485.0,
+    "text": "j in range 1,2"
+  },
+  {
+    "start": 485.0,
+    "end": 488.0,
+    "text": "3++ 1K4"
+  },
+  {
+    "start": 488.0,
+    "end": 490.0,
+    "text": "4K4"
+  },
+  {
+    "start": 490.0,
+    "end": 492.0,
+    "text": "3K1"
+  },
+  {
+    "start": 492.0,
+    "end": 495.0,
+    "text": "1K1"
+  },
+  {
+    "start": 495.0,
+    "end": 497.0,
+    "text": "2K2"
+  },
+  {
+    "start": 497.0,
+    "end": 500.0,
+    "text": "3K2"
+  },
+  {
+    "start": 500.0,
+    "end": 502.0,
+    "text": "3K2"
+  },
+  {
+    "start": 502.0,
+    "end": 503.0,
+    "text": "4K2"
+  },
+  {
+    "start": 503.0,
+    "end": 505.0,
+    "text": "4K2"
+  },
+  {
+    "start": 505.0,
+    "end": 508.0,
+    "text": "4K2"
+  },
+  {
+    "start": 508.0,
+    "end": 510.0,
+    "text": "4K2"
+  },
+  {
+    "start": 510.0,
+    "end": 512.0,
+    "text": "4K2"
+  },
+  {
+    "start": 512.0,
+    "end": 514.0,
+    "text": "4K2"
+  },
+  {
+    "start": 514.0,
+    "end": 516.0,
+    "text": "3K2"
+  },
+  {
+    "start": 516.0,
+    "end": 519.0,
+    "text": "3K2"
+  },
+  {
+    "start": 519.0,
+    "end": 520.0,
+    "text": "4K2"
+  },
+  {
+    "start": 520.0,
+    "end": 523.0,
+    "text": "4K2"
+  },
+  {
+    "start": 523.0,
+    "end": 526.0,
+    "text": "4K2"
+  },
+  {
+    "start": 526.0,
+    "end": 530.0,
+    "text": "4K2"
+  },
+  {
+    "start": 530.0,
+    "end": 533.0,
+    "text": "4K2"
+  },
+  {
+    "start": 533.0,
+    "end": 537.0,
+    "text": "4K2"
+  },
+  {
+    "start": 537.0,
+    "end": 539.0,
+    "text": "4K2"
+  },
+  {
+    "start": 539.0,
+    "end": 542.0,
+    "text": "4K2"
+  },
+  {
+    "start": 602.0,
+    "end": 604.44,
+    "text": "تو آپ کو یہ concept, I think, understood,"
+  },
+  {
+    "start": 604.44,
+    "end": 606.44,
+    "text": "I got the full comment section"
+  },
+  {
+    "start": 606.44,
+    "end": 609.44,
+    "text": "because I always ask you in every question"
+  },
+  {
+    "start": 609.44,
+    "end": 611.64,
+    "text": "Because if I say all the things,"
+  },
+  {
+    "start": 611.64,
+    "end": 613.64,
+    "text": "then your learning won't be there"
+  },
+  {
+    "start": 613.64,
+    "end": 615.12,
+    "text": "So in the comment section,"
+  },
+  {
+    "start": 615.12,
+    "end": 616.64,
+    "text": "you will find out what is the point"
+  },
+  {
+    "start": 616.64,
+    "end": 618.64,
+    "text": "its time complexity"
+  },
+  {
+    "start": 618.64,
+    "end": 620.44,
+    "text": "Because if I run this school,"
+  },
+  {
+    "start": 620.44,
+    "end": 622.44,
+    "text": "then what will be the worst case?"
+  },
+  {
+    "start": 622.44,
+    "end": 624.24,
+    "text": "Order of"
+  },
+  {
+    "start": 624.24,
+    "end": 626.8,
+    "text": "What will be the time complexity"
+  },
+  {
+    "start": 626.8,
+    "end": 628.64,
+    "text": "if I execute it"
+  },
+  {
+    "start": 628.64,
+    "end": 629.76,
+    "text": "So one way, you will"
+  },
+  {
+    "start": 629.76,
+    "end": 631.76,
+    "text": "properly analysis,"
+  },
+  {
+    "start": 631.76,
+    "end": 633.04,
+    "text": "to tell you about its analysis,"
+  },
+  {
+    "start": 633.04,
+    "end": 634.72,
+    "text": "what is the order of time complexity"
+  },
+  {
+    "start": 634.72,
+    "end": 636.52,
+    "text": "So the first and the right answer"
+  },
+  {
+    "start": 636.52,
+    "end": 637.52,
+    "text": "will be the comments"
+  },
+  {
+    "start": 637.52,
+    "end": 638.3199999999999,
+    "text": "which will be given"
+  },
+  {
+    "start": 638.3199999999999,
+    "end": 639.52,
+    "text": "by the comment section"
+  },
+  {
+    "start": 639.52,
+    "end": 641.52,
+    "text": "So this is the question for you"
+  },
+  {
+    "start": 641.52,
+    "end": 642.52,
+    "text": "Thank you"
+  }
+]

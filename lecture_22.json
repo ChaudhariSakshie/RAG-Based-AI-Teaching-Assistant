@@ -1,0 +1,1652 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.1,
+    "text": "بھی a students , welcome to great smashes"
+  },
+  {
+    "start": 2.1,
+    "end": 3.96,
+    "text": "Today's video is going to explain"
+  },
+  {
+    "start": 3.96,
+    "end": 6.2,
+    "text": "how to create numpy arrays"
+  },
+  {
+    "start": 6.2,
+    "end": 7.66,
+    "text": "in last video"
+  },
+  {
+    "start": 7.66,
+    "end": 9.1,
+    "text": "I have already given an introduction"
+  },
+  {
+    "start": 9.1,
+    "end": 11.06,
+    "text": "how numpy arrays are created"
+  },
+  {
+    "start": 11.06,
+    "end": 12.34,
+    "text": "why are they created"
+  },
+  {
+    "start": 12.34,
+    "end": 14.14,
+    "text": "why are their advantages and applications"
+  },
+  {
+    "start": 14.14,
+    "end": 15.040000000000001,
+    "text": "I have already told you all"
+  },
+  {
+    "start": 15.040000000000001,
+    "end": 16.3,
+    "text": "we have a video check"
+  },
+  {
+    "start": 16.3,
+    "end": 18.14,
+    "text": "so that you will know the introduction"
+  },
+  {
+    "start": 18.14,
+    "end": 20.46,
+    "text": "now here we will create"
+  },
+  {
+    "start": 20.46,
+    "end": 22.580000000000002,
+    "text": "how to create arrays"
+  },
+  {
+    "start": 22.580000000000002,
+    "end": 23.96,
+    "text": "one dimensional array"
+  },
+  {
+    "start": 23.96,
+    "end": 26.34,
+    "text": "two dimensional array are created"
+  },
+  {
+    "start": 26.34,
+    "end": 29.46,
+    "text": "and I will show you how to execute them on Jupiter"
+  },
+  {
+    "start": 29.46,
+    "end": 31.46,
+    "text": "so let's start from the bottom"
+  },
+  {
+    "start": 31.46,
+    "end": 32.82,
+    "text": "here is a simple code"
+  },
+  {
+    "start": 32.82,
+    "end": 34.02,
+    "text": "no one is more than the code"
+  },
+  {
+    "start": 34.02,
+    "end": 35.22,
+    "text": "here is a simple code"
+  },
+  {
+    "start": 35.22,
+    "end": 37.02,
+    "text": "import numpy as np"
+  },
+  {
+    "start": 37.02,
+    "end": 38.42,
+    "text": "so we already installed"
+  },
+  {
+    "start": 38.42,
+    "end": 40.28,
+    "text": "pip install numpy"
+  },
+  {
+    "start": 40.28,
+    "end": 42.1,
+    "text": "we have already installed numpy"
+  },
+  {
+    "start": 42.1,
+    "end": 43.9,
+    "text": "we already have installed numpy on cmd"
+  },
+  {
+    "start": 43.9,
+    "end": 46.019999999999996,
+    "text": "that pip install numpy is here"
+  },
+  {
+    "start": 46.019999999999996,
+    "end": 48.74,
+    "text": "now we are taking this environment"
+  },
+  {
+    "start": 48.74,
+    "end": 51.46,
+    "text": "so what is the import numpy as np"
+  },
+  {
+    "start": 51.46,
+    "end": 53.2,
+    "text": "this is the font of np"
+  },
+  {
+    "start": 53.2,
+    "end": 55.74,
+    "text": "and I have created a dummy name"
+  },
+  {
+    "start": 55.74,
+    "end": 57.74,
+    "text": "a small name has created"
+  },
+  {
+    "start": 57.78,
+    "end": 59.1,
+    "text": "if you don't do it"
+  },
+  {
+    "start": 59.1,
+    "end": 60.46,
+    "text": "then import numpy"
+  },
+  {
+    "start": 60.46,
+    "end": 62.1,
+    "text": "so you will have to write numpy dot"
+  },
+  {
+    "start": 62.1,
+    "end": 63.38,
+    "text": "numpy dot"
+  },
+  {
+    "start": 63.38,
+    "end": 65.38,
+    "text": "so you also want to write something"
+  },
+  {
+    "start": 65.38,
+    "end": 65.9,
+    "text": "let me write it"
+  },
+  {
+    "start": 65.9,
+    "end": 68.38,
+    "text": "because we use np in the first place"
+  },
+  {
+    "start": 68.38,
+    "end": 69.74000000000001,
+    "text": "so I have used np"
+  },
+  {
+    "start": 69.74000000000001,
+    "end": 71.18,
+    "text": "so I have passed a list"
+  },
+  {
+    "start": 71.18,
+    "end": 72.86,
+    "text": "10,20,30,40,50"
+  },
+  {
+    "start": 72.86,
+    "end": 74.62,
+    "text": "and here is the important thing"
+  },
+  {
+    "start": 74.62,
+    "end": 76.62,
+    "text": "np dot array"
+  },
+  {
+    "start": 76.62,
+    "end": 77.86,
+    "text": "np dot array"
+  },
+  {
+    "start": 77.86,
+    "end": 79.94,
+    "text": "this function is used as np dot array"
+  },
+  {
+    "start": 79.94,
+    "end": 81.54,
+    "text": "if you give a name here"
+  },
+  {
+    "start": 81.54,
+    "end": 82.42,
+    "text": "then a dot array"
+  },
+  {
+    "start": 82.42,
+    "end": 83.62,
+    "text": "b dot is b dot array"
+  },
+  {
+    "start": 83.62,
+    "end": 84.98,
+    "text": "just remember this font"
+  },
+  {
+    "start": 84.98,
+    "end": 86.98,
+    "text": "we have passed the list"
+  },
+  {
+    "start": 87.06,
+    "end": 87.86,
+    "text": "and what is this?"
+  },
+  {
+    "start": 87.86,
+    "end": 89.14,
+    "text": "an array has created"
+  },
+  {
+    "start": 89.14,
+    "end": 90.98,
+    "text": "now we will print the array"
+  },
+  {
+    "start": 90.98,
+    "end": 93.34,
+    "text": "this is our simple"
+  },
+  {
+    "start": 93.34,
+    "end": 94.54,
+    "text": "this way it will create"
+  },
+  {
+    "start": 94.54,
+    "end": 96.26,
+    "text": "10,20,30,40,50"
+  },
+  {
+    "start": 96.26,
+    "end": 98.74000000000001,
+    "text": "this is my one dimensional array"
+  },
+  {
+    "start": 98.74000000000001,
+    "end": 100.34,
+    "text": "it has created"
+  },
+  {
+    "start": 100.34,
+    "end": 102.34,
+    "text": "so I want to see the type"
+  },
+  {
+    "start": 102.34,
+    "end": 104.66,
+    "text": "let's suppose I want to see the type here"
+  },
+  {
+    "start": 104.66,
+    "end": 106.22,
+    "text": "so you can write the type"
+  },
+  {
+    "start": 106.22,
+    "end": 108.02000000000001,
+    "text": "type of array 1"
+  },
+  {
+    "start": 108.02000000000001,
+    "end": 110.22,
+    "text": "because we have created the array 1"
+  },
+  {
+    "start": 110.22,
+    "end": 111.66,
+    "text": "what is the type?"
+  },
+  {
+    "start": 111.66,
+    "end": 113.66,
+    "text": "numpy dot nd array"
+  },
+  {
+    "start": 113.66,
+    "end": 115.66,
+    "text": "nd array means multi-dimensional"
+  },
+  {
+    "start": 115.7,
+    "end": 117.22,
+    "text": "n dimensional array"
+  },
+  {
+    "start": 117.22,
+    "end": 119.82,
+    "text": "n value 1,2,3,4,5 upto n"
+  },
+  {
+    "start": 119.82,
+    "end": 122.02,
+    "text": "so this is what the nd array"
+  },
+  {
+    "start": 122.02,
+    "end": 123.86,
+    "text": "has created"
+  },
+  {
+    "start": 123.86,
+    "end": 125.06,
+    "text": "now here"
+  },
+  {
+    "start": 125.06,
+    "end": 127.06,
+    "text": "we will ask the funder"
+  },
+  {
+    "start": 127.06,
+    "end": 127.86,
+    "text": "in the exam"
+  },
+  {
+    "start": 127.86,
+    "end": 130.7,
+    "text": "let's suppose we have passed a list"
+  },
+  {
+    "start": 130.7,
+    "end": 132.26,
+    "text": "now in the list"
+  },
+  {
+    "start": 132.26,
+    "end": 134.26,
+    "text": "we can write the variety of elements"
+  },
+  {
+    "start": 134.26,
+    "end": 136.46,
+    "text": "but our area"
+  },
+  {
+    "start": 136.46,
+    "end": 138.66,
+    "text": "we cannot write the variety of elements"
+  },
+  {
+    "start": 138.66,
+    "end": 140.3,
+    "text": "we can write the homogeneous"
+  },
+  {
+    "start": 140.3,
+    "end": 141.66,
+    "text": "i.e. the type of elements"
+  },
+  {
+    "start": 141.66,
+    "end": 143.66,
+    "text": "just like all the entities"
+  },
+  {
+    "start": 143.85999999999999,
+    "end": 145.85999999999999,
+    "text": "many say that all the entities"
+  },
+  {
+    "start": 145.85999999999999,
+    "end": 147.66,
+    "text": "mix this"
+  },
+  {
+    "start": 147.66,
+    "end": 149.06,
+    "text": "like what I did here"
+  },
+  {
+    "start": 149.06,
+    "end": 150.66,
+    "text": "I found out what I did"
+  },
+  {
+    "start": 150.66,
+    "end": 152.94,
+    "text": "10,20,40"
+  },
+  {
+    "start": 152.94,
+    "end": 153.74,
+    "text": "what I did?"
+  },
+  {
+    "start": 153.74,
+    "end": 154.26,
+    "text": "float"
+  },
+  {
+    "start": 154.26,
+    "end": 156.06,
+    "text": "I have taken a float value"
+  },
+  {
+    "start": 156.06,
+    "end": 157.26,
+    "text": "I am still a teaser"
+  },
+  {
+    "start": 157.26,
+    "end": 158.46,
+    "text": "I have taken a float"
+  },
+  {
+    "start": 158.46,
+    "end": 159.85999999999999,
+    "text": "I have mixed"
+  },
+  {
+    "start": 159.85999999999999,
+    "end": 161.1,
+    "text": "or mixed"
+  },
+  {
+    "start": 161.1,
+    "end": 162.85999999999999,
+    "text": "so I can mix in the list"
+  },
+  {
+    "start": 162.85999999999999,
+    "end": 164.66,
+    "text": "so if I execute it"
+  },
+  {
+    "start": 164.66,
+    "end": 166.66,
+    "text": "so like I have executed"
+  },
+  {
+    "start": 166.66,
+    "end": 168.46,
+    "text": "let's see what will happen"
+  },
+  {
+    "start": 168.46,
+    "end": 170.26,
+    "text": "10 dot"
+  },
+  {
+    "start": 170.26,
+    "end": 171.66,
+    "text": "20 dot something"
+  },
+  {
+    "start": 171.66,
+    "end": 173.46,
+    "text": "30 dot something 40 dot"
+  },
+  {
+    "start": 173.46,
+    "end": 174.46,
+    "text": "what is it?"
+  },
+  {
+    "start": 174.46,
+    "end": 176.06,
+    "text": "7 dot"
+  },
+  {
+    "start": 176.06,
+    "end": 179.06,
+    "text": "if you have given all the entities"
+  },
+  {
+    "start": 179.06,
+    "end": 180.26000000000002,
+    "text": "then all the entities"
+  },
+  {
+    "start": 180.26000000000002,
+    "end": 182.06,
+    "text": "1 float"
+  },
+  {
+    "start": 182.06,
+    "end": 184.66,
+    "text": "then it converted all the entities into float"
+  },
+  {
+    "start": 184.66,
+    "end": 186.26000000000002,
+    "text": "so now homogeneous"
+  },
+  {
+    "start": 186.26000000000002,
+    "end": 187.66,
+    "text": "all the float"
+  },
+  {
+    "start": 187.66,
+    "end": 189.26000000000002,
+    "text": "just remember this"
+  },
+  {
+    "start": 189.26000000000002,
+    "end": 191.26000000000002,
+    "text": "now let's suppose here"
+  },
+  {
+    "start": 191.26000000000002,
+    "end": 192.86,
+    "text": "I take a character"
+  },
+  {
+    "start": 192.86,
+    "end": 194.66,
+    "text": "in this way"
+  },
+  {
+    "start": 194.66,
+    "end": 196.86,
+    "text": "ok I have taken a character value"
+  },
+  {
+    "start": 196.86,
+    "end": 198.66,
+    "text": "so if I take a character value"
+  },
+  {
+    "start": 198.66,
+    "end": 200.06,
+    "text": "then I execute it"
+  },
+  {
+    "start": 200.06,
+    "end": 201.46,
+    "text": "so see what I did"
+  },
+  {
+    "start": 201.46,
+    "end": 203.06,
+    "text": "funder is still the same"
+  },
+  {
+    "start": 203.06,
+    "end": 204.46,
+    "text": "homogeneous"
+  },
+  {
+    "start": 204.46,
+    "end": 206.86,
+    "text": "I mixed in the list"
+  },
+  {
+    "start": 206.86,
+    "end": 208.66,
+    "text": "but what I have to do"
+  },
+  {
+    "start": 208.66,
+    "end": 210.46,
+    "text": "is to get all the characters in the value"
+  },
+  {
+    "start": 210.46,
+    "end": 214.06,
+    "text": "so this is the single quotes"
+  },
+  {
+    "start": 214.06,
+    "end": 215.26,
+    "text": "so what will happen"
+  },
+  {
+    "start": 215.26,
+    "end": 216.26,
+    "text": "in the character value"
+  },
+  {
+    "start": 216.26,
+    "end": 218.26,
+    "text": "if it is a small funder"
+  },
+  {
+    "start": 218.26,
+    "end": 218.86,
+    "text": "remember this"
+  },
+  {
+    "start": 218.86,
+    "end": 219.86,
+    "text": "so many times"
+  },
+  {
+    "start": 219.86,
+    "end": 221.46,
+    "text": "let's suppose"
+  },
+  {
+    "start": 221.46,
+    "end": 224.06,
+    "text": "you say that we want to give an inbuilt"
+  },
+  {
+    "start": 224.06,
+    "end": 225.46,
+    "text": "like my list"
+  },
+  {
+    "start": 225.46,
+    "end": 228.46,
+    "text": "I have done all the entities"
+  },
+  {
+    "start": 228.46,
+    "end": 230.26,
+    "text": "I can mention here"
+  },
+  {
+    "start": 230.26,
+    "end": 232.46,
+    "text": "yes you can mention here"
+  },
+  {
+    "start": 232.46,
+    "end": 234.66,
+    "text": "that your data type"
+  },
+  {
+    "start": 234.66,
+    "end": 236.06,
+    "text": "your D type"
+  },
+  {
+    "start": 236.06,
+    "end": 237.46,
+    "text": "you want to give it to you"
+  },
+  {
+    "start": 237.46,
+    "end": 238.86,
+    "text": "if you want to float"
+  },
+  {
+    "start": 238.86,
+    "end": 240.66,
+    "text": "then all the float will convert"
+  },
+  {
+    "start": 240.66,
+    "end": 242.66,
+    "text": "you can also mention"
+  },
+  {
+    "start": 242.66,
+    "end": 244.66,
+    "text": "if you want to give an inbuilt"
+  },
+  {
+    "start": 244.66,
+    "end": 246.06,
+    "text": "like the entity already given"
+  },
+  {
+    "start": 246.06,
+    "end": 248.06,
+    "text": "but if you want to write explicitly"
+  },
+  {
+    "start": 248.06,
+    "end": 249.86,
+    "text": "then you can write in this way"
+  },
+  {
+    "start": 249.86,
+    "end": 253.26000000000002,
+    "text": "if you want to convert a character"
+  },
+  {
+    "start": 253.26000000000002,
+    "end": 254.86,
+    "text": "then what we use"
+  },
+  {
+    "start": 254.86,
+    "end": 256.26,
+    "text": "we use unique code"
+  },
+  {
+    "start": 256.26,
+    "end": 257.46000000000004,
+    "text": "for character encoding"
+  },
+  {
+    "start": 257.46000000000004,
+    "end": 258.66,
+    "text": "we use unique code"
+  },
+  {
+    "start": 258.66,
+    "end": 261.46000000000004,
+    "text": "so you can use U32 or U16"
+  },
+  {
+    "start": 261.46,
+    "end": 263.62,
+    "text": "so this is the"
+  },
+  {
+    "start": 263.62,
+    "end": 264.85999999999996,
+    "text": "unique code character"
+  },
+  {
+    "start": 264.85999999999996,
+    "end": 265.85999999999996,
+    "text": "it will convert"
+  },
+  {
+    "start": 265.85999999999996,
+    "end": 266.85999999999996,
+    "text": "all the elements"
+  },
+  {
+    "start": 266.85999999999996,
+    "end": 268.65999999999997,
+    "text": "so you can also give it explicitly"
+  },
+  {
+    "start": 268.65999999999997,
+    "end": 270.85999999999996,
+    "text": "so I am telling you from a small point"
+  },
+  {
+    "start": 270.85999999999996,
+    "end": 272.46,
+    "text": "to note all these"
+  },
+  {
+    "start": 272.46,
+    "end": 275.26,
+    "text": "then we have two dimensional array"
+  },
+  {
+    "start": 275.26,
+    "end": 276.26,
+    "text": "two dimensional array"
+  },
+  {
+    "start": 276.26,
+    "end": 278.26,
+    "text": "to create two dimensional array"
+  },
+  {
+    "start": 278.26,
+    "end": 279.26,
+    "text": "it is rose"
+  },
+  {
+    "start": 279.26,
+    "end": 280.65999999999997,
+    "text": "it is columns"
+  },
+  {
+    "start": 280.65999999999997,
+    "end": 281.65999999999997,
+    "text": "it is rose"
+  },
+  {
+    "start": 281.65999999999997,
+    "end": 282.65999999999997,
+    "text": "columns"
+  },
+  {
+    "start": 282.65999999999997,
+    "end": 284.06,
+    "text": "so here I have"
+  },
+  {
+    "start": 284.06,
+    "end": 285.65999999999997,
+    "text": "here a nested list"
+  },
+  {
+    "start": 285.65999999999997,
+    "end": 286.65999999999997,
+    "text": "I have listed"
+  },
+  {
+    "start": 286.65999999999997,
+    "end": 287.85999999999996,
+    "text": "in this way"
+  },
+  {
+    "start": 287.85999999999996,
+    "end": 289.65999999999997,
+    "text": "I have listed 3 lists"
+  },
+  {
+    "start": 289.66,
+    "end": 290.66,
+    "text": "I have listed"
+  },
+  {
+    "start": 290.66,
+    "end": 292.26000000000005,
+    "text": "np.arraylist1"
+  },
+  {
+    "start": 292.26000000000005,
+    "end": 293.26000000000005,
+    "text": "and I have printed it"
+  },
+  {
+    "start": 293.26000000000005,
+    "end": 294.46000000000004,
+    "text": "the same thing is to say"
+  },
+  {
+    "start": 294.46000000000004,
+    "end": 295.66,
+    "text": "nothing is changed"
+  },
+  {
+    "start": 295.66,
+    "end": 298.06,
+    "text": "but here we have done 3 lists"
+  },
+  {
+    "start": 298.06,
+    "end": 299.06,
+    "text": "I have listed"
+  },
+  {
+    "start": 299.06,
+    "end": 300.46000000000004,
+    "text": "so 102030"
+  },
+  {
+    "start": 300.46000000000004,
+    "end": 302.46000000000004,
+    "text": "405060 is below"
+  },
+  {
+    "start": 302.46000000000004,
+    "end": 304.46000000000004,
+    "text": "708090 is below"
+  },
+  {
+    "start": 304.46000000000004,
+    "end": 305.66,
+    "text": "so what will happen"
+  },
+  {
+    "start": 305.66,
+    "end": 307.86,
+    "text": "row 1, row 2, row 3"
+  },
+  {
+    "start": 307.86,
+    "end": 309.46000000000004,
+    "text": "row 1, row 2, row 3"
+  },
+  {
+    "start": 309.46000000000004,
+    "end": 311.26000000000005,
+    "text": "the numbering is given to this way"
+  },
+  {
+    "start": 311.26000000000005,
+    "end": 312.26000000000005,
+    "text": "012"
+  },
+  {
+    "start": 312.26000000000005,
+    "end": 313.66,
+    "text": "so this is 0th row"
+  },
+  {
+    "start": 313.66,
+    "end": 315.06,
+    "text": "this is the first row"
+  },
+  {
+    "start": 315.06,
+    "end": 316.66,
+    "text": "and what is this column"
+  },
+  {
+    "start": 316.66,
+    "end": 317.66,
+    "text": "this is column number 0"
+  },
+  {
+    "start": 317.66,
+    "end": 319.26000000000005,
+    "text": "column number 1, column number 2"
+  },
+  {
+    "start": 319.26,
+    "end": 321.26,
+    "text": "so that means 3 rows"
+  },
+  {
+    "start": 321.26,
+    "end": 322.86,
+    "text": "it is column 3"
+  },
+  {
+    "start": 322.86,
+    "end": 323.86,
+    "text": "so 3x3"
+  },
+  {
+    "start": 323.86,
+    "end": 325.86,
+    "text": "you can call it as a matrix"
+  },
+  {
+    "start": 325.86,
+    "end": 326.86,
+    "text": "so 3x3"
+  },
+  {
+    "start": 326.86,
+    "end": 327.86,
+    "text": "1x3"
+  },
+  {
+    "start": 327.86,
+    "end": 329.46,
+    "text": "total 9 elements"
+  },
+  {
+    "start": 329.46,
+    "end": 330.46,
+    "text": "it is in this"
+  },
+  {
+    "start": 330.46,
+    "end": 332.06,
+    "text": "this is your 0-0 element"
+  },
+  {
+    "start": 332.06,
+    "end": 333.86,
+    "text": "0-1, 0-2"
+  },
+  {
+    "start": 333.86,
+    "end": 335.86,
+    "text": "this is your 1 row"
+  },
+  {
+    "start": 335.86,
+    "end": 336.86,
+    "text": "I mean the first row number"
+  },
+  {
+    "start": 336.86,
+    "end": 337.46,
+    "text": "then column"
+  },
+  {
+    "start": 337.46,
+    "end": 338.46,
+    "text": "so 1-0"
+  },
+  {
+    "start": 338.46,
+    "end": 340.86,
+    "text": "1, 1, 1, 2"
+  },
+  {
+    "start": 340.86,
+    "end": 342.86,
+    "text": "which element is your row number"
+  },
+  {
+    "start": 342.86,
+    "end": 343.46,
+    "text": "it is 2"
+  },
+  {
+    "start": 343.46,
+    "end": 344.46,
+    "text": "2-0"
+  },
+  {
+    "start": 344.46,
+    "end": 345.46,
+    "text": "2-0"
+  },
+  {
+    "start": 345.46,
+    "end": 346.26,
+    "text": "column number 0"
+  },
+  {
+    "start": 346.26,
+    "end": 348.06,
+    "text": "so 2-0, 2-1, 2-2"
+  },
+  {
+    "start": 348.06,
+    "end": 352.46,
+    "text": "so this is your 2-dimension array"
+  },
+  {
+    "start": 352.46,
+    "end": 353.86,
+    "text": "and the same thing you can do"
+  },
+  {
+    "start": 353.86,
+    "end": 355.86,
+    "text": "like we did in 1D"
+  },
+  {
+    "start": 355.86,
+    "end": 356.86,
+    "text": "we did change"
+  },
+  {
+    "start": 356.86,
+    "end": 357.86,
+    "text": "in float"
+  },
+  {
+    "start": 357.86,
+    "end": 358.86,
+    "text": "in unicode"
+  },
+  {
+    "start": 358.86,
+    "end": 359.86,
+    "text": "so we want to do this"
+  },
+  {
+    "start": 359.86,
+    "end": 361.46,
+    "text": "so we have another way"
+  },
+  {
+    "start": 361.46,
+    "end": 362.66,
+    "text": "by using range"
+  },
+  {
+    "start": 362.66,
+    "end": 363.66,
+    "text": "let's ask"
+  },
+  {
+    "start": 363.66,
+    "end": 365.86,
+    "text": "if we want to create an array"
+  },
+  {
+    "start": 365.86,
+    "end": 366.86,
+    "text": "by using range"
+  },
+  {
+    "start": 366.86,
+    "end": 367.86,
+    "text": "so the second way"
+  },
+  {
+    "start": 367.86,
+    "end": 369.06,
+    "text": "is the important number is np"
+  },
+  {
+    "start": 369.06,
+    "end": 371.66,
+    "text": "same as np dot a range"
+  },
+  {
+    "start": 371.66,
+    "end": 374.26,
+    "text": "we gave a range of 1, 8"
+  },
+  {
+    "start": 374.26,
+    "end": 377.46,
+    "text": "so this is the starting value"
+  },
+  {
+    "start": 377.65999999999997,
+    "end": 379.65999999999997,
+    "text": "and ending value is 8"
+  },
+  {
+    "start": 379.65999999999997,
+    "end": 380.65999999999997,
+    "text": "it is less"
+  },
+  {
+    "start": 380.65999999999997,
+    "end": 381.78,
+    "text": "this is the first"
+  },
+  {
+    "start": 381.78,
+    "end": 383.26,
+    "text": "number 1, 8"
+  },
+  {
+    "start": 383.26,
+    "end": 385.26,
+    "text": "1-0, 7"
+  },
+  {
+    "start": 385.26,
+    "end": 386.26,
+    "text": "whatever value is given here"
+  },
+  {
+    "start": 386.26,
+    "end": 387.26,
+    "text": "it is less"
+  },
+  {
+    "start": 387.26,
+    "end": 389.26,
+    "text": "so let's execute this"
+  },
+  {
+    "start": 389.26,
+    "end": 391.26,
+    "text": "execute"
+  },
+  {
+    "start": 391.26,
+    "end": 392.26,
+    "text": "so 1-0, 7"
+  },
+  {
+    "start": 392.26,
+    "end": 393.26,
+    "text": "so this is a sequence"
+  },
+  {
+    "start": 393.26,
+    "end": 395.26,
+    "text": "one-dimensional array"
+  },
+  {
+    "start": 395.26,
+    "end": 397.26,
+    "text": "it is created"
+  },
+  {
+    "start": 397.26,
+    "end": 398.06,
+    "text": "in this"
+  },
+  {
+    "start": 398.06,
+    "end": 401.26,
+    "text": "you can create two-dimension array"
+  },
+  {
+    "start": 401.26,
+    "end": 402.65999999999997,
+    "text": "what you can do for that"
+  },
+  {
+    "start": 402.65999999999997,
+    "end": 404.85999999999996,
+    "text": "range is 17"
+  },
+  {
+    "start": 404.85999999999996,
+    "end": 406.26,
+    "text": "and here"
+  },
+  {
+    "start": 406.26,
+    "end": 408.46,
+    "text": "I have used a attribute"
+  },
+  {
+    "start": 408.46,
+    "end": 409.46,
+    "text": "and a ratio"
+  },
+  {
+    "start": 409.46,
+    "end": 410.26,
+    "text": "2,3"
+  },
+  {
+    "start": 410.26,
+    "end": 411.06,
+    "text": "this is an array"
+  },
+  {
+    "start": 411.06,
+    "end": 412.06,
+    "text": "I am giving it shape"
+  },
+  {
+    "start": 412.06,
+    "end": 414.06,
+    "text": "you can use shape"
+  },
+  {
+    "start": 414.06,
+    "end": 416.06,
+    "text": "I am creating shape"
+  },
+  {
+    "start": 416.06,
+    "end": 417.06,
+    "text": "2,3"
+  },
+  {
+    "start": 417.06,
+    "end": 418.06,
+    "text": "means"
+  },
+  {
+    "start": 418.06,
+    "end": 420.06,
+    "text": "how much number of rows"
+  },
+  {
+    "start": 420.06,
+    "end": 421.06,
+    "text": "2"
+  },
+  {
+    "start": 421.06,
+    "end": 422.06,
+    "text": "how much number of columns"
+  },
+  {
+    "start": 422.06,
+    "end": 423.06,
+    "text": "3"
+  },
+  {
+    "start": 423.06,
+    "end": 424.06,
+    "text": "how much number of elements"
+  },
+  {
+    "start": 424.06,
+    "end": 425.06,
+    "text": "6"
+  },
+  {
+    "start": 425.06,
+    "end": 426.06,
+    "text": "2 rows"
+  },
+  {
+    "start": 426.06,
+    "end": 427.06,
+    "text": "3 columns"
+  },
+  {
+    "start": 427.06,
+    "end": 428.06,
+    "text": "how much number of elements"
+  },
+  {
+    "start": 428.06,
+    "end": 429.06,
+    "text": "6"
+  },
+  {
+    "start": 429.06,
+    "end": 430.06,
+    "text": "so I have to give"
+  },
+  {
+    "start": 430.06,
+    "end": 431.06,
+    "text": "6 elements"
+  },
+  {
+    "start": 431.06,
+    "end": 431.86,
+    "text": "so by using the 11"
+  },
+  {
+    "start": 431.86,
+    "end": 434.06,
+    "text": "you will have 7 elements"
+  },
+  {
+    "start": 434.06,
+    "end": 435.06,
+    "text": "not"
+  },
+  {
+    "start": 435.06,
+    "end": 436.26,
+    "text": "so it is 12"
+  },
+  {
+    "start": 436.26,
+    "end": 436.58,
+    "text": "13"
+  },
+  {
+    "start": 436.58,
+    "end": 437.86,
+    "text": "15"
+  },
+  {
+    "start": 437.86,
+    "end": 439.86,
+    "text": "so this is the 6 elements"
+  },
+  {
+    "start": 439.86,
+    "end": 440.86,
+    "text": "and it is the shape"
+  },
+  {
+    "start": 440.86,
+    "end": 442.22,
+    "text": "3,2"
+  },
+  {
+    "start": 442.22,
+    "end": 444.06,
+    "text": "so as I have given"
+  },
+  {
+    "start": 444.06,
+    "end": 446.06,
+    "text": "you execute"
+  },
+  {
+    "start": 446.06,
+    "end": 447.86,
+    "text": "12,13"
+  },
+  {
+    "start": 447.86,
+    "end": 448.86,
+    "text": "14,15"
+  },
+  {
+    "start": 448.86,
+    "end": 449.86,
+    "text": "how much is this"
+  },
+  {
+    "start": 449.86,
+    "end": 450.86,
+    "text": "you have created"
+  },
+  {
+    "start": 450.86,
+    "end": 451.86,
+    "text": "let's suppose"
+  },
+  {
+    "start": 451.86,
+    "end": 452.86,
+    "text": "I do 3,2"
+  },
+  {
+    "start": 452.86,
+    "end": 453.86,
+    "text": "let's suppose"
+  },
+  {
+    "start": 453.86,
+    "end": 454.86,
+    "text": "I do 3,2"
+  },
+  {
+    "start": 454.86,
+    "end": 455.86,
+    "text": "so no"
+  },
+  {
+    "start": 455.86,
+    "end": 457.86,
+    "text": "shape will change"
+  },
+  {
+    "start": 457.86,
+    "end": 458.86,
+    "text": "but total number of elements"
+  },
+  {
+    "start": 458.86,
+    "end": 459.86,
+    "text": "so now it is 6"
+  },
+  {
+    "start": 459.86,
+    "end": 460.86,
+    "text": "range is also 6"
+  },
+  {
+    "start": 460.86,
+    "end": 462.86,
+    "text": "so 12,14,15"
+  },
+  {
+    "start": 462.86,
+    "end": 463.86,
+    "text": "now number of rows"
+  },
+  {
+    "start": 463.96000000000004,
+    "end": 465.16,
+    "text": "3,2,3"
+  },
+  {
+    "start": 465.16,
+    "end": 465.96000000000004,
+    "text": "number of columns"
+  },
+  {
+    "start": 465.96000000000004,
+    "end": 467.16,
+    "text": "now in your mind"
+  },
+  {
+    "start": 467.16,
+    "end": 468.76,
+    "text": "let's do 3,3"
+  },
+  {
+    "start": 468.76,
+    "end": 470.36,
+    "text": "3,3"
+  },
+  {
+    "start": 470.36,
+    "end": 471.36,
+    "text": "so here it will air"
+  },
+  {
+    "start": 471.36,
+    "end": 472.26,
+    "text": "what will air"
+  },
+  {
+    "start": 472.26,
+    "end": 472.96000000000004,
+    "text": "air"
+  },
+  {
+    "start": 472.96000000000004,
+    "end": 473.86,
+    "text": "3,3"
+  },
+  {
+    "start": 473.86,
+    "end": 475.46000000000004,
+    "text": "means 9 elements"
+  },
+  {
+    "start": 475.46000000000004,
+    "end": 477.76,
+    "text": "you want 9 elements"
+  },
+  {
+    "start": 477.76,
+    "end": 479.56,
+    "text": "but how much you have"
+  },
+  {
+    "start": 479.56,
+    "end": 480.56,
+    "text": "6 elements"
+  },
+  {
+    "start": 480.56,
+    "end": 482.56,
+    "text": "so how will this happen"
+  },
+  {
+    "start": 482.56,
+    "end": 484.06,
+    "text": "if you want to do 3 by 3"
+  },
+  {
+    "start": 484.06,
+    "end": 485.46000000000004,
+    "text": "so you have so many elements"
+  },
+  {
+    "start": 485.46000000000004,
+    "end": 487.96000000000004,
+    "text": "pass 9 elements"
+  },
+  {
+    "start": 487.96000000000004,
+    "end": 489.46000000000004,
+    "text": "so by using the 11"
+  },
+  {
+    "start": 489.46000000000004,
+    "end": 491.76,
+    "text": "you will create the shape"
+  },
+  {
+    "start": 491.76,
+    "end": 492.76,
+    "text": "as you have made the shape"
+  },
+  {
+    "start": 552.76,
+    "end": 554.8199999999999,
+    "text": "Phroze ke tne ti char nambra fkolum stu"
+  },
+  {
+    "start": 554.8199999999999,
+    "end": 556.3199999999999,
+    "text": "Sare elements ke tne hoge 0"
+  },
+  {
+    "start": 556.3199999999999,
+    "end": 558.66,
+    "text": "Sme m a vane ke kies mein bhi us kar sik te ho"
+  },
+  {
+    "start": 558.66,
+    "end": 560.8199999999999,
+    "text": "Vane ke tne hai yeh ehe pye aapko kare kye dhe khaa de tne ho"
+  },
+  {
+    "start": 560.8199999999999,
+    "end": 562.56,
+    "text": "Use ke liye aapka vane z"
+  },
+  {
+    "start": 562.56,
+    "end": 563.8,
+    "text": "Thie ke vane z"
+  },
+  {
+    "start": 563.8,
+    "end": 564.78,
+    "text": "To vane z karti ho"
+  },
+  {
+    "start": 564.78,
+    "end": 566.06,
+    "text": "To sare aapka vane z"
+  },
+  {
+    "start": 566.06,
+    "end": 567.9399999999999,
+    "text": "Ka floating nambra jo hai wo generate karta aur"
+  },
+  {
+    "start": 567.9399999999999,
+    "end": 569.8199999999999,
+    "text": "Vane z saare ke saare sik te kye se hoge"
+  },
+  {
+    "start": 569.8199999999999,
+    "end": 571.7,
+    "text": "Aakar aap singa lye men dhe hai naa jathi ho"
+  },
+  {
+    "start": 571.7,
+    "end": 573.2,
+    "text": "Lets pose aap chaati hoge kies se"
+  },
+  {
+    "start": 573.2,
+    "end": 575.64,
+    "text": "Aakhi vane dimension hai hai yaa vane z kriye tkar naa hai"
+  },
+  {
+    "start": 575.64,
+    "end": 577.88,
+    "text": "To aap isri ke se kriye tkar sik te hoge kies mein yeh ehe"
+  },
+  {
+    "start": 577.88,
+    "end": 579.08,
+    "text": "Nitsh karti kye dhe hai yeh"
+  },
+  {
+    "start": 579.08,
+    "end": 580.4399999999999,
+    "text": "To yeh chot shot aapko poin tts hai"
+  },
+  {
+    "start": 580.4399999999999,
+    "end": 581.54,
+    "text": "Not kale naa kye waar"
+  },
+  {
+    "start": 581.54,
+    "end": 583.8199999999999,
+    "text": "Exams mein interviews mein pus shlete hai"
+  },
+  {
+    "start": 583.8199999999999,
+    "end": 584.3199999999999,
+    "text": "Thank you"
+  }
+]

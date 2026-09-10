@@ -1,0 +1,1052 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "Today's students, welcome to Goodsmishers"
+  },
+  {
+    "start": 2.0,
+    "end": 7.0,
+    "text": "Today's video is explaining how to take input from user in python"
+  },
+  {
+    "start": 7.0,
+    "end": 11.0,
+    "text": "Like we use scanf in C programming"
+  },
+  {
+    "start": 11.0,
+    "end": 14.0,
+    "text": "C++ in C function"
+  },
+  {
+    "start": 14.0,
+    "end": 17.0,
+    "text": "So take the input from the user"
+  },
+  {
+    "start": 17.0,
+    "end": 19.0,
+    "text": "Python also has an important function"
+  },
+  {
+    "start": 19.0,
+    "end": 25.0,
+    "text": "Here we use input so that we can use input from user to run the run time"
+  },
+  {
+    "start": 25.0,
+    "end": 28.0,
+    "text": "So here I will explain you the execution"
+  },
+  {
+    "start": 28.0,
+    "end": 31.0,
+    "text": "First of all, I have written a simple program"
+  },
+  {
+    "start": 31.0,
+    "end": 34.0,
+    "text": "We have used input function in this way"
+  },
+  {
+    "start": 34.0,
+    "end": 37.0,
+    "text": "And in the middle you have written enter your name"
+  },
+  {
+    "start": 37.0,
+    "end": 39.0,
+    "text": "I am using the name from user"
+  },
+  {
+    "start": 39.0,
+    "end": 41.0,
+    "text": "And I have stored the value in the name"
+  },
+  {
+    "start": 41.0,
+    "end": 43.0,
+    "text": "And I have printed it"
+  },
+  {
+    "start": 43.0,
+    "end": 45.0,
+    "text": "And I have printed it"
+  },
+  {
+    "start": 45.0,
+    "end": 47.0,
+    "text": "And I have concatenated it"
+  },
+  {
+    "start": 47.0,
+    "end": 50.0,
+    "text": "So you can add the name in this way"
+  },
+  {
+    "start": 50.0,
+    "end": 52.0,
+    "text": "And concatenate it"
+  },
+  {
+    "start": 52.0,
+    "end": 54.0,
+    "text": "As I execute it"
+  },
+  {
+    "start": 54.0,
+    "end": 56.0,
+    "text": "As I execute it"
+  },
+  {
+    "start": 56.0,
+    "end": 60.0,
+    "text": "I say that I have printed it from this way"
+  },
+  {
+    "start": 60.0,
+    "end": 63.0,
+    "text": "And in this prompt you will write the name in it"
+  },
+  {
+    "start": 63.0,
+    "end": 66.0,
+    "text": "So I have written the name in it"
+  },
+  {
+    "start": 66.0,
+    "end": 67.0,
+    "text": "So I have entered"
+  },
+  {
+    "start": 67.0,
+    "end": 68.0,
+    "text": "As I have entered"
+  },
+  {
+    "start": 68.0,
+    "end": 71.0,
+    "text": "So the name in it"
+  },
+  {
+    "start": 71.0,
+    "end": 73.0,
+    "text": "It has entered"
+  },
+  {
+    "start": 73.0,
+    "end": 74.0,
+    "text": "And it has entered the name"
+  },
+  {
+    "start": 74.0,
+    "end": 75.0,
+    "text": "And finally"
+  },
+  {
+    "start": 75.0,
+    "end": 76.0,
+    "text": "Hello, the name"
+  },
+  {
+    "start": 76.0,
+    "end": 78.0,
+    "text": "I have added the value in it"
+  },
+  {
+    "start": 78.0,
+    "end": 81.0,
+    "text": "And you have shown the output from this way"
+  },
+  {
+    "start": 81.0,
+    "end": 84.0,
+    "text": "So how do we input the function of this simple function?"
+  },
+  {
+    "start": 84.0,
+    "end": 85.0,
+    "text": "User"
+  },
+  {
+    "start": 85.0,
+    "end": 88.0,
+    "text": "The second thing is that you have to keep it in mind"
+  },
+  {
+    "start": 88.0,
+    "end": 90.0,
+    "text": "So the simple function is that"
+  },
+  {
+    "start": 90.0,
+    "end": 92.0,
+    "text": "But the second thing is that you have to keep it in mind"
+  },
+  {
+    "start": 92.0,
+    "end": 93.0,
+    "text": "As we check it"
+  },
+  {
+    "start": 93.0,
+    "end": 95.0,
+    "text": "If I want to check it"
+  },
+  {
+    "start": 95.0,
+    "end": 97.0,
+    "text": "What is the type of this?"
+  },
+  {
+    "start": 97.0,
+    "end": 98.0,
+    "text": "Okay"
+  },
+  {
+    "start": 98.0,
+    "end": 99.0,
+    "text": "So I do type"
+  },
+  {
+    "start": 99.0,
+    "end": 101.0,
+    "text": "And here I have the name"
+  },
+  {
+    "start": 101.0,
+    "end": 102.0,
+    "text": "And I have to check the type"
+  },
+  {
+    "start": 102.0,
+    "end": 103.0,
+    "text": "So as I execute it"
+  },
+  {
+    "start": 103.0,
+    "end": 105.0,
+    "text": "So I have added the name in it"
+  },
+  {
+    "start": 105.0,
+    "end": 107.0,
+    "text": "And here it has entered"
+  },
+  {
+    "start": 107.0,
+    "end": 108.0,
+    "text": "Hello, Varun has entered"
+  },
+  {
+    "start": 108.0,
+    "end": 110.0,
+    "text": "And the string of the class"
+  },
+  {
+    "start": 110.0,
+    "end": 111.0,
+    "text": "So if you think it is right"
+  },
+  {
+    "start": 111.0,
+    "end": 113.0,
+    "text": "Then it should be string"
+  },
+  {
+    "start": 113.0,
+    "end": 114.0,
+    "text": "We have given you string"
+  },
+  {
+    "start": 114.0,
+    "end": 116.0,
+    "text": "So the string is my type"
+  },
+  {
+    "start": 116.0,
+    "end": 117.0,
+    "text": "It is very good"
+  },
+  {
+    "start": 117.0,
+    "end": 118.0,
+    "text": "We have simply done it"
+  },
+  {
+    "start": 118.0,
+    "end": 120.0,
+    "text": "But now in the story"
+  },
+  {
+    "start": 120.0,
+    "end": 121.0,
+    "text": "I will go through the test"
+  },
+  {
+    "start": 121.0,
+    "end": 123.0,
+    "text": "The second thing I have done"
+  },
+  {
+    "start": 123.0,
+    "end": 125.0,
+    "text": "The second thing I have added here"
+  },
+  {
+    "start": 125.0,
+    "end": 126.0,
+    "text": "I am using the input here"
+  },
+  {
+    "start": 126.0,
+    "end": 127.0,
+    "text": "And I am taking integer value here"
+  },
+  {
+    "start": 127.0,
+    "end": 129.0,
+    "text": "As I have taken the integer value here"
+  },
+  {
+    "start": 129.0,
+    "end": 131.0,
+    "text": "I have added a number here"
+  },
+  {
+    "start": 131.0,
+    "end": 133.0,
+    "text": "And I have printed the number here"
+  },
+  {
+    "start": 133.0,
+    "end": 135.0,
+    "text": "So let's suppose I have added a number here"
+  },
+  {
+    "start": 135.0,
+    "end": 137.0,
+    "text": "And I have executed the jcs"
+  },
+  {
+    "start": 137.0,
+    "end": 139.0,
+    "text": "So I have added a number here"
+  },
+  {
+    "start": 139.0,
+    "end": 141.0,
+    "text": "And I have added 10"
+  },
+  {
+    "start": 141.0,
+    "end": 142.0,
+    "text": "And I have entered"
+  },
+  {
+    "start": 142.0,
+    "end": 143.0,
+    "text": "So what I have done here"
+  },
+  {
+    "start": 143.0,
+    "end": 144.0,
+    "text": "I have added 10"
+  },
+  {
+    "start": 144.0,
+    "end": 146.0,
+    "text": "And I will have a number here"
+  },
+  {
+    "start": 146.0,
+    "end": 148.0,
+    "text": "I have printed the number here"
+  },
+  {
+    "start": 148.0,
+    "end": 149.0,
+    "text": "And I have printed it"
+  },
+  {
+    "start": 149.0,
+    "end": 150.0,
+    "text": "But but but"
+  },
+  {
+    "start": 150.0,
+    "end": 152.0,
+    "text": "What is the class looking?"
+  },
+  {
+    "start": 152.0,
+    "end": 153.0,
+    "text": "The class is coming"
+  },
+  {
+    "start": 153.0,
+    "end": 154.0,
+    "text": "The string"
+  },
+  {
+    "start": 154.0,
+    "end": 156.0,
+    "text": "It was not a string on top"
+  },
+  {
+    "start": 156.0,
+    "end": 157.0,
+    "text": "Because I had added a string"
+  },
+  {
+    "start": 157.0,
+    "end": 158.0,
+    "text": "So the string is coming"
+  },
+  {
+    "start": 158.0,
+    "end": 160.0,
+    "text": "But how did the string come here?"
+  },
+  {
+    "start": 160.0,
+    "end": 162.0,
+    "text": "Here is the number"
+  },
+  {
+    "start": 162.0,
+    "end": 163.0,
+    "text": "If the number is added"
+  },
+  {
+    "start": 163.0,
+    "end": 164.0,
+    "text": "Then the number should be here"
+  },
+  {
+    "start": 164.0,
+    "end": 165.0,
+    "text": "But no"
+  },
+  {
+    "start": 165.0,
+    "end": 166.0,
+    "text": "This is the point"
+  },
+  {
+    "start": 166.0,
+    "end": 167.0,
+    "text": "You have to note"
+  },
+  {
+    "start": 167.0,
+    "end": 168.0,
+    "text": "The competitive exam"
+  },
+  {
+    "start": 168.0,
+    "end": 170.0,
+    "text": "In your university college exam"
+  },
+  {
+    "start": 170.0,
+    "end": 172.0,
+    "text": "You can also ask you in interviews"
+  },
+  {
+    "start": 172.0,
+    "end": 174.0,
+    "text": "Which type of a body default is this?"
+  },
+  {
+    "start": 174.0,
+    "end": 175.0,
+    "text": "Which type is the type?"
+  },
+  {
+    "start": 175.0,
+    "end": 177.0,
+    "text": "You have to add a float value"
+  },
+  {
+    "start": 177.0,
+    "end": 178.0,
+    "text": "You have to add a number"
+  },
+  {
+    "start": 178.0,
+    "end": 179.0,
+    "text": "You have to add a character"
+  },
+  {
+    "start": 179.0,
+    "end": 180.0,
+    "text": "You have to add a Boolean"
+  },
+  {
+    "start": 180.0,
+    "end": 182.0,
+    "text": "This body default will return"
+  },
+  {
+    "start": 182.0,
+    "end": 183.0,
+    "text": "The string type"
+  },
+  {
+    "start": 183.0,
+    "end": 185.0,
+    "text": "So what we have to do here"
+  },
+  {
+    "start": 185.0,
+    "end": 187.0,
+    "text": "We have to change"
+  },
+  {
+    "start": 187.0,
+    "end": 188.0,
+    "text": "So here is the problem"
+  },
+  {
+    "start": 188.0,
+    "end": 190.0,
+    "text": "What can we solve this problem?"
+  },
+  {
+    "start": 190.0,
+    "end": 191.0,
+    "text": "So I have printed 10"
+  },
+  {
+    "start": 191.0,
+    "end": 192.0,
+    "text": "I have printed 10"
+  },
+  {
+    "start": 192.0,
+    "end": 193.0,
+    "text": "It is not a problem"
+  },
+  {
+    "start": 193.0,
+    "end": 195.0,
+    "text": "But what can we solve this problem?"
+  },
+  {
+    "start": 195.0,
+    "end": 198.0,
+    "text": "Let's suppose that I am doing something simple"
+  },
+  {
+    "start": 198.0,
+    "end": 202.0,
+    "text": "I have added 2 values in the name of the name"
+  },
+  {
+    "start": 202.0,
+    "end": 205.0,
+    "text": "I have added 2 values in the name of the name of the name"
+  },
+  {
+    "start": 205.0,
+    "end": 207.0,
+    "text": "And now what am I doing?"
+  },
+  {
+    "start": 207.0,
+    "end": 208.0,
+    "text": "I am printing the name"
+  },
+  {
+    "start": 208.0,
+    "end": 209.0,
+    "text": "I am printing the name"
+  },
+  {
+    "start": 209.0,
+    "end": 210.0,
+    "text": "So here I am executing the name of the name"
+  },
+  {
+    "start": 210.0,
+    "end": 211.0,
+    "text": "So I have done 10"
+  },
+  {
+    "start": 211.0,
+    "end": 213.0,
+    "text": "And this is my error"
+  },
+  {
+    "start": 213.0,
+    "end": 215.0,
+    "text": "Why did the error come?"
+  },
+  {
+    "start": 215.0,
+    "end": 217.0,
+    "text": "Look at the distance"
+  },
+  {
+    "start": 217.0,
+    "end": 219.0,
+    "text": "What you were doing"
+  },
+  {
+    "start": 219.0,
+    "end": 221.0,
+    "text": "You have printed 10"
+  },
+  {
+    "start": 221.0,
+    "end": 223.0,
+    "text": "And the value of 10 came in the name of the name"
+  },
+  {
+    "start": 223.0,
+    "end": 225.0,
+    "text": "You have printed 10 then is printed"
+  },
+  {
+    "start": 225.0,
+    "end": 226.3,
+    "text": "This kind ofته"
+  },
+  {
+    "start": 226.3,
+    "end": 230.0,
+    "text": "With the name of the name of the name of that name"
+  },
+  {
+    "start": 230.0,
+    "end": 232.64,
+    "text": "The name of the name of the name of the name of the name"
+  },
+  {
+    "start": 232.64,
+    "end": 233.64,
+    "text": "The string type"
+  },
+  {
+    "start": 233.64,
+    "end": 235.76,
+    "text": "You can make 2 over string types"
+  },
+  {
+    "start": 235.76,
+    "end": 237.76,
+    "text": "You have to put them in the script"
+  },
+  {
+    "start": 237.76,
+    "end": 238.76,
+    "text": "It is a teaser"
+  },
+  {
+    "start": 238.76,
+    "end": 240.08,
+    "text": "So we need to print 10 plus where"
+  },
+  {
+    "start": 240.08,
+    "end": 241.04,
+    "text": "These will be 12"
+  },
+  {
+    "start": 241.04,
+    "end": 243.64,
+    "text": "But its type is what is the name of the name of the name of the name"
+  },
+  {
+    "start": 243.64,
+    "end": 246.74,
+    "text": "So by adding string in the name of the name of the name of the name of the name of the name of the name of the name"
+  },
+  {
+    "start": 246.74,
+    "end": 247.94,
+    "text": "What will the new standard?"
+  },
+  {
+    "start": 247.94,
+    "end": 248.94,
+    "text": "Which is a log?"
+  },
+  {
+    "start": 248.96,
+    "end": 250.76,
+    "text": "And what is the error here?"
+  },
+  {
+    "start": 250.78,
+    "end": 252.78,
+    "text": "You must be in error here"
+  },
+  {
+    "start": 252.78,
+    "end": 256.88,
+    "text": "اور 에рRKi aayu aayu must be STR not integer"
+  },
+  {
+    "start": 256.88,
+    "end": 258.48,
+    "text": "کیo ki aap do aad kar ryu"
+  },
+  {
+    "start": 258.48,
+    "end": 259.56,
+    "text": "تو یہape kakar do"
+  },
+  {
+    "start": 259.56,
+    "end": 261.36,
+    "text": "Type casting aap ko karni padai ki"
+  },
+  {
+    "start": 261.36,
+    "end": 264.06,
+    "text": "Simpaz aafandai kui jada lamba chodak amni hai"
+  },
+  {
+    "start": 264.06,
+    "end": 265.66,
+    "text": "yaap yaap kaakar o"
+  },
+  {
+    "start": 265.66,
+    "end": 267.56,
+    "text": "Is ki Type casting kardo"
+  },
+  {
+    "start": 267.56,
+    "end": 268.66,
+    "text": "تو int kar dhi hai"
+  },
+  {
+    "start": 268.66,
+    "end": 269.58,
+    "text": "int kar dhi hai"
+  },
+  {
+    "start": 269.58,
+    "end": 271.54,
+    "text": "تو Iske baat de kui aapi ki aap aa"
+  },
+  {
+    "start": 271.54,
+    "end": 273.3,
+    "text": "int kar ki isko egzikut karo"
+  },
+  {
+    "start": 273.3,
+    "end": 274.62,
+    "text": "yaapi me ne 10 kia"
+  },
+  {
+    "start": 274.62,
+    "end": 276.12,
+    "text": "Jasi me ne aapi 10 kia"
+  },
+  {
+    "start": 276.12,
+    "end": 277.5,
+    "text": "aur isko enter kia"
+  },
+  {
+    "start": 277.5,
+    "end": 279.08,
+    "text": "ab bilkul sairan karega"
+  },
+  {
+    "start": 279.08,
+    "end": 281.38,
+    "text": "کیo ki me ne aap Is ki Type casting kardhi"
+  },
+  {
+    "start": 281.38,
+    "end": 283.18,
+    "text": "kia kardhi type casting"
+  },
+  {
+    "start": 283.18,
+    "end": 284.06,
+    "text": "to isko me ne"
+  },
+  {
+    "start": 284.06,
+    "end": 285.94,
+    "text": "ekter aayi simpilis idli change kardhi ya"
+  },
+  {
+    "start": 285.94,
+    "end": 287.5,
+    "text": "value jau hai aur myi 10 thi"
+  },
+  {
+    "start": 287.5,
+    "end": 289.3,
+    "text": "iske Type int kar dhi"
+  },
+  {
+    "start": 289.3,
+    "end": 290.82,
+    "text": "ab iske endra ab do aad karo"
+  },
+  {
+    "start": 290.82,
+    "end": 292.21999999999997,
+    "text": "minus karo jau marji garo"
+  },
+  {
+    "start": 292.21999999999997,
+    "end": 293.65999999999997,
+    "text": "aap izili karsak kyu kia"
+  },
+  {
+    "start": 293.65999999999997,
+    "end": 294.86,
+    "text": "iske Type kia oogi"
+  },
+  {
+    "start": 294.86,
+    "end": 295.58,
+    "text": "int hogi"
+  },
+  {
+    "start": 295.58,
+    "end": 296.82,
+    "text": "یہ Simpaz aafandai"
+  },
+  {
+    "start": 296.82,
+    "end": 298.06,
+    "text": "to humesha yagrak na"
+  },
+  {
+    "start": 298.06,
+    "end": 299.94,
+    "text": "even aap int kia float me bhi karni"
+  },
+  {
+    "start": 299.94,
+    "end": 301.02,
+    "text": "karsak teo karaap chayat ki"
+  },
+  {
+    "start": 301.02,
+    "end": 302.7,
+    "text": "let's pose mjhe float karni hai"
+  },
+  {
+    "start": 302.7,
+    "end": 304.98,
+    "text": "to a float me bhi karni karsak teo"
+  },
+  {
+    "start": 304.98,
+    "end": 306.1,
+    "text": "to float karni hai"
+  },
+  {
+    "start": 306.1,
+    "end": 308.1,
+    "text": "to loji aa float bhi aap ka"
+  },
+  {
+    "start": 308.1,
+    "end": 309.54,
+    "text": "run hoha jai ka izili"
+  },
+  {
+    "start": 309.54,
+    "end": 312.14000000000004,
+    "text": "float ke kese me bhas thoda sa change kia aa aa"
+  },
+  {
+    "start": 312.14000000000004,
+    "end": 313.54,
+    "text": "aap ne 10 thi"
+  },
+  {
+    "start": 313.54,
+    "end": 314.94,
+    "text": "to ye 10.0"
+  },
+  {
+    "start": 314.94,
+    "end": 316.98,
+    "text": "12.0 karni ge ki"
+  },
+  {
+    "start": 316.98,
+    "end": 320.3,
+    "text": "ki ki float value hai to decimal ke saath ye dikata hai"
+  },
+  {
+    "start": 320.3,
+    "end": 321.62,
+    "text": "to float me bhi karni gear sakti ho"
+  },
+  {
+    "start": 321.62,
+    "end": 323.3,
+    "text": "aap let's pose chaat teo ki sir mjhe"
+  },
+  {
+    "start": 323.3,
+    "end": 324.34000000000003,
+    "text": "boolean me karni hai"
+  },
+  {
+    "start": 324.34000000000003,
+    "end": 328.78000000000003,
+    "text": "to a boolean me bhi karni karni karni kia li ka lik na aap ka bool"
+  },
+  {
+    "start": 328.78000000000003,
+    "end": 330.42,
+    "text": "iske kia se bool"
+  },
+  {
+    "start": 330.42,
+    "end": 332.94,
+    "text": "to bool karni loji bool karni hai"
+  },
+  {
+    "start": 332.94,
+    "end": 334.46000000000004,
+    "text": "to le se me ne di 10 value"
+  },
+  {
+    "start": 334.46000000000004,
+    "end": 335.54,
+    "text": "to 10 kia aayi"
+  },
+  {
+    "start": 335.54,
+    "end": 337.38,
+    "text": "bhaidifol tia kia le ta 10 koha"
+  },
+  {
+    "start": 337.38,
+    "end": 338.86,
+    "text": "output me 10 ni aayi ka"
+  },
+  {
+    "start": 338.90000000000003,
+    "end": 341.06,
+    "text": "boole kia aayi to 2 aayi afalz hai"
+  },
+  {
+    "start": 341.06,
+    "end": 342.54,
+    "text": "to agar me 10 value hai"
+  },
+  {
+    "start": 342.54,
+    "end": 343.94,
+    "text": "to koi bhi value insert karta to"
+  },
+  {
+    "start": 343.94,
+    "end": 345.90000000000003,
+    "text": "bhaidifol tia return kia karta true"
+  },
+  {
+    "start": 345.90000000000003,
+    "end": 347.42,
+    "text": "tika aap taip kia aap boole"
+  },
+  {
+    "start": 347.42,
+    "end": 349.26,
+    "text": "let's pose agar me khali chaur do"
+  },
+  {
+    "start": 349.26,
+    "end": 350.98,
+    "text": "let's pose agar me khali chaur do"
+  },
+  {
+    "start": 350.98,
+    "end": 351.98,
+    "text": "ek tara sa nal"
+  },
+  {
+    "start": 351.98,
+    "end": 353.14,
+    "text": "me kuchmi ni bhar aa hai"
+  },
+  {
+    "start": 353.14,
+    "end": 355.1,
+    "text": "this ko nal rakhrao to nal ke kese me"
+  },
+  {
+    "start": 355.1,
+    "end": 356.78000000000003,
+    "text": "jai si me aise kyu dkar honga"
+  },
+  {
+    "start": 356.78000000000003,
+    "end": 358.42,
+    "text": "ek tara sa kia aajega"
+  },
+  {
+    "start": 358.42,
+    "end": 359.74,
+    "text": "false aajega"
+  },
+  {
+    "start": 359.74,
+    "end": 361.14,
+    "text": "ki aap ne kuchmi pasni ka to"
+  },
+  {
+    "start": 361.14,
+    "end": 364.26,
+    "text": "usko ye khali ko nal ko ye kia li ta false li ta"
+  },
+  {
+    "start": 364.26,
+    "end": 365.34000000000003,
+    "text": "to aap boolean karni ho"
+  },
+  {
+    "start": 365.34,
+    "end": 367.65999999999997,
+    "text": "float karlow str to bhaidifol tia"
+  },
+  {
+    "start": 367.65999999999997,
+    "end": 369.17999999999995,
+    "text": "yaa fi rap inti bhi karsak"
+  },
+  {
+    "start": 369.17999999999995,
+    "end": 371.17999999999995,
+    "text": "to kese rikhe sa aap taip kastingar ke"
+  },
+  {
+    "start": 371.17999999999995,
+    "end": 373.34,
+    "text": "koi bhi program aazili li ksak"
+  },
+  {
+    "start": 373.34,
+    "end": 374.94,
+    "text": "to aap ko saari ghani jo hai bo"
+  },
+  {
+    "start": 374.94,
+    "end": 376.14,
+    "text": "with the execution kuru aadi"
+  },
+  {
+    "start": 376.14,
+    "end": 376.61999999999995,
+    "text": "thank you"
+  }
+]

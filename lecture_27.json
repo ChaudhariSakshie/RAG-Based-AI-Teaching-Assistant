@@ -1,0 +1,1522 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "DAYS RUNANTS, Welcome to Good Smashers"
+  },
+  {
+    "start": 2.0,
+    "end": 7.0,
+    "text": "In this video we are going to talk about how to create object 10 classes in Python"
+  },
+  {
+    "start": 7.0,
+    "end": 10.5,
+    "text": "So, the object and the basic introduction of the class I had given in the last class"
+  },
+  {
+    "start": 10.5,
+    "end": 15.0,
+    "text": "that a blueprint of a class is a template of an object"
+  },
+  {
+    "start": 15.0,
+    "end": 16.0,
+    "text": "And what is an object?"
+  },
+  {
+    "start": 16.0,
+    "end": 17.5,
+    "text": "Real-world entity"
+  },
+  {
+    "start": 17.5,
+    "end": 19.0,
+    "text": "A simple example"
+  },
+  {
+    "start": 19.0,
+    "end": 20.5,
+    "text": "What is a company's example?"
+  },
+  {
+    "start": 20.5,
+    "end": 23.0,
+    "text": "Now companies work in thousands of employees"
+  },
+  {
+    "start": 23.0,
+    "end": 25.0,
+    "text": "And they are working in a different department"
+  },
+  {
+    "start": 25.0,
+    "end": 29.0,
+    "text": "in some IT, in HR, in some manufacturing, in marketing"
+  },
+  {
+    "start": 29.0,
+    "end": 33.0,
+    "text": "Now companies say that I am a simple employee"
+  },
+  {
+    "start": 33.0,
+    "end": 35.0,
+    "text": "Now what is the employee's example?"
+  },
+  {
+    "start": 35.0,
+    "end": 38.0,
+    "text": "Some of the data is the ID of the employee"
+  },
+  {
+    "start": 38.0,
+    "end": 41.0,
+    "text": "The name of the employee is the salary of the employee"
+  },
+  {
+    "start": 41.0,
+    "end": 43.0,
+    "text": "I take so much data"
+  },
+  {
+    "start": 43.0,
+    "end": 44.0,
+    "text": "So, I have a employee"
+  },
+  {
+    "start": 44.0,
+    "end": 47.0,
+    "text": "I have collected the ID of the employee's salary"
+  },
+  {
+    "start": 47.0,
+    "end": 48.0,
+    "text": "and added it to the system"
+  },
+  {
+    "start": 48.0,
+    "end": 50.0,
+    "text": "The second day is an employee"
+  },
+  {
+    "start": 50.0,
+    "end": 52.0,
+    "text": "So, what I will do next"
+  },
+  {
+    "start": 52.0,
+    "end": 55.0,
+    "text": "I will make an ID, a name, a salary"
+  },
+  {
+    "start": 55.0,
+    "end": 57.0,
+    "text": "The third day is an employee"
+  },
+  {
+    "start": 57.0,
+    "end": 59.0,
+    "text": "I have come to 5 employees for 4 days"
+  },
+  {
+    "start": 59.0,
+    "end": 63.0,
+    "text": "So, for 5 days, this task will be very long"
+  },
+  {
+    "start": 63.0,
+    "end": 64.0,
+    "text": "It will be very big"
+  },
+  {
+    "start": 64.0,
+    "end": 67.0,
+    "text": "What are you doing for every new employee?"
+  },
+  {
+    "start": 67.0,
+    "end": 69.0,
+    "text": "It is a variable that is creating multiple"
+  },
+  {
+    "start": 69.0,
+    "end": 71.0,
+    "text": "And then, I am doing data"
+  },
+  {
+    "start": 71.0,
+    "end": 72.0,
+    "text": "What is better than this?"
+  },
+  {
+    "start": 72.0,
+    "end": 75.0,
+    "text": "You know that what is an employee's real-world entity?"
+  },
+  {
+    "start": 75.0,
+    "end": 78.0,
+    "text": "So, you create a blueprint of that"
+  },
+  {
+    "start": 78.0,
+    "end": 80.0,
+    "text": "What do you want in the employee?"
+  },
+  {
+    "start": 80.0,
+    "end": 81.0,
+    "text": "What do you want to do?"
+  },
+  {
+    "start": 81.0,
+    "end": 82.0,
+    "text": "Is the data of that"
+  },
+  {
+    "start": 82.0,
+    "end": 84.0,
+    "text": "What can he do?"
+  },
+  {
+    "start": 84.0,
+    "end": 87.0,
+    "text": "He collected all the things and created a blueprint"
+  },
+  {
+    "start": 87.0,
+    "end": 90.0,
+    "text": "And then, he created multiple objects"
+  },
+  {
+    "start": 90.0,
+    "end": 93.0,
+    "text": "So, that is why he created a blueprint of that class"
+  },
+  {
+    "start": 93.0,
+    "end": 94.0,
+    "text": "That he created a blueprint of that"
+  },
+  {
+    "start": 94.0,
+    "end": 96.0,
+    "text": "That he created this watch"
+  },
+  {
+    "start": 96.0,
+    "end": 98.0,
+    "text": "That is the way you want to create a watch"
+  },
+  {
+    "start": 98.0,
+    "end": 99.0,
+    "text": "He created a design"
+  },
+  {
+    "start": 99.0,
+    "end": 104.0,
+    "text": "After this design, you can create thousands of watches"
+  },
+  {
+    "start": 104.0,
+    "end": 108.0,
+    "text": "You don't have to change the design for every new watch"
+  },
+  {
+    "start": 108.0,
+    "end": 110.0,
+    "text": "Till the time, no new update was created"
+  },
+  {
+    "start": 110.0,
+    "end": 112.0,
+    "text": "So, we are helping our task"
+  },
+  {
+    "start": 112.0,
+    "end": 115.0,
+    "text": "What is easy to do in the task?"
+  },
+  {
+    "start": 115.0,
+    "end": 118.0,
+    "text": "So, here you can find out more about the previous objects"
+  },
+  {
+    "start": 118.0,
+    "end": 120.0,
+    "text": "In the interviews, you create the first object"
+  },
+  {
+    "start": 120.0,
+    "end": 121.0,
+    "text": "First class"
+  },
+  {
+    "start": 121.0,
+    "end": 122.0,
+    "text": "Now, you tell yourself"
+  },
+  {
+    "start": 122.0,
+    "end": 124.0,
+    "text": "You will create a design directly"
+  },
+  {
+    "start": 124.0,
+    "end": 126.0,
+    "text": "First you create a design"
+  },
+  {
+    "start": 126.0,
+    "end": 128.0,
+    "text": "First you create a template"
+  },
+  {
+    "start": 128.0,
+    "end": 130.0,
+    "text": "Then you create a template"
+  },
+  {
+    "start": 130.0,
+    "end": 131.0,
+    "text": "You will create a design"
+  },
+  {
+    "start": 131.0,
+    "end": 132.0,
+    "text": "You will create a house"
+  },
+  {
+    "start": 132.0,
+    "end": 134.0,
+    "text": "Then you will create a house on that roof"
+  },
+  {
+    "start": 134.0,
+    "end": 136.0,
+    "text": "Or you will create a house"
+  },
+  {
+    "start": 136.0,
+    "end": 137.0,
+    "text": "Your husband is there"
+  },
+  {
+    "start": 137.0,
+    "end": 139.0,
+    "text": "So, that is the same example"
+  },
+  {
+    "start": 139.0,
+    "end": 140.0,
+    "text": "We are taking here"
+  },
+  {
+    "start": 140.0,
+    "end": 142.0,
+    "text": "We are making a class here"
+  },
+  {
+    "start": 142.0,
+    "end": 143.0,
+    "text": "Employee"
+  },
+  {
+    "start": 143.0,
+    "end": 145.0,
+    "text": "What we have kept in that class"
+  },
+  {
+    "start": 145.0,
+    "end": 147.0,
+    "text": "We want user to be there"
+  },
+  {
+    "start": 147.0,
+    "end": 149.0,
+    "text": "Employee can add their data"
+  },
+  {
+    "start": 149.0,
+    "end": 151.0,
+    "text": "So, we created a method"
+  },
+  {
+    "start": 151.0,
+    "end": 152.0,
+    "text": "We created a function"
+  },
+  {
+    "start": 152.0,
+    "end": 153.0,
+    "text": "Because I said"
+  },
+  {
+    "start": 153.0,
+    "end": 154.0,
+    "text": "Two things"
+  },
+  {
+    "start": 154.0,
+    "end": 155.0,
+    "text": "We have data"
+  },
+  {
+    "start": 155.0,
+    "end": 156.0,
+    "text": "And method"
+  },
+  {
+    "start": 156.0,
+    "end": 158.0,
+    "text": "Means what can be used in the function"
+  },
+  {
+    "start": 158.0,
+    "end": 159.0,
+    "text": "And data means"
+  },
+  {
+    "start": 159.0,
+    "end": 161.0,
+    "text": "What is the data related to that object?"
+  },
+  {
+    "start": 161.0,
+    "end": 163.0,
+    "text": "So, what is the data related to that object?"
+  },
+  {
+    "start": 163.0,
+    "end": 165.0,
+    "text": "Its ID"
+  },
+  {
+    "start": 165.0,
+    "end": 166.0,
+    "text": "Its name"
+  },
+  {
+    "start": 166.0,
+    "end": 167.0,
+    "text": "Its salary"
+  },
+  {
+    "start": 167.0,
+    "end": 169.0,
+    "text": "So, here, I have taken a definition"
+  },
+  {
+    "start": 169.0,
+    "end": 171.0,
+    "text": "Means, here, a function is created"
+  },
+  {
+    "start": 171.0,
+    "end": 172.0,
+    "text": "Put data"
+  },
+  {
+    "start": 172.0,
+    "end": 173.0,
+    "text": "Means, the data is"
+  },
+  {
+    "start": 173.0,
+    "end": 175.0,
+    "text": "You can directly add the user"
+  },
+  {
+    "start": 175.0,
+    "end": 177.0,
+    "text": "Add your ID, name, name, and salary"
+  },
+  {
+    "start": 177.0,
+    "end": 179.0,
+    "text": "You can add it like this"
+  },
+  {
+    "start": 179.0,
+    "end": 181.0,
+    "text": "And here, by default, this is the self"
+  },
+  {
+    "start": 181.0,
+    "end": 183.0,
+    "text": "You will find these later on"
+  },
+  {
+    "start": 183.0,
+    "end": 184.0,
+    "text": "You will find these later on"
+  },
+  {
+    "start": 184.0,
+    "end": 185.0,
+    "text": "You will find these later on"
+  },
+  {
+    "start": 185.0,
+    "end": 186.0,
+    "text": "You will find these later on"
+  },
+  {
+    "start": 186.0,
+    "end": 188.0,
+    "text": "So, we have created an ID"
+  },
+  {
+    "start": 188.0,
+    "end": 189.0,
+    "text": "User-celled name"
+  },
+  {
+    "start": 189.0,
+    "end": 190.0,
+    "text": "User-celled"
+  },
+  {
+    "start": 190.0,
+    "end": 191.0,
+    "text": "And we will input it here"
+  },
+  {
+    "start": 191.0,
+    "end": 193.0,
+    "text": "We have created an user-celled"
+  },
+  {
+    "start": 193.0,
+    "end": 195.0,
+    "text": "So, this type of casting"
+  },
+  {
+    "start": 195.0,
+    "end": 197.0,
+    "text": "Because, by default, it is a string"
+  },
+  {
+    "start": 197.0,
+    "end": 198.0,
+    "text": "So, it is an int-coledia"
+  },
+  {
+    "start": 198.0,
+    "end": 200.0,
+    "text": "Because, it is a string in this"
+  },
+  {
+    "start": 200.0,
+    "end": 201.0,
+    "text": "And here, it is a float-lady"
+  },
+  {
+    "start": 201.0,
+    "end": 203.0,
+    "text": "Because, salary can be in float"
+  },
+  {
+    "start": 203.0,
+    "end": 205.0,
+    "text": "And the second method is created"
+  },
+  {
+    "start": 205.0,
+    "end": 206.0,
+    "text": "Display"
+  },
+  {
+    "start": 206.0,
+    "end": 208.0,
+    "text": "We want to display that data"
+  },
+  {
+    "start": 208.0,
+    "end": 210.0,
+    "text": "So, we can display that data"
+  },
+  {
+    "start": 210.0,
+    "end": 211.0,
+    "text": "And we have printed these three things"
+  },
+  {
+    "start": 211.0,
+    "end": 213.0,
+    "text": "So, this is a blue print-created"
+  },
+  {
+    "start": 213.0,
+    "end": 214.0,
+    "text": "What is this?"
+  },
+  {
+    "start": 214.0,
+    "end": 215.0,
+    "text": "A blue print-created"
+  },
+  {
+    "start": 215.0,
+    "end": 216.0,
+    "text": "A template-created"
+  },
+  {
+    "start": 216.0,
+    "end": 218.0,
+    "text": "Now, on that template's basis"
+  },
+  {
+    "start": 218.0,
+    "end": 220.0,
+    "text": "You have 1, 2, 5, 10, 1000"
+  },
+  {
+    "start": 220.0,
+    "end": 222.0,
+    "text": "As much as you want to create a margin"
+  },
+  {
+    "start": 222.0,
+    "end": 224.0,
+    "text": "As much as you want to create a margin"
+  },
+  {
+    "start": 224.0,
+    "end": 226.0,
+    "text": "So, A is equal to"
+  },
+  {
+    "start": 226.0,
+    "end": 228.0,
+    "text": "So, here, it is an object-created"
+  },
+  {
+    "start": 228.0,
+    "end": 230.0,
+    "text": "B is an object C object D object"
+  },
+  {
+    "start": 230.0,
+    "end": 232.0,
+    "text": "As much as you want to create a margin"
+  },
+  {
+    "start": 232.0,
+    "end": 233.0,
+    "text": "What is your work?"
+  },
+  {
+    "start": 233.0,
+    "end": 234.0,
+    "text": "It is easy"
+  },
+  {
+    "start": 234.0,
+    "end": 237.0,
+    "text": "Every time, the ID name, salary, ID name, salary"
+  },
+  {
+    "start": 237.0,
+    "end": 238.0,
+    "text": "It is not the only thing to take"
+  },
+  {
+    "start": 238.0,
+    "end": 240.0,
+    "text": "It is a design-created"
+  },
+  {
+    "start": 240.0,
+    "end": 243.0,
+    "text": "Now, from that design, you want to create all the real-world objects"
+  },
+  {
+    "start": 243.0,
+    "end": 245.0,
+    "text": "You want to create all the employees"
+  },
+  {
+    "start": 245.0,
+    "end": 247.0,
+    "text": "You want to create all the data"
+  },
+  {
+    "start": 247.0,
+    "end": 248.0,
+    "text": "You can create all the data"
+  },
+  {
+    "start": 248.0,
+    "end": 250.0,
+    "text": "And then, you can display this"
+  },
+  {
+    "start": 250.0,
+    "end": 253.0,
+    "text": "So, if you want to execute this method"
+  },
+  {
+    "start": 253.0,
+    "end": 254.0,
+    "text": "You can execute it"
+  },
+  {
+    "start": 254.0,
+    "end": 255.0,
+    "text": "So, if you want to execute this"
+  },
+  {
+    "start": 255.0,
+    "end": 257.0,
+    "text": "You can call it run type"
+  },
+  {
+    "start": 257.0,
+    "end": 259.0,
+    "text": "Add ID, name, salary, salary"
+  },
+  {
+    "start": 259.0,
+    "end": 261.0,
+    "text": "And then, you can display that"
+  },
+  {
+    "start": 261.0,
+    "end": 263.0,
+    "text": "So, from a simple program,"
+  },
+  {
+    "start": 263.0,
+    "end": 265.0,
+    "text": "We can depict the real-world situation"
+  },
+  {
+    "start": 265.0,
+    "end": 267.0,
+    "text": "By using the object-oriented programming"
+  },
+  {
+    "start": 267.0,
+    "end": 269.0,
+    "text": "And what is your work?"
+  },
+  {
+    "start": 269.0,
+    "end": 270.0,
+    "text": "It is easy"
+  },
+  {
+    "start": 270.0,
+    "end": 272.0,
+    "text": "So, this is a basic introduction of"
+  },
+  {
+    "start": 272.0,
+    "end": 275.0,
+    "text": "Classes and Object using Python"
+  },
+  {
+    "start": 275.0,
+    "end": 277.0,
+    "text": "Okay, let's see the execution part"
+  },
+  {
+    "start": 277.0,
+    "end": 279.0,
+    "text": "Here, I'll show you two simple examples"
+  },
+  {
+    "start": 279.0,
+    "end": 281.0,
+    "text": "First of all, in the first example"
+  },
+  {
+    "start": 281.0,
+    "end": 283.0,
+    "text": "We create a class"
+  },
+  {
+    "start": 283.0,
+    "end": 285.0,
+    "text": "And then, in the class name"
+  },
+  {
+    "start": 285.0,
+    "end": 287.0,
+    "text": "Like, I created a class with my first name"
+  },
+  {
+    "start": 287.0,
+    "end": 288.0,
+    "text": "And, column"
+  },
+  {
+    "start": 288.0,
+    "end": 290.0,
+    "text": "Now, this is called indentation automatically"
+  },
+  {
+    "start": 290.0,
+    "end": 292.0,
+    "text": "It is x equal to 50"
+  },
+  {
+    "start": 292.0,
+    "end": 294.0,
+    "text": "So, here, I have a simple variable"
+  },
+  {
+    "start": 294.0,
+    "end": 295.0,
+    "text": "Because, I have already told you"
+  },
+  {
+    "start": 295.0,
+    "end": 297.0,
+    "text": "The class, which we are creating"
+  },
+  {
+    "start": 297.0,
+    "end": 299.0,
+    "text": "A blueprint of a particular object"
+  },
+  {
+    "start": 299.0,
+    "end": 301.0,
+    "text": "So, it can be two things"
+  },
+  {
+    "start": 301.0,
+    "end": 302.0,
+    "text": "Here, it is a data"
+  },
+  {
+    "start": 302.0,
+    "end": 303.0,
+    "text": "And, a method"
+  },
+  {
+    "start": 303.0,
+    "end": 304.0,
+    "text": "So, here, I am not creating a method"
+  },
+  {
+    "start": 304.0,
+    "end": 306.0,
+    "text": "I am taking a simple data"
+  },
+  {
+    "start": 306.0,
+    "end": 308.0,
+    "text": "I have added a variable x and its value to 50"
+  },
+  {
+    "start": 308.0,
+    "end": 310.0,
+    "text": "Now, here, I have created an object"
+  },
+  {
+    "start": 310.0,
+    "end": 312.0,
+    "text": "This is the template of the class"
+  },
+  {
+    "start": 312.0,
+    "end": 314.0,
+    "text": "Now, I have taken a simple data"
+  },
+  {
+    "start": 314.0,
+    "end": 316.0,
+    "text": "Now, the object"
+  },
+  {
+    "start": 316.0,
+    "end": 319.0,
+    "text": "What is the object that is creating this class"
+  },
+  {
+    "start": 319.0,
+    "end": 321.0,
+    "text": "First class, then, how to create it"
+  },
+  {
+    "start": 321.0,
+    "end": 323.0,
+    "text": "And, this is the object equal to first"
+  },
+  {
+    "start": 323.0,
+    "end": 325.0,
+    "text": "And, here, I have printed the object"
+  },
+  {
+    "start": 325.0,
+    "end": 329.0,
+    "text": "And, the object's name is dot data"
+  },
+  {
+    "start": 329.0,
+    "end": 331.0,
+    "text": "So, here, dot x"
+  },
+  {
+    "start": 331.0,
+    "end": 333.0,
+    "text": "So, this is my simple"
+  },
+  {
+    "start": 333.0,
+    "end": 335.0,
+    "text": "How to create it with 50 output"
+  },
+  {
+    "start": 335.0,
+    "end": 337.0,
+    "text": "This is a simple template of a class"
+  },
+  {
+    "start": 337.0,
+    "end": 338.0,
+    "text": "What can I say?"
+  },
+  {
+    "start": 338.0,
+    "end": 340.0,
+    "text": "Now, the example I gave you"
+  },
+  {
+    "start": 340.0,
+    "end": 342.0,
+    "text": "This is the example I will show you"
+  },
+  {
+    "start": 342.0,
+    "end": 343.0,
+    "text": "Faculty"
+  },
+  {
+    "start": 343.0,
+    "end": 345.0,
+    "text": "So, what are we creating here?"
+  },
+  {
+    "start": 345.0,
+    "end": 347.0,
+    "text": "Here, we have created a class"
+  },
+  {
+    "start": 347.0,
+    "end": 349.0,
+    "text": "Faculty name"
+  },
+  {
+    "start": 349.0,
+    "end": 350.0,
+    "text": "A blueprint of a class"
+  },
+  {
+    "start": 350.0,
+    "end": 351.0,
+    "text": "Faculty name"
+  },
+  {
+    "start": 351.0,
+    "end": 354.0,
+    "text": "And, here, we have taken two methods"
+  },
+  {
+    "start": 354.0,
+    "end": 355.0,
+    "text": "I have taken a method"
+  },
+  {
+    "start": 355.0,
+    "end": 357.0,
+    "text": "From the output data"
+  },
+  {
+    "start": 357.0,
+    "end": 359.0,
+    "text": "Now, whenever we take methods here"
+  },
+  {
+    "start": 359.0,
+    "end": 361.0,
+    "text": "Whenever we take functions here"
+  },
+  {
+    "start": 361.0,
+    "end": 362.0,
+    "text": "From the depth of the object"
+  },
+  {
+    "start": 362.0,
+    "end": 364.0,
+    "text": "And, I have given some input data"
+  },
+  {
+    "start": 364.0,
+    "end": 366.0,
+    "text": "Because, I am taking user's data"
+  },
+  {
+    "start": 366.0,
+    "end": 367.0,
+    "text": "You cannot take user's data"
+  },
+  {
+    "start": 367.0,
+    "end": 368.0,
+    "text": "You can take directly"
+  },
+  {
+    "start": 368.0,
+    "end": 370.0,
+    "text": "But, if I am taking user's"
+  },
+  {
+    "start": 370.0,
+    "end": 372.0,
+    "text": "Here, I have taken the data"
+  },
+  {
+    "start": 372.0,
+    "end": 373.0,
+    "text": "And, self"
+  },
+  {
+    "start": 373.0,
+    "end": 375.0,
+    "text": "What is the name of the self-journey"
+  },
+  {
+    "start": 375.0,
+    "end": 378.0,
+    "text": "What we create with a class instance"
+  },
+  {
+    "start": 378.0,
+    "end": 380.0,
+    "text": "A blueprint instance"
+  },
+  {
+    "start": 380.0,
+    "end": 382.0,
+    "text": "We have to give reference"
+  },
+  {
+    "start": 382.0,
+    "end": 384.0,
+    "text": "Again and again"
+  },
+  {
+    "start": 384.0,
+    "end": 386.0,
+    "text": "So, I am also creating an attribute"
+  },
+  {
+    "start": 386.0,
+    "end": 388.0,
+    "text": "ID, name, salary"
+  },
+  {
+    "start": 388.0,
+    "end": 389.0,
+    "text": "So, it helps"
+  },
+  {
+    "start": 389.0,
+    "end": 391.0,
+    "text": "So, if you want to use the ID"
+  },
+  {
+    "start": 391.0,
+    "end": 392.0,
+    "text": "Then, self dot ID"
+  },
+  {
+    "start": 392.0,
+    "end": 394.0,
+    "text": "Name is used by self dot name"
+  },
+  {
+    "start": 394.0,
+    "end": 396.0,
+    "text": "So, it is called self dot salary"
+  },
+  {
+    "start": 396.0,
+    "end": 398.0,
+    "text": "So, in this case, self dot"
+  },
+  {
+    "start": 398.0,
+    "end": 400.0,
+    "text": "It helps me with reference"
+  },
+  {
+    "start": 400.0,
+    "end": 402.0,
+    "text": "So, self dot ID"
+  },
+  {
+    "start": 402.0,
+    "end": 404.0,
+    "text": "I have used self dot name"
+  },
+  {
+    "start": 404.0,
+    "end": 405.0,
+    "text": "I have entered with user's"
+  },
+  {
+    "start": 405.0,
+    "end": 406.0,
+    "text": "Self dot salary"
+  },
+  {
+    "start": 406.0,
+    "end": 407.0,
+    "text": "I have entered with user's"
+  },
+  {
+    "start": 407.0,
+    "end": 409.0,
+    "text": "I am making a automation"
+  },
+  {
+    "start": 409.0,
+    "end": 411.0,
+    "text": "That directly, we are using the data user's"
+  },
+  {
+    "start": 411.0,
+    "end": 412.0,
+    "text": "Enter through the database"
+  },
+  {
+    "start": 412.0,
+    "end": 414.0,
+    "text": "And, after that, I have created a method"
+  },
+  {
+    "start": 414.0,
+    "end": 416.0,
+    "text": "Toob, a function toob"
+  },
+  {
+    "start": 416.0,
+    "end": 417.0,
+    "text": "A display name"
+  },
+  {
+    "start": 417.0,
+    "end": 419.0,
+    "text": "And, we will also try by default"
+  },
+  {
+    "start": 419.0,
+    "end": 420.0,
+    "text": "We will try by default"
+  },
+  {
+    "start": 420.0,
+    "end": 422.0,
+    "text": "In extra parameter, I will tell you in the next video"
+  },
+  {
+    "start": 422.0,
+    "end": 424.0,
+    "text": "Now, we are taking self parameter"
+  },
+  {
+    "start": 424.0,
+    "end": 426.0,
+    "text": "And, I have printed the ID of the faculty"
+  },
+  {
+    "start": 426.0,
+    "end": 428.0,
+    "text": "How to say self dot ID"
+  },
+  {
+    "start": 428.0,
+    "end": 429.0,
+    "text": "Self dot name"
+  },
+  {
+    "start": 429.0,
+    "end": 430.0,
+    "text": "Self dot salary"
+  },
+  {
+    "start": 430.0,
+    "end": 432.0,
+    "text": "So, here we are just writing self"
+  },
+  {
+    "start": 432.0,
+    "end": 433.0,
+    "text": "But, when we use"
+  },
+  {
+    "start": 433.0,
+    "end": 434.0,
+    "text": "With some attribute"
+  },
+  {
+    "start": 434.0,
+    "end": 435.0,
+    "text": "With some variable"
+  },
+  {
+    "start": 435.0,
+    "end": 436.0,
+    "text": "We are using"
+  },
+  {
+    "start": 436.0,
+    "end": 438.0,
+    "text": "So, we use it with self dot"
+  },
+  {
+    "start": 438.0,
+    "end": 440.0,
+    "text": "And, look at this"
+  },
+  {
+    "start": 440.0,
+    "end": 442.0,
+    "text": "Here, what is a blueprint?"
+  },
+  {
+    "start": 442.0,
+    "end": 444.0,
+    "text": "If you execute it so much"
+  },
+  {
+    "start": 444.0,
+    "end": 445.0,
+    "text": "Then, nothing will happen"
+  },
+  {
+    "start": 445.0,
+    "end": 447.0,
+    "text": "If you execute it so much"
+  },
+  {
+    "start": 447.0,
+    "end": 448.0,
+    "text": "I will show you"
+  },
+  {
+    "start": 448.0,
+    "end": 450.0,
+    "text": "Let's suppose, I will remove this from here"
+  },
+  {
+    "start": 450.0,
+    "end": 452.0,
+    "text": "If I remove it from here"
+  },
+  {
+    "start": 452.0,
+    "end": 454.0,
+    "text": "And, I will execute this part"
+  },
+  {
+    "start": 454.0,
+    "end": 455.0,
+    "text": "Then, nothing will happen"
+  },
+  {
+    "start": 455.0,
+    "end": 456.0,
+    "text": "Nothing will happen here"
+  },
+  {
+    "start": 456.0,
+    "end": 457.0,
+    "text": "Why?"
+  },
+  {
+    "start": 457.0,
+    "end": 458.0,
+    "text": "This is just a blueprint"
+  },
+  {
+    "start": 458.0,
+    "end": 460.0,
+    "text": "In memory, we have not yet"
+  },
+  {
+    "start": 460.0,
+    "end": 461.0,
+    "text": "We have created something"
+  },
+  {
+    "start": 461.0,
+    "end": 462.0,
+    "text": "Not yet"
+  },
+  {
+    "start": 462.0,
+    "end": 464.0,
+    "text": "But, when we execute this"
+  },
+  {
+    "start": 464.0,
+    "end": 466.0,
+    "text": "When we will create the object"
+  },
+  {
+    "start": 466.0,
+    "end": 467.0,
+    "text": "What we will do?"
+  },
+  {
+    "start": 467.0,
+    "end": 468.0,
+    "text": "We will create the object"
+  },
+  {
+    "start": 468.0,
+    "end": 469.0,
+    "text": "This is the same"
+  },
+  {
+    "start": 469.0,
+    "end": 471.0,
+    "text": "Like, the definition of function is written"
+  },
+  {
+    "start": 471.0,
+    "end": 472.0,
+    "text": "Till the time, we will not call it"
+  },
+  {
+    "start": 472.0,
+    "end": 473.0,
+    "text": "What is the definition?"
+  },
+  {
+    "start": 473.0,
+    "end": 475.0,
+    "text": "We have created a class blueprint"
+  },
+  {
+    "start": 475.0,
+    "end": 477.0,
+    "text": "But, till the object is not created"
+  },
+  {
+    "start": 477.0,
+    "end": 478.0,
+    "text": "Then, it will not be able to run"
+  },
+  {
+    "start": 478.0,
+    "end": 480.0,
+    "text": "So, that means, we will run"
+  },
+  {
+    "start": 480.0,
+    "end": 482.0,
+    "text": "Because, I am making the object of this name"
+  },
+  {
+    "start": 482.0,
+    "end": 485.0,
+    "text": "In which, we are giving the template"
+  },
+  {
+    "start": 485.0,
+    "end": 487.0,
+    "text": "Fickle template"
+  },
+  {
+    "start": 487.0,
+    "end": 488.0,
+    "text": "So, make this"
+  },
+  {
+    "start": 488.0,
+    "end": 489.0,
+    "text": "Make this"
+  },
+  {
+    "start": 489.0,
+    "end": 490.0,
+    "text": "Now, create the object of the object"
+  },
+  {
+    "start": 490.0,
+    "end": 492.0,
+    "text": "In the company, thousands of employees"
+  },
+  {
+    "start": 492.0,
+    "end": 494.0,
+    "text": "So, thousands of objects can create the object"
+  },
+  {
+    "start": 494.0,
+    "end": 496.0,
+    "text": "You can take it repeatedly"
+  },
+  {
+    "start": 496.0,
+    "end": 499.0,
+    "text": "Directly, we have to use this template"
+  },
+  {
+    "start": 499.0,
+    "end": 502.0,
+    "text": "So, after this, we have called the data"
+  },
+  {
+    "start": 502.0,
+    "end": 504.0,
+    "text": "We have called it"
+  },
+  {
+    "start": 504.0,
+    "end": 506.0,
+    "text": "So, we will ask, as you see, I execute it"
+  },
+  {
+    "start": 506.0,
+    "end": 507.0,
+    "text": "So, here, I execute it"
+  },
+  {
+    "start": 507.0,
+    "end": 508.0,
+    "text": "So, look"
+  },
+  {
+    "start": 508.0,
+    "end": 510.0,
+    "text": "We have called it the identity of the faculty"
+  },
+  {
+    "start": 510.0,
+    "end": 511.0,
+    "text": "I have added it"
+  },
+  {
+    "start": 511.0,
+    "end": 513.0,
+    "text": "I have added it to name"
+  },
+  {
+    "start": 513.0,
+    "end": 514.0,
+    "text": "I have added it to one"
+  },
+  {
+    "start": 514.0,
+    "end": 516.0,
+    "text": "And, after that, I have called it salary"
+  },
+  {
+    "start": 516.0,
+    "end": 518.0,
+    "text": "I have added it to the salary of 10,000"
+  },
+  {
+    "start": 518.0,
+    "end": 520.0,
+    "text": "So, here, I will enter the value of this place"
+  },
+  {
+    "start": 520.0,
+    "end": 522.0,
+    "text": "This will be called as 3 things"
+  },
+  {
+    "start": 522.0,
+    "end": 524.0,
+    "text": "It will be called as the name and salary of the cells"
+  },
+  {
+    "start": 524.0,
+    "end": 526.0,
+    "text": "And, after that, I am doing what I am doing"
+  },
+  {
+    "start": 526.0,
+    "end": 527.0,
+    "text": "Printing"
+  },
+  {
+    "start": 527.0,
+    "end": 529.0,
+    "text": "So, what will happen with the 7th?"
+  },
+  {
+    "start": 529.0,
+    "end": 530.0,
+    "text": "Store"
+  },
+  {
+    "start": 530.0,
+    "end": 531.0,
+    "text": "And, the print will be stored"
+  },
+  {
+    "start": 531.0,
+    "end": 532.0,
+    "text": "So, the value is stored inside"
+  },
+  {
+    "start": 532.0,
+    "end": 534.0,
+    "text": "And, I have not done the display"
+  },
+  {
+    "start": 534.0,
+    "end": 535.0,
+    "text": "And, I have done the display"
+  },
+  {
+    "start": 535.0,
+    "end": 536.0,
+    "text": "And, I have done the display"
+  },
+  {
+    "start": 536.0,
+    "end": 540.0,
+    "text": "So, this is how the actual functioning of class works"
+  },
+  {
+    "start": 540.0,
+    "end": 541.0,
+    "text": "How to make an object?"
+  },
+  {
+    "start": 541.0,
+    "end": 542.0,
+    "text": "How to create a class?"
+  },
+  {
+    "start": 542.0,
+    "end": 544.0,
+    "text": "You can use this as an example"
+  },
+  {
+    "start": 544.0,
+    "end": 546.0,
+    "text": "You can also give the application to the application"
+  },
+  {
+    "start": 546.0,
+    "end": 547.0,
+    "text": "Thank you, Rhee"
+  }
+]

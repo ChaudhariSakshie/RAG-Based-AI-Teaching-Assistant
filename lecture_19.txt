@@ -1,0 +1,307 @@
+[0.00 - 2.00] DS Students, Welcome to Goodsmashers
+[2.00 - 4.00] If I tell you to write a simple sign
+[4.00 - 7.00] I have to print 200 numbers from 1 to 200
+[7.00 - 8.50] So how will you do it?
+[8.50 - 10.50] You will give me a simple solution
+[10.50 - 11.50] That we do this like this
+[11.50 - 13.50] We will do a loop from 1 to 200
+[13.50 - 15.00] And what will we do?
+[15.00 - 18.00] We call it function in Indira
+[18.00 - 21.00] So we will print it and print it in List
+[21.00 - 22.00] How to print it?
+[22.00 - 26.00] For example, I have created a creator name for this function
+[26.00 - 28.00] List I have initially printed it
+[28.00 - 29.50] I is equal to 1
+[29.50 - 31.50] While I is less than equal to 100
+[31.50 - 33.00] You know that initialize 1
+[33.00 - 34.50] I is less than equal to 100
+[34.50 - 36.00] Condition gives 200
+[36.00 - 38.50] And you are applying it in List
+[38.50 - 40.50] And then you are incrementing it
+[40.50 - 42.00] So what will you do first?
+[42.00 - 42.50] Initialize 1
+[42.50 - 43.50] You will print it again
+[43.50 - 45.00] I is equal to I plus 1 2
+[45.00 - 46.00] You will print it 2
+[46.00 - 47.00] You will print it 3
+[47.00 - 47.50] You will print it 4
+[47.50 - 48.50] You will print it in this way
+[48.50 - 49.50] You will print it 200
+[49.50 - 50.50] You will return it
+[50.50 - 51.50] You will return it
+[51.50 - 52.50] And when I call the functions
+[52.50 - 53.50] All this will happen
+[53.50 - 54.50] So a simple sign
+[54.50 - 56.50] You will know the method
+[56.50 - 58.00] You can execute it and do it
+[58.00 - 59.00] So what will you do?
+[59.00 - 61.00] You will print it from this way
+[61.00 - 62.00] You can print it
+[62.00 - 65.00] You can also say that you can use range
+[65.00 - 67.00] You can also use such a function
+[67.00 - 69.00] You can also use range
+[69.00 - 71.00] You can also do it
+[71.00 - 73.00] We have said that
+[73.00 - 75.00] I have used the range function
+[75.00 - 76.00] From 1 to 211
+[76.00 - 80.00] Because the value of range is less than the end point
+[80.00 - 82.00] So we have printed it from this way
+[82.00 - 85.00] So I will print it from this way
+[85.00 - 87.50] I can also create the range through the range
+[87.50 - 89.50] So we have taken it from this way
+[89.50 - 91.50] Now if I want to see size
+[91.50 - 93.50] If I want to see size
+[93.50 - 95.50] Then what can we do for size?
+[95.50 - 96.50] Import
+[96.50 - 99.50] Since here I can say import
+[99.50 - 101.50] And then after that
+[101.50 - 103.50] What will we do here?
+[103.50 - 104.50] Why did we import?
+[104.50 - 105.50] So that I can use the system
+[105.50 - 107.50] And what we have done here
+[107.50 - 108.50] We have let's say
+[108.50 - 109.50] Jd is equal to
+[109.50 - 111.50] Since dot size
+[111.50 - 114.00] Since dot get size of
+[114.00 - 116.00] I will use this function
+[116.00 - 118.80] Since dot get size of
+[118.80 - 120.80] Which size do we have to get?
+[120.80 - 121.80] So I have list size of
+[121.80 - 122.80] The size of the list
+[122.80 - 124.80] And the answer will come in the Jd
+[124.80 - 126.80] And I will print it
+[126.80 - 127.80] I will print it from Jd
+[127.80 - 128.60] So Jd
+[128.60 - 129.80] As I have printed it
+[129.80 - 131.30] So what was given here in the output?
+[131.30 - 132.80] So we have taken it from 1 to 100
+[132.80 - 133.80] So what is the size?
+[133.80 - 134.80] 414
+[134.80 - 136.80] So 414 is byte
+[136.80 - 137.80] Space
+[137.80 - 139.40] This is the whole program of the whole
+[139.40 - 140.60] Because the value of 200 is
+[140.60 - 142.60] What are the two integers doing?
+[142.70 - 144.20] Save in memory
+[144.20 - 146.20] From here the main story starts
+[146.20 - 148.20] What is this?
+[148.20 - 149.20] All the values
+[149.20 - 150.20] In 200 values
+[150.20 - 151.20] In memory
+[151.20 - 152.20] Save
+[152.20 - 155.20] Now if I am performing something here
+[155.20 - 156.20] Let's suppose
+[156.20 - 158.20] I have to increase the number of each list
+[158.20 - 160.20] To multiply it
+[160.20 - 161.20] To do power of two
+[161.20 - 162.20] I want to do something
+[162.20 - 163.20] I can easily do
+[163.20 - 164.20] Yes, I can do it
+[164.20 - 165.20] But
+[165.20 - 166.20] What is the problem?
+[166.20 - 167.20] Memory
+[167.20 - 169.20] You have used the memory here
+[169.20 - 171.20] When I
+[171.30 - 173.80] I have to add 10 in every number
+[173.80 - 174.80] How will I do it?
+[174.80 - 175.80] I will show you
+[175.80 - 176.80] Let me do it here
+[176.80 - 177.80] What will I do?
+[177.80 - 179.80] I have printed it
+[179.80 - 181.00] I have printed it
+[181.00 - 181.80] And here
+[181.80 - 182.80] Let's suppose
+[182.80 - 183.80] Name
+[183.80 - 184.80] Number
+[184.80 - 185.80] Plus 10
+[185.80 - 187.80] The simple thing here
+[187.80 - 189.40] I am using a list of the combinations
+[189.40 - 190.40] So number plus 10
+[190.40 - 191.00] For
+[191.00 - 192.00] Name
+[192.00 - 193.00] In
+[193.00 - 193.80] Number
+[193.80 - 195.40] Which is the list?
+[195.40 - 196.60] This is the creator
+[196.60 - 198.40] So in the creator value
+[198.40 - 199.40] I have
+[199.40 - 201.00] Number plus 10
+[201.00 - 202.60] So the expression here
+[202.60 - 203.60] I write in the combination
+[203.60 - 204.60] Number plus 10
+[204.60 - 205.60] For
+[205.60 - 206.60] Which number
+[206.60 - 208.60] Where is the creator?
+[208.60 - 209.60] So the creator value
+[209.60 - 211.60] I have to do
+[211.60 - 212.80] Plus 10
+[212.80 - 213.80] So what is this?
+[213.80 - 214.80] Value 1
+[214.80 - 215.80] It is connected to that
+[215.80 - 216.80] In the other
+[216.80 - 217.80] In the other
+[217.80 - 218.80] In the other
+[218.80 - 219.80] In this way
+[219.80 - 221.20] It is connected to 10
+[221.20 - 222.20] But here
+[222.20 - 223.20] The problem
+[223.20 - 224.20] What is the problem?
+[224.20 - 225.40] The memory
+[225.40 - 227.40] With 200 values
+[227.40 - 228.40] And then
+[228.40 - 230.00] You have added 10 in every number
+[230.00 - 232.60] So what could be better solution?
+[232.60 - 233.60] When I know
+[233.60 - 234.60] That each number
+[234.60 - 237.00] To increase 10 in 1
+[237.00 - 239.00] So in the case of starting
+[239.00 - 241.00] I have taken 200 numbers
+[241.00 - 243.20] I can generate 1 and that
+[243.20 - 244.20] And what can I do?
+[244.20 - 245.40] I can add
+[245.40 - 246.40] This can be done
+[246.40 - 247.40] In 200 numbers
+[247.40 - 248.40] It is not that
+[248.40 - 249.60] But if you are using
+[249.60 - 250.80] Two crore numbers
+[250.80 - 251.80] It is 10 crore
+[251.80 - 253.40] Billions of the numbers
+[253.40 - 255.40] So how many huge space
+[255.40 - 257.20] It has occupied
+[257.20 - 258.40] We want
+[258.40 - 259.80] When we are connected
+[259.80 - 261.80] We want to generate 1 crore
+[261.80 - 262.80] In 1 bar
+[262.80 - 264.00] We generate 1 crore
+[264.00 - 265.80] And we do not occupy the memory
+[265.80 - 266.80] So here
+[266.80 - 269.00] If I do not generate 1 crore
+[269.00 - 271.00] We want to generate 1 crore
+[271.00 - 272.40] So what will I use?
+[272.40 - 273.20] Generator
+[273.20 - 274.20] Generator
+[274.20 - 275.20] Generator
+[275.20 - 276.20] Special function
+[276.20 - 277.40] It is used
+[277.40 - 279.00] So what will we do in the generator?
+[279.00 - 279.60] Look
+[279.60 - 281.40] What will we do here?
+[281.40 - 282.40] The simple def
+[282.40 - 283.20] Creator
+[283.20 - 285.20] I have created a name for the function
+[285.20 - 286.00] I equal to
+[286.00 - 287.60] Now we need to make a list here
+[287.60 - 290.40] Because the list is not created here
+[290.40 - 292.40] We are generating here
+[292.40 - 294.00] While I equal to 100
+[294.00 - 294.80] This is the same condition
+[294.80 - 296.00] Starting and writing
+[296.00 - 297.00] The yield
+[297.00 - 298.40] What we have written here
+[298.40 - 299.60] Generator
+[299.60 - 301.00] Is doing yield
+[301.00 - 302.00] I plus 1
+[302.00 - 303.40] And the creator
+[303.40 - 304.00] So here
+[304.00 - 305.80] We are not using the entire list
+[305.80 - 307.80] In one bar
+[307.80 - 309.00] The memory of the Falto
+[309.00 - 310.20] We are not using
+[310.20 - 312.20] In the memory of the Efficient
+[312.20 - 314.40] So that we can create one by one
+[314.40 - 316.40] And create value
+[316.40 - 318.60] When I execute it
+[318.60 - 320.20] So it will not work
+[320.20 - 321.40] What will we do?
+[321.40 - 322.20] Generator
+[322.20 - 323.20] An object
+[323.20 - 325.40] Because everything in Python is like an object
+[325.40 - 327.00] So the generator is an object
+[327.00 - 328.00] We have created it
+[328.00 - 329.00] In this memory location
+[329.00 - 331.80] But if I generate value
+[331.80 - 332.80] What will I do?
+[332.80 - 334.20] Let's suppose I have done it
+[334.20 - 335.20] X is equal to
+[335.20 - 336.20] Creator
+[336.20 - 337.40] X is equal to
+[337.40 - 338.60] Creator 1
+[338.60 - 340.00] X is equal to Creator 1
+[340.00 - 341.40] And here I have done it
+[341.40 - 342.40] Print
+[342.40 - 343.60] Print what you have done here?
+[343.60 - 344.60] Next
+[344.60 - 345.60] What we have to do here?
+[345.60 - 346.20] Print
+[346.20 - 347.20] Next
+[347.20 - 348.20] X
+[348.20 - 349.60] Because here how will we do the work?
+[349.60 - 351.60] How will we do the work?
+[351.60 - 353.20] As you said
+[353.20 - 354.20] That X1
+[354.20 - 355.60] Here my creator
+[355.60 - 357.20] The creator will generate value
+[357.20 - 358.20] And print it
+[358.20 - 359.20] And we will do the next
+[359.20 - 361.20] Is it equal to
+[361.20 - 363.20] While I is less than equal to 200
+[363.20 - 366.00] So this will stop here
+[366.00 - 368.00] This will stop here
+[368.00 - 369.00] And we will not do the work
+[369.00 - 370.00] As you will run the next
+[370.00 - 371.80] So what will we do?
+[371.80 - 373.40] We will generate it
+[373.40 - 374.60] I is equal to I plus 1
+[374.60 - 377.20] And then we will generate 2
+[377.20 - 379.20] And then we will generate 3
+[379.20 - 380.20] And then we will not do this
+[380.20 - 383.20] But if I want to check
+[383.20 - 385.20] As I have printed one time
+[385.20 - 388.20] Now I will do it again
+[388.20 - 389.20] So look what I have done here
+[389.20 - 390.60] I have generated 2
+[390.60 - 392.40] If I fail this again
+[392.40 - 393.40] So what I have done here
+[393.40 - 394.40] I have generated 3
+[394.40 - 396.40] So when you call
+[396.40 - 397.40] Then this will generate
+[397.40 - 397.90] Otherwise
+[397.90 - 399.20] I will not generate
+[399.20 - 401.20] So that you can utilize the memory
+[401.20 - 402.20] How to efficiently
+[402.20 - 403.20] When you want
+[403.20 - 404.20] You generate
+[404.20 - 406.20] And remember this number
+[406.20 - 407.20] You know
+[407.20 - 408.40] That I have generated 1
+[408.40 - 409.40] Then 2
+[409.40 - 410.40] Then 3
+[410.40 - 411.40] You cannot come back
+[411.40 - 411.90] Next
+[411.90 - 413.40] How to generate the next
+[413.40 - 414.40] And if you want
+[414.40 - 415.40] Show it in the list
+[415.40 - 416.40] Once you have shown
+[416.40 - 417.40] So you can print it
+[417.40 - 418.40] So here
+[418.40 - 419.40] Print
+[419.40 - 420.40] If you want to list
+[420.40 - 421.90] So if you do list
+[421.90 - 422.90] Then the entire list
+[422.90 - 423.90] Print it
+[423.90 - 425.40] But the important part
+[425.40 - 427.00] Is that the list will start
+[427.00 - 430.00] Because you already have 1, 2, 3
+[430.00 - 431.00] You have to generate
+[431.00 - 432.60] So it is the whole number
+[432.60 - 434.40] How to iterate
+[434.40 - 435.40] And do 1
+[435.40 - 436.40] So in this generator
+[436.40 - 437.40] Function actual
+[437.40 - 438.40] Which is the yield
+[438.40 - 439.40] Function
+[439.40 - 440.40] What is the help of
+[440.40 - 441.40] Helping you
+[441.40 - 442.40] Helping you to utilize the best
+[442.40 - 443.40] How to utilize the best
+[443.40 - 444.40] Thank you

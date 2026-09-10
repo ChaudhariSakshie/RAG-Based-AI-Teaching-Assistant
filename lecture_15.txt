@@ -1,0 +1,211 @@
+[0.00 - 2.00] DS Students, Welcome to Guitsmashers.
+[2.00 - 6.50] Today's video is explaining Scoping & Lifetime of a Variable.
+[6.50 - 9.00] So whenever we use a variable in Python,
+[9.00 - 12.00] especially in the program of Functions,
+[12.00 - 16.00] Scoping or Lifetime related questions
+[16.00 - 19.00] are asked in interviews or in the competitive exam.
+[19.00 - 22.00] So I will tell you all the details here.
+[22.00 - 24.00] First of all, students are confused
+[24.00 - 27.00] what is the coping and lifetime,
+[27.00 - 28.00] what are the same.
+[28.00 - 30.00] So let me demonstrate here.
+[30.00 - 34.00] Scoping is a variable.
+[34.00 - 37.00] Scoping of a variable is the block of code
+[37.00 - 40.00] in the entire program where the variable is declared
+[40.00 - 42.00] use or can be modified.
+[42.00 - 44.00] Simple, that means what is the scope?
+[44.00 - 47.00] Scoping is the scope that is in the program
+[47.00 - 49.00] such a portion, such an area
+[49.00 - 52.00] where that variable is known.
+[52.00 - 54.00] As in movies,
+[54.00 - 56.00] my name is Papu Pajar
+[56.00 - 58.00] and the whole 4th of the year,
+[58.00 - 60.00] so I call it Pajar.
+[60.00 - 64.00] So what is the actual area?
+[64.00 - 68.00] A portion where the variable is known
+[68.00 - 70.00] as a particular variable.
+[70.00 - 72.00] If we go outside the area,
+[72.00 - 74.00] we will not recognize it.
+[74.00 - 76.00] So this is the simple concept of Scoping.
+[76.00 - 78.00] So here there are two things here.
+[78.00 - 80.00] One is local and the other is Global.
+[80.00 - 83.00] The variable we use is a local variable.
+[83.00 - 87.00] Like I showed you the program in the function,
+[87.00 - 91.00] there is a function and I used the variable in the function.
+[91.00 - 93.00] So it is a local variable.
+[93.00 - 95.00] So where will we recognize it?
+[95.00 - 97.00] How much is the area?
+[97.00 - 99.00] It will be known inside the function.
+[99.00 - 101.00] It will not be recognized outside the function.
+[101.00 - 105.00] If I take the variable and say it is a global variable,
+[105.00 - 109.00] I have used it outside the function or
+[109.00 - 111.00] I have named it Global Variable.
+[111.00 - 115.00] So that means it is known outside the function
+[115.00 - 117.00] and outside the function.
+[117.00 - 119.00] So this is actually a area
+[119.00 - 121.00] where you recognize that variable.
+[121.00 - 123.00] It is recognized.
+[123.00 - 125.00] And what is the lifetime time?
+[125.00 - 127.00] This is a time period.
+[127.00 - 129.00] This is a duration.
+[129.00 - 131.00] The variable is in the memory
+[131.00 - 133.00] and it is existing for so long.
+[133.00 - 135.00] That is what a lifetime is.
+[135.00 - 137.00] So this is a duration.
+[137.00 - 139.00] So you have a duration.
+[139.00 - 141.00] It is a time period.
+[141.00 - 143.00] So as soon as it is in the variable,
+[143.00 - 145.00] I have used the variable in the function.
+[145.00 - 147.00] Now I am calling that function.
+[147.00 - 149.00] So as soon as I called that function,
+[149.00 - 151.00] that is the function.
+[151.00 - 153.00] The variable in the function is in the memory.
+[153.00 - 155.00] Now as soon as I am using it,
+[155.00 - 157.00] I am using it in the function.
+[157.00 - 159.00] Until the control is in the function,
+[159.00 - 161.00] it will remain in the memory.
+[161.00 - 163.00] As soon as I return,
+[163.00 - 165.00] the variable will be destroyed from the memory.
+[165.00 - 167.00] And the DL will be destroyed.
+[167.00 - 169.00] So this is a simple concept.
+[169.00 - 171.00] So variables get automatically destroyed.
+[171.00 - 173.00] Once we return from the function.
+[173.00 - 175.00] So this is a theory.
+[175.00 - 177.00] But I will execute it here.
+[177.00 - 179.00] I have made a program here.
+[179.00 - 183.00] You will be able to complete the entire story of that program.
+[183.00 - 185.00] So see what I have done here.
+[185.00 - 189.00] I have taken a global name variable.
+[189.00 - 191.00] It is outside the function.
+[191.00 - 193.00] And why did I take a global variable?
+[193.00 - 195.00] So here I have passed the high,
+[195.00 - 197.00] I am globally available.
+[197.00 - 199.00] And this is a function that I have done.
+[199.00 - 201.00] I have done a function of F1,
+[201.00 - 203.00] and this is a function of F1.
+[203.00 - 205.00] And inside it, I have taken a local name variable.
+[205.00 - 207.00] And this is a high,
+[207.00 - 209.00] I am locally available.
+[209.00 - 210.00] So here,
+[210.00 - 212.00] it is local so that you can know the name.
+[212.00 - 213.00] So see,
+[213.00 - 215.00] what I have done here.
+[215.00 - 216.00] Local.
+[216.00 - 218.00] And what I have done here is a global.
+[218.00 - 220.00] I am trying to print both of them here.
+[220.00 - 222.00] So see, as soon as I execute it,
+[222.00 - 223.00] I have called the function.
+[223.00 - 224.00] I have called F1.
+[224.00 - 226.00] This is the definition of function.
+[226.00 - 227.00] Now I call the function.
+[227.00 - 229.00] As soon as I call the function,
+[229.00 - 231.00] what will be done here?
+[231.00 - 233.00] Call the control here.
+[233.00 - 234.00] Def F1.
+[234.00 - 235.00] What is inside F1?
+[235.00 - 237.00] Local, this is a memory.
+[237.00 - 238.00] It is declared in memory.
+[238.00 - 239.00] Local,
+[239.00 - 241.00] it is declared in memory.
+[241.00 - 243.00] And this is the string.
+[243.00 - 245.00] Now I have said that I have printed it local.
+[245.00 - 246.00] Now see,
+[246.00 - 249.00] this local is actually the scope.
+[249.00 - 251.00] It is known there.
+[251.00 - 254.00] It is known within the function.
+[254.00 - 256.00] And this is existing in memory.
+[256.00 - 257.00] Why is it still existing?
+[257.00 - 259.00] Because I have called the function.
+[259.00 - 261.00] So this is existing in memory.
+[261.00 - 262.00] And it has printed it.
+[262.00 - 264.00] I am locally available.
+[264.00 - 266.00] But what is the important thing here?
+[266.00 - 267.00] What I have printed here?
+[267.00 - 268.00] Global.
+[268.00 - 270.00] And this is also printed.
+[270.00 - 271.00] Now why is it printed?
+[271.00 - 273.00] Because it is not the function.
+[273.00 - 274.00] It is the global.
+[274.00 - 275.00] Now,
+[275.00 - 277.00] the way it can be said that
+[277.00 - 279.00] its area is the area.
+[279.00 - 281.00] It is the only area inside the SNA.
+[281.00 - 283.00] It is outside and inside.
+[283.00 - 285.00] It is the whole program.
+[285.00 - 286.00] It is used.
+[286.00 - 288.00] See what I do in this.
+[288.00 - 289.00] Let's suppose,
+[289.00 - 291.00] this was my function's definition.
+[291.00 - 292.00] I have called the function.
+[292.00 - 293.00] Now what am I doing outside?
+[293.00 - 295.00] I am printing outside.
+[295.00 - 298.00] The outside of the function is printing from the globe.
+[298.00 - 299.00] And with this,
+[299.00 - 301.00] what I have printed here is local.
+[301.00 - 304.00] Because I have used these two variables.
+[304.00 - 306.00] I have used these two variables.
+[306.00 - 308.00] So I have used these two variables here.
+[308.00 - 310.00] I will execute it again.
+[310.00 - 311.00] See here,
+[311.00 - 313.00] as I have executed it again.
+[313.00 - 314.00] So what happened first?
+[314.00 - 316.00] First, I will drop it a little.
+[316.00 - 318.00] What happened first?
+[318.00 - 320.00] What happened in the control F1?
+[320.00 - 321.00] What is the local?
+[321.00 - 322.00] How is it?
+[322.00 - 324.00] It is declared and printed.
+[324.00 - 325.00] It has the local value.
+[325.00 - 326.00] And with this,
+[326.00 - 328.00] the global value is printed.
+[328.00 - 330.00] And after that, the control is gone.
+[330.00 - 332.00] The control is gone again.
+[332.00 - 334.00] Because the F1 has been executed.
+[334.00 - 336.00] And we have returned from one side.
+[336.00 - 338.00] I mean, the function has come out.
+[338.00 - 340.00] I have printed it again and again.
+[340.00 - 342.00] So look at this.
+[342.00 - 343.00] I am globally available.
+[343.00 - 344.00] But this is also printed.
+[344.00 - 346.00] Because this globe,
+[346.00 - 348.00] this global variable,
+[348.00 - 352.00] is also available in the entire program.
+[352.00 - 353.00] But local,
+[353.00 - 355.00] as I have printed it,
+[355.00 - 358.00] so look at the error.
+[358.00 - 360.00] The name error is here.
+[360.00 - 362.00] What is it called in the name error?
+[362.00 - 364.00] What is the local?
+[364.00 - 366.00] What is the local?
+[366.00 - 368.00] Here, there is no local.
+[368.00 - 370.00] There is no local.
+[370.00 - 372.00] It is not a Rocky.
+[372.00 - 374.00] It is known as the local.
+[374.00 - 376.00] It was only within the function.
+[376.00 - 378.00] Nobody knows it.
+[378.00 - 380.00] Only outside,
+[380.00 - 382.00] only outside,
+[382.00 - 384.00] even inside,
+[384.00 - 386.00] even inside.
+[386.00 - 390.00] So, as soon as you print the local,
+[390.00 - 392.00] you declare the global variable,
+[392.00 - 394.00] it is in the whole program.
+[394.00 - 396.00] Even outside,
+[396.00 - 398.00] even inside,
+[398.00 - 400.00] even inside,
+[400.00 - 402.00] you are doing a local function.
+[402.00 - 404.00] So, the scope is only within the scope.
+[404.00 - 406.00] Nobody knows it.
+[406.00 - 408.00] And you can say lifetime,
+[408.00 - 410.00] like you are going to go to a global lifetime.
+[410.00 - 412.00] Because, as I have declared it,
+[412.00 - 414.00] I am calling it somewhere.
+[414.00 - 416.00] I am always executing it.
+[416.00 - 418.00] So, this is the entire lifetime.
+[418.00 - 420.00] Because, as long as it is not written,
+[420.00 - 422.00] it will exist in memory.
+[422.00 - 424.00] As long as it is written,
+[424.00 - 426.00] it will be destroyed automatically.
+[426.00 - 428.00] So, this is all about the
+[428.00 - 430.00] scoping and lifetime of our variables.
+[430.00 - 432.00] Thank you.

@@ -1,0 +1,1172 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "days students, welcome to great measures."
+  },
+  {
+    "start": 2.0,
+    "end": 4.0,
+    "text": "Today's video is starting"
+  },
+  {
+    "start": 4.0,
+    "end": 9.0,
+    "text": "data visualization using Mac Plot LIB in Python."
+  },
+  {
+    "start": 9.0,
+    "end": 15.0,
+    "text": "So, here the Mac Plot LIB is a very important library which is used in Python"
+  },
+  {
+    "start": 15.0,
+    "end": 21.0,
+    "text": "and this is especially used because of data visualization as well as data analysis"
+  },
+  {
+    "start": 21.0,
+    "end": 26.0,
+    "text": "because analysis and visualization are related terms in the case of analysis"
+  },
+  {
+    "start": 26.0,
+    "end": 29.0,
+    "text": "we take out the important things of data"
+  },
+  {
+    "start": 29.0,
+    "end": 33.0,
+    "text": "but the output I present it in a very nice way"
+  },
+  {
+    "start": 33.0,
+    "end": 37.0,
+    "text": "like if you go to a restaurant, there you have a dish"
+  },
+  {
+    "start": 37.0,
+    "end": 39.0,
+    "text": "so the dish has been made very well"
+  },
+  {
+    "start": 39.0,
+    "end": 44.0,
+    "text": "but if they don't do it well, then you will feel"
+  },
+  {
+    "start": 44.0,
+    "end": 49.0,
+    "text": "a psychology is being made, it is not visible, it looks like it will be like this"
+  },
+  {
+    "start": 49.0,
+    "end": 52.0,
+    "text": "so that's why we are making a dish here"
+  },
+  {
+    "start": 52.0,
+    "end": 55.0,
+    "text": "the important ingredients, everything is great"
+  },
+  {
+    "start": 55.0,
+    "end": 58.0,
+    "text": "and they are also doing very well on the representation"
+  },
+  {
+    "start": 58.0,
+    "end": 62.0,
+    "text": "so in representation, the Mac Plot LIB is also used"
+  },
+  {
+    "start": 62.0,
+    "end": 64.0,
+    "text": "and one more thing I will tell you"
+  },
+  {
+    "start": 64.0,
+    "end": 68.0,
+    "text": "that the entire data visualization is used in the world"
+  },
+  {
+    "start": 68.0,
+    "end": 70.0,
+    "text": "that means you will see how many data in the world"
+  },
+  {
+    "start": 70.0,
+    "end": 72.0,
+    "text": "you will see how many huge amounts of data will be used"
+  },
+  {
+    "start": 72.0,
+    "end": 76.0,
+    "text": "so 80% of the data is used whenever you are visualizing"
+  },
+  {
+    "start": 76.0,
+    "end": 78.0,
+    "text": "so the third chart is used most"
+  },
+  {
+    "start": 78.0,
+    "end": 80.0,
+    "text": "the first is your line chart"
+  },
+  {
+    "start": 80.0,
+    "end": 82.0,
+    "text": "which I am going to tell you"
+  },
+  {
+    "start": 82.0,
+    "end": 85.0,
+    "text": "the second is the bar and the third is the pipe"
+  },
+  {
+    "start": 85.0,
+    "end": 87.0,
+    "text": "so many charts are used"
+  },
+  {
+    "start": 87.0,
+    "end": 89.0,
+    "text": "different types of charts"
+  },
+  {
+    "start": 89.0,
+    "end": 91.0,
+    "text": "one of the most important is the use of the pipe"
+  },
+  {
+    "start": 91.0,
+    "end": 95.0,
+    "text": "and how many charts are used"
+  },
+  {
+    "start": 95.0,
+    "end": 97.0,
+    "text": "I have already made a video on the pipe"
+  },
+  {
+    "start": 97.0,
+    "end": 99.0,
+    "text": "the link is in the description box"
+  },
+  {
+    "start": 99.0,
+    "end": 101.0,
+    "text": "I will also be coming to the next section"
+  },
+  {
+    "start": 101.0,
+    "end": 103.0,
+    "text": "and you will also be able to check"
+  },
+  {
+    "start": 103.0,
+    "end": 105.0,
+    "text": "the introduction of the pipe"
+  },
+  {
+    "start": 105.0,
+    "end": 107.0,
+    "text": "which is the type of charts"
+  },
+  {
+    "start": 107.0,
+    "end": 111.0,
+    "text": "and how they use the purpose"
+  },
+  {
+    "start": 111.0,
+    "end": 113.0,
+    "text": "and how they use the scenarios"
+  },
+  {
+    "start": 113.0,
+    "end": 115.0,
+    "text": "which chart are used in this video"
+  },
+  {
+    "start": 115.0,
+    "end": 117.0,
+    "text": "I have already told you this video"
+  },
+  {
+    "start": 117.0,
+    "end": 119.0,
+    "text": "but here it is okay"
+  },
+  {
+    "start": 119.0,
+    "end": 121.0,
+    "text": "we are going to demonstrate"
+  },
+  {
+    "start": 121.0,
+    "end": 125.0,
+    "text": "that how we have made the line chart"
+  },
+  {
+    "start": 125.0,
+    "end": 127.0,
+    "text": "and look, it is very simple"
+  },
+  {
+    "start": 127.0,
+    "end": 129.0,
+    "text": "there is no longer a long work in the kitchen"
+  },
+  {
+    "start": 129.0,
+    "end": 133.0,
+    "text": "first of all, we have the pip install"
+  },
+  {
+    "start": 133.0,
+    "end": 135.0,
+    "text": "which is our library"
+  },
+  {
+    "start": 135.0,
+    "end": 137.0,
+    "text": "we have taken it in the environment"
+  },
+  {
+    "start": 137.0,
+    "end": 139.0,
+    "text": "so pip install made plot"
+  },
+  {
+    "start": 139.0,
+    "end": 141.0,
+    "text": "then I have imported the map plot"
+  },
+  {
+    "start": 141.0,
+    "end": 143.0,
+    "text": "LIV dot p y plot"
+  },
+  {
+    "start": 143.0,
+    "end": 145.0,
+    "text": "the plotting is"
+  },
+  {
+    "start": 145.0,
+    "end": 147.0,
+    "text": "the line chart is pipe chart"
+  },
+  {
+    "start": 147.0,
+    "end": 149.0,
+    "text": "this is all your p y plot"
+  },
+  {
+    "start": 149.0,
+    "end": 151.0,
+    "text": "so in this library"
+  },
+  {
+    "start": 151.0,
+    "end": 153.0,
+    "text": "I have accessed the dot"
+  },
+  {
+    "start": 153.0,
+    "end": 155.0,
+    "text": "and I have created a new name"
+  },
+  {
+    "start": 155.0,
+    "end": 157.0,
+    "text": "for this plot"
+  },
+  {
+    "start": 157.0,
+    "end": 159.0,
+    "text": "and I have created a new name"
+  },
+  {
+    "start": 159.0,
+    "end": 161.0,
+    "text": "and a small name"
+  },
+  {
+    "start": 161.0,
+    "end": 163.0,
+    "text": "P L T"
+  },
+  {
+    "start": 163.0,
+    "end": 165.0,
+    "text": "but then you have to write"
+  },
+  {
+    "start": 165.0,
+    "end": 167.0,
+    "text": "P L O T P L O T"
+  },
+  {
+    "start": 167.0,
+    "end": 169.0,
+    "text": "that is the name of the plot"
+  },
+  {
+    "start": 169.0,
+    "end": 171.0,
+    "text": "you can write P L T"
+  },
+  {
+    "start": 171.0,
+    "end": 173.0,
+    "text": "or you can do P B"
+  },
+  {
+    "start": 173.0,
+    "end": 175.0,
+    "text": "which is not a big thing"
+  },
+  {
+    "start": 175.0,
+    "end": 177.0,
+    "text": "which is the name of the plot"
+  },
+  {
+    "start": 177.0,
+    "end": 179.0,
+    "text": "so this is the name of the plot"
+  },
+  {
+    "start": 179.0,
+    "end": 181.0,
+    "text": "like the name of the children"
+  },
+  {
+    "start": 181.0,
+    "end": 183.0,
+    "text": "but at home"
+  },
+  {
+    "start": 183.0,
+    "end": 185.0,
+    "text": "we call it Kaku"
+  },
+  {
+    "start": 185.0,
+    "end": 187.0,
+    "text": "Kaku Kaku Kaku"
+  },
+  {
+    "start": 187.0,
+    "end": 189.0,
+    "text": "so this is the same thing"
+  },
+  {
+    "start": 189.0,
+    "end": 191.0,
+    "text": "I have taken a list"
+  },
+  {
+    "start": 191.0,
+    "end": 193.0,
+    "text": "I have taken it from the list name"
+  },
+  {
+    "start": 193.0,
+    "end": 195.0,
+    "text": "which you can take"
+  },
+  {
+    "start": 195.0,
+    "end": 197.0,
+    "text": "1,4,9, whatever you want to take"
+  },
+  {
+    "start": 197.0,
+    "end": 199.0,
+    "text": "I have made a list"
+  },
+  {
+    "start": 199.0,
+    "end": 201.0,
+    "text": "first we will explain the syntax"
+  },
+  {
+    "start": 201.0,
+    "end": 203.0,
+    "text": "if it comes"
+  },
+  {
+    "start": 203.0,
+    "end": 205.0,
+    "text": "then it will be good"
+  },
+  {
+    "start": 205.0,
+    "end": 207.0,
+    "text": "but if you are looking at it"
+  },
+  {
+    "start": 207.0,
+    "end": 209.0,
+    "text": "then it is very important"
+  },
+  {
+    "start": 209.0,
+    "end": 211.0,
+    "text": "because it is time to come"
+  },
+  {
+    "start": 211.0,
+    "end": 213.0,
+    "text": "so what is the time to come"
+  },
+  {
+    "start": 213.0,
+    "end": 215.0,
+    "text": "it is time to come"
+  },
+  {
+    "start": 215.0,
+    "end": 217.0,
+    "text": "it is all field"
+  },
+  {
+    "start": 217.0,
+    "end": 219.0,
+    "text": "so all the things that are changing"
+  },
+  {
+    "start": 219.0,
+    "end": 221.0,
+    "text": "but the data visualization"
+  },
+  {
+    "start": 221.0,
+    "end": 223.0,
+    "text": "analysis is getting very important"
+  },
+  {
+    "start": 223.0,
+    "end": 225.0,
+    "text": "because the data is getting very huge"
+  },
+  {
+    "start": 225.0,
+    "end": 227.0,
+    "text": "so it is analyzing"
+  },
+  {
+    "start": 227.0,
+    "end": 229.0,
+    "text": "and visualizing"
+  },
+  {
+    "start": 229.0,
+    "end": 231.0,
+    "text": "it is also necessary to make it"
+  },
+  {
+    "start": 231.0,
+    "end": 233.0,
+    "text": "and understand"
+  },
+  {
+    "start": 233.0,
+    "end": 235.0,
+    "text": "that is why"
+  },
+  {
+    "start": 235.0,
+    "end": 237.0,
+    "text": "I will explain it"
+  },
+  {
+    "start": 237.0,
+    "end": 239.0,
+    "text": "then plt.plot"
+  },
+  {
+    "start": 239.0,
+    "end": 241.0,
+    "text": "I am plotting these values"
+  },
+  {
+    "start": 241.0,
+    "end": 243.0,
+    "text": "I have passed the list"
+  },
+  {
+    "start": 243.0,
+    "end": 245.0,
+    "text": "and what will I do"
+  },
+  {
+    "start": 245.0,
+    "end": 247.0,
+    "text": "as I have done"
+  },
+  {
+    "start": 247.0,
+    "end": 249.0,
+    "text": "you will become a line chart"
+  },
+  {
+    "start": 249.0,
+    "end": 251.0,
+    "text": "now the important thing is"
+  },
+  {
+    "start": 251.0,
+    "end": 253.0,
+    "text": "the chart is"
+  },
+  {
+    "start": 253.0,
+    "end": 255.0,
+    "text": "2x"
+  },
+  {
+    "start": 255.0,
+    "end": 257.0,
+    "text": "1x is the"
+  },
+  {
+    "start": 257.0,
+    "end": 259.0,
+    "text": "y axis"
+  },
+  {
+    "start": 259.0,
+    "end": 261.0,
+    "text": "I will pass the list"
+  },
+  {
+    "start": 261.0,
+    "end": 263.0,
+    "text": "when the list is passed"
+  },
+  {
+    "start": 263.0,
+    "end": 265.0,
+    "text": "the y axis"
+  },
+  {
+    "start": 265.0,
+    "end": 267.0,
+    "text": "is the line of the vertical line"
+  },
+  {
+    "start": 267.0,
+    "end": 269.0,
+    "text": "so this is the"
+  },
+  {
+    "start": 269.0,
+    "end": 271.0,
+    "text": "x axis"
+  },
+  {
+    "start": 271.0,
+    "end": 273.0,
+    "text": "I will explain the values"
+  },
+  {
+    "start": 273.0,
+    "end": 275.0,
+    "text": "if you come"
+  },
+  {
+    "start": 275.0,
+    "end": 277.0,
+    "text": "you will understand"
+  },
+  {
+    "start": 277.0,
+    "end": 279.0,
+    "text": "as I am doing this"
+  },
+  {
+    "start": 279.0,
+    "end": 281.0,
+    "text": "I will show you"
+  },
+  {
+    "start": 281.0,
+    "end": 283.0,
+    "text": "how to make it"
+  },
+  {
+    "start": 283.0,
+    "end": 285.0,
+    "text": "yes"
+  },
+  {
+    "start": 285.0,
+    "end": 287.0,
+    "text": "I hope it will be visible"
+  },
+  {
+    "start": 287.0,
+    "end": 289.0,
+    "text": "I will show you"
+  },
+  {
+    "start": 289.0,
+    "end": 291.0,
+    "text": "as I have made"
+  },
+  {
+    "start": 291.0,
+    "end": 293.0,
+    "text": "all the values"
+  },
+  {
+    "start": 293.0,
+    "end": 295.0,
+    "text": "and all the squares"
+  },
+  {
+    "start": 295.0,
+    "end": 297.0,
+    "text": "are in the y axis"
+  },
+  {
+    "start": 297.0,
+    "end": 299.0,
+    "text": "and for the x axis"
+  },
+  {
+    "start": 299.0,
+    "end": 301.0,
+    "text": "I have made 0,1,2,3"
+  },
+  {
+    "start": 301.0,
+    "end": 303.0,
+    "text": "so this is my simple"
+  },
+  {
+    "start": 303.0,
+    "end": 305.0,
+    "text": "initial level"
+  },
+  {
+    "start": 305.0,
+    "end": 307.0,
+    "text": "I have made"
+  },
+  {
+    "start": 307.0,
+    "end": 309.0,
+    "text": "this stop, temperature, data"
+  },
+  {
+    "start": 309.0,
+    "end": 311.0,
+    "text": "I will show you"
+  },
+  {
+    "start": 311.0,
+    "end": 313.0,
+    "text": "how to use this data"
+  },
+  {
+    "start": 313.0,
+    "end": 315.0,
+    "text": "chart is made"
+  },
+  {
+    "start": 315.0,
+    "end": 317.0,
+    "text": "but now"
+  },
+  {
+    "start": 317.0,
+    "end": 319.0,
+    "text": "I will show you"
+  },
+  {
+    "start": 319.0,
+    "end": 321.0,
+    "text": "how to make it"
+  },
+  {
+    "start": 321.0,
+    "end": 323.0,
+    "text": "x axis"
+  },
+  {
+    "start": 323.0,
+    "end": 325.0,
+    "text": "what is the y axis"
+  },
+  {
+    "start": 325.0,
+    "end": 327.0,
+    "text": "and what is the whole chart"
+  },
+  {
+    "start": 327.0,
+    "end": 329.0,
+    "text": "and the values"
+  },
+  {
+    "start": 329.0,
+    "end": 331.0,
+    "text": "where the x and y"
+  },
+  {
+    "start": 331.0,
+    "end": 333.0,
+    "text": "is in the intersection"
+  },
+  {
+    "start": 333.0,
+    "end": 335.0,
+    "text": "I will show you"
+  },
+  {
+    "start": 335.0,
+    "end": 337.0,
+    "text": "how to make it"
+  },
+  {
+    "start": 337.0,
+    "end": 339.0,
+    "text": "so this is the whole chart"
+  },
+  {
+    "start": 339.0,
+    "end": 341.0,
+    "text": "so I will show you"
+  },
+  {
+    "start": 341.0,
+    "end": 343.0,
+    "text": "how to make it"
+  },
+  {
+    "start": 343.0,
+    "end": 345.0,
+    "text": "I have made the same line"
+  },
+  {
+    "start": 345.0,
+    "end": 347.0,
+    "text": "and I have also made the x axis"
+  },
+  {
+    "start": 347.0,
+    "end": 349.0,
+    "text": "because the x axis"
+  },
+  {
+    "start": 349.0,
+    "end": 351.0,
+    "text": "starts from 0"
+  },
+  {
+    "start": 351.0,
+    "end": 353.0,
+    "text": "but you can also give the values"
+  },
+  {
+    "start": 353.0,
+    "end": 355.0,
+    "text": "the same way"
+  },
+  {
+    "start": 355.0,
+    "end": 357.0,
+    "text": "I have written the same"
+  },
+  {
+    "start": 357.0,
+    "end": 359.0,
+    "text": "if you do the same"
+  },
+  {
+    "start": 359.0,
+    "end": 361.0,
+    "text": "you will make the y axis"
+  },
+  {
+    "start": 361.0,
+    "end": 363.0,
+    "text": "now I have made the first"
+  },
+  {
+    "start": 363.0,
+    "end": 365.0,
+    "text": "make up"
+  },
+  {
+    "start": 365.0,
+    "end": 367.0,
+    "text": "line width is equal to 1"
+  },
+  {
+    "start": 367.0,
+    "end": 369.0,
+    "text": "1,2,3,4"
+  },
+  {
+    "start": 369.0,
+    "end": 371.0,
+    "text": "if you do the width of the line"
+  },
+  {
+    "start": 371.0,
+    "end": 373.0,
+    "text": "you will make the same line"
+  },
+  {
+    "start": 373.0,
+    "end": 375.0,
+    "text": "now I will show you"
+  },
+  {
+    "start": 375.0,
+    "end": 377.0,
+    "text": "where the x and y value"
+  },
+  {
+    "start": 377.0,
+    "end": 379.0,
+    "text": "intersects"
+  },
+  {
+    "start": 379.0,
+    "end": 381.0,
+    "text": "where the star is"
+  },
+  {
+    "start": 381.0,
+    "end": 383.0,
+    "text": "or square is"
+  },
+  {
+    "start": 383.0,
+    "end": 385.0,
+    "text": "where you will show the circle"
+  },
+  {
+    "start": 385.0,
+    "end": 387.0,
+    "text": "and then the color of the line"
+  },
+  {
+    "start": 387.0,
+    "end": 389.0,
+    "text": "green is also"
+  },
+  {
+    "start": 389.0,
+    "end": 391.0,
+    "text": "so I am listening to it"
+  },
+  {
+    "start": 391.0,
+    "end": 393.0,
+    "text": "PLT.TITLE"
+  },
+  {
+    "start": 393.0,
+    "end": 395.0,
+    "text": "my entire chart"
+  },
+  {
+    "start": 395.0,
+    "end": 397.0,
+    "text": "I want to give it"
+  },
+  {
+    "start": 397.0,
+    "end": 399.0,
+    "text": "title name"
+  },
+  {
+    "start": 399.0,
+    "end": 401.0,
+    "text": "font size"
+  },
+  {
+    "start": 401.0,
+    "end": 403.0,
+    "text": "label"
+  },
+  {
+    "start": 403.0,
+    "end": 405.0,
+    "text": "y axis"
+  },
+  {
+    "start": 405.0,
+    "end": 407.0,
+    "text": "grid"
+  },
+  {
+    "start": 407.0,
+    "end": 409.0,
+    "text": "the grid"
+  },
+  {
+    "start": 409.0,
+    "end": 411.0,
+    "text": "I can draw it"
+  },
+  {
+    "start": 411.0,
+    "end": 413.0,
+    "text": "and show it"
+  },
+  {
+    "start": 413.0,
+    "end": 415.0,
+    "text": "and the value"
+  },
+  {
+    "start": 415.0,
+    "end": 417.0,
+    "text": "can save the chart"
+  },
+  {
+    "start": 417.0,
+    "end": 419.0,
+    "text": "and then"
+  },
+  {
+    "start": 419.0,
+    "end": 421.0,
+    "text": "the PLT.TITLE"
+  },
+  {
+    "start": 421.0,
+    "end": 423.0,
+    "text": "I will show you"
+  },
+  {
+    "start": 423.0,
+    "end": 425.0,
+    "text": "how to draw it"
+  },
+  {
+    "start": 425.0,
+    "end": 427.0,
+    "text": "exactly"
+  },
+  {
+    "start": 427.0,
+    "end": 429.0,
+    "text": "what is the logic"
+  },
+  {
+    "start": 429.0,
+    "end": 431.0,
+    "text": "now you can see"
+  },
+  {
+    "start": 431.0,
+    "end": 433.0,
+    "text": "what is the first"
+  },
+  {
+    "start": 433.0,
+    "end": 435.0,
+    "text": "very beautiful"
+  },
+  {
+    "start": 435.0,
+    "end": 437.0,
+    "text": "this is the value of y axis"
+  },
+  {
+    "start": 437.0,
+    "end": 439.0,
+    "text": "where you are meeting"
+  },
+  {
+    "start": 439.0,
+    "end": 441.0,
+    "text": "if you look at the star"
+  },
+  {
+    "start": 441.0,
+    "end": 443.0,
+    "text": "this is the star"
+  },
+  {
+    "start": 443.0,
+    "end": 445.0,
+    "text": "the line of the line"
+  },
+  {
+    "start": 445.0,
+    "end": 447.0,
+    "text": "you can draw it"
+  },
+  {
+    "start": 447.0,
+    "end": 449.0,
+    "text": "you can draw it"
+  },
+  {
+    "start": 449.0,
+    "end": 451.0,
+    "text": "you can see the level of y axis"
+  },
+  {
+    "start": 451.0,
+    "end": 453.0,
+    "text": "and the whole"
+  },
+  {
+    "start": 453.0,
+    "end": 455.0,
+    "text": "and you can see"
+  },
+  {
+    "start": 455.0,
+    "end": 457.0,
+    "text": "what is the grid"
+  },
+  {
+    "start": 457.0,
+    "end": 459.0,
+    "text": "you can see"
+  },
+  {
+    "start": 459.0,
+    "end": 461.0,
+    "text": "now you play the game"
+  },
+  {
+    "start": 461.0,
+    "end": 463.0,
+    "text": "now let's pose"
+  },
+  {
+    "start": 463.0,
+    "end": 465.0,
+    "text": "the width of the line"
+  },
+  {
+    "start": 465.0,
+    "end": 467.0,
+    "text": "I will draw it"
+  },
+  {
+    "start": 467.0,
+    "end": 469.0,
+    "text": "and circle it"
+  },
+  {
+    "start": 469.0,
+    "end": 471.0,
+    "text": "so if I change it"
+  },
+  {
+    "start": 471.0,
+    "end": 473.0,
+    "text": "I want to do"
+  },
+  {
+    "start": 473.0,
+    "end": 475.0,
+    "text": "whatever you want"
+  },
+  {
+    "start": 475.0,
+    "end": 477.0,
+    "text": "you can change the color"
+  },
+  {
+    "start": 477.0,
+    "end": 479.0,
+    "text": "the color"
+  },
+  {
+    "start": 479.0,
+    "end": 481.0,
+    "text": "the font"
+  },
+  {
+    "start": 481.0,
+    "end": 483.0,
+    "text": "I will do the value of the grid"
+  },
+  {
+    "start": 483.0,
+    "end": 485.0,
+    "text": "then I will show it"
+  },
+  {
+    "start": 485.0,
+    "end": 487.0,
+    "text": "the rest of the story"
+  },
+  {
+    "start": 487.0,
+    "end": 489.0,
+    "text": "the first grid"
+  },
+  {
+    "start": 489.0,
+    "end": 491.0,
+    "text": "is not coming"
+  },
+  {
+    "start": 491.0,
+    "end": 493.0,
+    "text": "the line is"
+  },
+  {
+    "start": 493.0,
+    "end": 495.0,
+    "text": "small"
+  },
+  {
+    "start": 495.0,
+    "end": 497.0,
+    "text": "and the plus is"
+  },
+  {
+    "start": 497.0,
+    "end": 499.0,
+    "text": "hidden"
+  },
+  {
+    "start": 499.0,
+    "end": 501.0,
+    "text": "the line is small"
+  },
+  {
+    "start": 501.0,
+    "end": 503.0,
+    "text": "so this is the simple"
+  },
+  {
+    "start": 503.0,
+    "end": 505.0,
+    "text": "first graph"
+  },
+  {
+    "start": 505.0,
+    "end": 507.0,
+    "text": "you can see"
+  },
+  {
+    "start": 507.0,
+    "end": 509.0,
+    "text": "the examples"
+  },
+  {
+    "start": 509.0,
+    "end": 511.0,
+    "text": "thank you"
+  }
+]

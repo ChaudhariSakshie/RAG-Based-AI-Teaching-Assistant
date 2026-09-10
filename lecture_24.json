@@ -1,0 +1,1347 @@
+[
+  {
+    "start": 0.0,
+    "end": 5.38,
+    "text": "DS students, welcome to Goodsmishers, Numpi Arrays ki video series mein next mein leke hai hain"
+  },
+  {
+    "start": 5.38,
+    "end": 9.0,
+    "text": "Athmatik Operations on a Numpi Arrays."
+  },
+  {
+    "start": 9.0,
+    "end": 15.26,
+    "text": "Numpi Arrays hoote kaya, Attributes, Indexing, Slicing, Already maaapko hi chi chi bha dhaajukong"
+  },
+  {
+    "start": 15.26,
+    "end": 17.92,
+    "text": "aur Numpi Arrays mein aapko kaya bha dhaa tha ki,"
+  },
+  {
+    "start": 17.92,
+    "end": 24.32,
+    "text": "ki je numerical data hai, usko store karnay ka sabse best wttri ka hai, using the Numpi Arrays."
+  },
+  {
+    "start": 24.32,
+    "end": 27.5,
+    "text": "aur uske bha dhaajukong, apply karnay various operations,"
+  },
+  {
+    "start": 27.5,
+    "end": 31.52,
+    "text": "ki ki numeric data hai, to me various mathematical operations like"
+  },
+  {
+    "start": 31.52,
+    "end": 34.84,
+    "text": "Athmatik Operations, agar mirko perform karnay hai, to be bha dhaajukong,"
+  },
+  {
+    "start": 34.84,
+    "end": 36.74,
+    "text": "aapko easyli perform karnay ka sabse ba dhaajukong,"
+  },
+  {
+    "start": 36.74,
+    "end": 41.18,
+    "text": "to this video mein aapko hi hain, addition, subtraction, multiplication,"
+  },
+  {
+    "start": 41.18,
+    "end": 44.120000000000005,
+    "text": "matrix, multiplication, division, flow, division, expolation,"
+  },
+  {
+    "start": 44.120000000000005,
+    "end": 49.6,
+    "text": "modulo and transpose, ye saree operations aapko with execution karnay ka dhaajukong,"
+  },
+  {
+    "start": 49.6,
+    "end": 52.06,
+    "text": "to kaya, sfordof, svii di ko like karnay, channel ko subscribe karnay,"
+  },
+  {
+    "start": 52.06,
+    "end": 54.660000000000004,
+    "text": "agar abta karnay, ki aur agar kar bhi diya, to all devices,"
+  },
+  {
+    "start": 54.660000000000004,
+    "end": 57.14,
+    "text": "si subscribe ka rava saktay, ho subscribe is baju liye,"
+  },
+  {
+    "start": 57.14,
+    "end": 58.980000000000004,
+    "text": "to chali ye, start karte hai aaphe,"
+  },
+  {
+    "start": 58.980000000000004,
+    "end": 61.74,
+    "text": "sabse bha le aapko ka rama baat karnay hai hai, aaphe, addition ki,"
+  },
+  {
+    "start": 61.74,
+    "end": 65.5,
+    "text": "to de ko bada simpels hai, kuch bhi niye, badaa easy sa concept hai,"
+  },
+  {
+    "start": 65.5,
+    "end": 67.94,
+    "text": "bas aapko sira far sira mainli jo hai,"
+  },
+  {
+    "start": 67.94,
+    "end": 70.22,
+    "text": "wo inke jo kese de note karte hai,"
+  },
+  {
+    "start": 70.22,
+    "end": 72.22,
+    "text": "operations ko de note kese karte hai,"
+  },
+  {
+    "start": 72.22,
+    "end": 73.98,
+    "text": "wo important hai aaphe, to de ko,"
+  },
+  {
+    "start": 73.98,
+    "end": 75.58,
+    "text": "addition ka do sabko patai ye,"
+  },
+  {
+    "start": 75.58,
+    "end": 78.42,
+    "text": "aaphe me ne ke kye kya, import numpai as np,"
+  },
+  {
+    "start": 78.42,
+    "end": 81.14,
+    "text": "aaphe me ne numpai jo library jo osko import kia,"
+  },
+  {
+    "start": 81.14,
+    "end": 83.10000000000001,
+    "text": "aur aaphe do ares liye,"
+  },
+  {
+    "start": 83.10000000000001,
+    "end": 85.66,
+    "text": "aur me ne to dimensional aere aaphe liye,"
+  },
+  {
+    "start": 85.66,
+    "end": 87.30000000000001,
+    "text": "to de aere liye, van de bhi le saktay,"
+  },
+  {
+    "start": 87.30000000000001,
+    "end": 89.86,
+    "text": "baat to de agar kar liye to van de to aap easy liye kar iloghe,"
+  },
+  {
+    "start": 89.86,
+    "end": 92.54,
+    "text": "aaphe to baay to ke do aere liye,"
+  },
+  {
+    "start": 92.54,
+    "end": 93.58000000000001,
+    "text": "khe ko to baay to kia,"
+  },
+  {
+    "start": 93.58000000000001,
+    "end": 95.14,
+    "text": "khe ki number of rows do hai,"
+  },
+  {
+    "start": 95.14,
+    "end": 96.34,
+    "text": "number of columns bhi do hai,"
+  },
+  {
+    "start": 96.34,
+    "end": 97.82000000000001,
+    "text": "number of rows do hai,"
+  },
+  {
+    "start": 97.82000000000001,
+    "end": 99.14,
+    "text": "number of columns kete ne hai do,"
+  },
+  {
+    "start": 99.14,
+    "end": 100.18,
+    "text": "to to baay to,"
+  },
+  {
+    "start": 100.18,
+    "end": 101.18,
+    "text": "aaphe to baay to,"
+  },
+  {
+    "start": 101.26,
+    "end": 103.10000000000001,
+    "text": "to sabse paili chi chi ye aayat ye,"
+  },
+  {
+    "start": 103.10000000000001,
+    "end": 105.30000000000001,
+    "text": "ke ivar interviews me aaghe ni pe poosh li te hai,"
+  },
+  {
+    "start": 105.30000000000001,
+    "end": 108.14,
+    "text": "ki kya in ka saiz brabh rao na chay ye,"
+  },
+  {
+    "start": 108.14,
+    "end": 111.74000000000001,
+    "text": "to agar arthmatik operations aap perform kare ho,"
+  },
+  {
+    "start": 111.74000000000001,
+    "end": 113.98,
+    "text": "to saiz in ka kye hao na chay ye,"
+  },
+  {
+    "start": 113.98,
+    "end": 114.94000000000001,
+    "text": "brabh rao na chay ye,"
+  },
+  {
+    "start": 114.94000000000001,
+    "end": 115.98,
+    "text": "kye ni ka vat lab kye hai,"
+  },
+  {
+    "start": 115.98,
+    "end": 118.34,
+    "text": "ki agar me aaphe to baay to ki matrix,"
+  },
+  {
+    "start": 118.34,
+    "end": 119.7,
+    "text": "ya to baay to ka ek,"
+  },
+  {
+    "start": 119.7,
+    "end": 121.5,
+    "text": "ki ki ki sa o matrix kita ra bhi le saktay na,"
+  },
+  {
+    "start": 121.5,
+    "end": 123.58000000000001,
+    "text": "ya diagra me aaphe to matrix kita ra diagra hai diagra hai,"
+  },
+  {
+    "start": 123.58000000000001,
+    "end": 125.78,
+    "text": "agar me aaphe to ko to baay to ka aayar le,"
+  },
+  {
+    "start": 125.78,
+    "end": 127.78,
+    "text": "aaphe me 3 by 3 ka le le,"
+  },
+  {
+    "start": 127.78,
+    "end": 130.38,
+    "text": "to inke bich me operations perform kye ni ye,"
+  },
+  {
+    "start": 130.38,
+    "end": 133.7,
+    "text": "kye simpals aaphe na saiz jo hai wo maaghe kare na chay ye,"
+  },
+  {
+    "start": 133.7,
+    "end": 135.7,
+    "text": "to saiz me na ye aaphe maaghe kare vadiya,"
+  },
+  {
+    "start": 135.7,
+    "end": 137.38,
+    "text": "sabse paili plas karte hai,"
+  },
+  {
+    "start": 137.38,
+    "end": 139.22,
+    "text": "to jasi me na ye aaphe plas kye ya,"
+  },
+  {
+    "start": 139.22,
+    "end": 140.54,
+    "text": "jadis kultu x plus vay,"
+  },
+  {
+    "start": 140.54,
+    "end": 142.38,
+    "text": "aur issko maagze kut kartau,"
+  },
+  {
+    "start": 142.38,
+    "end": 144.38,
+    "text": "to kye aakare ka simpli jo hai wo,"
+  },
+  {
+    "start": 144.38,
+    "end": 145.98,
+    "text": "one aur 11,"
+  },
+  {
+    "start": 145.98,
+    "end": 146.98,
+    "text": "ye deko in dono me,"
+  },
+  {
+    "start": 146.98,
+    "end": 148.38,
+    "text": "ye bale me 1, 2, 3, 4 me,"
+  },
+  {
+    "start": 148.38,
+    "end": 149.18,
+    "text": "ye paili hai,"
+  },
+  {
+    "start": 149.18,
+    "end": 151.38,
+    "text": "aur ye aaphe 11, 12, 13, 14 me, 11,"
+  },
+  {
+    "start": 151.38,
+    "end": 152.18,
+    "text": "sabse paili hai,"
+  },
+  {
+    "start": 152.18,
+    "end": 154.58,
+    "text": "to ispuzisian ke aur ispuzisian ko plas karte ka,"
+  },
+  {
+    "start": 157.78,
+    "end": 160.18,
+    "text": "14, 3 plus 13, 16,"
+  },
+  {
+    "start": 160.18,
+    "end": 161.98,
+    "text": "4 plus 14 ke hao ga,"
+  },
+  {
+    "start": 161.98,
+    "end": 164.18,
+    "text": "18, simpals aaphe ko easyli dik bi rai hai,"
+  },
+  {
+    "start": 164.18,
+    "end": 165.78,
+    "text": "easyli aaphe ko sumaj bi rai,"
+  },
+  {
+    "start": 165.78,
+    "end": 167.78,
+    "text": "aaphe aaphe aaphe kye ka kare na minus,"
+  },
+  {
+    "start": 167.78,
+    "end": 169.58,
+    "text": "minus kare na chay ho,"
+  },
+  {
+    "start": 169.58,
+    "end": 172.18,
+    "text": "to simpli minus operation aaphe perform kye,"
+  },
+  {
+    "start": 172.18,
+    "end": 173.18,
+    "text": "aur minus me,"
+  },
+  {
+    "start": 173.18,
+    "end": 174.18,
+    "text": "fir vay ho ga,"
+  },
+  {
+    "start": 174.18,
+    "end": 175.58,
+    "text": "element avaiz karte hai,"
+  },
+  {
+    "start": 175.58,
+    "end": 176.18,
+    "text": "element avaiz,"
+  },
+  {
+    "start": 176.18,
+    "end": 176.98,
+    "text": "position deko,"
+  },
+  {
+    "start": 176.98,
+    "end": 178.78,
+    "text": "ye ek tra se koon si position a,"
+  },
+  {
+    "start": 178.78,
+    "end": 179.38,
+    "text": "0, 0,"
+  },
+  {
+    "start": 179.38,
+    "end": 180.78,
+    "text": "tukki roh numbar 0,"
+  },
+  {
+    "start": 180.78,
+    "end": 181.58,
+    "text": "column bar 0,"
+  },
+  {
+    "start": 181.58,
+    "end": 183.18,
+    "text": "to 0, 0 position pe bane hai,"
+  },
+  {
+    "start": 183.18,
+    "end": 184.78,
+    "text": "yean 0, 0 pe koon a, 11,"
+  },
+  {
+    "start": 184.78,
+    "end": 186.58,
+    "text": "to 1 minus 11,"
+  },
+  {
+    "start": 186.58,
+    "end": 187.58,
+    "text": "to 1 minus 10."
+  },
+  {
+    "start": 187.58,
+    "end": 189.58,
+    "text": "aur deko saar ii element koon bra bra bra rai,"
+  },
+  {
+    "start": 189.58,
+    "end": 190.58,
+    "text": "ki ki 3 minus 13,"
+  },
+  {
+    "start": 190.58,
+    "end": 192.58,
+    "text": "4 minus 14,"
+  },
+  {
+    "start": 192.58,
+    "end": 193.58,
+    "text": "to 2 minus 12,"
+  },
+  {
+    "start": 193.58,
+    "end": 194.58,
+    "text": "to saar ii."
+  },
+  {
+    "start": 194.58,
+    "end": 196.58,
+    "text": "Aap ulda bi karsak te vay minus x bi karsak te vabhati kye,"
+  },
+  {
+    "start": 196.58,
+    "end": 198.58,
+    "text": "aaphe aaphe aaphe aaphe kye,"
+  },
+  {
+    "start": 198.58,
+    "end": 199.58,
+    "text": "minus ke case me,"
+  },
+  {
+    "start": 199.58,
+    "end": 200.58,
+    "text": "ye komitativ ney ota,"
+  },
+  {
+    "start": 200.58,
+    "end": 202.58,
+    "text": "ki ki x minus vay ho,"
+  },
+  {
+    "start": 202.58,
+    "end": 204.58,
+    "text": "aur vay minus x joa ho,"
+  },
+  {
+    "start": 204.58,
+    "end": 205.58,
+    "text": "bra bhar naay ho,"
+  },
+  {
+    "start": 205.58,
+    "end": 208.58,
+    "text": "to aaphe kko check bi karsak te vay minus x joa ho,"
+  },
+  {
+    "start": 208.58,
+    "end": 209.58,
+    "text": "to execute ka ro,"
+  },
+  {
+    "start": 209.58,
+    "end": 210.58,
+    "text": "to dik lo ji aaphe kya joa ho,"
+  },
+  {
+    "start": 210.58,
+    "end": 212.58,
+    "text": "pale minus me aara tha,"
+  },
+  {
+    "start": 212.58,
+    "end": 213.58,
+    "text": "ka plus me aara tha,"
+  },
+  {
+    "start": 213.58,
+    "end": 214.58,
+    "text": "to ye simbalsa vanda hai,"
+  },
+  {
+    "start": 214.58,
+    "end": 215.58,
+    "text": "aapha aapha,"
+  },
+  {
+    "start": 215.58,
+    "end": 217.58,
+    "text": "next operation joa ho aapha,"
+  },
+  {
+    "start": 217.58,
+    "end": 218.58,
+    "text": "multiplication,"
+  },
+  {
+    "start": 218.58,
+    "end": 219.58,
+    "text": "to multiplication kye,"
+  },
+  {
+    "start": 219.58,
+    "end": 220.58,
+    "text": "aaphe kya,"
+  },
+  {
+    "start": 220.58,
+    "end": 221.58,
+    "text": "star,"
+  },
+  {
+    "start": 221.58,
+    "end": 222.58,
+    "text": "to star joa ho,"
+  },
+  {
+    "start": 222.58,
+    "end": 223.58,
+    "text": "uz karinke,"
+  },
+  {
+    "start": 223.58,
+    "end": 224.58,
+    "text": "to x star vay kato,"
+  },
+  {
+    "start": 224.58,
+    "end": 225.58,
+    "text": "to y star x kar lo,"
+  },
+  {
+    "start": 225.58,
+    "end": 226.58,
+    "text": "to y star x kar lo,"
+  },
+  {
+    "start": 226.58,
+    "end": 227.58,
+    "text": "to y here aaphe baathe kye,"
+  },
+  {
+    "start": 227.58,
+    "end": 228.58,
+    "text": "ki ki ye komitativ ota,"
+  },
+  {
+    "start": 228.58,
+    "end": 229.58,
+    "text": "to plus kitar hai,"
+  },
+  {
+    "start": 229.58,
+    "end": 230.58,
+    "text": "1 into 11,"
+  },
+  {
+    "start": 230.58,
+    "end": 231.58,
+    "text": "to 2,"
+  },
+  {
+    "start": 231.58,
+    "end": 232.58,
+    "text": "to y 11 into 1 baathe kye,"
+  },
+  {
+    "start": 232.58,
+    "end": 233.58,
+    "text": "aaphe kye level,"
+  },
+  {
+    "start": 233.58,
+    "end": 234.58,
+    "text": "to into 12,"
+  },
+  {
+    "start": 234.58,
+    "end": 236.58,
+    "text": "to kye 3 into 13,"
+  },
+  {
+    "start": 236.58,
+    "end": 237.58,
+    "text": "and 4 into 14."
+  },
+  {
+    "start": 237.58,
+    "end": 238.58,
+    "text": "To ii sri kye sa aapha,"
+  },
+  {
+    "start": 238.58,
+    "end": 239.58,
+    "text": "aapha aapha,"
+  },
+  {
+    "start": 239.58,
+    "end": 240.58,
+    "text": "answar aaja ka,"
+  },
+  {
+    "start": 240.58,
+    "end": 241.58,
+    "text": "to ye simbalsa aapha,"
+  },
+  {
+    "start": 241.58,
+    "end": 242.58,
+    "text": "multiplication oka,"
+  },
+  {
+    "start": 242.58,
+    "end": 243.58,
+    "text": "iske baathe aapha,"
+  },
+  {
+    "start": 243.58,
+    "end": 244.58,
+    "text": "matrix multiplication,"
+  },
+  {
+    "start": 244.58,
+    "end": 247.58,
+    "text": "matrix multiplication kye kye kya kya kato,"
+  },
+  {
+    "start": 247.58,
+    "end": 248.58,
+    "text": "y here aaphe koon sa operation,"
+  },
+  {
+    "start": 248.58,
+    "end": 249.58,
+    "text": "mya uz ota,"
+  },
+  {
+    "start": 249.58,
+    "end": 251.58,
+    "text": "matrix multiplication kye kye,"
+  },
+  {
+    "start": 251.58,
+    "end": 252.58,
+    "text": "aadha rate,"
+  },
+  {
+    "start": 252.58,
+    "end": 253.58,
+    "text": "ye deha na kna,"
+  },
+  {
+    "start": 253.58,
+    "end": 255.58,
+    "text": "aadha rate joa ho uz ota,"
+  },
+  {
+    "start": 255.58,
+    "end": 257.58000000000004,
+    "text": "to x aadha rate vay kato kye,"
+  },
+  {
+    "start": 257.58000000000004,
+    "end": 260.58000000000004,
+    "text": "to aapha normal multiplication niye,"
+  },
+  {
+    "start": 260.58000000000004,
+    "end": 262.58000000000004,
+    "text": "element wise multiplication niye oki,"
+  },
+  {
+    "start": 262.58000000000004,
+    "end": 264.58000000000004,
+    "text": "aapha matrix multiplication oki,"
+  },
+  {
+    "start": 264.58000000000004,
+    "end": 265.58000000000004,
+    "text": "to isko maa execute kato,"
+  },
+  {
+    "start": 266.58,
+    "end": 268.58,
+    "text": "ye deha ka ka kato maa statisya di..."
+  },
+  {
+    "start": 271.58,
+    "end": 272.58,
+    "text": "matrix multiplication yaapha aapha nswar aapha!"
+  },
+  {
+    "start": 277.58,
+    "end": 280.58,
+    "text": "ii apay weapha aapha in Hindi,"
+  },
+  {
+    "start": 280.58,
+    "end": 284.18,
+    "text": "aapha poll park мор Lari quieter in"
+  },
+  {
+    "start": 284.18,
+    "end": 286.58,
+    "text": "dhyajji term Cocotiv five"
+  },
+  {
+    "start": 286.58,
+    "end": 291.65999999999997,
+    "text": "maa tallme the"
+  },
+  {
+    "start": 291.66,
+    "end": 294.26000000000005,
+    "text": "z w, ok, this way, kese mirpas,"
+  },
+  {
+    "start": 294.26000000000005,
+    "end": 300.06,
+    "text": "kese mane aapi liye 1, 2, 3, 4, a, b, c, d, 11, 12, 13, 14, x, y, z w, kese."
+  },
+  {
+    "start": 300.06,
+    "end": 302.46000000000004,
+    "text": "ab me agar matrix multiplication kartam,"
+  },
+  {
+    "start": 302.46000000000004,
+    "end": 306.46000000000004,
+    "text": "to ovesli yap a, kese 4 ansurge mirko chayye,"
+  },
+  {
+    "start": 306.46000000000004,
+    "end": 308.86,
+    "text": "to is position pe kese answer niklega,"
+  },
+  {
+    "start": 308.86,
+    "end": 310.66,
+    "text": "is position pe kese answer niklega,"
+  },
+  {
+    "start": 310.66,
+    "end": 312.56,
+    "text": "yye vali roo,"
+  },
+  {
+    "start": 312.56,
+    "end": 314.96000000000004,
+    "text": "aur yye vala column ko multipliye,"
+  },
+  {
+    "start": 314.96000000000004,
+    "end": 318.76000000000005,
+    "text": "kese a in 2x, kye agar oge a in 2x,"
+  },
+  {
+    "start": 318.76,
+    "end": 322.86,
+    "text": "plus b in 2 z, b in 2 z,"
+  },
+  {
+    "start": 322.86,
+    "end": 325.86,
+    "text": "is kese, ab is wale element pe agar me ko leke ane,"
+  },
+  {
+    "start": 325.86,
+    "end": 331.15999999999997,
+    "text": "to kese a kare oge a, is ko multipliye kare oge a in 2 y,"
+  },
+  {
+    "start": 331.15999999999997,
+    "end": 332.56,
+    "text": "a in 2 y, me aapi do kar kese gharo,"
+  },
+  {
+    "start": 332.56,
+    "end": 334.76,
+    "text": "baaki aapi sama jayye ki a in 2 y,"
+  },
+  {
+    "start": 334.76,
+    "end": 338.06,
+    "text": "b in 2 w, ab is wale pe kare kese gharo,"
+  },
+  {
+    "start": 338.06,
+    "end": 340.06,
+    "text": "to i ani ekter aasai cd ko x,"
+  },
+  {
+    "start": 340.06,
+    "end": 341.65999999999997,
+    "text": "to i ani c in 2x,"
+  },
+  {
+    "start": 341.65999999999997,
+    "end": 343.36,
+    "text": "plus d in 2 z,"
+  },
+  {
+    "start": 343.36,
+    "end": 345.06,
+    "text": "to i ani kese a, kese a, kese a,"
+  },
+  {
+    "start": 345.06,
+    "end": 346.15999999999997,
+    "text": "kese kese k, kese k, kese k, kese k,"
+  },
+  {
+    "start": 346.15999999999997,
+    "end": 348.46,
+    "text": "a, 1, 2, 3, 4, a, 11, 12, 13, 14,"
+  },
+  {
+    "start": 348.56,
+    "end": 349.96,
+    "text": "to aapi na kia ke aapi,"
+  },
+  {
+    "start": 349.96,
+    "end": 351.96,
+    "text": "1, 2 ko multipliye kese kia,"
+  },
+  {
+    "start": 351.96,
+    "end": 353.18,
+    "text": "11, 12,"
+  },
+  {
+    "start": 353.18,
+    "end": 355.96,
+    "text": "to i ani kao sarayye, 1,"
+  },
+  {
+    "start": 355.96,
+    "end": 357.46,
+    "text": "a, 2, 1, 13,"
+  },
+  {
+    "start": 357.46,
+    "end": 358.56,
+    "text": "a, 2, 1, 12,"
+  },
+  {
+    "start": 358.56,
+    "end": 359.26,
+    "text": "kaya agar,"
+  },
+  {
+    "start": 359.26,
+    "end": 360.46,
+    "text": "aapi aapi yahaapi aapi aapi,"
+  },
+  {
+    "start": 360.46,
+    "end": 361.46,
+    "text": "to i itke gharo,"
+  },
+  {
+    "start": 361.46,
+    "end": 364.46,
+    "text": "aapi aapi aapi aapi aapi, 1, 2, 3, 4, a, 1, 2, 3, 4,"
+  },
+  {
+    "start": 364.46,
+    "end": 367.06,
+    "text": "aapi aapi aapi aapi aapi, 11, 12,"
+  },
+  {
+    "start": 367.06,
+    "end": 368.56,
+    "text": "13, 14,"
+  },
+  {
+    "start": 368.56,
+    "end": 370.26,
+    "text": "to aapi ko is position pe nik hardla."
+  },
+  {
+    "start": 370.26,
+    "end": 371.26,
+    "text": "kaapi aapi na, a, 1, 2, x,"
+  },
+  {
+    "start": 371.26,
+    "end": 373.96,
+    "text": "kaya agar 1, 2, 1, 11, 11 aapi."
+  },
+  {
+    "start": 373.96,
+    "end": 378.58,
+    "text": "B into Z, meaning 2 into 13, 2 into 13, so what will it be?"
+  },
+  {
+    "start": 378.58,
+    "end": 384.18,
+    "text": "26, so 11 plus 26, so 37, see this is your 37,"
+  },
+  {
+    "start": 384.18,
+    "end": 388.38,
+    "text": "as you have already read, you will already know, but I will also tell you"
+  },
+  {
+    "start": 388.38,
+    "end": 393.34,
+    "text": "so that you will understand again, so in this way all the positions are taken out."
+  },
+  {
+    "start": 393.34,
+    "end": 400.34,
+    "text": "Next work has come, here matrix multiplication, what was next to us?"
+  },
+  {
+    "start": 400.34,
+    "end": 405.29999999999995,
+    "text": "Devism, so it is called divism, so divism is very simple,"
+  },
+  {
+    "start": 405.29999999999995,
+    "end": 410.29999999999995,
+    "text": "so this is your divism, so x is all elements,"
+  },
+  {
+    "start": 410.29999999999995,
+    "end": 414.29999999999995,
+    "text": "1 divided by 11, 2 divided by, let's do this,"
+  },
+  {
+    "start": 414.29999999999995,
+    "end": 418.29999999999995,
+    "text": "so you will understand it better, see this,"
+  },
+  {
+    "start": 418.29999999999995,
+    "end": 421.29999999999995,
+    "text": "so you will see it better,"
+  },
+  {
+    "start": 421.29999999999995,
+    "end": 424.29999999999995,
+    "text": "11 divided by 1, so 11 will not come,"
+  },
+  {
+    "start": 424.29999999999995,
+    "end": 427.29999999999995,
+    "text": "12 divided by 26, see all 6,"
+  },
+  {
+    "start": 427.3,
+    "end": 429.3,
+    "text": "so you will see it better, because this is the element,"
+  },
+  {
+    "start": 429.3,
+    "end": 432.26,
+    "text": "13 divided by 3, now the exact value will come in the flow,"
+  },
+  {
+    "start": 432.26,
+    "end": 435.26,
+    "text": "so in this way, so you will see this flow,"
+  },
+  {
+    "start": 435.26,
+    "end": 438.26,
+    "text": "what does it mean in the flow, if I do the flow,"
+  },
+  {
+    "start": 438.26,
+    "end": 440.26,
+    "text": "so what did it do?"
+  },
+  {
+    "start": 440.26,
+    "end": 442.26,
+    "text": "11 divided by 1, so 11 will not come,"
+  },
+  {
+    "start": 442.26,
+    "end": 444.26,
+    "text": "12 divided by 2, 6, no problem,"
+  },
+  {
+    "start": 444.26,
+    "end": 447.26,
+    "text": "13 divided by 3, what should it be?"
+  },
+  {
+    "start": 447.26,
+    "end": 451.26,
+    "text": "4 point something, so the point that will be the decimal value,"
+  },
+  {
+    "start": 451.26,
+    "end": 456.26,
+    "text": "it will only be the main value, so here 14 divided by 4,"
+  },
+  {
+    "start": 456.26,
+    "end": 458.26,
+    "text": "3 point something else, so 3,"
+  },
+  {
+    "start": 458.26,
+    "end": 462.26,
+    "text": "the flow value, the one that will be the one that will be the one that will be the decimal value,"
+  },
+  {
+    "start": 462.26,
+    "end": 464.26,
+    "text": "so this is your flow divism,"
+  },
+  {
+    "start": 464.26,
+    "end": 466.26,
+    "text": "then this way, you can do this, let's suppose,"
+  },
+  {
+    "start": 466.26,
+    "end": 469.26,
+    "text": "exponation, so to exponation,"
+  },
+  {
+    "start": 469.26,
+    "end": 471.26,
+    "text": "this way, your exponation is gone,"
+  },
+  {
+    "start": 471.26,
+    "end": 474.26,
+    "text": "y exponation is x, that is,"
+  },
+  {
+    "start": 474.26,
+    "end": 476.26,
+    "text": "11, the power of power,"
+  },
+  {
+    "start": 476.26,
+    "end": 477.26,
+    "text": "11 will come,"
+  },
+  {
+    "start": 477.26,
+    "end": 479.26,
+    "text": "12 power 2, 12 power 2,"
+  },
+  {
+    "start": 479.26,
+    "end": 482.26,
+    "text": "what happens? 144, 13 power 3,"
+  },
+  {
+    "start": 482.26,
+    "end": 484.26,
+    "text": "this is 14 power 4,"
+  },
+  {
+    "start": 484.26,
+    "end": 486.26,
+    "text": "so this way, your exponation is gone,"
+  },
+  {
+    "start": 486.26,
+    "end": 488.26,
+    "text": "so what is in your last,"
+  },
+  {
+    "start": 488.26,
+    "end": 490.26,
+    "text": "a module, what is the value of the module?"
+  },
+  {
+    "start": 490.26,
+    "end": 491.26,
+    "text": "Reminder,"
+  },
+  {
+    "start": 491.26,
+    "end": 493.26,
+    "text": "see, for the remainder, what did you do here?"
+  },
+  {
+    "start": 493.26,
+    "end": 495.26,
+    "text": "for the remainder, this operation,"
+  },
+  {
+    "start": 495.26,
+    "end": 497.26,
+    "text": "your, okay, the remainder,"
+  },
+  {
+    "start": 497.26,
+    "end": 498.26,
+    "text": "like this, you have to remove it,"
+  },
+  {
+    "start": 498.26,
+    "end": 499.26,
+    "text": "so look, what is the remainder,"
+  },
+  {
+    "start": 499.26,
+    "end": 501.26,
+    "text": "11 divided by 1,"
+  },
+  {
+    "start": 501.26,
+    "end": 503.26,
+    "text": "11 divided by 1,"
+  },
+  {
+    "start": 503.26,
+    "end": 504.26,
+    "text": "now see, this is completely gone,"
+  },
+  {
+    "start": 504.26,
+    "end": 506.26,
+    "text": "the remainder will be something,"
+  },
+  {
+    "start": 506.26,
+    "end": 508.26,
+    "text": "12 divided by 2,"
+  },
+  {
+    "start": 508.26,
+    "end": 510.26,
+    "text": "6, the remainder will be something,"
+  },
+  {
+    "start": 510.26,
+    "end": 511.26,
+    "text": "0 is divided by 3,"
+  },
+  {
+    "start": 511.26,
+    "end": 513.26,
+    "text": "13 divided by 3,"
+  },
+  {
+    "start": 513.26,
+    "end": 516.26,
+    "text": "so 4 into 12,"
+  },
+  {
+    "start": 516.26,
+    "end": 520.26,
+    "text": "12 is 14 divided by 4,"
+  },
+  {
+    "start": 520.26,
+    "end": 522.26,
+    "text": "again it is 4 into 3,"
+  },
+  {
+    "start": 522.26,
+    "end": 524.26,
+    "text": "12 is 2,"
+  },
+  {
+    "start": 524.26,
+    "end": 525.26,
+    "text": "so the remainder,"
+  },
+  {
+    "start": 525.26,
+    "end": 526.26,
+    "text": "let us do it,"
+  },
+  {
+    "start": 526.26,
+    "end": 528.26,
+    "text": "and finally,"
+  },
+  {
+    "start": 528.26,
+    "end": 529.26,
+    "text": "you have to transpose,"
+  },
+  {
+    "start": 529.26,
+    "end": 530.26,
+    "text": "what is the transpose for?"
+  },
+  {
+    "start": 530.26,
+    "end": 531.26,
+    "text": "let's suppose,"
+  },
+  {
+    "start": 531.26,
+    "end": 534.26,
+    "text": "I have nothing here,"
+  },
+  {
+    "start": 534.26,
+    "end": 535.26,
+    "text": "your,"
+  },
+  {
+    "start": 535.26,
+    "end": 538.26,
+    "text": "rose,"
+  },
+  {
+    "start": 538.26,
+    "end": 539.26,
+    "text": "it becomes columns,"
+  },
+  {
+    "start": 539.26,
+    "end": 540.26,
+    "text": "like x,"
+  },
+  {
+    "start": 540.26,
+    "end": 541.26,
+    "text": "x is,"
+  },
+  {
+    "start": 541.26,
+    "end": 542.26,
+    "text": "I transpose in x,"
+  },
+  {
+    "start": 542.26,
+    "end": 544.26,
+    "text": "transpose,"
+  },
+  {
+    "start": 544.26,
+    "end": 546.26,
+    "text": "okay, so x is the way,"
+  },
+  {
+    "start": 546.26,
+    "end": 547.26,
+    "text": "see,"
+  },
+  {
+    "start": 547.26,
+    "end": 548.26,
+    "text": "here what is the transpose,"
+  },
+  {
+    "start": 548.26,
+    "end": 549.26,
+    "text": "x, I have transpose in x,"
+  },
+  {
+    "start": 549.26,
+    "end": 551.26,
+    "text": "so this is the row,"
+  },
+  {
+    "start": 551.26,
+    "end": 552.26,
+    "text": "it becomes column,"
+  },
+  {
+    "start": 552.26,
+    "end": 554.26,
+    "text": "12 is the column,"
+  },
+  {
+    "start": 554.26,
+    "end": 556.26,
+    "text": "the column is 1,3,"
+  },
+  {
+    "start": 556.26,
+    "end": 557.26,
+    "text": "it becomes the row,"
+  },
+  {
+    "start": 557.26,
+    "end": 559.26,
+    "text": "so see, 1,3 column was the row,"
+  },
+  {
+    "start": 559.26,
+    "end": 560.26,
+    "text": "the column becomes the column,"
+  },
+  {
+    "start": 560.26,
+    "end": 562.26,
+    "text": "so this is all about the,"
+  },
+  {
+    "start": 562.26,
+    "end": 564.26,
+    "text": "all arithmetic operations,"
+  },
+  {
+    "start": 564.26,
+    "end": 565.26,
+    "text": "all numbers,"
+  },
+  {
+    "start": 565.26,
+    "end": 566.26,
+    "text": "thank you."
+  }
+]

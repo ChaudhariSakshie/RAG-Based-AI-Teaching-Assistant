@@ -1,0 +1,17 @@
+@"
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+audios/
+Videos/
+whisper/
+
+*.mp3
+*.wav
+
+.DS_Store
+Thumbs.db
+"@ | Out-File -Encoding utf8 .gitignore

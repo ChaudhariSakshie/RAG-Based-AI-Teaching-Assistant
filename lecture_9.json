@@ -1,0 +1,1787 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "buis students, welcome to great measures"
+  },
+  {
+    "start": 2.0,
+    "end": 3.0,
+    "text": "python programming series"
+  },
+  {
+    "start": 3.0,
+    "end": 4.0,
+    "text": "may you all welcome"
+  },
+  {
+    "start": 4.0,
+    "end": 5.0,
+    "text": "today in this video"
+  },
+  {
+    "start": 5.0,
+    "end": 6.0,
+    "text": "again an important question"
+  },
+  {
+    "start": 6.0,
+    "end": 8.0,
+    "text": "many users have"
+  },
+  {
+    "start": 8.0,
+    "end": 10.0,
+    "text": "taken this kind of question"
+  },
+  {
+    "start": 10.0,
+    "end": 12.0,
+    "text": "which will help you a lot"
+  },
+  {
+    "start": 12.0,
+    "end": 13.0,
+    "text": "especially in interviews"
+  },
+  {
+    "start": 13.0,
+    "end": 15.0,
+    "text": "and as we are talking"
+  },
+  {
+    "start": 15.0,
+    "end": 17.0,
+    "text": "as a developer"
+  },
+  {
+    "start": 17.0,
+    "end": 19.0,
+    "text": "as a user"
+  },
+  {
+    "start": 19.0,
+    "end": 20.0,
+    "text": "as a user"
+  },
+  {
+    "start": 20.0,
+    "end": 21.0,
+    "text": "we use many websites"
+  },
+  {
+    "start": 21.0,
+    "end": 23.0,
+    "text": "when login is done"
+  },
+  {
+    "start": 23.0,
+    "end": 25.0,
+    "text": "or we set our user ID"
+  },
+  {
+    "start": 25.0,
+    "end": 26.0,
+    "text": "passwords"
+  },
+  {
+    "start": 26.0,
+    "end": 27.0,
+    "text": "so we set passwords"
+  },
+  {
+    "start": 27.0,
+    "end": 29.0,
+    "text": "and as we are talking"
+  },
+  {
+    "start": 29.0,
+    "end": 31.0,
+    "text": "we give this kind of"
+  },
+  {
+    "start": 31.0,
+    "end": 33.0,
+    "text": "constrain or conditions"
+  },
+  {
+    "start": 33.0,
+    "end": 35.0,
+    "text": "that password is such a length"
+  },
+  {
+    "start": 35.0,
+    "end": 37.0,
+    "text": "password is a special character"
+  },
+  {
+    "start": 37.0,
+    "end": 39.0,
+    "text": "so this is not the case"
+  },
+  {
+    "start": 39.0,
+    "end": 41.0,
+    "text": "so this is how we know"
+  },
+  {
+    "start": 41.0,
+    "end": 43.0,
+    "text": "that password is strong"
+  },
+  {
+    "start": 43.0,
+    "end": 45.0,
+    "text": "as you are getting cyber"
+  },
+  {
+    "start": 45.0,
+    "end": 46.0,
+    "text": "frauds"
+  },
+  {
+    "start": 46.0,
+    "end": 49.0,
+    "text": "even I want to convey"
+  },
+  {
+    "start": 49.0,
+    "end": 51.0,
+    "text": "my parents"
+  },
+  {
+    "start": 51.0,
+    "end": 52.0,
+    "text": "to you"
+  },
+  {
+    "start": 52.0,
+    "end": 54.0,
+    "text": "if you have any"
+  },
+  {
+    "start": 54.0,
+    "end": 56.0,
+    "text": "website"
+  },
+  {
+    "start": 56.0,
+    "end": 58.0,
+    "text": "which you are using"
+  },
+  {
+    "start": 58.0,
+    "end": 60.0,
+    "text": "like any SBI"
+  },
+  {
+    "start": 60.0,
+    "end": 62.0,
+    "text": "or any other website"
+  },
+  {
+    "start": 62.0,
+    "end": 63.0,
+    "text": "or any other"
+  },
+  {
+    "start": 63.0,
+    "end": 64.0,
+    "text": "website"
+  },
+  {
+    "start": 64.0,
+    "end": 66.0,
+    "text": "where you are setting passwords"
+  },
+  {
+    "start": 66.0,
+    "end": 68.0,
+    "text": "you always need"
+  },
+  {
+    "start": 68.0,
+    "end": 70.0,
+    "text": "strong password"
+  },
+  {
+    "start": 70.0,
+    "end": 72.0,
+    "text": "so if you are designing"
+  },
+  {
+    "start": 72.0,
+    "end": 74.0,
+    "text": "any website"
+  },
+  {
+    "start": 74.0,
+    "end": 76.0,
+    "text": "then how can we do this"
+  },
+  {
+    "start": 76.0,
+    "end": 78.0,
+    "text": "in python"
+  },
+  {
+    "start": 78.0,
+    "end": 80.0,
+    "text": "code is given"
+  },
+  {
+    "start": 80.0,
+    "end": 82.0,
+    "text": "so you can ask"
+  },
+  {
+    "start": 82.0,
+    "end": 85.0,
+    "text": "if you have any"
+  },
+  {
+    "start": 85.0,
+    "end": 86.0,
+    "text": "password"
+  },
+  {
+    "start": 86.0,
+    "end": 88.0,
+    "text": "and you have to design"
+  },
+  {
+    "start": 88.0,
+    "end": 90.0,
+    "text": "that"
+  },
+  {
+    "start": 90.0,
+    "end": 92.0,
+    "text": "it should be at least"
+  },
+  {
+    "start": 92.0,
+    "end": 94.0,
+    "text": "6 and at most 30"
+  },
+  {
+    "start": 94.0,
+    "end": 96.0,
+    "text": "you can also give"
+  },
+  {
+    "start": 96.0,
+    "end": 98.0,
+    "text": "8 characters"
+  },
+  {
+    "start": 98.0,
+    "end": 100.0,
+    "text": "so you should give"
+  },
+  {
+    "start": 100.0,
+    "end": 102.0,
+    "text": "a condition"
+  },
+  {
+    "start": 102.0,
+    "end": 104.0,
+    "text": "that you should have"
+  },
+  {
+    "start": 104.0,
+    "end": 106.0,
+    "text": "6 characters"
+  },
+  {
+    "start": 106.0,
+    "end": 108.0,
+    "text": "and 30"
+  },
+  {
+    "start": 108.0,
+    "end": 110.0,
+    "text": "so you need to set this"
+  },
+  {
+    "start": 110.0,
+    "end": 112.0,
+    "text": "in your first letter"
+  },
+  {
+    "start": 112.0,
+    "end": 114.0,
+    "text": "the first word"
+  },
+  {
+    "start": 114.0,
+    "end": 116.0,
+    "text": "is"
+  },
+  {
+    "start": 116.0,
+    "end": 117.0,
+    "text": "minimum"
+  },
+  {
+    "start": 117.0,
+    "end": 120.0,
+    "text": "you can write"
+  },
+  {
+    "start": 120.0,
+    "end": 122.0,
+    "text": "minimum"
+  },
+  {
+    "start": 122.0,
+    "end": 124.0,
+    "text": "you can write"
+  },
+  {
+    "start": 124.0,
+    "end": 125.0,
+    "text": "minimum"
+  },
+  {
+    "start": 125.0,
+    "end": 127.0,
+    "text": "you can write 7"
+  },
+  {
+    "start": 127.0,
+    "end": 129.0,
+    "text": "you can write"
+  },
+  {
+    "start": 129.0,
+    "end": 131.0,
+    "text": "if you have"
+  },
+  {
+    "start": 131.0,
+    "end": 133.0,
+    "text": "5,4, then you will give"
+  },
+  {
+    "start": 133.0,
+    "end": 135.0,
+    "text": "an error"
+  },
+  {
+    "start": 135.0,
+    "end": 137.0,
+    "text": "this is the first condition"
+  },
+  {
+    "start": 137.0,
+    "end": 139.0,
+    "text": "the first condition"
+  },
+  {
+    "start": 139.0,
+    "end": 141.0,
+    "text": "is"
+  },
+  {
+    "start": 141.0,
+    "end": 143.0,
+    "text": "your capital"
+  },
+  {
+    "start": 143.0,
+    "end": 145.0,
+    "text": "capital"
+  },
+  {
+    "start": 145.0,
+    "end": 147.0,
+    "text": "and the capital"
+  },
+  {
+    "start": 147.0,
+    "end": 149.0,
+    "text": "is the capital"
+  },
+  {
+    "start": 149.0,
+    "end": 151.0,
+    "text": "so you can say"
+  },
+  {
+    "start": 151.0,
+    "end": 153.0,
+    "text": "8 to 10"
+  },
+  {
+    "start": 153.0,
+    "end": 155.0,
+    "text": "but the next one"
+  },
+  {
+    "start": 155.0,
+    "end": 157.0,
+    "text": "is the extra"
+  },
+  {
+    "start": 157.0,
+    "end": 159.0,
+    "text": "condition"
+  },
+  {
+    "start": 159.0,
+    "end": 161.0,
+    "text": "it can contain numbers"
+  },
+  {
+    "start": 161.0,
+    "end": 163.0,
+    "text": "you have to"
+  },
+  {
+    "start": 163.0,
+    "end": 165.0,
+    "text": "ask the question"
+  },
+  {
+    "start": 165.0,
+    "end": 167.0,
+    "text": "in this way"
+  },
+  {
+    "start": 167.0,
+    "end": 169.0,
+    "text": "you have to"
+  },
+  {
+    "start": 169.0,
+    "end": 171.0,
+    "text": "add"
+  },
+  {
+    "start": 171.0,
+    "end": 173.0,
+    "text": "a user"
+  },
+  {
+    "start": 173.0,
+    "end": 175.0,
+    "text": "can"
+  },
+  {
+    "start": 175.0,
+    "end": 177.0,
+    "text": "it is not a problem"
+  },
+  {
+    "start": 177.0,
+    "end": 179.0,
+    "text": "it is not a problem"
+  },
+  {
+    "start": 179.0,
+    "end": 181.0,
+    "text": "it is not a condition"
+  },
+  {
+    "start": 181.0,
+    "end": 183.0,
+    "text": "it is not a condition"
+  },
+  {
+    "start": 183.0,
+    "end": 185.0,
+    "text": "it is a kind of"
+  },
+  {
+    "start": 185.0,
+    "end": 187.0,
+    "text": "positive statement"
+  },
+  {
+    "start": 187.0,
+    "end": 189.0,
+    "text": "it will be"
+  },
+  {
+    "start": 189.0,
+    "end": 191.0,
+    "text": "it can contain"
+  },
+  {
+    "start": 191.0,
+    "end": 193.0,
+    "text": "the character"
+  },
+  {
+    "start": 193.0,
+    "end": 195.0,
+    "text": "it can contain"
+  },
+  {
+    "start": 195.0,
+    "end": 197.0,
+    "text": "it is not a condition"
+  },
+  {
+    "start": 197.0,
+    "end": 199.0,
+    "text": "you can add"
+  },
+  {
+    "start": 199.0,
+    "end": 201.0,
+    "text": "it will be"
+  },
+  {
+    "start": 201.0,
+    "end": 203.0,
+    "text": "it will be good"
+  },
+  {
+    "start": 203.0,
+    "end": 205.0,
+    "text": "I have given an example"
+  },
+  {
+    "start": 205.0,
+    "end": 207.0,
+    "text": "you can design"
+  },
+  {
+    "start": 207.0,
+    "end": 209.0,
+    "text": "it"
+  },
+  {
+    "start": 209.0,
+    "end": 211.0,
+    "text": "it should not"
+  },
+  {
+    "start": 211.0,
+    "end": 213.0,
+    "text": "it should not"
+  },
+  {
+    "start": 213.0,
+    "end": 215.0,
+    "text": "have the character"
+  },
+  {
+    "start": 215.0,
+    "end": 217.0,
+    "text": "it should not be"
+  },
+  {
+    "start": 217.0,
+    "end": 219.0,
+    "text": "single-go-double-go-d-quilt"
+  },
+  {
+    "start": 219.0,
+    "end": 221.0,
+    "text": "if you want"
+  },
+  {
+    "start": 221.0,
+    "end": 223.0,
+    "text": "you have to keep"
+  },
+  {
+    "start": 223.0,
+    "end": 225.0,
+    "text": "this condition is"
+  },
+  {
+    "start": 225.0,
+    "end": 227.0,
+    "text": "2 and 3"
+  },
+  {
+    "start": 227.0,
+    "end": 229.0,
+    "text": "3 is"
+  },
+  {
+    "start": 229.0,
+    "end": 231.0,
+    "text": "2 other"
+  },
+  {
+    "start": 231.0,
+    "end": 233.0,
+    "text": "positive statements"
+  },
+  {
+    "start": 233.0,
+    "end": 235.0,
+    "text": "it will be"
+  },
+  {
+    "start": 235.0,
+    "end": 237.0,
+    "text": "it will be"
+  },
+  {
+    "start": 237.0,
+    "end": 239.0,
+    "text": "it will be"
+  },
+  {
+    "start": 239.0,
+    "end": 241.0,
+    "text": "it will be"
+  },
+  {
+    "start": 241.0,
+    "end": 243.0,
+    "text": "it will be"
+  },
+  {
+    "start": 243.0,
+    "end": 245.0,
+    "text": "it will be"
+  },
+  {
+    "start": 245.0,
+    "end": 247.0,
+    "text": "it will be"
+  },
+  {
+    "start": 247.0,
+    "end": 249.0,
+    "text": "it will be"
+  },
+  {
+    "start": 249.0,
+    "end": 251.0,
+    "text": "it will be"
+  },
+  {
+    "start": 251.0,
+    "end": 261.0,
+    "text": "the first"
+  },
+  {
+    "start": 261.0,
+    "end": 263.0,
+    "text": "condition"
+  },
+  {
+    "start": 263.0,
+    "end": 265.0,
+    "text": "it will be"
+  },
+  {
+    "start": 265.0,
+    "end": 267.0,
+    "text": "it will be"
+  },
+  {
+    "start": 267.0,
+    "end": 271.0,
+    "text": "it will be"
+  },
+  {
+    "start": 271.0,
+    "end": 273.0,
+    "text": "it will"
+  },
+  {
+    "start": 273.0,
+    "end": 275.0,
+    "text": "be"
+  },
+  {
+    "start": 275.0,
+    "end": 277.0,
+    "text": "it will be"
+  },
+  {
+    "start": 277.0,
+    "end": 278.94,
+    "text": "پہلی کنڈیشن گونسی آپ کی سیوان"
+  },
+  {
+    "start": 278.94,
+    "end": 280.84,
+    "text": "تو کنڈیشن لگای اف سے"
+  },
+  {
+    "start": 280.84,
+    "end": 282.1,
+    "text": "کنڈیشنوں کیسے گاتے"
+  },
+  {
+    "start": 282.1,
+    "end": 283.18,
+    "text": "افیل سے طور گاتے"
+  },
+  {
+    "start": 283.18,
+    "end": 284.94,
+    "text": "لیکن یہاں پہلس پارنی جانا"
+  },
+  {
+    "start": 284.94,
+    "end": 286.52,
+    "text": "اف کنڈرے اور اف"
+  },
+  {
+    "start": 286.52,
+    "end": 288.8,
+    "text": "اس اف کنڈرے اور تو نیستٹ جائے"
+  },
+  {
+    "start": 288.8,
+    "end": 290.78,
+    "text": "سب سے پہلی کنڈیشن جب ٹرو ہوتی ہے"
+  },
+  {
+    "start": 290.78,
+    "end": 292.96,
+    "text": "بلک پہلی کنڈیشنگہ گر ٹرو ہی"
+  },
+  {
+    "start": 292.96,
+    "end": 294.2,
+    "text": "تو کام ختم"
+  },
+  {
+    "start": 294.2,
+    "end": 295.18,
+    "text": "نائیں جی"
+  },
+  {
+    "start": 295.18,
+    "end": 296.52,
+    "text": "پہلی کنڈیشنگہ گر ٹرو ہی تو"
+  },
+  {
+    "start": 296.52,
+    "end": 297.26,
+    "text": "ٹھیک ہے"
+  },
+  {
+    "start": 297.26,
+    "end": 299.56,
+    "text": "پھر دوسری چک کرو اس کے اندر"
+  },
+  {
+    "start": 299.56,
+    "end": 301.03999999999996,
+    "text": "کیا دوسری ہو گئی تو میں"
+  },
+  {
+    "start": 301.03999999999996,
+    "end": 302.12,
+    "text": "ویلیڈ کہا دو"
+  },
+  {
+    "start": 302.12,
+    "end": 302.96,
+    "text": "نیستی"
+  },
+  {
+    "start": 302.96,
+    "end": 303.92,
+    "text": "اس کے اندر"
+  },
+  {
+    "start": 303.92,
+    "end": 305.48,
+    "text": "ٹیسری ایکار چک کرو"
+  },
+  {
+    "start": 305.48,
+    "end": 306.96,
+    "text": "جاک ٹینو چک ہو گئی"
+  },
+  {
+    "start": 306.96,
+    "end": 307.9,
+    "text": "اور ٹینو سینے"
+  },
+  {
+    "start": 307.9,
+    "end": 308.98,
+    "text": "اس کے بعد اپ کا"
+  },
+  {
+    "start": 308.98,
+    "end": 310.15999999999997,
+    "text": "پاسٹ بیلیڈ ہے"
+  },
+  {
+    "start": 310.15999999999997,
+    "end": 311.52,
+    "text": "ادرو ہی اس پاسٹ بیلیڈ"
+  },
+  {
+    "start": 311.52,
+    "end": 312.71999999999997,
+    "text": "تو اس لے بیڈیفورٹ"
+  },
+  {
+    "start": 312.71999999999997,
+    "end": 313.82,
+    "text": "اگر یہ ٹینو میں سے"
+  },
+  {
+    "start": 313.82,
+    "end": 315.71999999999997,
+    "text": "کئی پیو گڑ بڑا گیا ماملہ"
+  },
+  {
+    "start": 315.71999999999997,
+    "end": 317.36,
+    "text": "تو فالس تو بیڈیفورٹ"
+  },
+  {
+    "start": 317.36,
+    "end": 318.8,
+    "text": "اس کو دی رکھا ہم نے"
+  },
+  {
+    "start": 318.8,
+    "end": 320.68,
+    "text": "لیکن جب ٹینو کنیشنٹر ہوگی"
+  },
+  {
+    "start": 320.68,
+    "end": 321.68,
+    "text": "تو بیڈیفورٹ روگا"
+  },
+  {
+    "start": 321.68,
+    "end": 322.98,
+    "text": "درو ہی اس کو فالسی رہے گا"
+  },
+  {
+    "start": 322.98,
+    "end": 324.32,
+    "text": "تو اس لیسیمپل سبنڈائلی"
+  },
+  {
+    "start": 324.32,
+    "end": 325.58,
+    "text": "اپس سرٹ کیا"
+  },
+  {
+    "start": 325.58,
+    "end": 326.58,
+    "text": "ہم نے لنث"
+  },
+  {
+    "start": 326.58,
+    "end": 328.46000000000004,
+    "text": "اف دا پیو دی کیا کر دیا"
+  },
+  {
+    "start": 328.46000000000004,
+    "end": 330.96000000000004,
+    "text": "ٹھیک اور ٹیس کے بیچ میں رکھ دی"
+  },
+  {
+    "start": 330.96000000000004,
+    "end": 331.94,
+    "text": "تو پہلی کنیشن اپ کی"
+  },
+  {
+    "start": 331.94,
+    "end": 332.56,
+    "text": "سیمپل"
+  },
+  {
+    "start": 332.56,
+    "end": 333.66,
+    "text": "پاسٹ بڑ کی لنث"
+  },
+  {
+    "start": 333.66,
+    "end": 334.18,
+    "text": "کیو کی لنث"
+  },
+  {
+    "start": 334.18,
+    "end": 334.88,
+    "text": "function ہے"
+  },
+  {
+    "start": 334.88,
+    "end": 335.78000000000003,
+    "text": "جو پاسٹ بڑ کی لنث"
+  },
+  {
+    "start": 335.78000000000003,
+    "end": 336.66,
+    "text": "کو کلپڑ کرے گا"
+  },
+  {
+    "start": 336.66,
+    "end": 337.26,
+    "text": "تو ایوزر جب"
+  },
+  {
+    "start": 337.26,
+    "end": 337.88,
+    "text": "دلگ ایس میں"
+  },
+  {
+    "start": 337.88,
+    "end": 339.15999999999997,
+    "text": "پاسٹ بڑ جو بھی دلگا"
+  },
+  {
+    "start": 339.15999999999997,
+    "end": 340.48,
+    "text": "لیکن ایوزر نے دلگا"
+  },
+  {
+    "start": 340.48,
+    "end": 341.71999999999997,
+    "text": "A, B, C"
+  },
+  {
+    "start": 341.71999999999997,
+    "end": 343.32,
+    "text": "and the rate 1, 2, 3"
+  },
+  {
+    "start": 343.32,
+    "end": 344.06,
+    "text": "تو اس نے کہاو کیا"
+  },
+  {
+    "start": 344.06,
+    "end": 344.74,
+    "text": "ایک دو 3"
+  },
+  {
+    "start": 344.74,
+    "end": 345.9,
+    "text": "4, 5, 6, 7"
+  },
+  {
+    "start": 345.9,
+    "end": 346.52,
+    "text": "پہلی"
+  },
+  {
+    "start": 346.52,
+    "end": 347.86,
+    "text": "7 جو ہے وہ اس کے بیچ میں"
+  },
+  {
+    "start": 347.86,
+    "end": 348.15999999999997,
+    "text": "کیوں"
+  },
+  {
+    "start": 348.15999999999997,
+    "end": 349.15999999999997,
+    "text": "چیزے بڑا"
+  },
+  {
+    "start": 349.15999999999997,
+    "end": 350.84,
+    "text": "greater than equal to 6"
+  },
+  {
+    "start": 350.84,
+    "end": 352.34,
+    "text": "less than equal to 30"
+  },
+  {
+    "start": 352.34,
+    "end": 353.26,
+    "text": "تو ہم نے پہلی کنیشن"
+  },
+  {
+    "start": 353.26,
+    "end": 353.5,
+    "text": "کیوں"
+  },
+  {
+    "start": 353.5,
+    "end": 353.54,
+    "text": "کیوں"
+  },
+  {
+    "start": 353.54,
+    "end": 353.64,
+    "text": "کیوں"
+  },
+  {
+    "start": 353.64,
+    "end": 353.74,
+    "text": "کیوں"
+  },
+  {
+    "start": 353.74,
+    "end": 353.84,
+    "text": "کیوں"
+  },
+  {
+    "start": 353.84,
+    "end": 354.24,
+    "text": "کیوں"
+  },
+  {
+    "start": 354.24,
+    "end": 354.34,
+    "text": "کیوں"
+  },
+  {
+    "start": 354.34,
+    "end": 354.5,
+    "text": "کیوں"
+  },
+  {
+    "start": 354.5,
+    "end": 354.84,
+    "text": "کیوں"
+  },
+  {
+    "start": 354.84,
+    "end": 355.24,
+    "text": "کیوں"
+  },
+  {
+    "start": 355.24,
+    "end": 355.5,
+    "text": "کیوں"
+  },
+  {
+    "start": 355.5,
+    "end": 355.74,
+    "text": "کیوں"
+  },
+  {
+    "start": 355.74,
+    "end": 356.24,
+    "text": "کیوں"
+  },
+  {
+    "start": 356.24,
+    "end": 356.34,
+    "text": "کیوں"
+  },
+  {
+    "start": 356.34,
+    "end": 356.74,
+    "text": "کیوں"
+  },
+  {
+    "start": 356.74,
+    "end": 357.24,
+    "text": "کیوں"
+  },
+  {
+    "start": 357.24,
+    "end": 357.34,
+    "text": "کیوں"
+  },
+  {
+    "start": 357.34,
+    "end": 357.74,
+    "text": "کیوں"
+  },
+  {
+    "start": 357.74,
+    "end": 357.84,
+    "text": "کیوں"
+  },
+  {
+    "start": 357.84,
+    "end": 358.14,
+    "text": "کیوں"
+  },
+  {
+    "start": 358.34,
+    "end": 358.74,
+    "text": "کیوں"
+  },
+  {
+    "start": 419.14,
+    "end": 420.2,
+    "text": "اب میں نے کہا ملدیا"
+  },
+  {
+    "start": 420.2,
+    "end": 421.2,
+    "text": "کہ یہ"
+  },
+  {
+    "start": 421.2,
+    "end": 422.04,
+    "text": "آپ کے جو یہ"
+  },
+  {
+    "start": 422.04,
+    "end": 422.68,
+    "text": "پاچی جیے"
+  },
+  {
+    "start": 422.68,
+    "end": 422.92,
+    "text": "کی"
+  },
+  {
+    "start": 422.92,
+    "end": 423.84000000000003,
+    "text": "slash equal to"
+  },
+  {
+    "start": 423.84000000000003,
+    "end": 424.92,
+    "text": "یہ نہیں ہونا چیے"
+  },
+  {
+    "start": 424.92,
+    "end": 425.28000000000003,
+    "text": "تو ہم"
+  },
+  {
+    "start": 425.28000000000003,
+    "end": 425.78000000000003,
+    "text": "اس میں"
+  },
+  {
+    "start": 425.78000000000003,
+    "end": 426.6,
+    "text": "if not"
+  },
+  {
+    "start": 426.6,
+    "end": 427.44,
+    "text": "سے لگا دیتے ہیں"
+  },
+  {
+    "start": 427.44,
+    "end": 428.28000000000003,
+    "text": "بلاب یہ چیزے"
+  },
+  {
+    "start": 428.28000000000003,
+    "end": 429.02,
+    "text": "نہیں ہونی چیے"
+  },
+  {
+    "start": 429.02,
+    "end": 429.22,
+    "text": "تو"
+  },
+  {
+    "start": 429.22,
+    "end": 429.68,
+    "text": "جب یہ"
+  },
+  {
+    "start": 429.68,
+    "end": 430.12,
+    "text": "true"
+  },
+  {
+    "start": 430.12,
+    "end": 430.52,
+    "text": "ہوگا"
+  },
+  {
+    "start": 430.52,
+    "end": 430.8,
+    "text": "جب"
+  },
+  {
+    "start": 430.8,
+    "end": 431.28000000000003,
+    "text": "اس کو یہ"
+  },
+  {
+    "start": 431.28000000000003,
+    "end": 431.52,
+    "text": "نہیں"
+  },
+  {
+    "start": 431.52,
+    "end": 431.92,
+    "text": "میں لگا"
+  },
+  {
+    "start": 431.92,
+    "end": 432.0,
+    "text": "تک"
+  },
+  {
+    "start": 432.0,
+    "end": 432.28000000000003,
+    "text": "3"
+  },
+  {
+    "start": 432.28000000000003,
+    "end": 432.76,
+    "text": "نیشن"
+  },
+  {
+    "start": 432.76,
+    "end": 433.0,
+    "text": "true"
+  },
+  {
+    "start": 433.0,
+    "end": 433.36,
+    "text": "گئی"
+  },
+  {
+    "start": 433.36,
+    "end": 433.52,
+    "text": "تو"
+  },
+  {
+    "start": 433.52,
+    "end": 433.76,
+    "text": "ان"
+  },
+  {
+    "start": 433.76,
+    "end": 434.08,
+    "text": "valed"
+  },
+  {
+    "start": 434.08,
+    "end": 434.52,
+    "text": "کو true"
+  },
+  {
+    "start": 434.52,
+    "end": 434.62,
+    "text": "or"
+  },
+  {
+    "start": 434.62,
+    "end": 434.92,
+    "text": "mlx"
+  },
+  {
+    "start": 434.92,
+    "end": 435.0,
+    "text": "or"
+  },
+  {
+    "start": 435.0,
+    "end": 435.42,
+    "text": "valid"
+  },
+  {
+    "start": 435.42,
+    "end": 435.56,
+    "text": "کو"
+  },
+  {
+    "start": 435.56,
+    "end": 435.72,
+    "text": "om"
+  },
+  {
+    "start": 435.72,
+    "end": 435.92,
+    "text": "true"
+  },
+  {
+    "start": 435.92,
+    "end": 436.52,
+    "text": "کر دیں"
+  },
+  {
+    "start": 436.52,
+    "end": 436.72,
+    "text": "اور"
+  },
+  {
+    "start": 436.72,
+    "end": 437.02,
+    "text": "print"
+  },
+  {
+    "start": 437.02,
+    "end": 437.52,
+    "text": "کر دیں"
+  },
+  {
+    "start": 437.52,
+    "end": 437.6,
+    "text": "ki"
+  },
+  {
+    "start": 437.6,
+    "end": 437.76,
+    "text": "it is"
+  },
+  {
+    "start": 437.76,
+    "end": 438.62,
+    "text": "a valid"
+  },
+  {
+    "start": 438.62,
+    "end": 439.36,
+    "text": "password"
+  },
+  {
+    "start": 439.36,
+    "end": 440.28000000000003,
+    "text": "بس یہ چیزے"
+  },
+  {
+    "start": 448.74,
+    "end": 449.74,
+    "text": "اور"
+  },
+  {
+    "start": 449.74,
+    "end": 450.74,
+    "text": "یہ نہیں"
+  },
+  {
+    "start": 450.74,
+    "end": 451.74,
+    "text": "och"
+  },
+  {
+    "start": 451.74,
+    "end": 452.74,
+    "text": "یہ"
+  },
+  {
+    "start": 452.74,
+    "end": 453.74,
+    "text": "یہ نہیں"
+  },
+  {
+    "start": 453.74,
+    "end": 454.74,
+    "text": "och"
+  },
+  {
+    "start": 454.74,
+    "end": 455.74,
+    "text": "یہ نہیں"
+  },
+  {
+    "start": 455.74,
+    "end": 456.74,
+    "text": "och"
+  },
+  {
+    "start": 456.74,
+    "end": 457.74,
+    "text": "doub"
+  },
+  {
+    "start": 457.74,
+    "end": 458.74,
+    "text": "spays"
+  },
+  {
+    "start": 458.74,
+    "end": 459.18,
+    "text": "so"
+  },
+  {
+    "start": 459.18,
+    "end": 459.74,
+    "text": "آپ نے"
+  },
+  {
+    "start": 459.74,
+    "end": 460.74,
+    "text": "if not"
+  },
+  {
+    "start": 460.74,
+    "end": 461.74,
+    "text": "slash"
+  },
+  {
+    "start": 461.74,
+    "end": 462.74,
+    "text": "in password"
+  },
+  {
+    "start": 462.74,
+    "end": 463.74,
+    "text": "not"
+  },
+  {
+    "start": 463.74,
+    "end": 464.74,
+    "text": "because"
+  },
+  {
+    "start": 464.74,
+    "end": 465.74,
+    "text": "not"
+  },
+  {
+    "start": 465.74,
+    "end": 466.74,
+    "text": "and"
+  },
+  {
+    "start": 466.74,
+    "end": 467.74,
+    "text": "single"
+  },
+  {
+    "start": 467.74,
+    "end": 468.74,
+    "text": "code in password"
+  },
+  {
+    "start": 468.74,
+    "end": 469.74,
+    "text": "and"
+  },
+  {
+    "start": 469.74,
+    "end": 470.74,
+    "text": "double code in password"
+  },
+  {
+    "start": 470.74,
+    "end": 471.74,
+    "text": "not"
+  },
+  {
+    "start": 471.74,
+    "end": 472.74,
+    "text": "and"
+  },
+  {
+    "start": 472.74,
+    "end": 473.74,
+    "text": "so"
+  },
+  {
+    "start": 473.74,
+    "end": 474.74,
+    "text": "when"
+  },
+  {
+    "start": 474.74,
+    "end": 475.74,
+    "text": "this"
+  },
+  {
+    "start": 475.74,
+    "end": 476.74,
+    "text": "condition"
+  },
+  {
+    "start": 476.74,
+    "end": 477.74,
+    "text": "true"
+  },
+  {
+    "start": 477.74,
+    "end": 478.74,
+    "text": "کر دیں"
+  },
+  {
+    "start": 478.74,
+    "end": 479.74,
+    "text": "اور"
+  },
+  {
+    "start": 479.74,
+    "end": 480.74,
+    "text": "here"
+  },
+  {
+    "start": 480.74,
+    "end": 481.74,
+    "text": "print"
+  },
+  {
+    "start": 481.74,
+    "end": 482.74,
+    "text": "کر دیں"
+  },
+  {
+    "start": 482.74,
+    "end": 483.74,
+    "text": "valed"
+  },
+  {
+    "start": 483.74,
+    "end": 484.74,
+    "text": "or"
+  },
+  {
+    "start": 484.74,
+    "end": 485.74,
+    "text": "true"
+  },
+  {
+    "start": 485.74,
+    "end": 486.74,
+    "text": "print"
+  },
+  {
+    "start": 486.74,
+    "end": 487.74,
+    "text": "کر دیں"
+  },
+  {
+    "start": 487.74,
+    "end": 488.74,
+    "text": "veiled"
+  },
+  {
+    "start": 488.74,
+    "end": 489.74,
+    "text": "or"
+  },
+  {
+    "start": 489.74,
+    "end": 490.74,
+    "text": "true"
+  },
+  {
+    "start": 490.74,
+    "end": 491.74,
+    "text": "print"
+  },
+  {
+    "start": 491.74,
+    "end": 492.74,
+    "text": "or"
+  },
+  {
+    "start": 492.74,
+    "end": 493.74,
+    "text": "true"
+  },
+  {
+    "start": 493.74,
+    "end": 494.74,
+    "text": "and"
+  },
+  {
+    "start": 494.74,
+    "end": 495.74,
+    "text": "simple"
+  },
+  {
+    "start": 495.74,
+    "end": 496.74,
+    "text": "code"
+  },
+  {
+    "start": 496.74,
+    "end": 497.74,
+    "text": "and"
+  },
+  {
+    "start": 497.74,
+    "end": 498.74,
+    "text": "simple"
+  },
+  {
+    "start": 498.74,
+    "end": 499.74,
+    "text": "code"
+  },
+  {
+    "start": 499.74,
+    "end": 500.74,
+    "text": "and"
+  },
+  {
+    "start": 500.74,
+    "end": 501.74,
+    "text": "simple"
+  },
+  {
+    "start": 501.74,
+    "end": 502.74,
+    "text": "code"
+  },
+  {
+    "start": 502.74,
+    "end": 503.74,
+    "text": "and"
+  },
+  {
+    "start": 503.74,
+    "end": 504.74,
+    "text": "simple"
+  },
+  {
+    "start": 504.74,
+    "end": 505.74,
+    "text": "code"
+  },
+  {
+    "start": 505.74,
+    "end": 506.74,
+    "text": "and"
+  },
+  {
+    "start": 506.74,
+    "end": 507.74,
+    "text": "simple code"
+  },
+  {
+    "start": 507.74,
+    "end": 508.74,
+    "text": "and"
+  },
+  {
+    "start": 508.74,
+    "end": 509.74,
+    "text": "simple"
+  },
+  {
+    "start": 509.74,
+    "end": 510.74,
+    "text": "code"
+  },
+  {
+    "start": 510.74,
+    "end": 511.74,
+    "text": "but"
+  },
+  {
+    "start": 511.74,
+    "end": 512.74,
+    "text": "double code"
+  },
+  {
+    "start": 512.74,
+    "end": 513.74,
+    "text": "and"
+  },
+  {
+    "start": 513.74,
+    "end": 514.74,
+    "text": "backslash"
+  },
+  {
+    "start": 514.74,
+    "end": 515.74,
+    "text": "why"
+  },
+  {
+    "start": 515.74,
+    "end": 516.74,
+    "text": "this"
+  },
+  {
+    "start": 516.74,
+    "end": 517.74,
+    "text": "comment"
+  },
+  {
+    "start": 517.74,
+    "end": 518.74,
+    "text": "in your"
+  },
+  {
+    "start": 518.74,
+    "end": 519.74,
+    "text": "own"
+  },
+  {
+    "start": 519.74,
+    "end": 520.74,
+    "text": "own"
+  },
+  {
+    "start": 520.74,
+    "end": 521.74,
+    "text": "own"
+  },
+  {
+    "start": 521.74,
+    "end": 522.74,
+    "text": "own"
+  },
+  {
+    "start": 522.74,
+    "end": 523.74,
+    "text": "own"
+  },
+  {
+    "start": 523.74,
+    "end": 524.74,
+    "text": "own"
+  },
+  {
+    "start": 524.74,
+    "end": 525.74,
+    "text": "own"
+  },
+  {
+    "start": 525.74,
+    "end": 526.74,
+    "text": "own"
+  },
+  {
+    "start": 526.74,
+    "end": 527.74,
+    "text": "own"
+  },
+  {
+    "start": 527.74,
+    "end": 528.74,
+    "text": "own"
+  },
+  {
+    "start": 528.74,
+    "end": 529.74,
+    "text": "own"
+  },
+  {
+    "start": 529.74,
+    "end": 530.74,
+    "text": "own"
+  },
+  {
+    "start": 530.74,
+    "end": 531.74,
+    "text": "own"
+  },
+  {
+    "start": 531.74,
+    "end": 532.74,
+    "text": "own"
+  },
+  {
+    "start": 532.74,
+    "end": 533.74,
+    "text": "own"
+  },
+  {
+    "start": 533.74,
+    "end": 534.74,
+    "text": "own"
+  },
+  {
+    "start": 534.74,
+    "end": 535.74,
+    "text": "own"
+  },
+  {
+    "start": 535.74,
+    "end": 536.74,
+    "text": "own"
+  },
+  {
+    "start": 536.74,
+    "end": 537.24,
+    "text": "own"
+  }
+]

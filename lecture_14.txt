@@ -1,0 +1,210 @@
+[0.00 - 2.00] Today's students, welcome to Goodsmishers
+[2.00 - 7.00] Today's video is explaining how to take input from user in python
+[7.00 - 11.00] Like we use scanf in C programming
+[11.00 - 14.00] C++ in C function
+[14.00 - 17.00] So take the input from the user
+[17.00 - 19.00] Python also has an important function
+[19.00 - 25.00] Here we use input so that we can use input from user to run the run time
+[25.00 - 28.00] So here I will explain you the execution
+[28.00 - 31.00] First of all, I have written a simple program
+[31.00 - 34.00] We have used input function in this way
+[34.00 - 37.00] And in the middle you have written enter your name
+[37.00 - 39.00] I am using the name from user
+[39.00 - 41.00] And I have stored the value in the name
+[41.00 - 43.00] And I have printed it
+[43.00 - 45.00] And I have printed it
+[45.00 - 47.00] And I have concatenated it
+[47.00 - 50.00] So you can add the name in this way
+[50.00 - 52.00] And concatenate it
+[52.00 - 54.00] As I execute it
+[54.00 - 56.00] As I execute it
+[56.00 - 60.00] I say that I have printed it from this way
+[60.00 - 63.00] And in this prompt you will write the name in it
+[63.00 - 66.00] So I have written the name in it
+[66.00 - 67.00] So I have entered
+[67.00 - 68.00] As I have entered
+[68.00 - 71.00] So the name in it
+[71.00 - 73.00] It has entered
+[73.00 - 74.00] And it has entered the name
+[74.00 - 75.00] And finally
+[75.00 - 76.00] Hello, the name
+[76.00 - 78.00] I have added the value in it
+[78.00 - 81.00] And you have shown the output from this way
+[81.00 - 84.00] So how do we input the function of this simple function?
+[84.00 - 85.00] User
+[85.00 - 88.00] The second thing is that you have to keep it in mind
+[88.00 - 90.00] So the simple function is that
+[90.00 - 92.00] But the second thing is that you have to keep it in mind
+[92.00 - 93.00] As we check it
+[93.00 - 95.00] If I want to check it
+[95.00 - 97.00] What is the type of this?
+[97.00 - 98.00] Okay
+[98.00 - 99.00] So I do type
+[99.00 - 101.00] And here I have the name
+[101.00 - 102.00] And I have to check the type
+[102.00 - 103.00] So as I execute it
+[103.00 - 105.00] So I have added the name in it
+[105.00 - 107.00] And here it has entered
+[107.00 - 108.00] Hello, Varun has entered
+[108.00 - 110.00] And the string of the class
+[110.00 - 111.00] So if you think it is right
+[111.00 - 113.00] Then it should be string
+[113.00 - 114.00] We have given you string
+[114.00 - 116.00] So the string is my type
+[116.00 - 117.00] It is very good
+[117.00 - 118.00] We have simply done it
+[118.00 - 120.00] But now in the story
+[120.00 - 121.00] I will go through the test
+[121.00 - 123.00] The second thing I have done
+[123.00 - 125.00] The second thing I have added here
+[125.00 - 126.00] I am using the input here
+[126.00 - 127.00] And I am taking integer value here
+[127.00 - 129.00] As I have taken the integer value here
+[129.00 - 131.00] I have added a number here
+[131.00 - 133.00] And I have printed the number here
+[133.00 - 135.00] So let's suppose I have added a number here
+[135.00 - 137.00] And I have executed the jcs
+[137.00 - 139.00] So I have added a number here
+[139.00 - 141.00] And I have added 10
+[141.00 - 142.00] And I have entered
+[142.00 - 143.00] So what I have done here
+[143.00 - 144.00] I have added 10
+[144.00 - 146.00] And I will have a number here
+[146.00 - 148.00] I have printed the number here
+[148.00 - 149.00] And I have printed it
+[149.00 - 150.00] But but but
+[150.00 - 152.00] What is the class looking?
+[152.00 - 153.00] The class is coming
+[153.00 - 154.00] The string
+[154.00 - 156.00] It was not a string on top
+[156.00 - 157.00] Because I had added a string
+[157.00 - 158.00] So the string is coming
+[158.00 - 160.00] But how did the string come here?
+[160.00 - 162.00] Here is the number
+[162.00 - 163.00] If the number is added
+[163.00 - 164.00] Then the number should be here
+[164.00 - 165.00] But no
+[165.00 - 166.00] This is the point
+[166.00 - 167.00] You have to note
+[167.00 - 168.00] The competitive exam
+[168.00 - 170.00] In your university college exam
+[170.00 - 172.00] You can also ask you in interviews
+[172.00 - 174.00] Which type of a body default is this?
+[174.00 - 175.00] Which type is the type?
+[175.00 - 177.00] You have to add a float value
+[177.00 - 178.00] You have to add a number
+[178.00 - 179.00] You have to add a character
+[179.00 - 180.00] You have to add a Boolean
+[180.00 - 182.00] This body default will return
+[182.00 - 183.00] The string type
+[183.00 - 185.00] So what we have to do here
+[185.00 - 187.00] We have to change
+[187.00 - 188.00] So here is the problem
+[188.00 - 190.00] What can we solve this problem?
+[190.00 - 191.00] So I have printed 10
+[191.00 - 192.00] I have printed 10
+[192.00 - 193.00] It is not a problem
+[193.00 - 195.00] But what can we solve this problem?
+[195.00 - 198.00] Let's suppose that I am doing something simple
+[198.00 - 202.00] I have added 2 values in the name of the name
+[202.00 - 205.00] I have added 2 values in the name of the name of the name
+[205.00 - 207.00] And now what am I doing?
+[207.00 - 208.00] I am printing the name
+[208.00 - 209.00] I am printing the name
+[209.00 - 210.00] So here I am executing the name of the name
+[210.00 - 211.00] So I have done 10
+[211.00 - 213.00] And this is my error
+[213.00 - 215.00] Why did the error come?
+[215.00 - 217.00] Look at the distance
+[217.00 - 219.00] What you were doing
+[219.00 - 221.00] You have printed 10
+[221.00 - 223.00] And the value of 10 came in the name of the name
+[223.00 - 225.00] You have printed 10 then is printed
+[225.00 - 226.30] This kind ofته
+[226.30 - 230.00] With the name of the name of the name of that name
+[230.00 - 232.64] The name of the name of the name of the name of the name
+[232.64 - 233.64] The string type
+[233.64 - 235.76] You can make 2 over string types
+[235.76 - 237.76] You have to put them in the script
+[237.76 - 238.76] It is a teaser
+[238.76 - 240.08] So we need to print 10 plus where
+[240.08 - 241.04] These will be 12
+[241.04 - 243.64] But its type is what is the name of the name of the name of the name
+[243.64 - 246.74] So by adding string in the name of the name of the name of the name of the name of the name of the name of the name
+[246.74 - 247.94] What will the new standard?
+[247.94 - 248.94] Which is a log?
+[248.96 - 250.76] And what is the error here?
+[250.78 - 252.78] You must be in error here
+[252.78 - 256.88] اور 에рRKi aayu aayu must be STR not integer
+[256.88 - 258.48] کیo ki aap do aad kar ryu
+[258.48 - 259.56] تو یہape kakar do
+[259.56 - 261.36] Type casting aap ko karni padai ki
+[261.36 - 264.06] Simpaz aafandai kui jada lamba chodak amni hai
+[264.06 - 265.66] yaap yaap kaakar o
+[265.66 - 267.56] Is ki Type casting kardo
+[267.56 - 268.66] تو int kar dhi hai
+[268.66 - 269.58] int kar dhi hai
+[269.58 - 271.54] تو Iske baat de kui aapi ki aap aa
+[271.54 - 273.30] int kar ki isko egzikut karo
+[273.30 - 274.62] yaapi me ne 10 kia
+[274.62 - 276.12] Jasi me ne aapi 10 kia
+[276.12 - 277.50] aur isko enter kia
+[277.50 - 279.08] ab bilkul sairan karega
+[279.08 - 281.38] کیo ki me ne aap Is ki Type casting kardhi
+[281.38 - 283.18] kia kardhi type casting
+[283.18 - 284.06] to isko me ne
+[284.06 - 285.94] ekter aayi simpilis idli change kardhi ya
+[285.94 - 287.50] value jau hai aur myi 10 thi
+[287.50 - 289.30] iske Type int kar dhi
+[289.30 - 290.82] ab iske endra ab do aad karo
+[290.82 - 292.22] minus karo jau marji garo
+[292.22 - 293.66] aap izili karsak kyu kia
+[293.66 - 294.86] iske Type kia oogi
+[294.86 - 295.58] int hogi
+[295.58 - 296.82] یہ Simpaz aafandai
+[296.82 - 298.06] to humesha yagrak na
+[298.06 - 299.94] even aap int kia float me bhi karni
+[299.94 - 301.02] karsak teo karaap chayat ki
+[301.02 - 302.70] let's pose mjhe float karni hai
+[302.70 - 304.98] to a float me bhi karni karsak teo
+[304.98 - 306.10] to float karni hai
+[306.10 - 308.10] to loji aa float bhi aap ka
+[308.10 - 309.54] run hoha jai ka izili
+[309.54 - 312.14] float ke kese me bhas thoda sa change kia aa aa
+[312.14 - 313.54] aap ne 10 thi
+[313.54 - 314.94] to ye 10.0
+[314.94 - 316.98] 12.0 karni ge ki
+[316.98 - 320.30] ki ki float value hai to decimal ke saath ye dikata hai
+[320.30 - 321.62] to float me bhi karni gear sakti ho
+[321.62 - 323.30] aap let's pose chaat teo ki sir mjhe
+[323.30 - 324.34] boolean me karni hai
+[324.34 - 328.78] to a boolean me bhi karni karni karni kia li ka lik na aap ka bool
+[328.78 - 330.42] iske kia se bool
+[330.42 - 332.94] to bool karni loji bool karni hai
+[332.94 - 334.46] to le se me ne di 10 value
+[334.46 - 335.54] to 10 kia aayi
+[335.54 - 337.38] bhaidifol tia kia le ta 10 koha
+[337.38 - 338.86] output me 10 ni aayi ka
+[338.90 - 341.06] boole kia aayi to 2 aayi afalz hai
+[341.06 - 342.54] to agar me 10 value hai
+[342.54 - 343.94] to koi bhi value insert karta to
+[343.94 - 345.90] bhaidifol tia return kia karta true
+[345.90 - 347.42] tika aap taip kia aap boole
+[347.42 - 349.26] let's pose agar me khali chaur do
+[349.26 - 350.98] let's pose agar me khali chaur do
+[350.98 - 351.98] ek tara sa nal
+[351.98 - 353.14] me kuchmi ni bhar aa hai
+[353.14 - 355.10] this ko nal rakhrao to nal ke kese me
+[355.10 - 356.78] jai si me aise kyu dkar honga
+[356.78 - 358.42] ek tara sa kia aajega
+[358.42 - 359.74] false aajega
+[359.74 - 361.14] ki aap ne kuchmi pasni ka to
+[361.14 - 364.26] usko ye khali ko nal ko ye kia li ta false li ta
+[364.26 - 365.34] to aap boolean karni ho
+[365.34 - 367.66] float karlow str to bhaidifol tia
+[367.66 - 369.18] yaa fi rap inti bhi karsak
+[369.18 - 371.18] to kese rikhe sa aap taip kastingar ke
+[371.18 - 373.34] koi bhi program aazili li ksak
+[373.34 - 374.94] to aap ko saari ghani jo hai bo
+[374.94 - 376.14] with the execution kuru aadi
+[376.14 - 376.62] thank you

@@ -1,0 +1,270 @@
+[0.00 - 2.00] Welcome to Good Spasures
+[2.00 - 3.00] Today's video is explaining
+[3.00 - 5.00] Lambda Functions in Python
+[5.00 - 7.00] Lambda Functions is used
+[7.00 - 9.00] Actually, it is anonymous function
+[9.00 - 11.00] Means, it is not connected to any name
+[11.00 - 13.00] If you want to test your small number
+[13.00 - 15.00] or find an even number
+[15.00 - 16.00] or some of two numbers
+[16.00 - 18.00] If you want to test this small number
+[18.00 - 20.00] Python says, why do you create a function in the file?
+[20.00 - 22.00] Then you call the function
+[22.00 - 24.00] You can directly call an anonymous function
+[24.00 - 25.00] through Lambda
+[25.00 - 28.00] or you can easily explain it to your own
+[28.00 - 30.00] If you are getting a first-time stranger
+[30.00 - 32.00] Then first you can call the name
+[32.00 - 33.00] then you can call it
+[33.00 - 35.00] Hello, Hi Sir
+[35.00 - 37.00] You can call it without any name
+[37.00 - 38.00] or even call it
+[38.00 - 39.00] and then you can say
+[39.00 - 41.00] After that, you need to know the name and the name
+[41.00 - 43.00] Means, try to do the work
+[43.00 - 45.00] in the same way
+[45.00 - 47.00] in Python, we do Lambda Functions
+[47.00 - 49.00] As I explain to you the examples
+[49.00 - 51.00] I have to find an even number
+[51.00 - 52.00] List is in this way
+[52.00 - 53.00] I have some list
+[53.00 - 55.00] and the function in this list
+[55.00 - 57.00] is my named function
+[57.00 - 59.00] because I have given a name here
+[59.00 - 61.00] definition name and it is even
+[61.00 - 63.00] x return x percent
+[63.00 - 64.00] is double equal to 0
+[64.00 - 66.00] This is the logic that I will find a remainder
+[66.00 - 69.00] If the remainder is 0, then this is the order
+[69.00 - 72.00] So if the remainder is 0, then return this value
+[72.00 - 75.00] and what I have added here is the list filter
+[75.00 - 77.00] Lambda Functions is generally filtered
+[77.00 - 78.00] or sorted
+[78.00 - 79.00] or map
+[79.00 - 81.00] It is used with this
+[81.00 - 83.00] in the main three methods
+[83.00 - 84.00] So we have filtered
+[84.00 - 85.00] What is the filter?
+[85.00 - 87.00] What is the list?
+[87.00 - 89.00] I have passed this list
+[89.00 - 90.00] here
+[90.00 - 92.00] I am trying to find the even values
+[92.00 - 93.00] that I have given
+[93.00 - 94.00] Now what is this even?
+[94.00 - 95.00] This function name
+[95.00 - 96.00] which I am creating
+[96.00 - 97.00] is the name of this function
+[97.00 - 99.00] and the list
+[99.00 - 100.00] you need to know
+[100.00 - 101.00] where you will iterate
+[101.00 - 102.00] and then
+[102.00 - 104.00] give the name of the list
+[104.00 - 105.00] So this even
+[105.00 - 106.00] as you will go here
+[106.00 - 107.00] as you will execute this
+[107.00 - 108.00] list filter
+[108.00 - 109.00] Now this will be even call
+[109.00 - 111.00] When this call is the first number
+[111.00 - 112.00] what is 11?
+[112.00 - 113.00] 11 percent
+[113.00 - 114.00] what is 11?
+[114.00 - 115.00] 1 means
+[115.00 - 116.00] it is not selected
+[116.00 - 117.00] so what will be written?
+[117.00 - 118.00] False
+[118.00 - 119.00] and the false
+[119.00 - 120.00] means it is not selected
+[120.00 - 121.00] it means
+[121.00 - 122.00] even this list
+[122.00 - 123.00] should not be added
+[123.00 - 124.00] Next I have 20
+[124.00 - 125.00] 20
+[125.00 - 126.00] Now 20 percent is 0
+[126.00 - 127.00] obviously
+[127.00 - 128.00] if you divide it from 20
+[128.00 - 129.00] then it will be 0
+[129.00 - 130.00] So that means
+[130.00 - 132.00] it will return this true
+[132.00 - 133.00] So true
+[133.00 - 135.00] it is adding 20 in this list
+[135.00 - 136.00] which is logic
+[136.00 - 137.00] So in the filter
+[137.00 - 138.00] it is filtered
+[138.00 - 140.00] and it is filtered
+[140.00 - 141.00] and it is increasing
+[141.00 - 142.00] it is iteration
+[142.00 - 143.00] and finally
+[143.00 - 144.00] I will give a list
+[144.00 - 145.00] evens
+[145.00 - 146.00] so I will execute this
+[146.00 - 147.00] So I will execute this
+[147.00 - 148.00] So I have a simple
+[148.00 - 149.00] 20, 40
+[149.00 - 150.00] so I have a list
+[150.00 - 151.00] which is
+[151.00 - 152.00] the even number
+[152.00 - 153.00] but
+[153.00 - 154.00] here I have
+[154.00 - 156.00] created a formal function
+[156.00 - 157.00] which I have given
+[157.00 - 159.00] and then I called
+[159.00 - 160.00] that function
+[160.00 - 161.00] here
+[161.00 - 162.00] Python says
+[162.00 - 163.00] use lambda
+[163.00 - 164.00] and in the false
+[164.00 - 165.00] why do you work
+[165.00 - 166.00] the name of the function
+[166.00 - 167.00] you are using
+[167.00 - 168.00] an easy method
+[168.00 - 170.00] what is the easy method
+[170.00 - 171.00] why my number
+[171.00 - 172.00] is this list
+[172.00 - 173.00] which is all the elements
+[173.00 - 174.00] even here
+[174.00 - 175.00] filter is the same
+[175.00 - 176.00] just like
+[176.00 - 177.00] the list filter is the same here
+[177.00 - 178.00] but the definition of
+[178.00 - 179.00] the definition of the name
+[179.00 - 180.00] is a function of the name
+[180.00 - 181.00] which is
+[181.00 - 182.00] the name of the name
+[182.00 - 183.00] is lambda
+[183.00 - 184.00] lambda
+[184.00 - 185.00] which you have to use
+[185.00 - 186.00] no name or the name of the function
+[186.00 - 187.00] lambda
+[187.00 - 188.00] here I am doing the argument
+[188.00 - 189.00] here
+[189.00 - 190.00] the value is 0
+[190.00 - 191.00] x
+[191.00 - 192.00] obviously
+[192.00 - 193.00] you will iterate
+[193.00 - 194.00] on the list
+[194.00 - 195.00] and you will
+[195.00 - 196.00] get the element
+[196.00 - 197.00] check
+[197.00 - 198.00] even
+[198.00 - 199.00] not even
+[199.00 - 200.00] x
+[200.00 - 201.00] here
+[201.00 - 202.00] call an
+[202.00 - 203.00] x
+[203.00 - 204.00] percent
+[204.00 - 205.00] is equal to 0
+[205.00 - 206.00] and
+[206.00 - 207.00] x is greater than 50
+[207.00 - 208.00] if I want to do it
+[208.00 - 209.00] I want to remove all the
+[209.00 - 210.00] even numbers
+[210.00 - 211.00] which are the values
+[211.00 - 212.00] x
+[212.00 - 213.00] is more than 50
+[213.00 - 214.00] and if you do not want it
+[214.00 - 215.00] then I can
+[215.00 - 216.00] remove it
+[216.00 - 217.00] so you can
+[217.00 - 218.00] simply
+[218.00 - 219.00] keep the
+[219.00 - 220.00] value
+[220.00 - 222.00] which is equal to 0
+[222.00 - 223.00] it will return
+[223.00 - 224.00] and it will return
+[224.00 - 225.00] and it will
+[225.00 - 226.00] get
+[226.00 - 227.00] the list
+[227.00 - 228.00] in this list
+[228.00 - 229.00] and here
+[229.00 - 231.00] I can do the simple print
+[231.00 - 232.00] if I print it
+[232.00 - 233.00] then
+[233.00 - 234.00] it will give all the
+[234.00 - 235.00] numbers
+[235.00 - 236.00] which are in my
+[236.00 - 237.00] list
+[237.00 - 238.00] the same
+[238.00 - 239.00] work is
+[239.00 - 240.00] but here
+[240.00 - 241.00] we did not
+[241.00 - 242.00] give the name of the function
+[242.00 - 243.00] in a simple
+[243.00 - 244.00] easy way
+[244.00 - 245.00] I created it
+[245.00 - 246.00] and can do more
+[246.00 - 247.00] examples
+[247.00 - 248.00] let's suppose
+[248.00 - 249.00] I am a sorted example
+[249.00 - 250.00] sorted
+[250.00 - 251.00] so I have
+[251.00 - 252.00] sorted
+[252.00 - 253.00] I have
+[253.00 - 254.00] japur, cottage
+[254.00 - 255.00] etc.
+[255.00 - 256.00] and I want
+[256.00 - 257.00] to sort
+[257.00 - 258.00] number of
+[258.00 - 259.00] characters
+[259.00 - 260.00] like
+[260.00 - 261.00] how many
+[261.00 - 262.00] japur is
+[262.00 - 263.00] japur
+[263.00 - 264.00] after japur
+[264.00 - 265.00] in Delhi
+[265.00 - 266.00] 5
+[266.00 - 267.00] the number of characters
+[267.00 - 268.00] in it
+[268.00 - 269.00] is
+[269.00 - 270.00] sorted
+[270.00 - 271.00] so what I am
+[271.00 - 272.00] doing here
+[272.00 - 273.00] I created a formal
+[273.00 - 274.00] function
+[274.00 - 275.00] and I gave
+[275.00 - 276.00] some names
+[276.00 - 277.00] and I
+[277.00 - 278.00] passed the list
+[278.00 - 279.00] and returned
+[279.00 - 280.00] the length
+[280.00 - 281.00] is
+[281.00 - 282.00] returning
+[282.00 - 283.00] like this
+[283.00 - 284.00] 4
+[284.00 - 285.00] 10
+[285.00 - 286.00] 5
+[286.00 - 287.00] 6
+[287.00 - 288.00] 6
+[288.00 - 289.00] 4
+[289.00 - 290.00] 6
+[290.00 - 291.00] 4
+[291.00 - 292.00] 6
+[292.00 - 293.00] 4
+[293.00 - 294.00] 7
+[294.00 - 295.00] 7
+[295.00 - 296.00] 6
+[296.00 - 297.00] 7
+[297.00 - 298.00] 9
+[298.00 - 299.00] 9
+[299.00 - 300.00] 9
+[300.00 - 301.00] 9
+[301.00 - 302.00] 9
+[302.00 - 303.00] 9
+[303.00 - 304.00] 9
+[304.00 - 305.00] 9
+[305.00 - 306.00] 9
+[306.00 - 307.00] 9
+[307.00 - 308.00] 9
+[308.00 - 309.00] 9
+[309.00 - 310.00] 9
+[310.00 - 311.00] 9
+[311.00 - 312.00] 9
+[312.00 - 313.00] 9
+[313.00 - 314.00] 9
+[314.00 - 315.00] 9
+[315.00 - 316.00] 9
+[316.00 - 344.06] entsausoะ Mrs.Force係 Siamn Не
+[344.06 - 349.56] پٹھ ہی دی رہے اور اس میں اگر آپ سے پوچھ لے کیسر اگر مجھے یہ تو بائیڈی فالٹ جو ہے وہ
+[349.56 - 353.76] Assending Order میں کر رہے لیکن اگر مجھے Desending Order میں کر رہے ہیں تو کوئی فرک نہیں بڑتا
+[353.76 - 358.92] آپ جو Sorted Sorted ke'a انتر آپ تیس رہ ایک اور جو ہے وہ Reverse
+[358.92 - 362.76] تیس رہا اگر بڑی یہ پیل اگر بڑی ان ویڈی ہوگی جس کے اندر سے آپ نے کر
+[362.76 - 366.96] نا دوسرا آپ نے کی value دی دی کی کس کے بیسے پہ اپنے Sorted کر رہے اور تیس رہا

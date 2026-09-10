@@ -1,0 +1,330 @@
+[0.00 - 2.10] بھی a students , welcome to great smashes
+[2.10 - 3.96] Today's video is going to explain
+[3.96 - 6.20] how to create numpy arrays
+[6.20 - 7.66] in last video
+[7.66 - 9.10] I have already given an introduction
+[9.10 - 11.06] how numpy arrays are created
+[11.06 - 12.34] why are they created
+[12.34 - 14.14] why are their advantages and applications
+[14.14 - 15.04] I have already told you all
+[15.04 - 16.30] we have a video check
+[16.30 - 18.14] so that you will know the introduction
+[18.14 - 20.46] now here we will create
+[20.46 - 22.58] how to create arrays
+[22.58 - 23.96] one dimensional array
+[23.96 - 26.34] two dimensional array are created
+[26.34 - 29.46] and I will show you how to execute them on Jupiter
+[29.46 - 31.46] so let's start from the bottom
+[31.46 - 32.82] here is a simple code
+[32.82 - 34.02] no one is more than the code
+[34.02 - 35.22] here is a simple code
+[35.22 - 37.02] import numpy as np
+[37.02 - 38.42] so we already installed
+[38.42 - 40.28] pip install numpy
+[40.28 - 42.10] we have already installed numpy
+[42.10 - 43.90] we already have installed numpy on cmd
+[43.90 - 46.02] that pip install numpy is here
+[46.02 - 48.74] now we are taking this environment
+[48.74 - 51.46] so what is the import numpy as np
+[51.46 - 53.20] this is the font of np
+[53.20 - 55.74] and I have created a dummy name
+[55.74 - 57.74] a small name has created
+[57.78 - 59.10] if you don't do it
+[59.10 - 60.46] then import numpy
+[60.46 - 62.10] so you will have to write numpy dot
+[62.10 - 63.38] numpy dot
+[63.38 - 65.38] so you also want to write something
+[65.38 - 65.90] let me write it
+[65.90 - 68.38] because we use np in the first place
+[68.38 - 69.74] so I have used np
+[69.74 - 71.18] so I have passed a list
+[71.18 - 72.86] 10,20,30,40,50
+[72.86 - 74.62] and here is the important thing
+[74.62 - 76.62] np dot array
+[76.62 - 77.86] np dot array
+[77.86 - 79.94] this function is used as np dot array
+[79.94 - 81.54] if you give a name here
+[81.54 - 82.42] then a dot array
+[82.42 - 83.62] b dot is b dot array
+[83.62 - 84.98] just remember this font
+[84.98 - 86.98] we have passed the list
+[87.06 - 87.86] and what is this?
+[87.86 - 89.14] an array has created
+[89.14 - 90.98] now we will print the array
+[90.98 - 93.34] this is our simple
+[93.34 - 94.54] this way it will create
+[94.54 - 96.26] 10,20,30,40,50
+[96.26 - 98.74] this is my one dimensional array
+[98.74 - 100.34] it has created
+[100.34 - 102.34] so I want to see the type
+[102.34 - 104.66] let's suppose I want to see the type here
+[104.66 - 106.22] so you can write the type
+[106.22 - 108.02] type of array 1
+[108.02 - 110.22] because we have created the array 1
+[110.22 - 111.66] what is the type?
+[111.66 - 113.66] numpy dot nd array
+[113.66 - 115.66] nd array means multi-dimensional
+[115.70 - 117.22] n dimensional array
+[117.22 - 119.82] n value 1,2,3,4,5 upto n
+[119.82 - 122.02] so this is what the nd array
+[122.02 - 123.86] has created
+[123.86 - 125.06] now here
+[125.06 - 127.06] we will ask the funder
+[127.06 - 127.86] in the exam
+[127.86 - 130.70] let's suppose we have passed a list
+[130.70 - 132.26] now in the list
+[132.26 - 134.26] we can write the variety of elements
+[134.26 - 136.46] but our area
+[136.46 - 138.66] we cannot write the variety of elements
+[138.66 - 140.30] we can write the homogeneous
+[140.30 - 141.66] i.e. the type of elements
+[141.66 - 143.66] just like all the entities
+[143.86 - 145.86] many say that all the entities
+[145.86 - 147.66] mix this
+[147.66 - 149.06] like what I did here
+[149.06 - 150.66] I found out what I did
+[150.66 - 152.94] 10,20,40
+[152.94 - 153.74] what I did?
+[153.74 - 154.26] float
+[154.26 - 156.06] I have taken a float value
+[156.06 - 157.26] I am still a teaser
+[157.26 - 158.46] I have taken a float
+[158.46 - 159.86] I have mixed
+[159.86 - 161.10] or mixed
+[161.10 - 162.86] so I can mix in the list
+[162.86 - 164.66] so if I execute it
+[164.66 - 166.66] so like I have executed
+[166.66 - 168.46] let's see what will happen
+[168.46 - 170.26] 10 dot
+[170.26 - 171.66] 20 dot something
+[171.66 - 173.46] 30 dot something 40 dot
+[173.46 - 174.46] what is it?
+[174.46 - 176.06] 7 dot
+[176.06 - 179.06] if you have given all the entities
+[179.06 - 180.26] then all the entities
+[180.26 - 182.06] 1 float
+[182.06 - 184.66] then it converted all the entities into float
+[184.66 - 186.26] so now homogeneous
+[186.26 - 187.66] all the float
+[187.66 - 189.26] just remember this
+[189.26 - 191.26] now let's suppose here
+[191.26 - 192.86] I take a character
+[192.86 - 194.66] in this way
+[194.66 - 196.86] ok I have taken a character value
+[196.86 - 198.66] so if I take a character value
+[198.66 - 200.06] then I execute it
+[200.06 - 201.46] so see what I did
+[201.46 - 203.06] funder is still the same
+[203.06 - 204.46] homogeneous
+[204.46 - 206.86] I mixed in the list
+[206.86 - 208.66] but what I have to do
+[208.66 - 210.46] is to get all the characters in the value
+[210.46 - 214.06] so this is the single quotes
+[214.06 - 215.26] so what will happen
+[215.26 - 216.26] in the character value
+[216.26 - 218.26] if it is a small funder
+[218.26 - 218.86] remember this
+[218.86 - 219.86] so many times
+[219.86 - 221.46] let's suppose
+[221.46 - 224.06] you say that we want to give an inbuilt
+[224.06 - 225.46] like my list
+[225.46 - 228.46] I have done all the entities
+[228.46 - 230.26] I can mention here
+[230.26 - 232.46] yes you can mention here
+[232.46 - 234.66] that your data type
+[234.66 - 236.06] your D type
+[236.06 - 237.46] you want to give it to you
+[237.46 - 238.86] if you want to float
+[238.86 - 240.66] then all the float will convert
+[240.66 - 242.66] you can also mention
+[242.66 - 244.66] if you want to give an inbuilt
+[244.66 - 246.06] like the entity already given
+[246.06 - 248.06] but if you want to write explicitly
+[248.06 - 249.86] then you can write in this way
+[249.86 - 253.26] if you want to convert a character
+[253.26 - 254.86] then what we use
+[254.86 - 256.26] we use unique code
+[256.26 - 257.46] for character encoding
+[257.46 - 258.66] we use unique code
+[258.66 - 261.46] so you can use U32 or U16
+[261.46 - 263.62] so this is the
+[263.62 - 264.86] unique code character
+[264.86 - 265.86] it will convert
+[265.86 - 266.86] all the elements
+[266.86 - 268.66] so you can also give it explicitly
+[268.66 - 270.86] so I am telling you from a small point
+[270.86 - 272.46] to note all these
+[272.46 - 275.26] then we have two dimensional array
+[275.26 - 276.26] two dimensional array
+[276.26 - 278.26] to create two dimensional array
+[278.26 - 279.26] it is rose
+[279.26 - 280.66] it is columns
+[280.66 - 281.66] it is rose
+[281.66 - 282.66] columns
+[282.66 - 284.06] so here I have
+[284.06 - 285.66] here a nested list
+[285.66 - 286.66] I have listed
+[286.66 - 287.86] in this way
+[287.86 - 289.66] I have listed 3 lists
+[289.66 - 290.66] I have listed
+[290.66 - 292.26] np.arraylist1
+[292.26 - 293.26] and I have printed it
+[293.26 - 294.46] the same thing is to say
+[294.46 - 295.66] nothing is changed
+[295.66 - 298.06] but here we have done 3 lists
+[298.06 - 299.06] I have listed
+[299.06 - 300.46] so 102030
+[300.46 - 302.46] 405060 is below
+[302.46 - 304.46] 708090 is below
+[304.46 - 305.66] so what will happen
+[305.66 - 307.86] row 1, row 2, row 3
+[307.86 - 309.46] row 1, row 2, row 3
+[309.46 - 311.26] the numbering is given to this way
+[311.26 - 312.26] 012
+[312.26 - 313.66] so this is 0th row
+[313.66 - 315.06] this is the first row
+[315.06 - 316.66] and what is this column
+[316.66 - 317.66] this is column number 0
+[317.66 - 319.26] column number 1, column number 2
+[319.26 - 321.26] so that means 3 rows
+[321.26 - 322.86] it is column 3
+[322.86 - 323.86] so 3x3
+[323.86 - 325.86] you can call it as a matrix
+[325.86 - 326.86] so 3x3
+[326.86 - 327.86] 1x3
+[327.86 - 329.46] total 9 elements
+[329.46 - 330.46] it is in this
+[330.46 - 332.06] this is your 0-0 element
+[332.06 - 333.86] 0-1, 0-2
+[333.86 - 335.86] this is your 1 row
+[335.86 - 336.86] I mean the first row number
+[336.86 - 337.46] then column
+[337.46 - 338.46] so 1-0
+[338.46 - 340.86] 1, 1, 1, 2
+[340.86 - 342.86] which element is your row number
+[342.86 - 343.46] it is 2
+[343.46 - 344.46] 2-0
+[344.46 - 345.46] 2-0
+[345.46 - 346.26] column number 0
+[346.26 - 348.06] so 2-0, 2-1, 2-2
+[348.06 - 352.46] so this is your 2-dimension array
+[352.46 - 353.86] and the same thing you can do
+[353.86 - 355.86] like we did in 1D
+[355.86 - 356.86] we did change
+[356.86 - 357.86] in float
+[357.86 - 358.86] in unicode
+[358.86 - 359.86] so we want to do this
+[359.86 - 361.46] so we have another way
+[361.46 - 362.66] by using range
+[362.66 - 363.66] let's ask
+[363.66 - 365.86] if we want to create an array
+[365.86 - 366.86] by using range
+[366.86 - 367.86] so the second way
+[367.86 - 369.06] is the important number is np
+[369.06 - 371.66] same as np dot a range
+[371.66 - 374.26] we gave a range of 1, 8
+[374.26 - 377.46] so this is the starting value
+[377.66 - 379.66] and ending value is 8
+[379.66 - 380.66] it is less
+[380.66 - 381.78] this is the first
+[381.78 - 383.26] number 1, 8
+[383.26 - 385.26] 1-0, 7
+[385.26 - 386.26] whatever value is given here
+[386.26 - 387.26] it is less
+[387.26 - 389.26] so let's execute this
+[389.26 - 391.26] execute
+[391.26 - 392.26] so 1-0, 7
+[392.26 - 393.26] so this is a sequence
+[393.26 - 395.26] one-dimensional array
+[395.26 - 397.26] it is created
+[397.26 - 398.06] in this
+[398.06 - 401.26] you can create two-dimension array
+[401.26 - 402.66] what you can do for that
+[402.66 - 404.86] range is 17
+[404.86 - 406.26] and here
+[406.26 - 408.46] I have used a attribute
+[408.46 - 409.46] and a ratio
+[409.46 - 410.26] 2,3
+[410.26 - 411.06] this is an array
+[411.06 - 412.06] I am giving it shape
+[412.06 - 414.06] you can use shape
+[414.06 - 416.06] I am creating shape
+[416.06 - 417.06] 2,3
+[417.06 - 418.06] means
+[418.06 - 420.06] how much number of rows
+[420.06 - 421.06] 2
+[421.06 - 422.06] how much number of columns
+[422.06 - 423.06] 3
+[423.06 - 424.06] how much number of elements
+[424.06 - 425.06] 6
+[425.06 - 426.06] 2 rows
+[426.06 - 427.06] 3 columns
+[427.06 - 428.06] how much number of elements
+[428.06 - 429.06] 6
+[429.06 - 430.06] so I have to give
+[430.06 - 431.06] 6 elements
+[431.06 - 431.86] so by using the 11
+[431.86 - 434.06] you will have 7 elements
+[434.06 - 435.06] not
+[435.06 - 436.26] so it is 12
+[436.26 - 436.58] 13
+[436.58 - 437.86] 15
+[437.86 - 439.86] so this is the 6 elements
+[439.86 - 440.86] and it is the shape
+[440.86 - 442.22] 3,2
+[442.22 - 444.06] so as I have given
+[444.06 - 446.06] you execute
+[446.06 - 447.86] 12,13
+[447.86 - 448.86] 14,15
+[448.86 - 449.86] how much is this
+[449.86 - 450.86] you have created
+[450.86 - 451.86] let's suppose
+[451.86 - 452.86] I do 3,2
+[452.86 - 453.86] let's suppose
+[453.86 - 454.86] I do 3,2
+[454.86 - 455.86] so no
+[455.86 - 457.86] shape will change
+[457.86 - 458.86] but total number of elements
+[458.86 - 459.86] so now it is 6
+[459.86 - 460.86] range is also 6
+[460.86 - 462.86] so 12,14,15
+[462.86 - 463.86] now number of rows
+[463.96 - 465.16] 3,2,3
+[465.16 - 465.96] number of columns
+[465.96 - 467.16] now in your mind
+[467.16 - 468.76] let's do 3,3
+[468.76 - 470.36] 3,3
+[470.36 - 471.36] so here it will air
+[471.36 - 472.26] what will air
+[472.26 - 472.96] air
+[472.96 - 473.86] 3,3
+[473.86 - 475.46] means 9 elements
+[475.46 - 477.76] you want 9 elements
+[477.76 - 479.56] but how much you have
+[479.56 - 480.56] 6 elements
+[480.56 - 482.56] so how will this happen
+[482.56 - 484.06] if you want to do 3 by 3
+[484.06 - 485.46] so you have so many elements
+[485.46 - 487.96] pass 9 elements
+[487.96 - 489.46] so by using the 11
+[489.46 - 491.76] you will create the shape
+[491.76 - 492.76] as you have made the shape
+[552.76 - 554.82] Phroze ke tne ti char nambra fkolum stu
+[554.82 - 556.32] Sare elements ke tne hoge 0
+[556.32 - 558.66] Sme m a vane ke kies mein bhi us kar sik te ho
+[558.66 - 560.82] Vane ke tne hai yeh ehe pye aapko kare kye dhe khaa de tne ho
+[560.82 - 562.56] Use ke liye aapka vane z
+[562.56 - 563.80] Thie ke vane z
+[563.80 - 564.78] To vane z karti ho
+[564.78 - 566.06] To sare aapka vane z
+[566.06 - 567.94] Ka floating nambra jo hai wo generate karta aur
+[567.94 - 569.82] Vane z saare ke saare sik te kye se hoge
+[569.82 - 571.70] Aakar aap singa lye men dhe hai naa jathi ho
+[571.70 - 573.20] Lets pose aap chaati hoge kies se
+[573.20 - 575.64] Aakhi vane dimension hai hai yaa vane z kriye tkar naa hai
+[575.64 - 577.88] To aap isri ke se kriye tkar sik te hoge kies mein yeh ehe
+[577.88 - 579.08] Nitsh karti kye dhe hai yeh
+[579.08 - 580.44] To yeh chot shot aapko poin tts hai
+[580.44 - 581.54] Not kale naa kye waar
+[581.54 - 583.82] Exams mein interviews mein pus shlete hai
+[583.82 - 584.32] Thank you

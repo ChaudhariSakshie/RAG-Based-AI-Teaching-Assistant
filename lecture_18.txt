@@ -1,0 +1,148 @@
+[0.00 - 2.00] Dear students, welcome to Gets Meshers
+[2.00 - 4.00] I am going to explain this video
+[4.00 - 8.00] What are the various statistical functions on Numpi Aris
+[8.00 - 10.00] So whenever we use Numpi Aris
+[10.00 - 15.00] So you know that you are the best at managing the numerical data
+[15.00 - 18.00] And then if you want to get me mathematical operations
+[18.00 - 20.00] or you want to get statistical operations
+[20.00 - 23.00] then which one can I get? Because it is a very easy method
+[23.00 - 26.00] So here we have major statistical operations
+[26.00 - 28.00] And first of all we have max
+[28.00 - 32.00] We have to remove max, we have to remove all the minimum
+[32.00 - 34.00] We have to remove all the total
+[34.00 - 36.00] We have to remove the mean value, the median
+[36.00 - 38.00] We have to remove all the values in the product
+[38.00 - 42.00] We have to remove various and standard deviation
+[42.00 - 45.00] So there is another thing, but mainly you have to ask this
+[45.00 - 47.00] And these are the most common questions
+[47.00 - 49.00] Interviews or more than a competitive example
+[49.00 - 52.00] So I am going to execute this and tell you
+[52.00 - 56.00] So that you can easily get notes and come anywhere
+[56.00 - 58.00] You can answer this easily
+[58.00 - 60.00] So first of all we have to do is
+[60.00 - 62.00] Import Numpi is NP
+[62.00 - 64.00] First of all we have to remember that you will understand
+[64.00 - 66.00] how to remove max and how to mean
+[66.00 - 68.00] So this is 423 simple for a single array
+[68.00 - 70.00] We are applying the first function of max
+[70.00 - 72.00] So I have removed the mean value of np.mx
+[72.00 - 73.00] How to remove it?
+[73.00 - 74.00] np.mx
+[74.00 - 76.00] And the x that we have passed
+[76.00 - 78.00] and we have printed it in Y
+[78.00 - 79.00] And printed it in Y
+[79.00 - 81.00] So we have executed it
+[81.00 - 83.00] And we have scanned the entire array
+[83.00 - 86.00] And we have scanned it in the maximum
+[86.00 - 88.00] So we have scanned it in the 9
+[88.00 - 91.00] So we have scanned it in the 9
+[91.00 - 94.00] So this is a little time consuming
+[94.00 - 97.00] Because when we are applying the operation
+[97.00 - 99.00] We have to scan the entire array
+[99.00 - 101.00] And we have to search
+[101.00 - 103.00] We are not doing direct access to this element
+[103.00 - 105.00] We are searching for the maximum
+[105.00 - 107.00] of the entire array
+[107.00 - 109.00] So this is my 923
+[109.00 - 111.00] If I want to remove the mean
+[111.00 - 113.00] So let me remove the mean
+[113.00 - 115.00] So look at your 422
+[115.00 - 117.00] This is the 222
+[117.00 - 119.00] So your 222 is printed
+[119.00 - 121.00] And then we have to remember
+[121.00 - 123.00] that we have to execute it in simple size
+[123.00 - 125.00] So we have to do all the elements
+[125.00 - 128.00] and then we have to do the basic
+[128.00 - 130.00] And then we have to do the basic
+[130.00 - 131.00] Next is mean
+[131.00 - 132.00] What is the mean?
+[132.00 - 133.00] What is the mean?
+[133.00 - 134.00] The mean is
+[134.00 - 136.00] that all these are totally divided by
+[136.00 - 138.00] total number of elements
+[138.00 - 140.00] So what is the total?
+[140.00 - 142.00] So it is 25
+[142.00 - 144.00] So if you divide by 1, 2, 3, 4, 5
+[144.00 - 146.00] You should have 5
+[146.00 - 148.00] And then you have to remove the median
+[148.00 - 152.00] So what is the median?
+[152.00 - 154.00] Obviously what is the median?
+[154.00 - 156.00] First of all we have to sort it out
+[156.00 - 158.00] And then we have to do the median
+[158.00 - 160.00] So how we will do it?
+[160.00 - 162.00] For the median
+[162.00 - 164.00] You should sort it out
+[164.00 - 166.00] So to sort it out
+[166.00 - 168.00] You have to sort it out
+[168.00 - 170.00] So you have to sort it out
+[170.00 - 172.00] So your 422 is the median
+[172.00 - 174.00] And let's suppose
+[174.00 - 176.00] If we have more elements
+[176.00 - 178.00] Let's say tell
+[178.00 - 180.00] So this is the odd number
+[180.00 - 182.00] So the odd number will be the median
+[182.00 - 184.00] Let's suppose if we have even numbers
+[184.00 - 186.00] If we add something else
+[186.00 - 188.00] So if we have a number
+[188.00 - 190.00] Then what we do?
+[190.00 - 192.00] We get 2 values between them
+[192.00 - 194.00] So if we divide it by 4 plus 7 divided by 2
+[194.00 - 196.00] So then you divide it by 2 and then we can say
+[196.00 - 198.00] So this is simple as a wonder
+[198.00 - 200.00] If you have this kind of a wonder
+[200.00 - 202.00] So how do we do it?
+[202.00 - 204.00] The other is your mathematics
+[204.00 - 206.00] But then let's refresh again
+[206.00 - 208.00] So after this
+[208.00 - 210.00] After the median
+[210.00 - 212.00] So what will we do in the product?
+[212.00 - 214.00] We multiply it all
+[214.00 - 216.00] 4 into 2 into 3 into 9 into 7
+[216.00 - 218.00] So this is your product
+[218.00 - 220.00] Then after that you have your variance
+[220.00 - 222.00] And standard deviation
+[222.00 - 224.00] In the case of variance, you have your variance
+[224.00 - 226.00] How do we do it?
+[226.00 - 228.00] And what is the answer of this?
+[228.00 - 230.00] What is the advantage of the variance?
+[230.00 - 232.00] Let me tell you the variance
+[232.00 - 234.00] The variance is the value of the values
+[234.00 - 236.00] How far is the disperser?
+[236.00 - 238.00] So here
+[238.00 - 240.00] What is the mean of this?
+[240.00 - 242.00] What is the mean of this?
+[242.00 - 244.00] So how do we do it?
+[244.00 - 245.30] The value of the values is minus 4
+[245.30 - 246.40] And a value of values is minus 4
+[246.40 - 248.20] Means it is minus 5 minus 2
+[248.20 - 249.00] Then it is 2
+[249.00 - 251.40] That the means is minus plus 5 minus 3
+[251.40 - 253.80] Then it is, plus 5 minus 9
+[253.80 - 256.60] Then it is, plus 5 minus 7
+[256.60 - 259.40] And then it is, divided by 5
+[259.40 - 260.40] So this is your formula
+[260.40 - 261.40] From this formula
+[261.40 - 263.40] You make all these elements
+[263.40 - 263.68] To combine the middle store
+[263.68 - 265.00] And minus each one along with the square
+[265.00 - 266.52] And divide by total number
+[266.52 - 268.52] And this is your variance
+[268.52 - 270.20] And we prepare the statement
+[270.20 - 271.22] So this way
+[271.22 - 272.26] We denote these
+[272.26 - 274.26] & this is your variance
+[274.26 - 276.26] standard deviation is the square root
+[276.26 - 278.26] i.e. this value is the answer to this
+[278.26 - 280.26] 6.8
+[280.26 - 282.26] so 6.8
+[282.26 - 284.26] the variance is the square root
+[284.26 - 286.26] what happens to this? standard deviation
+[286.26 - 288.26] standard deviation is the answer to this
+[288.26 - 290.26] so here we have simple function
+[290.26 - 292.26] STD
+[292.26 - 294.26] STD is the square root of 6.8
+[294.26 - 296.26] so this square root is 2.6
+[296.26 - 298.26] the value of this is the value of this
+[298.26 - 300.26] according to the value of this
+[300.26 - 302.26] simple function operations
+[302.26 - 304.26] you can see the execution of this function

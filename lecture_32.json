@@ -1,0 +1,2002 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "DSV Data, Welcome to Greatsmashers"
+  },
+  {
+    "start": 2.0,
+    "end": 6.7,
+    "text": "Today's video is explaining how to plot CSV file data"
+  },
+  {
+    "start": 6.7,
+    "end": 9.200000000000001,
+    "text": "Means I have a CSV file"
+  },
+  {
+    "start": 9.200000000000001,
+    "end": 12.200000000000001,
+    "text": "I have taken the CSV file into Python"
+  },
+  {
+    "start": 12.200000000000001,
+    "end": 14.700000000000001,
+    "text": "And then I have to plot it"
+  },
+  {
+    "start": 14.700000000000001,
+    "end": 17.2,
+    "text": "I will explain it with a simple example"
+  },
+  {
+    "start": 17.2,
+    "end": 20.2,
+    "text": "First of all, let me tell you"
+  },
+  {
+    "start": 20.2,
+    "end": 23.2,
+    "text": "I have already made a video of CSV"
+  },
+  {
+    "start": 23.2,
+    "end": 26.2,
+    "text": "Where I have explained data frames"
+  },
+  {
+    "start": 26.2,
+    "end": 27.8,
+    "text": "But let me tell you again"
+  },
+  {
+    "start": 27.8,
+    "end": 30.5,
+    "text": "CSV file is called Comma separated files"
+  },
+  {
+    "start": 30.5,
+    "end": 34.0,
+    "text": "Whenever we download the API through data"
+  },
+  {
+    "start": 34.0,
+    "end": 37.8,
+    "text": "If we want to download the multiple sources from multiple websites"
+  },
+  {
+    "start": 37.8,
+    "end": 40.6,
+    "text": "Then it is a very different format"
+  },
+  {
+    "start": 40.6,
+    "end": 43.4,
+    "text": "Like your CSV format"
+  },
+  {
+    "start": 43.4,
+    "end": 46.0,
+    "text": "Like your XMLA format"
+  },
+  {
+    "start": 46.0,
+    "end": 49.0,
+    "text": "Like my XL file is a format"
+  },
+  {
+    "start": 49.0,
+    "end": 52.8,
+    "text": "The most widely used one of them is"
+  },
+  {
+    "start": 52.8,
+    "end": 55.0,
+    "text": "CSV Comma separated file"
+  },
+  {
+    "start": 55.0,
+    "end": 59.7,
+    "text": "Where we separate every value from Comma"
+  },
+  {
+    "start": 59.7,
+    "end": 61.4,
+    "text": "By default Comma separated"
+  },
+  {
+    "start": 61.4,
+    "end": 63.9,
+    "text": "You can separate it from any other value"
+  },
+  {
+    "start": 63.9,
+    "end": 66.9,
+    "text": "But mainly it is separated from Comma"
+  },
+  {
+    "start": 66.9,
+    "end": 68.8,
+    "text": "And this is very easy"
+  },
+  {
+    "start": 68.8,
+    "end": 71.3,
+    "text": "And there is a text-based data"
+  },
+  {
+    "start": 71.3,
+    "end": 73.8,
+    "text": "And first of all, this text-based data"
+  },
+  {
+    "start": 73.8,
+    "end": 75.7,
+    "text": "This is my file"
+  },
+  {
+    "start": 75.7,
+    "end": 77.1,
+    "text": "Which I have downloaded"
+  },
+  {
+    "start": 77.1,
+    "end": 80.2,
+    "text": "Now I have not taken this file into Python"
+  },
+  {
+    "start": 80.2,
+    "end": 81.8,
+    "text": "And when I will take Python into Python"
+  },
+  {
+    "start": 81.8,
+    "end": 83.8,
+    "text": "I will read it"
+  },
+  {
+    "start": 83.8,
+    "end": 86.6,
+    "text": "Then I will write it on any operation"
+  },
+  {
+    "start": 86.6,
+    "end": 88.1,
+    "text": "Easy to write"
+  },
+  {
+    "start": 88.1,
+    "end": 92.1,
+    "text": "So if you want to do a data visualization"
+  },
+  {
+    "start": 92.1,
+    "end": 95.6,
+    "text": "So somewhere this steps are very important"
+  },
+  {
+    "start": 95.6,
+    "end": 97.39999999999999,
+    "text": "Now we are doing small data"
+  },
+  {
+    "start": 97.39999999999999,
+    "end": 100.4,
+    "text": "Then you can do the same thing on big files"
+  },
+  {
+    "start": 100.4,
+    "end": 103.0,
+    "text": "So first of all what we have done is my file"
+  },
+  {
+    "start": 103.0,
+    "end": 107.2,
+    "text": "This file is called Student underscore scores.csv"
+  },
+  {
+    "start": 107.2,
+    "end": 109.6,
+    "text": "So I have saved this file in Python"
+  },
+  {
+    "start": 109.6,
+    "end": 111.1,
+    "text": "Now I am going to do this"
+  },
+  {
+    "start": 111.19999999999999,
+    "end": 114.0,
+    "text": "First of all, I am going to import Python"
+  },
+  {
+    "start": 114.0,
+    "end": 116.19999999999999,
+    "text": "So when Python imports"
+  },
+  {
+    "start": 116.19999999999999,
+    "end": 118.3,
+    "text": "So the biggest thing is that you have to"
+  },
+  {
+    "start": 118.3,
+    "end": 119.39999999999999,
+    "text": "In the data frames"
+  },
+  {
+    "start": 119.39999999999999,
+    "end": 121.1,
+    "text": "What is the data frames?"
+  },
+  {
+    "start": 121.1,
+    "end": 122.6,
+    "text": "Take this from one side"
+  },
+  {
+    "start": 122.6,
+    "end": 125.0,
+    "text": "If I want to take an Excel type field"
+  },
+  {
+    "start": 125.0,
+    "end": 128.29999999999998,
+    "text": "As we can easily apply some pressure on the Excel"
+  },
+  {
+    "start": 128.29999999999998,
+    "end": 131.2,
+    "text": "If I want to manage the data easily"
+  },
+  {
+    "start": 131.2,
+    "end": 133.7,
+    "text": "Python is the biggest in it"
+  },
+  {
+    "start": 133.7,
+    "end": 134.7,
+    "text": "Your data frames"
+  },
+  {
+    "start": 134.7,
+    "end": 136.5,
+    "text": "So you have to import Pandas"
+  },
+  {
+    "start": 136.5,
+    "end": 137.7,
+    "text": "Pandas is a library"
+  },
+  {
+    "start": 137.7,
+    "end": 139.79999999999998,
+    "text": "Which has been my data frames"
+  },
+  {
+    "start": 139.9,
+    "end": 141.4,
+    "text": "Already that is there"
+  },
+  {
+    "start": 141.4,
+    "end": 143.4,
+    "text": "I can use it directly"
+  },
+  {
+    "start": 143.4,
+    "end": 145.4,
+    "text": "Import Pandas as PDA"
+  },
+  {
+    "start": 145.4,
+    "end": 146.0,
+    "text": "Allies"
+  },
+  {
+    "start": 146.0,
+    "end": 147.4,
+    "text": "A small name created"
+  },
+  {
+    "start": 147.4,
+    "end": 149.5,
+    "text": "Otherwise you have to write Pandas"
+  },
+  {
+    "start": 149.5,
+    "end": 150.4,
+    "text": "So PD has taken"
+  },
+  {
+    "start": 150.4,
+    "end": 153.9,
+    "text": "Now here PD.ReadUnderscoreCSV"
+  },
+  {
+    "start": 153.9,
+    "end": 154.70000000000002,
+    "text": "So what I am doing?"
+  },
+  {
+    "start": 154.70000000000002,
+    "end": 157.10000000000002,
+    "text": "ReadUnderscoreCSV is functionally"
+  },
+  {
+    "start": 157.10000000000002,
+    "end": 158.5,
+    "text": "I am doing CSV file"
+  },
+  {
+    "start": 158.5,
+    "end": 160.5,
+    "text": "I have shown you the file"
+  },
+  {
+    "start": 160.5,
+    "end": 162.9,
+    "text": "That is StudentUnderscoreScore.CSV"
+  },
+  {
+    "start": 162.9,
+    "end": 164.4,
+    "text": "So I have written it in single quotes"
+  },
+  {
+    "start": 164.4,
+    "end": 166.4,
+    "text": "And I have read it in the data frame"
+  },
+  {
+    "start": 166.4,
+    "end": 167.4,
+    "text": "If you print it"
+  },
+  {
+    "start": 167.4,
+    "end": 169.0,
+    "text": "Then I will print it"
+  },
+  {
+    "start": 169.0,
+    "end": 173.1,
+    "text": "So my file is shown here"
+  },
+  {
+    "start": 173.1,
+    "end": 174.1,
+    "text": "So what is this?"
+  },
+  {
+    "start": 174.1,
+    "end": 175.1,
+    "text": "Name, subject, marks"
+  },
+  {
+    "start": 175.1,
+    "end": 176.7,
+    "text": "What is our column name?"
+  },
+  {
+    "start": 176.7,
+    "end": 178.2,
+    "text": "As it is in database"
+  },
+  {
+    "start": 178.2,
+    "end": 179.1,
+    "text": "It is the same"
+  },
+  {
+    "start": 179.1,
+    "end": 180.4,
+    "text": "It is the name of column"
+  },
+  {
+    "start": 180.4,
+    "end": 181.7,
+    "text": "And it is my rose"
+  },
+  {
+    "start": 181.7,
+    "end": 182.7,
+    "text": "Now Rone number"
+  },
+  {
+    "start": 182.7,
+    "end": 183.9,
+    "text": "We had not given it"
+  },
+  {
+    "start": 183.9,
+    "end": 184.9,
+    "text": "But by default"
+  },
+  {
+    "start": 184.9,
+    "end": 186.9,
+    "text": "Rone number 012345"
+  },
+  {
+    "start": 186.9,
+    "end": 187.9,
+    "text": "This way"
+  },
+  {
+    "start": 187.9,
+    "end": 188.9,
+    "text": "I have it"
+  },
+  {
+    "start": 188.9,
+    "end": 190.4,
+    "text": "I will show it to you"
+  },
+  {
+    "start": 190.4,
+    "end": 192.9,
+    "text": "Now I want to do any operation"
+  },
+  {
+    "start": 192.9,
+    "end": 193.9,
+    "text": "I can easily do"
+  },
+  {
+    "start": 193.9,
+    "end": 194.9,
+    "text": "So first of all"
+  },
+  {
+    "start": 194.9,
+    "end": 195.9,
+    "text": "I want to show you"
+  },
+  {
+    "start": 195.9,
+    "end": 197.3,
+    "text": "Very basic"
+  },
+  {
+    "start": 197.4,
+    "end": 199.4,
+    "text": "One of the most basic operations"
+  },
+  {
+    "start": 199.4,
+    "end": 201.4,
+    "text": "Which of the files"
+  },
+  {
+    "start": 201.4,
+    "end": 203.20000000000002,
+    "text": "Look, you have a file"
+  },
+  {
+    "start": 203.20000000000002,
+    "end": 205.20000000000002,
+    "text": "You have brought it in your environment"
+  },
+  {
+    "start": 205.20000000000002,
+    "end": 206.20000000000002,
+    "text": "So first of all"
+  },
+  {
+    "start": 206.20000000000002,
+    "end": 207.70000000000002,
+    "text": "I know what is inside it"
+  },
+  {
+    "start": 207.70000000000002,
+    "end": 208.70000000000002,
+    "text": "How many columns"
+  },
+  {
+    "start": 208.70000000000002,
+    "end": 210.0,
+    "text": "How many rows"
+  },
+  {
+    "start": 210.0,
+    "end": 211.0,
+    "text": "How many names"
+  },
+  {
+    "start": 211.0,
+    "end": 211.8,
+    "text": "How many columns"
+  },
+  {
+    "start": 211.8,
+    "end": 213.70000000000002,
+    "text": "All these things are not familiar"
+  },
+  {
+    "start": 213.70000000000002,
+    "end": 214.70000000000002,
+    "text": "So first of all"
+  },
+  {
+    "start": 214.70000000000002,
+    "end": 215.20000000000002,
+    "text": "I have done"
+  },
+  {
+    "start": 215.20000000000002,
+    "end": 215.70000000000002,
+    "text": "Head"
+  },
+  {
+    "start": 215.70000000000002,
+    "end": 216.20000000000002,
+    "text": "Head"
+  },
+  {
+    "start": 216.20000000000002,
+    "end": 217.20000000000002,
+    "text": "What is the default"
+  },
+  {
+    "start": 217.20000000000002,
+    "end": 219.20000000000002,
+    "text": "That is first 5 rows"
+  },
+  {
+    "start": 219.20000000000002,
+    "end": 220.0,
+    "text": "I will show"
+  },
+  {
+    "start": 220.0,
+    "end": 221.20000000000002,
+    "text": "So as I will execute"
+  },
+  {
+    "start": 221.20000000000002,
+    "end": 222.20000000000002,
+    "text": "So what has done"
+  },
+  {
+    "start": 222.20000000000002,
+    "end": 224.20000000000002,
+    "text": "First 5 rows"
+  },
+  {
+    "start": 224.20000000000002,
+    "end": 226.8,
+    "text": "That was the last row of the Mishik"
+  },
+  {
+    "start": 226.9,
+    "end": 228.10000000000002,
+    "text": "So if 50"
+  },
+  {
+    "start": 228.10000000000002,
+    "end": 229.4,
+    "text": "What is 1,100 rows"
+  },
+  {
+    "start": 229.4,
+    "end": 230.4,
+    "text": "So first 5 rows"
+  },
+  {
+    "start": 230.4,
+    "end": 231.4,
+    "text": "Show it"
+  },
+  {
+    "start": 231.4,
+    "end": 232.4,
+    "text": "Which you have a little idea"
+  },
+  {
+    "start": 232.4,
+    "end": 233.4,
+    "text": "Good in it"
+  },
+  {
+    "start": 233.4,
+    "end": 234.4,
+    "text": "All these things"
+  },
+  {
+    "start": 234.4,
+    "end": 235.4,
+    "text": "This is the data"
+  },
+  {
+    "start": 235.4,
+    "end": 238.4,
+    "text": "You can see the last 5 rows of the same"
+  },
+  {
+    "start": 238.4,
+    "end": 240.4,
+    "text": "So this is a very simple concept"
+  },
+  {
+    "start": 240.4,
+    "end": 241.4,
+    "text": "Now after that"
+  },
+  {
+    "start": 241.4,
+    "end": 242.4,
+    "text": "We have done"
+  },
+  {
+    "start": 242.4,
+    "end": 244.20000000000002,
+    "text": "Second operation here"
+  },
+  {
+    "start": 244.20000000000002,
+    "end": 245.20000000000002,
+    "text": "I have already"
+  },
+  {
+    "start": 245.20000000000002,
+    "end": 246.20000000000002,
+    "text": "Some operations for saving"
+  },
+  {
+    "start": 246.20000000000002,
+    "end": 248.20000000000002,
+    "text": "So that you know"
+  },
+  {
+    "start": 248.20000000000002,
+    "end": 250.20000000000002,
+    "text": "And I am writing it in the column"
+  },
+  {
+    "start": 250.20000000000002,
+    "end": 252.20000000000002,
+    "text": "So that it becomes a comment"
+  },
+  {
+    "start": 252.20000000000002,
+    "end": 253.20000000000002,
+    "text": "And the one who is executing"
+  },
+  {
+    "start": 253.20000000000002,
+    "end": 254.20000000000002,
+    "text": "I am going to do the rest"
+  },
+  {
+    "start": 254.20000000000002,
+    "end": 256.2,
+    "text": "I have made the comment"
+  },
+  {
+    "start": 256.4,
+    "end": 257.4,
+    "text": "Next I am doing"
+  },
+  {
+    "start": 257.4,
+    "end": 258.4,
+    "text": "DF.Shape"
+  },
+  {
+    "start": 258.4,
+    "end": 259.4,
+    "text": "Now this shape"
+  },
+  {
+    "start": 259.4,
+    "end": 260.9,
+    "text": "What will it be?"
+  },
+  {
+    "start": 260.9,
+    "end": 261.9,
+    "text": "Look carefully"
+  },
+  {
+    "start": 261.9,
+    "end": 263.59999999999997,
+    "text": "What shape has been put"
+  },
+  {
+    "start": 263.59999999999997,
+    "end": 265.0,
+    "text": "6.3"
+  },
+  {
+    "start": 265.0,
+    "end": 266.5,
+    "text": "6.3 means"
+  },
+  {
+    "start": 266.5,
+    "end": 267.5,
+    "text": "Number of rows"
+  },
+  {
+    "start": 267.5,
+    "end": 269.0,
+    "text": "Coma number of columns"
+  },
+  {
+    "start": 269.0,
+    "end": 270.8,
+    "text": "How many rows in my table"
+  },
+  {
+    "start": 270.8,
+    "end": 272.0,
+    "text": "And how many columns"
+  },
+  {
+    "start": 272.0,
+    "end": 273.2,
+    "text": "So you have"
+  },
+  {
+    "start": 273.2,
+    "end": 273.59999999999997,
+    "text": "Here"
+  },
+  {
+    "start": 273.59999999999997,
+    "end": 274.59999999999997,
+    "text": "That total"
+  },
+  {
+    "start": 274.59999999999997,
+    "end": 275.59999999999997,
+    "text": "Showed"
+  },
+  {
+    "start": 275.59999999999997,
+    "end": 276.4,
+    "text": "This is my"
+  },
+  {
+    "start": 276.4,
+    "end": 277.4,
+    "text": "That shape"
+  },
+  {
+    "start": 277.4,
+    "end": 278.2,
+    "text": "Third"
+  },
+  {
+    "start": 278.2,
+    "end": 278.8,
+    "text": "I have"
+  },
+  {
+    "start": 278.8,
+    "end": 280.0,
+    "text": "DF.columns"
+  },
+  {
+    "start": 280.0,
+    "end": 281.0,
+    "text": "I also know"
+  },
+  {
+    "start": 281.0,
+    "end": 283.0,
+    "text": "If I want to check the names of columns"
+  },
+  {
+    "start": 283.0,
+    "end": 284.3,
+    "text": "I have executed it"
+  },
+  {
+    "start": 284.3,
+    "end": 285.59999999999997,
+    "text": "What has been shown"
+  },
+  {
+    "start": 285.70000000000005,
+    "end": 287.20000000000005,
+    "text": "Your name here"
+  },
+  {
+    "start": 287.20000000000005,
+    "end": 288.20000000000005,
+    "text": "Showed"
+  },
+  {
+    "start": 288.20000000000005,
+    "end": 289.0,
+    "text": "The name"
+  },
+  {
+    "start": 289.0,
+    "end": 290.0,
+    "text": "And then"
+  },
+  {
+    "start": 290.0,
+    "end": 291.0,
+    "text": "The subject"
+  },
+  {
+    "start": 291.0,
+    "end": 292.0,
+    "text": "And then"
+  },
+  {
+    "start": 292.0,
+    "end": 293.0,
+    "text": "Mark"
+  },
+  {
+    "start": 293.0,
+    "end": 294.0,
+    "text": "And the type"
+  },
+  {
+    "start": 294.0,
+    "end": 295.0,
+    "text": "Because"
+  },
+  {
+    "start": 295.0,
+    "end": 295.40000000000003,
+    "text": "Text filen"
+  },
+  {
+    "start": 295.40000000000003,
+    "end": 297.0,
+    "text": "So in text file"
+  },
+  {
+    "start": 297.0,
+    "end": 299.20000000000005,
+    "text": "You never have to give"
+  },
+  {
+    "start": 299.20000000000005,
+    "end": 300.20000000000005,
+    "text": "Data type"
+  },
+  {
+    "start": 300.20000000000005,
+    "end": 301.20000000000005,
+    "text": "Like integer"
+  },
+  {
+    "start": 301.20000000000005,
+    "end": 302.20000000000005,
+    "text": "All these"
+  },
+  {
+    "start": 302.20000000000005,
+    "end": 303.20000000000005,
+    "text": "Data base"
+  },
+  {
+    "start": 303.20000000000005,
+    "end": 304.20000000000005,
+    "text": "But here"
+  },
+  {
+    "start": 304.20000000000005,
+    "end": 305.20000000000005,
+    "text": "You don't have to give"
+  },
+  {
+    "start": 305.20000000000005,
+    "end": 306.20000000000005,
+    "text": "You"
+  },
+  {
+    "start": 306.20000000000005,
+    "end": 307.20000000000005,
+    "text": "There"
+  },
+  {
+    "start": 307.20000000000005,
+    "end": 310.20000000000005,
+    "text": "This is my done"
+  },
+  {
+    "start": 310.20000000000005,
+    "end": 311.20000000000005,
+    "text": "After that"
+  },
+  {
+    "start": 311.20000000000005,
+    "end": 312.20000000000005,
+    "text": "I can do some other operations"
+  },
+  {
+    "start": 312.20000000000005,
+    "end": 313.20000000000005,
+    "text": "As I did"
+  },
+  {
+    "start": 313.2,
+    "end": 314.2,
+    "text": "Every job"
+  },
+  {
+    "start": 314.2,
+    "end": 315.2,
+    "text": "Marks"
+  },
+  {
+    "start": 315.2,
+    "end": 315.8,
+    "text": "Here"
+  },
+  {
+    "start": 315.8,
+    "end": 316.2,
+    "text": "I have"
+  },
+  {
+    "start": 316.2,
+    "end": 317.4,
+    "text": "Marks column"
+  },
+  {
+    "start": 317.4,
+    "end": 318.59999999999997,
+    "text": "Only Marks column"
+  },
+  {
+    "start": 318.59999999999997,
+    "end": 319.59999999999997,
+    "text": "Its average"
+  },
+  {
+    "start": 319.59999999999997,
+    "end": 320.59999999999997,
+    "text": "So simply"
+  },
+  {
+    "start": 320.59999999999997,
+    "end": 321.59999999999997,
+    "text": "DF"
+  },
+  {
+    "start": 321.59999999999997,
+    "end": 322.59999999999997,
+    "text": "Marks"
+  },
+  {
+    "start": 322.59999999999997,
+    "end": 323.59999999999997,
+    "text": "I wrote in single codes"
+  },
+  {
+    "start": 323.59999999999997,
+    "end": 324.59999999999997,
+    "text": "So what will be done"
+  },
+  {
+    "start": 324.59999999999997,
+    "end": 325.59999999999997,
+    "text": "The value"
+  },
+  {
+    "start": 325.59999999999997,
+    "end": 326.59999999999997,
+    "text": "All Marks"
+  },
+  {
+    "start": 326.59999999999997,
+    "end": 327.59999999999997,
+    "text": "Means"
+  },
+  {
+    "start": 327.59999999999997,
+    "end": 328.59999999999997,
+    "text": "My 6th row"
+  },
+  {
+    "start": 328.59999999999997,
+    "end": 330.2,
+    "text": "Marks' full column"
+  },
+  {
+    "start": 330.2,
+    "end": 331.0,
+    "text": "In that"
+  },
+  {
+    "start": 331.0,
+    "end": 332.0,
+    "text": "All the values"
+  },
+  {
+    "start": 332.0,
+    "end": 333.0,
+    "text": "What will be the sum"
+  },
+  {
+    "start": 333.0,
+    "end": 334.0,
+    "text": "The value"
+  },
+  {
+    "start": 334.0,
+    "end": 335.0,
+    "text": "Then"
+  },
+  {
+    "start": 335.0,
+    "end": 336.0,
+    "text": "Look at this"
+  },
+  {
+    "start": 336.0,
+    "end": 337.0,
+    "text": "Next"
+  },
+  {
+    "start": 337.0,
+    "end": 338.0,
+    "text": "Let's suppose"
+  },
+  {
+    "start": 338.0,
+    "end": 338.8,
+    "text": "If I want to find"
+  },
+  {
+    "start": 338.8,
+    "end": 339.8,
+    "text": "So to find"
+  },
+  {
+    "start": 339.8,
+    "end": 340.8,
+    "text": "What will you do to find"
+  },
+  {
+    "start": 340.8,
+    "end": 342.8,
+    "text": "First"
+  },
+  {
+    "start": 342.8,
+    "end": 343.8,
+    "text": "Marks"
+  },
+  {
+    "start": 343.8,
+    "end": 344.6,
+    "text": "If you only give"
+  },
+  {
+    "start": 344.6,
+    "end": 345.6,
+    "text": "Marks"
+  },
+  {
+    "start": 345.6,
+    "end": 346.6,
+    "text": "If you take"
+  },
+  {
+    "start": 346.6,
+    "end": 347.6,
+    "text": "Maximum Marks"
+  },
+  {
+    "start": 347.6,
+    "end": 348.6,
+    "text": "You will"
+  },
+  {
+    "start": 348.6,
+    "end": 349.6,
+    "text": "Give"
+  },
+  {
+    "start": 349.6,
+    "end": 350.6,
+    "text": "Maximum Marks"
+  },
+  {
+    "start": 350.6,
+    "end": 351.6,
+    "text": "So let's suppose"
+  },
+  {
+    "start": 351.6,
+    "end": 352.6,
+    "text": "Maximum Marks"
+  },
+  {
+    "start": 352.6,
+    "end": 353.6,
+    "text": "In that"
+  },
+  {
+    "start": 353.6,
+    "end": 354.6,
+    "text": "92"
+  },
+  {
+    "start": 354.6,
+    "end": 355.6,
+    "text": "But I have to find"
+  },
+  {
+    "start": 355.6,
+    "end": 356.6,
+    "text": "What is the name"
+  },
+  {
+    "start": 356.6,
+    "end": 358.6,
+    "text": "What is its subject"
+  },
+  {
+    "start": 358.6,
+    "end": 359.6,
+    "text": "All the details"
+  },
+  {
+    "start": 359.6,
+    "end": 360.6,
+    "text": "If you want"
+  },
+  {
+    "start": 360.6,
+    "end": 361.6,
+    "text": "So here"
+  },
+  {
+    "start": 361.6,
+    "end": 362.6,
+    "text": "What is used"
+  },
+  {
+    "start": 362.6,
+    "end": 363.6,
+    "text": "ID"
+  },
+  {
+    "start": 363.6,
+    "end": 364.6,
+    "text": "What is this"
+  },
+  {
+    "start": 364.6,
+    "end": 365.6,
+    "text": "Index"
+  },
+  {
+    "start": 365.6,
+    "end": 366.6,
+    "text": "It means"
+  },
+  {
+    "start": 366.6,
+    "end": 367.6,
+    "text": "Index"
+  },
+  {
+    "start": 367.6,
+    "end": 368.6,
+    "text": "Means the maximum"
+  },
+  {
+    "start": 368.6,
+    "end": 369.6,
+    "text": "The value of its index"
+  },
+  {
+    "start": 369.6,
+    "end": 370.6,
+    "text": "Means"
+  },
+  {
+    "start": 370.6,
+    "end": 371.6,
+    "text": "What is the row"
+  },
+  {
+    "start": 371.8,
+    "end": 372.8,
+    "text": "You also"
+  },
+  {
+    "start": 372.8,
+    "end": 373.8,
+    "text": "Showed"
+  },
+  {
+    "start": 373.8,
+    "end": 374.8,
+    "text": "Like"
+  },
+  {
+    "start": 374.8,
+    "end": 375.8,
+    "text": "You are seeing"
+  },
+  {
+    "start": 375.8,
+    "end": 376.8,
+    "text": "You will see"
+  },
+  {
+    "start": 376.8,
+    "end": 377.8,
+    "text": "You will see"
+  },
+  {
+    "start": 377.8,
+    "end": 379.0,
+    "text": "If you don't take"
+  },
+  {
+    "start": 379.0,
+    "end": 380.0,
+    "text": "All these"
+  },
+  {
+    "start": 380.0,
+    "end": 380.40000000000003,
+    "text": "You will"
+  },
+  {
+    "start": 380.40000000000003,
+    "end": 381.20000000000005,
+    "text": "By adding"
+  },
+  {
+    "start": 381.20000000000005,
+    "end": 382.20000000000005,
+    "text": "By dividing"
+  },
+  {
+    "start": 382.20000000000005,
+    "end": 383.20000000000005,
+    "text": "I am doing the second"
+  },
+  {
+    "start": 383.20000000000005,
+    "end": 384.20000000000005,
+    "text": "I am doing"
+  },
+  {
+    "start": 384.20000000000005,
+    "end": 385.20000000000005,
+    "text": "Let's suppose"
+  },
+  {
+    "start": 385.20000000000005,
+    "end": 386.20000000000005,
+    "text": "To find"
+  },
+  {
+    "start": 386.20000000000005,
+    "end": 387.20000000000005,
+    "text": "Maximum Marks"
+  },
+  {
+    "start": 387.20000000000005,
+    "end": 388.20000000000005,
+    "text": "If I print"
+  },
+  {
+    "start": 388.20000000000005,
+    "end": 389.20000000000005,
+    "text": "Maximum Marks"
+  },
+  {
+    "start": 389.20000000000005,
+    "end": 390.20000000000005,
+    "text": "Then 92 will be the same"
+  },
+  {
+    "start": 390.20000000000005,
+    "end": 391.20000000000005,
+    "text": "But I don't know"
+  },
+  {
+    "start": 391.20000000000005,
+    "end": 392.20000000000005,
+    "text": "What is the number"
+  },
+  {
+    "start": 392.20000000000005,
+    "end": 393.20000000000005,
+    "text": "So I have to do"
+  },
+  {
+    "start": 393.20000000000005,
+    "end": 394.20000000000005,
+    "text": "What will I do"
+  },
+  {
+    "start": 394.20000000000005,
+    "end": 395.20000000000005,
+    "text": "I have to take"
+  },
+  {
+    "start": 395.20000000000005,
+    "end": 396.20000000000005,
+    "text": "Index"
+  },
+  {
+    "start": 396.20000000000005,
+    "end": 397.20000000000005,
+    "text": "It means"
+  },
+  {
+    "start": 397.20000000000005,
+    "end": 398.20000000000005,
+    "text": "Which index"
+  },
+  {
+    "start": 398.20000000000005,
+    "end": 399.40000000000003,
+    "text": "Which number"
+  },
+  {
+    "start": 399.40000000000003,
+    "end": 400.40000000000003,
+    "text": "This is 2"
+  },
+  {
+    "start": 400.4,
+    "end": 402.59999999999997,
+    "text": "I will take the index value of IDX"
+  },
+  {
+    "start": 402.59999999999997,
+    "end": 403.59999999999997,
+    "text": "And then"
+  },
+  {
+    "start": 403.59999999999997,
+    "end": 406.59999999999997,
+    "text": "I will take the whole row"
+  },
+  {
+    "start": 406.59999999999997,
+    "end": 408.59999999999997,
+    "text": "So this whole row"
+  },
+  {
+    "start": 408.59999999999997,
+    "end": 409.59999999999997,
+    "text": "Which will be my print"
+  },
+  {
+    "start": 409.59999999999997,
+    "end": 410.59999999999997,
+    "text": "Now"
+  },
+  {
+    "start": 410.59999999999997,
+    "end": 411.59999999999997,
+    "text": "I have to print"
+  },
+  {
+    "start": 411.59999999999997,
+    "end": 412.59999999999997,
+    "text": "Name"
+  },
+  {
+    "start": 412.59999999999997,
+    "end": 413.59999999999997,
+    "text": "I can do the name"
+  },
+  {
+    "start": 413.59999999999997,
+    "end": 414.59999999999997,
+    "text": "So this"
+  },
+  {
+    "start": 414.59999999999997,
+    "end": 415.59999999999997,
+    "text": "Just look at the distance"
+  },
+  {
+    "start": 415.59999999999997,
+    "end": 417.59999999999997,
+    "text": "What I am doing here"
+  },
+  {
+    "start": 417.59999999999997,
+    "end": 418.59999999999997,
+    "text": "IDX"
+  },
+  {
+    "start": 418.59999999999997,
+    "end": 419.59999999999997,
+    "text": "What did it do"
+  },
+  {
+    "start": 419.59999999999997,
+    "end": 420.59999999999997,
+    "text": "The maximum value"
+  },
+  {
+    "start": 420.59999999999997,
+    "end": 421.59999999999997,
+    "text": "92"
+  },
+  {
+    "start": 421.59999999999997,
+    "end": 422.59999999999997,
+    "text": "92"
+  },
+  {
+    "start": 422.59999999999997,
+    "end": 423.59999999999997,
+    "text": "The row"
+  },
+  {
+    "start": 423.59999999999997,
+    "end": 424.59999999999997,
+    "text": "What was the index"
+  },
+  {
+    "start": 424.59999999999997,
+    "end": 425.59999999999997,
+    "text": "2"
+  },
+  {
+    "start": 425.59999999999997,
+    "end": 426.59999999999997,
+    "text": "So it has to be given"
+  },
+  {
+    "start": 426.59999999999997,
+    "end": 427.59999999999997,
+    "text": "2 values"
+  },
+  {
+    "start": 427.59999999999997,
+    "end": 429.59999999999997,
+    "text": "And what will be the DF dot location"
+  },
+  {
+    "start": 429.6,
+    "end": 432.6,
+    "text": "It will take all the values from the whole location"
+  },
+  {
+    "start": 432.6,
+    "end": 433.6,
+    "text": "So from the max"
+  },
+  {
+    "start": 433.6,
+    "end": 434.6,
+    "text": "Maximum value"
+  },
+  {
+    "start": 434.6,
+    "end": 435.40000000000003,
+    "text": "And the"
+  },
+  {
+    "start": 435.40000000000003,
+    "end": 436.8,
+    "text": "What did you take"
+  },
+  {
+    "start": 436.8,
+    "end": 437.40000000000003,
+    "text": "Index"
+  },
+  {
+    "start": 437.40000000000003,
+    "end": 438.40000000000003,
+    "text": "And the"
+  },
+  {
+    "start": 438.40000000000003,
+    "end": 440.40000000000003,
+    "text": "What did I get from its location"
+  },
+  {
+    "start": 440.40000000000003,
+    "end": 442.40000000000003,
+    "text": "All the rows"
+  },
+  {
+    "start": 442.40000000000003,
+    "end": 443.6,
+    "text": "So what is the top"
+  },
+  {
+    "start": 443.6,
+    "end": 445.0,
+    "text": "The whole row"
+  },
+  {
+    "start": 445.0,
+    "end": 446.0,
+    "text": "The name has come"
+  },
+  {
+    "start": 446.0,
+    "end": 447.0,
+    "text": "The subject has come"
+  },
+  {
+    "start": 447.0,
+    "end": 448.0,
+    "text": "And the marks have come"
+  },
+  {
+    "start": 448.0,
+    "end": 449.0,
+    "text": "92"
+  },
+  {
+    "start": 449.0,
+    "end": 450.6,
+    "text": "Now what I have printed"
+  },
+  {
+    "start": 450.6,
+    "end": 451.8,
+    "text": "Name"
+  },
+  {
+    "start": 451.8,
+    "end": 453.20000000000005,
+    "text": "And the marks"
+  },
+  {
+    "start": 453.20000000000005,
+    "end": 454.20000000000005,
+    "text": "So the"
+  },
+  {
+    "start": 454.20000000000005,
+    "end": 455.20000000000005,
+    "text": "Now the entire"
+  },
+  {
+    "start": 455.20000000000005,
+    "end": 456.0,
+    "text": "The"
+  },
+  {
+    "start": 456.0,
+    "end": 457.0,
+    "text": "Both the values"
+  },
+  {
+    "start": 457.0,
+    "end": 458.20000000000005,
+    "text": "To print"
+  },
+  {
+    "start": 458.2,
+    "end": 461.2,
+    "text": "So this I have executed it like this"
+  },
+  {
+    "start": 461.2,
+    "end": 462.2,
+    "text": "So look"
+  },
+  {
+    "start": 462.2,
+    "end": 462.8,
+    "text": "Viana"
+  },
+  {
+    "start": 462.8,
+    "end": 464.0,
+    "text": "Comma 92"
+  },
+  {
+    "start": 464.0,
+    "end": 466.0,
+    "text": "So this is the work of this"
+  },
+  {
+    "start": 466.0,
+    "end": 467.0,
+    "text": "If I only post"
+  },
+  {
+    "start": 467.0,
+    "end": 469.0,
+    "text": "I will do the upper"
+  },
+  {
+    "start": 469.0,
+    "end": 470.0,
+    "text": "Okay"
+  },
+  {
+    "start": 470.0,
+    "end": 471.8,
+    "text": "If I only post the upper"
+  },
+  {
+    "start": 471.8,
+    "end": 473.4,
+    "text": "So what will I do"
+  },
+  {
+    "start": 473.4,
+    "end": 475.4,
+    "text": "Here just show the value"
+  },
+  {
+    "start": 475.4,
+    "end": 476.4,
+    "text": "What is the meaning"
+  },
+  {
+    "start": 476.4,
+    "end": 477.4,
+    "text": "Or if I do the"
+  },
+  {
+    "start": 477.4,
+    "end": 478.4,
+    "text": "Let's post"
+  },
+  {
+    "start": 478.4,
+    "end": 480.4,
+    "text": "That it has to be the max value"
+  },
+  {
+    "start": 480.4,
+    "end": 481.4,
+    "text": "So what will the max do"
+  },
+  {
+    "start": 481.4,
+    "end": 482.4,
+    "text": "Like the max"
+  },
+  {
+    "start": 482.4,
+    "end": 484.4,
+    "text": "Just the max value"
+  },
+  {
+    "start": 484.4,
+    "end": 485.59999999999997,
+    "text": "But what to do"
+  },
+  {
+    "start": 485.59999999999997,
+    "end": 486.8,
+    "text": "I had to do"
+  },
+  {
+    "start": 486.8,
+    "end": 488.8,
+    "text": "Actually, its name is also"
+  },
+  {
+    "start": 488.8,
+    "end": 490.8,
+    "text": "So for that I have to first"
+  },
+  {
+    "start": 490.8,
+    "end": 491.8,
+    "text": "I have to take the ID"
+  },
+  {
+    "start": 491.8,
+    "end": 493.8,
+    "text": "I have to take the index value"
+  },
+  {
+    "start": 493.8,
+    "end": 494.8,
+    "text": "Which is the place"
+  },
+  {
+    "start": 494.8,
+    "end": 495.8,
+    "text": "It is the maximum"
+  },
+  {
+    "start": 495.8,
+    "end": 497.8,
+    "text": "And then I have to take the marks"
+  },
+  {
+    "start": 497.8,
+    "end": 498.8,
+    "text": "I want to take the name"
+  },
+  {
+    "start": 498.8,
+    "end": 499.8,
+    "text": "The subject"
+  },
+  {
+    "start": 499.8,
+    "end": 500.8,
+    "text": "And last"
+  },
+  {
+    "start": 500.8,
+    "end": 501.8,
+    "text": "We have said"
+  },
+  {
+    "start": 501.8,
+    "end": 502.8,
+    "text": "Group bike"
+  },
+  {
+    "start": 502.8,
+    "end": 503.8,
+    "text": "Which is again"
+  },
+  {
+    "start": 503.8,
+    "end": 504.8,
+    "text": "Very, very important"
+  },
+  {
+    "start": 504.8,
+    "end": 505.8,
+    "text": "In the database"
+  },
+  {
+    "start": 505.8,
+    "end": 507.8,
+    "text": "That it is a group bike"
+  },
+  {
+    "start": 507.8,
+    "end": 508.8,
+    "text": "I have to take the subject"
+  },
+  {
+    "start": 508.8,
+    "end": 509.8,
+    "text": "Which is the maximum value"
+  },
+  {
+    "start": 509.8,
+    "end": 510.8,
+    "text": "Or the subject"
+  },
+  {
+    "start": 510.8,
+    "end": 511.8,
+    "text": "Which is the minimum"
+  },
+  {
+    "start": 511.8,
+    "end": 513.0,
+    "text": "I have a multi-perse"
+  },
+  {
+    "start": 513.0,
+    "end": 514.8,
+    "text": "The math is also the size"
+  },
+  {
+    "start": 514.8,
+    "end": 516.2,
+    "text": "So what is the"
+  },
+  {
+    "start": 516.2,
+    "end": 518.2,
+    "text": "The most important"
+  },
+  {
+    "start": 518.2,
+    "end": 520.2,
+    "text": "Or can you say"
+  },
+  {
+    "start": 520.2,
+    "end": 522.2,
+    "text": "What is the maximum marks in size"
+  },
+  {
+    "start": 522.2,
+    "end": 523.2,
+    "text": "Or let's post"
+  },
+  {
+    "start": 523.2,
+    "end": 525.2,
+    "text": "English is the most important"
+  },
+  {
+    "start": 525.2,
+    "end": 528.2,
+    "text": "So if I have to take the name"
+  },
+  {
+    "start": 528.2,
+    "end": 529.2,
+    "text": "The max"
+  },
+  {
+    "start": 529.2,
+    "end": 531.2,
+    "text": "Or any value"
+  },
+  {
+    "start": 531.2,
+    "end": 533.2,
+    "text": "If I have to take the count"
+  },
+  {
+    "start": 533.2,
+    "end": 534.2,
+    "text": "Then I can take the name"
+  },
+  {
+    "start": 534.2,
+    "end": 535.2,
+    "text": "So what did we do"
+  },
+  {
+    "start": 535.2,
+    "end": 537.2,
+    "text": "Df.GroupBike"
+  },
+  {
+    "start": 537.2,
+    "end": 538.2,
+    "text": "What will we do"
+  },
+  {
+    "start": 538.2,
+    "end": 539.2,
+    "text": "We will do"
+  },
+  {
+    "start": 539.2,
+    "end": 540.2,
+    "text": "Subject recording"
+  },
+  {
+    "start": 540.2,
+    "end": 541.2,
+    "text": "Because my column"
+  },
+  {
+    "start": 541.2,
+    "end": 542.2,
+    "text": "I have chosen the subject"
+  },
+  {
+    "start": 542.2,
+    "end": 544.2,
+    "text": "And what is given in the data"
+  },
+  {
+    "start": 544.2,
+    "end": 546.2,
+    "text": "And I have taken the name of the marks"
+  },
+  {
+    "start": 546.2,
+    "end": 548.2,
+    "text": "So I will print it"
+  },
+  {
+    "start": 548.2,
+    "end": 550.2,
+    "text": "So like I have executed the result"
+  },
+  {
+    "start": 550.2,
+    "end": 551.2,
+    "text": "Look at that"
+  },
+  {
+    "start": 551.2,
+    "end": 552.2,
+    "text": "Very easily"
+  },
+  {
+    "start": 552.2,
+    "end": 553.2,
+    "text": "Very important"
+  },
+  {
+    "start": 553.2,
+    "end": 554.2,
+    "text": "Group bike is the first subject"
+  },
+  {
+    "start": 554.2,
+    "end": 556.2,
+    "text": "So where do you go to the subject"
+  },
+  {
+    "start": 556.2,
+    "end": 557.2,
+    "text": "English is"
+  },
+  {
+    "start": 557.2,
+    "end": 558.2,
+    "text": "All the values of English"
+  },
+  {
+    "start": 558.2,
+    "end": 560.2,
+    "text": "And divide it by"
+  },
+  {
+    "start": 560.2,
+    "end": 562.2,
+    "text": "I have shown you the total value of this"
+  },
+  {
+    "start": 562.2,
+    "end": 564.2,
+    "text": "The amount of math"
+  },
+  {
+    "start": 564.2,
+    "end": 566.2,
+    "text": "The amount of values"
+  },
+  {
+    "start": 566.2,
+    "end": 568.2,
+    "text": "All the minimum values"
+  },
+  {
+    "start": 568.2,
+    "end": 570.2,
+    "text": "Which you have"
+  },
+  {
+    "start": 570.2,
+    "end": 571.2,
+    "text": "You can say"
+  },
+  {
+    "start": 571.2,
+    "end": 572.2,
+    "text": "In the whole English"
+  },
+  {
+    "start": 572.2,
+    "end": 577.0200000000001,
+    "text": "میں, sapsa minimum max, nikaaltsak teo, pure math, sapsa minimum, yaafay, pure size, sapsa minimum"
+  },
+  {
+    "start": 577.0200000000001,
+    "end": 580.4200000000001,
+    "text": "maximum maximum, joo bhi, aapi, aapi nikhoge, uske kawding nikaaltsak teo kaaltsak teo kaaltsak teo"
+  },
+  {
+    "start": 580.4200000000001,
+    "end": 584.0200000000001,
+    "text": "bhi aap, baaya, baadehi, simpel, sei, fundaazay, nikaaltsak teo, lekin, bhaat,"
+  },
+  {
+    "start": 584.0200000000001,
+    "end": 589.26,
+    "text": "impotentai, deli, abkyaaloo ki, joo data analytics, yaafay data visualization, joo bhi"
+  },
+  {
+    "start": 589.26,
+    "end": 593.0600000000001,
+    "text": "karya, sabko, ye, deli ke kawding, joo haapo, uskak teo, to, to, to, to, to, to, to, to,"
+  }
+]

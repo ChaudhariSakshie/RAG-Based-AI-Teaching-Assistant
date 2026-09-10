@@ -1,0 +1,1767 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "بھیya student, welcome to Gates Measures"
+  },
+  {
+    "start": 2.0,
+    "end": 4.0,
+    "text": "today's video i am explaining to you"
+  },
+  {
+    "start": 4.0,
+    "end": 6.0,
+    "text": "various attributes of NumPai Arise"
+  },
+  {
+    "start": 6.0,
+    "end": 8.0,
+    "text": "NumPai Arise"
+  },
+  {
+    "start": 8.0,
+    "end": 9.0,
+    "text": "Arise"
+  },
+  {
+    "start": 9.0,
+    "end": 10.0,
+    "text": "kye se create kirti hai"
+  },
+  {
+    "start": 10.0,
+    "end": 11.0,
+    "text": "ala dhi last video hai"
+  },
+  {
+    "start": 11.0,
+    "end": 12.0,
+    "text": "kye bhajakong"
+  },
+  {
+    "start": 12.0,
+    "end": 14.0,
+    "text": "different methods of creating the numPai Arise"
+  },
+  {
+    "start": 14.0,
+    "end": 16.0,
+    "text": "ikbar ho video jhu chekkale na"
+  },
+  {
+    "start": 16.0,
+    "end": 18.0,
+    "text": "et lii saap ko paili kriye siya ngsam maja aj hai"
+  },
+  {
+    "start": 18.0,
+    "end": 21.0,
+    "text": "firaap us ki anther attributes ko bhi hachi siya saam maja sa kya"
+  },
+  {
+    "start": 21.0,
+    "end": 23.0,
+    "text": "to dhi ko attributes kye bhajakarayin"
+  },
+  {
+    "start": 23.0,
+    "end": 25.0,
+    "text": "to Arise kye anther numPai Arise kye anther hamiha rhaapas"
+  },
+  {
+    "start": 25.0,
+    "end": 27.0,
+    "text": "5 different attributes"
+  },
+  {
+    "start": 27.0,
+    "end": 29.0,
+    "text": "samlao kye use kirti hai"
+  },
+  {
+    "start": 29.0,
+    "end": 31.0,
+    "text": "etributes ka malab kye ki haamne kye aire kriyeit kirti hai"
+  },
+  {
+    "start": 31.0,
+    "end": 34.0,
+    "text": "aab uske kye aertributes hai"
+  },
+  {
+    "start": 34.0,
+    "end": 35.0,
+    "text": "kye use ka saiz hai"
+  },
+  {
+    "start": 35.0,
+    "end": 37.0,
+    "text": "kye use ka shap hai"
+  },
+  {
+    "start": 37.0,
+    "end": 39.0,
+    "text": "kye use kaid dimension hai"
+  },
+  {
+    "start": 39.0,
+    "end": 40.0,
+    "text": "bas bhoi iertributes hoodi hai"
+  },
+  {
+    "start": 40.0,
+    "end": 41.0,
+    "text": "to dhi ko sabse paili aertay hai"
+  },
+  {
+    "start": 41.0,
+    "end": 42.0,
+    "text": "ala dhi mhe"
+  },
+  {
+    "start": 42.0,
+    "end": 43.0,
+    "text": "is ka malab kye hai"
+  },
+  {
+    "start": 43.0,
+    "end": 44.0,
+    "text": "dimension"
+  },
+  {
+    "start": 44.0,
+    "end": 46.0,
+    "text": "jo aapne airei bhajaya uskaid dimension kye hai"
+  },
+  {
+    "start": 46.0,
+    "end": 48.0,
+    "text": "dimension waklaa one-dimensional hai"
+  },
+  {
+    "start": 48.0,
+    "end": 50.0,
+    "text": "to-dimensional hai"
+  },
+  {
+    "start": 50.0,
+    "end": 51.0,
+    "text": "3-dimensional hai"
+  },
+  {
+    "start": 51.0,
+    "end": 52.0,
+    "text": "that is what a dimension"
+  },
+  {
+    "start": 52.0,
+    "end": 53.0,
+    "text": "shap"
+  },
+  {
+    "start": 53.0,
+    "end": 55.0,
+    "text": "shapet matlak uski shape kye hai"
+  },
+  {
+    "start": 55.0,
+    "end": 58.0,
+    "text": "aagar let's pose wo to-dimensional area hai"
+  },
+  {
+    "start": 58.0,
+    "end": 60.0,
+    "text": "aapne airei let's say 2 rows hai"
+  },
+  {
+    "start": 60.0,
+    "end": 61.0,
+    "text": "3 columns hai"
+  },
+  {
+    "start": 61.0,
+    "end": 63.0,
+    "text": "to-ye any 2 by 3 airei aertay hai"
+  },
+  {
+    "start": 63.0,
+    "end": 64.0,
+    "text": "3 rows hai 2 columns hai"
+  },
+  {
+    "start": 64.0,
+    "end": 65.0,
+    "text": "3 by 2 kye airei aertay hai"
+  },
+  {
+    "start": 65.0,
+    "end": 67.0,
+    "text": "bas wo aapki shapet hi hai"
+  },
+  {
+    "start": 67.0,
+    "end": 68.0,
+    "text": "saiz"
+  },
+  {
+    "start": 68.0,
+    "end": 70.0,
+    "text": "aapne airei to kye aertay hai"
+  },
+  {
+    "start": 70.0,
+    "end": 72.0,
+    "text": "to-ye number of elements kye hai"
+  },
+  {
+    "start": 72.0,
+    "end": 74.0,
+    "text": "3 rows hai 2 columns hai"
+  },
+  {
+    "start": 74.0,
+    "end": 76.0,
+    "text": "to-ye to any 3 into 2 kye hai"
+  },
+  {
+    "start": 76.0,
+    "end": 78.0,
+    "text": "6 number of elements haomge to-ye"
+  },
+  {
+    "start": 78.0,
+    "end": 79.0,
+    "text": "to-ye size aertay hai"
+  },
+  {
+    "start": 79.0,
+    "end": 81.0,
+    "text": "d-type matlak dataday hai"
+  },
+  {
+    "start": 81.0,
+    "end": 82.0,
+    "text": "uskaid dataday hai"
+  },
+  {
+    "start": 82.0,
+    "end": 84.0,
+    "text": "hamiha patay ki homoji nes ho taye rei"
+  },
+  {
+    "start": 84.0,
+    "end": 85.0,
+    "text": "kye aay uske ender"
+  },
+  {
+    "start": 85.0,
+    "end": 86.0,
+    "text": "kye aay uskaid naar hai"
+  },
+  {
+    "start": 86.0,
+    "end": 88.0,
+    "text": "kye aam uskendar saare kerektras hai"
+  },
+  {
+    "start": 88.0,
+    "end": 90.0,
+    "text": "kye aam uskendar saare float values hai"
+  },
+  {
+    "start": 90.0,
+    "end": 91.0,
+    "text": "kye hai kye aertay hai"
+  },
+  {
+    "start": 91.0,
+    "end": 92.0,
+    "text": "wo d-type haagar"
+  },
+  {
+    "start": 92.0,
+    "end": 94.0,
+    "text": "waar faily item size"
+  },
+  {
+    "start": 94.0,
+    "end": 95.0,
+    "text": "mele airei z hai"
+  },
+  {
+    "start": 95.0,
+    "end": 96.0,
+    "text": "airei z hai kye aertay hai"
+  },
+  {
+    "start": 96.0,
+    "end": 98.0,
+    "text": "uskendar aapko paata saare intisar hai"
+  },
+  {
+    "start": 98.0,
+    "end": 100.0,
+    "text": "to intisar kitne bite ka"
+  },
+  {
+    "start": 100.0,
+    "end": 101.0,
+    "text": "membri jo hai"
+  },
+  {
+    "start": 101.0,
+    "end": 103.0,
+    "text": "harei kye element kitne bite jo hai"
+  },
+  {
+    "start": 103.0,
+    "end": 104.0,
+    "text": "wo membri mein"
+  },
+  {
+    "start": 104.0,
+    "end": 106.0,
+    "text": "space lehra hai"
+  },
+  {
+    "start": 106.0,
+    "end": 107.0,
+    "text": "wo dhigha hai ga jaisei"
+  },
+  {
+    "start": 107.0,
+    "end": 108.0,
+    "text": "aagar mnumosli ki haatay hai"
+  },
+  {
+    "start": 108.0,
+    "end": 110.0,
+    "text": "jesse intisar hai wo chaar bite kaatay hai"
+  },
+  {
+    "start": 110.0,
+    "end": 111.0,
+    "text": "aapne aere kye aertay hai"
+  },
+  {
+    "start": 111.0,
+    "end": 112.0,
+    "text": "jesse me saare intisar z hai"
+  },
+  {
+    "start": 112.0,
+    "end": 114.0,
+    "text": "to chaar bite uskaid sais hojaidhaa"
+  },
+  {
+    "start": 114.0,
+    "end": 116.0,
+    "text": "float kemdara aart bite hojaidhaa"
+  },
+  {
+    "start": 116.0,
+    "end": 118.0,
+    "text": "waise to ivar zan pupa dipenkar tha hai"
+  },
+  {
+    "start": 118.0,
+    "end": 120.0,
+    "text": "baad aapko simpli execute kere kye deisak"
+  },
+  {
+    "start": 120.0,
+    "end": 121.0,
+    "text": "to ko isme jadaa"
+  },
+  {
+    "start": 121.0,
+    "end": 122.0,
+    "text": "baad ibadne hai"
+  },
+  {
+    "start": 122.0,
+    "end": 123.0,
+    "text": "lehkend kompetitif exami"
+  },
+  {
+    "start": 123.0,
+    "end": 124.0,
+    "text": "koalisri exami"
+  },
+  {
+    "start": 124.0,
+    "end": 125.0,
+    "text": "intereviews mein"
+  },
+  {
+    "start": 125.0,
+    "end": 126.0,
+    "text": "aapko kebar isri kye se poosle taina"
+  },
+  {
+    "start": 126.0,
+    "end": 128.0,
+    "text": "to aapko hii saare pointi pata hoonichai"
+  },
+  {
+    "start": 128.0,
+    "end": 130.0,
+    "text": "ima aapko hii saat ekseekushan hiyaa"
+  },
+  {
+    "start": 130.0,
+    "end": 131.0,
+    "text": "dikhaaattao"
+  },
+  {
+    "start": 131.0,
+    "end": 133.0,
+    "text": "to sabse pale hai mele pa saar aaatta hai yaa"
+  },
+  {
+    "start": 133.0,
+    "end": 134.0,
+    "text": "loji"
+  },
+  {
+    "start": 164.0,
+    "end": 166.0,
+    "text": "sabse kao obvisri yeh rehe vand-a-measheal aere to aay"
+  },
+  {
+    "start": 166.0,
+    "end": 167.0,
+    "text": "nai saam majmi hai"
+  },
+  {
+    "start": 167.0,
+    "end": 169.0,
+    "text": "loji ek bart-a-baraa fer kar lehti hai"
+  },
+  {
+    "start": 169.0,
+    "end": 170.0,
+    "text": "lehkend kye se poosle taina"
+  },
+  {
+    "start": 170.0,
+    "end": 172.0,
+    "text": "lehkend kye se poosle taina"
+  },
+  {
+    "start": 172.0,
+    "end": 174.0,
+    "text": "yeh aapko pata hai ki yeh aapko honsa hai"
+  },
+  {
+    "start": 174.0,
+    "end": 176.0,
+    "text": "yeh toodameh shay aere hai yaa"
+  },
+  {
+    "start": 176.0,
+    "end": 178.0,
+    "text": "isko maid thoda saat chota kye deisakhe thao"
+  },
+  {
+    "start": 178.0,
+    "end": 179.0,
+    "text": "loji aapko dikhaa sabko"
+  },
+  {
+    "start": 179.0,
+    "end": 181.0,
+    "text": "sabko visi bala hai yeh bala"
+  },
+  {
+    "start": 181.0,
+    "end": 183.0,
+    "text": "let's suppose viye cheej mene aapke likdi"
+  },
+  {
+    "start": 183.0,
+    "end": 184.0,
+    "text": "aerea vand-a-skendra kyeaat kyea"
+  },
+  {
+    "start": 184.0,
+    "end": 185.0,
+    "text": "dot aand-a-dim"
+  },
+  {
+    "start": 185.0,
+    "end": 187.0,
+    "text": "abhisme pata aapko toodameh shay aere haa yeh"
+  },
+  {
+    "start": 187.0,
+    "end": 189.0,
+    "text": "to manne isko jessi ekseekhuod kyea"
+  },
+  {
+    "start": 189.0,
+    "end": 190.0,
+    "text": "to kyea dikhaa dikhaa"
+  },
+  {
+    "start": 190.0,
+    "end": 191.0,
+    "text": "to kyea dikhaa"
+  },
+  {
+    "start": 191.0,
+    "end": 192.0,
+    "text": "to kyea ki toodameh shay aere"
+  },
+  {
+    "start": 192.0,
+    "end": 194.0,
+    "text": "jaaapke mene aik toodameh shay aere lye hai"
+  },
+  {
+    "start": 194.0,
+    "end": 196.0,
+    "text": "to mais kaa vi chekkar thao"
+  },
+  {
+    "start": 196.0,
+    "end": 198.0,
+    "text": "aerea 3 dot aand-a-dim"
+  },
+  {
+    "start": 198.0,
+    "end": 199.0,
+    "text": "taikha jool"
+  },
+  {
+    "start": 199.0,
+    "end": 201.0,
+    "text": "isko egzekhuod karte hai"
+  },
+  {
+    "start": 201.0,
+    "end": 202.0,
+    "text": "toodameh shay aapko jessi"
+  },
+  {
+    "start": 202.0,
+    "end": 203.0,
+    "text": "isko egzekhuod karte hai"
+  },
+  {
+    "start": 203.0,
+    "end": 205.88,
+    "text": "اچھے اس میں میں نے print بھی کرکھا ہے تو اس لی print بھی کر دیو اس نے"
+  },
+  {
+    "start": 206.12,
+    "end": 209.18,
+    "text": "لیکن ہم یہاں پے میں ان فکس کریں دمیشن پے تو کیا آگیا"
+  },
+  {
+    "start": 209.18,
+    "end": 209.66,
+    "text": "3"
+  },
+  {
+    "start": 209.66,
+    "end": 210.94,
+    "text": "3 Dimension Air Air Air"
+  },
+  {
+    "start": 210.94,
+    "end": 212.12,
+    "text": "یہ سیمپل سے اگسیمپل ہے"
+  },
+  {
+    "start": 212.12,
+    "end": 214.12,
+    "text": "تو یہاں پے یہاں پے آپ کا 3 Dimension Air Air Air"
+  },
+  {
+    "start": 214.12,
+    "end": 214.86,
+    "text": "ایک او دیکھ لو"
+  },
+  {
+    "start": 214.86,
+    "end": 217.26,
+    "text": "یہاں پے جب bracket سے بھی سمبسکتے و آپ"
+  },
+  {
+    "start": 217.26,
+    "end": 219.58,
+    "text": "Number of bracket کی تنی ہے آپے 3"
+  },
+  {
+    "start": 219.58,
+    "end": 221.62,
+    "text": "اسے سمبسک جاؤں گے 3 Dimension Air Air"
+  },
+  {
+    "start": 221.62,
+    "end": 222.62,
+    "text": "جسے یہاں پے دیکھ لو"
+  },
+  {
+    "start": 222.62,
+    "end": 224.4,
+    "text": "Number of bracket کی تنی ہے 2"
+  },
+  {
+    "start": 224.4,
+    "end": 225.9,
+    "text": "اسے بھی آپ سمبسکتے ہو"
+  },
+  {
+    "start": 225.9,
+    "end": 227.9,
+    "text": "لیکن اٹریبوٹس بھی آپ کو پتاہنے چیے"
+  },
+  {
+    "start": 227.9,
+    "end": 229.9,
+    "text": "کون کون سے کسی کیسے ایوز کرتے ہیں"
+  },
+  {
+    "start": 229.9,
+    "end": 230.52,
+    "text": "2"
+  },
+  {
+    "start": 230.52,
+    "end": 231.52,
+    "text": "آجاتے شیپ"
+  },
+  {
+    "start": 231.52,
+    "end": 232.52,
+    "text": "2"
+  },
+  {
+    "start": 232.52,
+    "end": 233.52,
+    "text": "آجاتے آپ کا شیپ"
+  },
+  {
+    "start": 233.52,
+    "end": 234.68,
+    "text": "یہ Air Air 1"
+  },
+  {
+    "start": 234.68,
+    "end": 235.66,
+    "text": ".شیپ"
+  },
+  {
+    "start": 235.66,
+    "end": 236.96,
+    "text": "کیا اس کو اگزیگیڈ کرتے ہیں"
+  },
+  {
+    "start": 236.96,
+    "end": 238.46,
+    "text": "جسی اگزیگیڈ کیا شیپ دیکھو"
+  },
+  {
+    "start": 238.46,
+    "end": 239.42000000000002,
+    "text": "5"
+  },
+  {
+    "start": 239.42000000000002,
+    "end": 239.92000000000002,
+    "text": "کمہ"
+  },
+  {
+    "start": 239.92000000000002,
+    "end": 241.52,
+    "text": "اب دیکھا یہ ریو 1 Dimension"
+  },
+  {
+    "start": 241.52,
+    "end": 243.52,
+    "text": "تو اس میں ایک طرح سے 1 Dimension"
+  },
+  {
+    "start": 243.52,
+    "end": 244.76,
+    "text": "آپ اس کو لٹسپوز اگر"
+  },
+  {
+    "start": 244.76,
+    "end": 245.76,
+    "text": "رو کی طرح لیریو"
+  },
+  {
+    "start": 245.76,
+    "end": 247.6,
+    "text": "یا لٹسپوز کالن کی طرح لیریو"
+  },
+  {
+    "start": 247.6,
+    "end": 248.44,
+    "text": "تو یہاں پے دیکھایاں"
+  },
+  {
+    "start": 248.44,
+    "end": 249.85999999999999,
+    "text": "5"
+  },
+  {
+    "start": 249.85999999999999,
+    "end": 250.44,
+    "text": "5"
+  },
+  {
+    "start": 250.44,
+    "end": 251.57999999999998,
+    "text": "کمہ کا مطلب کیایاں"
+  },
+  {
+    "start": 251.57999999999998,
+    "end": 252.28,
+    "text": "کیایاں پے"
+  },
+  {
+    "start": 252.28,
+    "end": 252.94,
+    "text": "کی Number of"
+  },
+  {
+    "start": 252.94,
+    "end": 253.54,
+    "text": "Fellaments"
+  },
+  {
+    "start": 253.54,
+    "end": 254.26,
+    "text": "آپ کے کیتنے ہے"
+  },
+  {
+    "start": 254.26,
+    "end": 254.9,
+    "text": "5"
+  },
+  {
+    "start": 254.9,
+    "end": 255.57999999999998,
+    "text": "ایک طرف"
+  },
+  {
+    "start": 255.57999999999998,
+    "end": 256.06,
+    "text": "کمہ"
+  },
+  {
+    "start": 256.06,
+    "end": 256.58,
+    "text": "وقتلک"
+  },
+  {
+    "start": 256.58,
+    "end": 257.38,
+    "text": "1 Dimension"
+  },
+  {
+    "start": 257.38,
+    "end": 258.1,
+    "text": "تو 5"
+  },
+  {
+    "start": 258.1,
+    "end": 258.62,
+    "text": "کمہ"
+  },
+  {
+    "start": 258.62,
+    "end": 259.42,
+    "text": "بس that's it"
+  },
+  {
+    "start": 259.42,
+    "end": 259.9,
+    "text": "اس کے بعد"
+  },
+  {
+    "start": 259.9,
+    "end": 260.62,
+    "text": "کوئی ہےی نہیں"
+  },
+  {
+    "start": 260.62,
+    "end": 261.3,
+    "text": "2 Dimension"
+  },
+  {
+    "start": 261.3,
+    "end": 262.22,
+    "text": "میں اچھے سے دیکھتے"
+  },
+  {
+    "start": 262.22,
+    "end": 262.9,
+    "text": "2 Dimension"
+  },
+  {
+    "start": 262.9,
+    "end": 263.7,
+    "text": "جو ہے وہ"
+  },
+  {
+    "start": 263.7,
+    "end": 264.5,
+    "text": "اس میں آپ کو"
+  },
+  {
+    "start": 264.5,
+    "end": 265.2,
+    "text": "اچھے سے دیکھے گا"
+  },
+  {
+    "start": 265.2,
+    "end": 265.7,
+    "text": "شیپ"
+  },
+  {
+    "start": 265.7,
+    "end": 266.76,
+    "text": "تو جسی"
+  },
+  {
+    "start": 266.76,
+    "end": 267.22,
+    "text": "آپ شیپ"
+  },
+  {
+    "start": 267.22,
+    "end": 268.06,
+    "text": "یہ اگزیگیڈ کرتے"
+  },
+  {
+    "start": 268.06,
+    "end": 269.06,
+    "text": "یہ دیکھوی"
+  },
+  {
+    "start": 269.06,
+    "end": 269.3,
+    "text": "اب آپ کو شیپ"
+  },
+  {
+    "start": 269.3,
+    "end": 270.06,
+    "text": "روپر دیکھی ہے"
+  },
+  {
+    "start": 270.06,
+    "end": 270.56,
+    "text": "3"
+  },
+  {
+    "start": 270.56,
+    "end": 271.06,
+    "text": "کمہ"
+  },
+  {
+    "start": 271.06,
+    "end": 271.56,
+    "text": "3"
+  },
+  {
+    "start": 271.56,
+    "end": 272.06,
+    "text": "کیا 3"
+  },
+  {
+    "start": 278.44,
+    "end": 279.44,
+    "text": "پرینٹ بھی کرتے"
+  },
+  {
+    "start": 279.44,
+    "end": 280.44,
+    "text": "آپ کو"
+  },
+  {
+    "start": 280.44,
+    "end": 281.06,
+    "text": "آپ کو"
+  },
+  {
+    "start": 281.06,
+    "end": 282.08,
+    "text": "اور بھی گلیٹی ہو جے گی"
+  },
+  {
+    "start": 282.08,
+    "end": 283.06,
+    "text": "آپ کو"
+  },
+  {
+    "start": 283.06,
+    "end": 283.58,
+    "text": "دیکھی"
+  },
+  {
+    "start": 283.58,
+    "end": 284.82,
+    "text": "3 Number of Rose"
+  },
+  {
+    "start": 284.82,
+    "end": 285.94,
+    "text": "3 Number of Columns"
+  },
+  {
+    "start": 285.94,
+    "end": 286.74,
+    "text": "تو 3x3"
+  },
+  {
+    "start": 286.74,
+    "end": 287.38,
+    "text": "اس کی شیپ"
+  },
+  {
+    "start": 287.38,
+    "end": 287.98,
+    "text": "ایک"
+  },
+  {
+    "start": 287.98,
+    "end": 288.82,
+    "text": "اس کی"
+  },
+  {
+    "start": 288.82,
+    "end": 289.84,
+    "text": "اس کی"
+  },
+  {
+    "start": 289.84,
+    "end": 290.62,
+    "text": "آپ"
+  },
+  {
+    "start": 290.62,
+    "end": 291.34,
+    "text": "اس کی"
+  },
+  {
+    "start": 291.34,
+    "end": 292.22,
+    "text": "ایک"
+  },
+  {
+    "start": 292.22,
+    "end": 292.82,
+    "text": "3"
+  },
+  {
+    "start": 292.82,
+    "end": 293.62,
+    "text": "اس کی"
+  },
+  {
+    "start": 293.62,
+    "end": 294.32,
+    "text": "اس کی"
+  },
+  {
+    "start": 294.32,
+    "end": 294.82,
+    "text": "اس کی"
+  },
+  {
+    "start": 294.82,
+    "end": 295.82,
+    "text": "اس کی"
+  },
+  {
+    "start": 295.82,
+    "end": 296.82,
+    "text": "اس کی"
+  },
+  {
+    "start": 296.82,
+    "end": 297.46,
+    "text": "آپ"
+  },
+  {
+    "start": 297.46,
+    "end": 298.52,
+    "text": "پرینٹ بھی کرتے"
+  },
+  {
+    "start": 298.52,
+    "end": 299.3,
+    "text": "یہ"
+  },
+  {
+    "start": 299.3,
+    "end": 300.14,
+    "text": "یہ"
+  },
+  {
+    "start": 300.14,
+    "end": 300.82,
+    "text": "اس کی"
+  },
+  {
+    "start": 300.82,
+    "end": 301.9,
+    "text": "پرینٹ بھی"
+  },
+  {
+    "start": 301.9,
+    "end": 302.54,
+    "text": "آپ"
+  },
+  {
+    "start": 302.54,
+    "end": 303.74,
+    "text": "آپ"
+  },
+  {
+    "start": 303.74,
+    "end": 304.54,
+    "text": "اس کی"
+  },
+  {
+    "start": 304.54,
+    "end": 305.64,
+    "text": "2"
+  },
+  {
+    "start": 305.64,
+    "end": 306.54,
+    "text": "کمہ"
+  },
+  {
+    "start": 306.54,
+    "end": 307.54,
+    "text": "اس کا"
+  },
+  {
+    "start": 307.88,
+    "end": 308.88,
+    "text": "میرپس"
+  },
+  {
+    "start": 308.88,
+    "end": 309.08000000000004,
+    "text": "2"
+  },
+  {
+    "start": 309.08000000000004,
+    "end": 309.92,
+    "text": "کمہ"
+  },
+  {
+    "start": 309.92,
+    "end": 310.42,
+    "text": "3"
+  },
+  {
+    "start": 310.42,
+    "end": 310.88,
+    "text": "2"
+  },
+  {
+    "start": 310.88,
+    "end": 311.72,
+    "text": "کمہ"
+  },
+  {
+    "start": 311.72,
+    "end": 312.40000000000003,
+    "text": "2"
+  },
+  {
+    "start": 312.40000000000003,
+    "end": 312.68,
+    "text": "کمہ"
+  },
+  {
+    "start": 312.68,
+    "end": 313.40000000000003,
+    "text": "2"
+  },
+  {
+    "start": 313.40000000000003,
+    "end": 314.68,
+    "text": "کمہ"
+  },
+  {
+    "start": 314.68,
+    "end": 315.40000000000003,
+    "text": "3"
+  },
+  {
+    "start": 315.40000000000003,
+    "end": 316.28000000000003,
+    "text": "2"
+  },
+  {
+    "start": 316.28000000000003,
+    "end": 316.94,
+    "text": "کمہ"
+  },
+  {
+    "start": 316.94,
+    "end": 317.76000000000005,
+    "text": "3"
+  },
+  {
+    "start": 317.76000000000005,
+    "end": 318.44,
+    "text": "آپ"
+  },
+  {
+    "start": 318.44,
+    "end": 319.06,
+    "text": "اس کی"
+  },
+  {
+    "start": 319.06,
+    "end": 319.64000000000004,
+    "text": "آپ"
+  },
+  {
+    "start": 319.64000000000004,
+    "end": 320.14000000000004,
+    "text": "آپ"
+  },
+  {
+    "start": 320.14000000000004,
+    "end": 320.64000000000004,
+    "text": "اس کو"
+  },
+  {
+    "start": 320.64000000000004,
+    "end": 321.64000000000004,
+    "text": "بلجو"
+  },
+  {
+    "start": 321.64000000000004,
+    "end": 322.0,
+    "text": "اس کی"
+  },
+  {
+    "start": 322.0,
+    "end": 322.56,
+    "text": "آپ"
+  },
+  {
+    "start": 322.56,
+    "end": 323.16,
+    "text": "آپ"
+  },
+  {
+    "start": 323.16,
+    "end": 324.08000000000004,
+    "text": "Number of Rose"
+  },
+  {
+    "start": 324.08000000000004,
+    "end": 325.16,
+    "text": "2"
+  },
+  {
+    "start": 325.16,
+    "end": 326.66,
+    "text": "Number of Columns"
+  },
+  {
+    "start": 326.66,
+    "end": 327.66,
+    "text": "3"
+  },
+  {
+    "start": 327.66,
+    "end": 329.16,
+    "text": "2x3"
+  },
+  {
+    "start": 329.16,
+    "end": 330.66,
+    "text": "2x3"
+  },
+  {
+    "start": 330.66,
+    "end": 331.88,
+    "text": "2"
+  },
+  {
+    "start": 331.88,
+    "end": 333.08000000000004,
+    "text": "کمہ"
+  },
+  {
+    "start": 333.08000000000004,
+    "end": 333.92,
+    "text": "2"
+  },
+  {
+    "start": 333.92,
+    "end": 335.08000000000004,
+    "text": "کمہ"
+  },
+  {
+    "start": 335.08000000000004,
+    "end": 336.08000000000004,
+    "text": "2"
+  },
+  {
+    "start": 336.08000000000004,
+    "end": 337.08000000000004,
+    "text": "کمہ"
+  },
+  {
+    "start": 337.52,
+    "end": 338.26,
+    "text": "3"
+  },
+  {
+    "start": 338.26,
+    "end": 339.26,
+    "text": "3"
+  },
+  {
+    "start": 339.26,
+    "end": 340.26,
+    "text": "3"
+  },
+  {
+    "start": 340.26,
+    "end": 341.26,
+    "text": "3"
+  },
+  {
+    "start": 341.26,
+    "end": 342.26,
+    "text": "4"
+  },
+  {
+    "start": 342.26,
+    "end": 343.26,
+    "text": "4"
+  },
+  {
+    "start": 343.26,
+    "end": 344.26,
+    "text": "4"
+  },
+  {
+    "start": 344.26,
+    "end": 345.26,
+    "text": "4"
+  },
+  {
+    "start": 345.26,
+    "end": 345.76,
+    "text": "5"
+  },
+  {
+    "start": 345.76,
+    "end": 346.76,
+    "text": "6"
+  },
+  {
+    "start": 346.76,
+    "end": 347.76,
+    "text": "6"
+  },
+  {
+    "start": 347.76,
+    "end": 348.76,
+    "text": "6"
+  },
+  {
+    "start": 348.76,
+    "end": 349.76,
+    "text": "7"
+  },
+  {
+    "start": 349.76,
+    "end": 350.76,
+    "text": "8"
+  },
+  {
+    "start": 350.76,
+    "end": 351.76,
+    "text": "8"
+  },
+  {
+    "start": 351.76,
+    "end": 352.76,
+    "text": "8"
+  },
+  {
+    "start": 352.76,
+    "end": 353.76,
+    "text": "8"
+  },
+  {
+    "start": 353.76,
+    "end": 354.76,
+    "text": "8"
+  },
+  {
+    "start": 354.76,
+    "end": 355.78,
+    "text": "8"
+  },
+  {
+    "start": 355.78,
+    "end": 356.78,
+    "text": "8"
+  },
+  {
+    "start": 356.78,
+    "end": 357.78,
+    "text": "8"
+  },
+  {
+    "start": 357.78,
+    "end": 358.78,
+    "text": "8"
+  },
+  {
+    "start": 358.78,
+    "end": 359.78,
+    "text": "8"
+  },
+  {
+    "start": 359.78,
+    "end": 360.78,
+    "text": "8"
+  },
+  {
+    "start": 360.78,
+    "end": 361.78,
+    "text": "8"
+  },
+  {
+    "start": 361.78,
+    "end": 362.78,
+    "text": "8"
+  },
+  {
+    "start": 362.78,
+    "end": 363.78,
+    "text": "9"
+  },
+  {
+    "start": 363.78,
+    "end": 364.78,
+    "text": "8"
+  },
+  {
+    "start": 364.78,
+    "end": 365.78,
+    "text": "8"
+  },
+  {
+    "start": 365.78,
+    "end": 366.78,
+    "text": "8"
+  },
+  {
+    "start": 366.78,
+    "end": 367.03999999999996,
+    "text": "8"
+  },
+  {
+    "start": 367.18,
+    "end": 368.86,
+    "text": "0"
+  },
+  {
+    "start": 368.86,
+    "end": 370.16,
+    "text": "7"
+  },
+  {
+    "start": 370.16,
+    "end": 371.46000000000004,
+    "text": "9"
+  },
+  {
+    "start": 371.46000000000004,
+    "end": 372.68,
+    "text": "7"
+  },
+  {
+    "start": 372.68,
+    "end": 373.70000000000005,
+    "text": "8"
+  },
+  {
+    "start": 373.70000000000005,
+    "end": 375.66,
+    "text": "8"
+  },
+  {
+    "start": 375.66,
+    "end": 376.94,
+    "text": "9"
+  },
+  {
+    "start": 376.94,
+    "end": 377.54,
+    "text": "8"
+  },
+  {
+    "start": 377.54,
+    "end": 378.20000000000005,
+    "text": "9"
+  },
+  {
+    "start": 378.20000000000005,
+    "end": 380.76000000000005,
+    "text": "8"
+  },
+  {
+    "start": 380.76000000000005,
+    "end": 380.84000000000003,
+    "text": "8"
+  },
+  {
+    "start": 380.84000000000003,
+    "end": 381.24,
+    "text": "8"
+  },
+  {
+    "start": 381.24,
+    "end": 381.36,
+    "text": "8"
+  },
+  {
+    "start": 381.36,
+    "end": 382.16,
+    "text": "8"
+  },
+  {
+    "start": 382.16,
+    "end": 383.16,
+    "text": "8"
+  },
+  {
+    "start": 383.16,
+    "end": 383.90000000000003,
+    "text": "8"
+  },
+  {
+    "start": 383.90000000000003,
+    "end": 384.90000000000003,
+    "text": "9"
+  },
+  {
+    "start": 384.90000000000003,
+    "end": 387.90000000000003,
+    "text": "8"
+  },
+  {
+    "start": 387.90000000000003,
+    "end": 388.88,
+    "text": "8"
+  },
+  {
+    "start": 388.88,
+    "end": 389.48,
+    "text": "8"
+  },
+  {
+    "start": 389.48,
+    "end": 390.62,
+    "text": "8"
+  },
+  {
+    "start": 390.62,
+    "end": 391.54,
+    "text": "9"
+  },
+  {
+    "start": 391.54,
+    "end": 393.24,
+    "text": "9"
+  },
+  {
+    "start": 393.24,
+    "end": 394.08000000000004,
+    "text": "8"
+  },
+  {
+    "start": 394.08000000000004,
+    "end": 395.16,
+    "text": "9"
+  },
+  {
+    "start": 395.16,
+    "end": 396.04,
+    "text": "8"
+  },
+  {
+    "start": 396.04,
+    "end": 396.98,
+    "text": "9"
+  },
+  {
+    "start": 396.98,
+    "end": 397.0,
+    "text": "8"
+  },
+  {
+    "start": 397.0,
+    "end": 399.5,
+    "text": "پیپ کرلے تھے ہیں جیی تیپ کیا تو یہ کیا دیگہ دیگیا ہے"
+  },
+  {
+    "start": 399.5,
+    "end": 400.66,
+    "text": "انت 32"
+  },
+  {
+    "start": 400.66,
+    "end": 401.84,
+    "text": "ملک 32 بٹ"
+  },
+  {
+    "start": 401.84,
+    "end": 403.7,
+    "text": "دیکھانا 32 بٹ Spays جو ہے"
+  },
+  {
+    "start": 403.7,
+    "end": 405.12,
+    "text": "ملک 4 بٹ کا Spays"
+  },
+  {
+    "start": 405.12,
+    "end": 407.94,
+    "text": "ایک بٹ آژ بٹ کا ہوتا ہے تو 32 بٹ میںلک"
+  },
+  {
+    "start": 407.94,
+    "end": 410.3,
+    "text": "4 بٹ کا Spays جو ہے وہ علокیٹ کر رہے"
+  },
+  {
+    "start": 410.3,
+    "end": 411.14,
+    "text": "تو آپ اس سے"
+  },
+  {
+    "start": 411.14,
+    "end": 412.86,
+    "text": "ایٹم کا size بھی ساما سکتے ہو"
+  },
+  {
+    "start": 412.86,
+    "end": 415.9,
+    "text": "حریک ایٹم جو ہے مکتنا space لگی 4 بٹ"
+  },
+  {
+    "start": 415.9,
+    "end": 420.48,
+    "text": "اب اس کو execute بھی میں 7 کی ساتھ کی ساتھ کر کے دیگھا دیگھا دیگھا دیگھا"
+  },
+  {
+    "start": 420.48,
+    "end": 438.3,
+    "text": "Sadisad mayiska i-term"
+  },
+  {
+    "start": 438.62,
+    "end": 441.82,
+    "text": "요 blaughter"
+  },
+  {
+    "start": 441.82,
+    "end": 443.56,
+    "text": "."
+  },
+  {
+    "start": 443.56,
+    "end": 447.2,
+    "text": "یہ میرا کیا ہے? Float, so item size, item size"
+  },
+  {
+    "start": 447.2,
+    "end": 450.2,
+    "text": "بھی دیکھلے تھے, پہلے میں آپ کو اس کا D-Type"
+  },
+  {
+    "start": 450.2,
+    "end": 453.84,
+    "text": "دیکھا دیکھا دیکھا دیکھا دیکھا"
+  },
+  {
+    "start": 453.84,
+    "end": 458.28000000000003,
+    "text": "کیا ہے? اس کا D-Type ہے? Float 64, Float 64"
+  },
+  {
+    "start": 458.28000000000003,
+    "end": 461.02,
+    "text": "جو آپ کا انت تا وہ 32 تھا, 32"
+  },
+  {
+    "start": 461.02,
+    "end": 463.44,
+    "text": "ھا آپ کا getrao گیا, 1 byte میں 8 بھیٹھا"
+  },
+  {
+    "start": 463.44,
+    "end": 465.58,
+    "text": "تو 32 bit میں کتھنے ہوگئے 4 byte"
+  },
+  {
+    "start": 465.58,
+    "end": 467.84000000000003,
+    "text": "ہوگئے 64 bit کیا انتھر کتھنے"
+  },
+  {
+    "start": 467.84000000000003,
+    "end": 470.66,
+    "text": "8, so ھا آپ کا Float 64 ہے"
+  },
+  {
+    "start": 470.66,
+    "end": 472.66,
+    "text": "تو obviously Firussi Saab si آپ کا"
+  },
+  {
+    "start": 472.66,
+    "end": 475.44,
+    "text": "item size بھی کتھنے ہوگئے گا 8"
+  },
+  {
+    "start": 475.44,
+    "end": 476.48,
+    "text": "ہوگئے 8 byte"
+  },
+  {
+    "start": 476.48,
+    "end": 477.96000000000004,
+    "text": "حکہ نا تو اس طریقے سے آپ لئے سکتے ہوگ"
+  },
+  {
+    "start": 477.96000000000004,
+    "end": 479.36,
+    "text": "اور یہ آپ کا جو ہے"
+  },
+  {
+    "start": 479.36,
+    "end": 481.36,
+    "text": "وہ item size, یہ آپ ٹوڑ منشن میں لے لو"
+  },
+  {
+    "start": 481.36,
+    "end": 483.54,
+    "text": "اس میں لے لو 3 میں بات ایکی ہے"
+  },
+  {
+    "start": 483.54,
+    "end": 485.12,
+    "text": "میں آپ کو یہ پتا لگیا ki"
+  },
+  {
+    "start": 485.12,
+    "end": 485.94000000000005,
+    "text": "جو میرا ہے ہے"
+  },
+  {
+    "start": 485.94000000000005,
+    "end": 487.64000000000004,
+    "text": "اس کے انر میرا جو Type"
+  },
+  {
+    "start": 487.64000000000004,
+    "end": 489.04,
+    "text": "وہ کس Type کا ہے"
+  },
+  {
+    "start": 489.04,
+    "end": 490.68,
+    "text": "یا پھر آپ کا جو item"
+  },
+  {
+    "start": 490.68,
+    "end": 492.24,
+    "text": "اس کا size جو ہے"
+  },
+  {
+    "start": 492.24,
+    "end": 493.56,
+    "text": "وہ کتھنےہ علוקیٹ کر رکھتا"
+  },
+  {
+    "start": 493.56,
+    "end": 494.76000000000005,
+    "text": "کتھنے میں امری علוקیٹ ہو رہا"
+  },
+  {
+    "start": 494.76000000000005,
+    "end": 495.92,
+    "text": "اس یہ آپ کو"
+  },
+  {
+    "start": 495.92,
+    "end": 497.92,
+    "text": "کراکٹر value بھی لے سکتے ہوگس میں"
+  },
+  {
+    "start": 497.92,
+    "end": 499.92,
+    "text": "آپ کا U32, U16"
+  },
+  {
+    "start": 499.92,
+    "end": 501.36,
+    "text": "جو آپ کا UNICORGE"
+  },
+  {
+    "start": 501.36,
+    "end": 501.72,
+    "text": "جو ہے"
+  },
+  {
+    "start": 501.72,
+    "end": 502.52000000000004,
+    "text": "انコーディング system"
+  },
+  {
+    "start": 502.52000000000004,
+    "end": 503.02000000000004,
+    "text": "use garti hai"
+  },
+  {
+    "start": 503.02000000000004,
+    "end": 504.52000000000004,
+    "text": "تو multiple U8"
+  },
+  {
+    "start": 504.52000000000004,
+    "end": 505.52000000000004,
+    "text": "بھیوز ہو جاتا ہے"
+  },
+  {
+    "start": 505.52000000000004,
+    "end": 506.92,
+    "text": "تو وہ سارے کے سارے آپ کی"
+  },
+  {
+    "start": 506.92,
+    "end": 508.92,
+    "text": "اسے علוקیٹ کر سکتے ہو"
+  },
+  {
+    "start": 508.92,
+    "end": 509.42,
+    "text": "Thank you"
+  }
+]

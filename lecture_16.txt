@@ -1,0 +1,78 @@
+[0.00 - 2.00] Hello students, welcome to great's measures.
+[2.00 - 4.00] Today's video is going to be explained by us.
+[4.00 - 7.00] Quotes in Python, but a simplest topic is important.
+[7.00 - 10.00] We need to note the small points, but important.
+[10.00 - 14.00] So if we talk about the codes that come to us in Python,
+[14.00 - 16.00] we use single code double code.
+[16.00 - 19.00] But here, triple codes are also used.
+[19.00 - 21.00] The single and double code example I have already done a lot.
+[21.00 - 23.00] Last video was also provided to you.
+[23.00 - 25.00] Multiple videos are provided.
+[25.00 - 29.00] As I have to print something, so in single codes or in double codes,
+[29.00 - 30.00] we write things.
+[30.00 - 34.00] And if we have this example,
+[34.00 - 37.00] if we have to write multiple lines,
+[37.00 - 39.00] for example, I have written a print,
+[39.00 - 41.00] should I do high studies,
+[41.00 - 44.00] should I do job, should I apply for gate?
+[44.00 - 47.00] I mean, write multiple lines, line 1, line 2, line 3.
+[47.00 - 49.00] And I have started double code here,
+[49.00 - 50.00] and last double code here.
+[50.00 - 54.00] Okay, so single code start, single code ending.
+[54.00 - 57.00] So I simply execute this, print it out.
+[57.00 - 59.00] So here is the error.
+[59.00 - 60.00] What is the error?
+[60.00 - 62.00] Undetermined string literal.
+[62.00 - 63.00] Why is it coming?
+[63.00 - 66.00] Because here you have written multiple lines.
+[66.00 - 68.00] So say that in the brain,
+[68.00 - 69.00] you should use double code.
+[69.00 - 71.00] Why did you use single?
+[71.00 - 74.00] So people do double code, we don't make them.
+[74.00 - 76.00] But even in double code, it is also coming.
+[76.00 - 79.00] Because this double code and single code
+[79.00 - 81.00] are used for single lines.
+[81.00 - 83.00] If you want to write multiple lines,
+[83.00 - 85.00] then you have to get the third one.
+[85.00 - 86.00] And the third one comes from triple.
+[86.00 - 89.00] So triple code is used here.
+[89.00 - 90.00] How to make it simple?
+[90.00 - 92.00] As single code is like this.
+[92.00 - 96.00] So triple code is used in this way.
+[96.00 - 99.00] This is the triple code.
+[99.00 - 101.00] Here is the triple code.
+[101.00 - 103.00] So you have to execute it.
+[103.00 - 106.00] So you have to print out all the outputs.
+[106.00 - 108.00] So what are the two, three?
+[108.00 - 110.00] You want to print all the lines.
+[110.00 - 112.00] You want to know that no.
+[112.00 - 114.00] Yes, if you want to do anything,
+[114.00 - 117.00] then you can simply print all the things you want to print.
+[117.00 - 119.00] You can print all the lines you want to print.
+[119.00 - 122.00] So this is the triple code of the simple.
+[122.00 - 123.00] Apart from this,
+[123.00 - 125.00] you can use another one as well.
+[125.00 - 127.00] Like we have the comments.
+[127.00 - 129.00] So what do you do with single lines?
+[129.00 - 130.00] What do you do with it?
+[130.00 - 131.00] Hash.
+[131.00 - 135.00] But you have more and more.
+[135.00 - 136.00] So what do you do?
+[136.00 - 141.00] You can use multi-line code as well.
+[141.00 - 144.00] So here I will also use the same thing.
+[144.00 - 146.00] This is the logic.
+[146.00 - 147.00] Double.
+[147.00 - 150.00] Here you have to print all the other hash.
+[150.00 - 154.00] So here is the start of your comment.
+[154.00 - 157.00] Here also the comment comment comment.
+[157.00 - 159.00] So you have put triple code in your starting.
+[159.00 - 162.00] Here also the last one is triple code.
+[162.00 - 164.00] So you have to execute it.
+[164.00 - 166.00] The output of the simple,
+[166.00 - 168.00] you have to print all the outputs.
+[168.00 - 170.00] So you have to write the multi-line comment,
+[170.00 - 172.00] triple code or multiple lines,
+[172.00 - 174.00] you can use triple code as well.
+[174.00 - 176.00] So you can use the snapshot.
+[176.00 - 178.00] So you can write it in your notes.
+[178.00 - 179.00] Thank you.

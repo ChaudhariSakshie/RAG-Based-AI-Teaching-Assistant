@@ -1,0 +1,1352 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "Welcome to Good Spasures"
+  },
+  {
+    "start": 2.0,
+    "end": 3.0,
+    "text": "Today's video is explaining"
+  },
+  {
+    "start": 3.0,
+    "end": 5.0,
+    "text": "Lambda Functions in Python"
+  },
+  {
+    "start": 5.0,
+    "end": 7.0,
+    "text": "Lambda Functions is used"
+  },
+  {
+    "start": 7.0,
+    "end": 9.0,
+    "text": "Actually, it is anonymous function"
+  },
+  {
+    "start": 9.0,
+    "end": 11.0,
+    "text": "Means, it is not connected to any name"
+  },
+  {
+    "start": 11.0,
+    "end": 13.0,
+    "text": "If you want to test your small number"
+  },
+  {
+    "start": 13.0,
+    "end": 15.0,
+    "text": "or find an even number"
+  },
+  {
+    "start": 15.0,
+    "end": 16.0,
+    "text": "or some of two numbers"
+  },
+  {
+    "start": 16.0,
+    "end": 18.0,
+    "text": "If you want to test this small number"
+  },
+  {
+    "start": 18.0,
+    "end": 20.0,
+    "text": "Python says, why do you create a function in the file?"
+  },
+  {
+    "start": 20.0,
+    "end": 22.0,
+    "text": "Then you call the function"
+  },
+  {
+    "start": 22.0,
+    "end": 24.0,
+    "text": "You can directly call an anonymous function"
+  },
+  {
+    "start": 24.0,
+    "end": 25.0,
+    "text": "through Lambda"
+  },
+  {
+    "start": 25.0,
+    "end": 28.0,
+    "text": "or you can easily explain it to your own"
+  },
+  {
+    "start": 28.0,
+    "end": 30.0,
+    "text": "If you are getting a first-time stranger"
+  },
+  {
+    "start": 30.0,
+    "end": 32.0,
+    "text": "Then first you can call the name"
+  },
+  {
+    "start": 32.0,
+    "end": 33.0,
+    "text": "then you can call it"
+  },
+  {
+    "start": 33.0,
+    "end": 35.0,
+    "text": "Hello, Hi Sir"
+  },
+  {
+    "start": 35.0,
+    "end": 37.0,
+    "text": "You can call it without any name"
+  },
+  {
+    "start": 37.0,
+    "end": 38.0,
+    "text": "or even call it"
+  },
+  {
+    "start": 38.0,
+    "end": 39.0,
+    "text": "and then you can say"
+  },
+  {
+    "start": 39.0,
+    "end": 41.0,
+    "text": "After that, you need to know the name and the name"
+  },
+  {
+    "start": 41.0,
+    "end": 43.0,
+    "text": "Means, try to do the work"
+  },
+  {
+    "start": 43.0,
+    "end": 45.0,
+    "text": "in the same way"
+  },
+  {
+    "start": 45.0,
+    "end": 47.0,
+    "text": "in Python, we do Lambda Functions"
+  },
+  {
+    "start": 47.0,
+    "end": 49.0,
+    "text": "As I explain to you the examples"
+  },
+  {
+    "start": 49.0,
+    "end": 51.0,
+    "text": "I have to find an even number"
+  },
+  {
+    "start": 51.0,
+    "end": 52.0,
+    "text": "List is in this way"
+  },
+  {
+    "start": 52.0,
+    "end": 53.0,
+    "text": "I have some list"
+  },
+  {
+    "start": 53.0,
+    "end": 55.0,
+    "text": "and the function in this list"
+  },
+  {
+    "start": 55.0,
+    "end": 57.0,
+    "text": "is my named function"
+  },
+  {
+    "start": 57.0,
+    "end": 59.0,
+    "text": "because I have given a name here"
+  },
+  {
+    "start": 59.0,
+    "end": 61.0,
+    "text": "definition name and it is even"
+  },
+  {
+    "start": 61.0,
+    "end": 63.0,
+    "text": "x return x percent"
+  },
+  {
+    "start": 63.0,
+    "end": 64.0,
+    "text": "is double equal to 0"
+  },
+  {
+    "start": 64.0,
+    "end": 66.0,
+    "text": "This is the logic that I will find a remainder"
+  },
+  {
+    "start": 66.0,
+    "end": 69.0,
+    "text": "If the remainder is 0, then this is the order"
+  },
+  {
+    "start": 69.0,
+    "end": 72.0,
+    "text": "So if the remainder is 0, then return this value"
+  },
+  {
+    "start": 72.0,
+    "end": 75.0,
+    "text": "and what I have added here is the list filter"
+  },
+  {
+    "start": 75.0,
+    "end": 77.0,
+    "text": "Lambda Functions is generally filtered"
+  },
+  {
+    "start": 77.0,
+    "end": 78.0,
+    "text": "or sorted"
+  },
+  {
+    "start": 78.0,
+    "end": 79.0,
+    "text": "or map"
+  },
+  {
+    "start": 79.0,
+    "end": 81.0,
+    "text": "It is used with this"
+  },
+  {
+    "start": 81.0,
+    "end": 83.0,
+    "text": "in the main three methods"
+  },
+  {
+    "start": 83.0,
+    "end": 84.0,
+    "text": "So we have filtered"
+  },
+  {
+    "start": 84.0,
+    "end": 85.0,
+    "text": "What is the filter?"
+  },
+  {
+    "start": 85.0,
+    "end": 87.0,
+    "text": "What is the list?"
+  },
+  {
+    "start": 87.0,
+    "end": 89.0,
+    "text": "I have passed this list"
+  },
+  {
+    "start": 89.0,
+    "end": 90.0,
+    "text": "here"
+  },
+  {
+    "start": 90.0,
+    "end": 92.0,
+    "text": "I am trying to find the even values"
+  },
+  {
+    "start": 92.0,
+    "end": 93.0,
+    "text": "that I have given"
+  },
+  {
+    "start": 93.0,
+    "end": 94.0,
+    "text": "Now what is this even?"
+  },
+  {
+    "start": 94.0,
+    "end": 95.0,
+    "text": "This function name"
+  },
+  {
+    "start": 95.0,
+    "end": 96.0,
+    "text": "which I am creating"
+  },
+  {
+    "start": 96.0,
+    "end": 97.0,
+    "text": "is the name of this function"
+  },
+  {
+    "start": 97.0,
+    "end": 99.0,
+    "text": "and the list"
+  },
+  {
+    "start": 99.0,
+    "end": 100.0,
+    "text": "you need to know"
+  },
+  {
+    "start": 100.0,
+    "end": 101.0,
+    "text": "where you will iterate"
+  },
+  {
+    "start": 101.0,
+    "end": 102.0,
+    "text": "and then"
+  },
+  {
+    "start": 102.0,
+    "end": 104.0,
+    "text": "give the name of the list"
+  },
+  {
+    "start": 104.0,
+    "end": 105.0,
+    "text": "So this even"
+  },
+  {
+    "start": 105.0,
+    "end": 106.0,
+    "text": "as you will go here"
+  },
+  {
+    "start": 106.0,
+    "end": 107.0,
+    "text": "as you will execute this"
+  },
+  {
+    "start": 107.0,
+    "end": 108.0,
+    "text": "list filter"
+  },
+  {
+    "start": 108.0,
+    "end": 109.0,
+    "text": "Now this will be even call"
+  },
+  {
+    "start": 109.0,
+    "end": 111.0,
+    "text": "When this call is the first number"
+  },
+  {
+    "start": 111.0,
+    "end": 112.0,
+    "text": "what is 11?"
+  },
+  {
+    "start": 112.0,
+    "end": 113.0,
+    "text": "11 percent"
+  },
+  {
+    "start": 113.0,
+    "end": 114.0,
+    "text": "what is 11?"
+  },
+  {
+    "start": 114.0,
+    "end": 115.0,
+    "text": "1 means"
+  },
+  {
+    "start": 115.0,
+    "end": 116.0,
+    "text": "it is not selected"
+  },
+  {
+    "start": 116.0,
+    "end": 117.0,
+    "text": "so what will be written?"
+  },
+  {
+    "start": 117.0,
+    "end": 118.0,
+    "text": "False"
+  },
+  {
+    "start": 118.0,
+    "end": 119.0,
+    "text": "and the false"
+  },
+  {
+    "start": 119.0,
+    "end": 120.0,
+    "text": "means it is not selected"
+  },
+  {
+    "start": 120.0,
+    "end": 121.0,
+    "text": "it means"
+  },
+  {
+    "start": 121.0,
+    "end": 122.0,
+    "text": "even this list"
+  },
+  {
+    "start": 122.0,
+    "end": 123.0,
+    "text": "should not be added"
+  },
+  {
+    "start": 123.0,
+    "end": 124.0,
+    "text": "Next I have 20"
+  },
+  {
+    "start": 124.0,
+    "end": 125.0,
+    "text": "20"
+  },
+  {
+    "start": 125.0,
+    "end": 126.0,
+    "text": "Now 20 percent is 0"
+  },
+  {
+    "start": 126.0,
+    "end": 127.0,
+    "text": "obviously"
+  },
+  {
+    "start": 127.0,
+    "end": 128.0,
+    "text": "if you divide it from 20"
+  },
+  {
+    "start": 128.0,
+    "end": 129.0,
+    "text": "then it will be 0"
+  },
+  {
+    "start": 129.0,
+    "end": 130.0,
+    "text": "So that means"
+  },
+  {
+    "start": 130.0,
+    "end": 132.0,
+    "text": "it will return this true"
+  },
+  {
+    "start": 132.0,
+    "end": 133.0,
+    "text": "So true"
+  },
+  {
+    "start": 133.0,
+    "end": 135.0,
+    "text": "it is adding 20 in this list"
+  },
+  {
+    "start": 135.0,
+    "end": 136.0,
+    "text": "which is logic"
+  },
+  {
+    "start": 136.0,
+    "end": 137.0,
+    "text": "So in the filter"
+  },
+  {
+    "start": 137.0,
+    "end": 138.0,
+    "text": "it is filtered"
+  },
+  {
+    "start": 138.0,
+    "end": 140.0,
+    "text": "and it is filtered"
+  },
+  {
+    "start": 140.0,
+    "end": 141.0,
+    "text": "and it is increasing"
+  },
+  {
+    "start": 141.0,
+    "end": 142.0,
+    "text": "it is iteration"
+  },
+  {
+    "start": 142.0,
+    "end": 143.0,
+    "text": "and finally"
+  },
+  {
+    "start": 143.0,
+    "end": 144.0,
+    "text": "I will give a list"
+  },
+  {
+    "start": 144.0,
+    "end": 145.0,
+    "text": "evens"
+  },
+  {
+    "start": 145.0,
+    "end": 146.0,
+    "text": "so I will execute this"
+  },
+  {
+    "start": 146.0,
+    "end": 147.0,
+    "text": "So I will execute this"
+  },
+  {
+    "start": 147.0,
+    "end": 148.0,
+    "text": "So I have a simple"
+  },
+  {
+    "start": 148.0,
+    "end": 149.0,
+    "text": "20, 40"
+  },
+  {
+    "start": 149.0,
+    "end": 150.0,
+    "text": "so I have a list"
+  },
+  {
+    "start": 150.0,
+    "end": 151.0,
+    "text": "which is"
+  },
+  {
+    "start": 151.0,
+    "end": 152.0,
+    "text": "the even number"
+  },
+  {
+    "start": 152.0,
+    "end": 153.0,
+    "text": "but"
+  },
+  {
+    "start": 153.0,
+    "end": 154.0,
+    "text": "here I have"
+  },
+  {
+    "start": 154.0,
+    "end": 156.0,
+    "text": "created a formal function"
+  },
+  {
+    "start": 156.0,
+    "end": 157.0,
+    "text": "which I have given"
+  },
+  {
+    "start": 157.0,
+    "end": 159.0,
+    "text": "and then I called"
+  },
+  {
+    "start": 159.0,
+    "end": 160.0,
+    "text": "that function"
+  },
+  {
+    "start": 160.0,
+    "end": 161.0,
+    "text": "here"
+  },
+  {
+    "start": 161.0,
+    "end": 162.0,
+    "text": "Python says"
+  },
+  {
+    "start": 162.0,
+    "end": 163.0,
+    "text": "use lambda"
+  },
+  {
+    "start": 163.0,
+    "end": 164.0,
+    "text": "and in the false"
+  },
+  {
+    "start": 164.0,
+    "end": 165.0,
+    "text": "why do you work"
+  },
+  {
+    "start": 165.0,
+    "end": 166.0,
+    "text": "the name of the function"
+  },
+  {
+    "start": 166.0,
+    "end": 167.0,
+    "text": "you are using"
+  },
+  {
+    "start": 167.0,
+    "end": 168.0,
+    "text": "an easy method"
+  },
+  {
+    "start": 168.0,
+    "end": 170.0,
+    "text": "what is the easy method"
+  },
+  {
+    "start": 170.0,
+    "end": 171.0,
+    "text": "why my number"
+  },
+  {
+    "start": 171.0,
+    "end": 172.0,
+    "text": "is this list"
+  },
+  {
+    "start": 172.0,
+    "end": 173.0,
+    "text": "which is all the elements"
+  },
+  {
+    "start": 173.0,
+    "end": 174.0,
+    "text": "even here"
+  },
+  {
+    "start": 174.0,
+    "end": 175.0,
+    "text": "filter is the same"
+  },
+  {
+    "start": 175.0,
+    "end": 176.0,
+    "text": "just like"
+  },
+  {
+    "start": 176.0,
+    "end": 177.0,
+    "text": "the list filter is the same here"
+  },
+  {
+    "start": 177.0,
+    "end": 178.0,
+    "text": "but the definition of"
+  },
+  {
+    "start": 178.0,
+    "end": 179.0,
+    "text": "the definition of the name"
+  },
+  {
+    "start": 179.0,
+    "end": 180.0,
+    "text": "is a function of the name"
+  },
+  {
+    "start": 180.0,
+    "end": 181.0,
+    "text": "which is"
+  },
+  {
+    "start": 181.0,
+    "end": 182.0,
+    "text": "the name of the name"
+  },
+  {
+    "start": 182.0,
+    "end": 183.0,
+    "text": "is lambda"
+  },
+  {
+    "start": 183.0,
+    "end": 184.0,
+    "text": "lambda"
+  },
+  {
+    "start": 184.0,
+    "end": 185.0,
+    "text": "which you have to use"
+  },
+  {
+    "start": 185.0,
+    "end": 186.0,
+    "text": "no name or the name of the function"
+  },
+  {
+    "start": 186.0,
+    "end": 187.0,
+    "text": "lambda"
+  },
+  {
+    "start": 187.0,
+    "end": 188.0,
+    "text": "here I am doing the argument"
+  },
+  {
+    "start": 188.0,
+    "end": 189.0,
+    "text": "here"
+  },
+  {
+    "start": 189.0,
+    "end": 190.0,
+    "text": "the value is 0"
+  },
+  {
+    "start": 190.0,
+    "end": 191.0,
+    "text": "x"
+  },
+  {
+    "start": 191.0,
+    "end": 192.0,
+    "text": "obviously"
+  },
+  {
+    "start": 192.0,
+    "end": 193.0,
+    "text": "you will iterate"
+  },
+  {
+    "start": 193.0,
+    "end": 194.0,
+    "text": "on the list"
+  },
+  {
+    "start": 194.0,
+    "end": 195.0,
+    "text": "and you will"
+  },
+  {
+    "start": 195.0,
+    "end": 196.0,
+    "text": "get the element"
+  },
+  {
+    "start": 196.0,
+    "end": 197.0,
+    "text": "check"
+  },
+  {
+    "start": 197.0,
+    "end": 198.0,
+    "text": "even"
+  },
+  {
+    "start": 198.0,
+    "end": 199.0,
+    "text": "not even"
+  },
+  {
+    "start": 199.0,
+    "end": 200.0,
+    "text": "x"
+  },
+  {
+    "start": 200.0,
+    "end": 201.0,
+    "text": "here"
+  },
+  {
+    "start": 201.0,
+    "end": 202.0,
+    "text": "call an"
+  },
+  {
+    "start": 202.0,
+    "end": 203.0,
+    "text": "x"
+  },
+  {
+    "start": 203.0,
+    "end": 204.0,
+    "text": "percent"
+  },
+  {
+    "start": 204.0,
+    "end": 205.0,
+    "text": "is equal to 0"
+  },
+  {
+    "start": 205.0,
+    "end": 206.0,
+    "text": "and"
+  },
+  {
+    "start": 206.0,
+    "end": 207.0,
+    "text": "x is greater than 50"
+  },
+  {
+    "start": 207.0,
+    "end": 208.0,
+    "text": "if I want to do it"
+  },
+  {
+    "start": 208.0,
+    "end": 209.0,
+    "text": "I want to remove all the"
+  },
+  {
+    "start": 209.0,
+    "end": 210.0,
+    "text": "even numbers"
+  },
+  {
+    "start": 210.0,
+    "end": 211.0,
+    "text": "which are the values"
+  },
+  {
+    "start": 211.0,
+    "end": 212.0,
+    "text": "x"
+  },
+  {
+    "start": 212.0,
+    "end": 213.0,
+    "text": "is more than 50"
+  },
+  {
+    "start": 213.0,
+    "end": 214.0,
+    "text": "and if you do not want it"
+  },
+  {
+    "start": 214.0,
+    "end": 215.0,
+    "text": "then I can"
+  },
+  {
+    "start": 215.0,
+    "end": 216.0,
+    "text": "remove it"
+  },
+  {
+    "start": 216.0,
+    "end": 217.0,
+    "text": "so you can"
+  },
+  {
+    "start": 217.0,
+    "end": 218.0,
+    "text": "simply"
+  },
+  {
+    "start": 218.0,
+    "end": 219.0,
+    "text": "keep the"
+  },
+  {
+    "start": 219.0,
+    "end": 220.0,
+    "text": "value"
+  },
+  {
+    "start": 220.0,
+    "end": 222.0,
+    "text": "which is equal to 0"
+  },
+  {
+    "start": 222.0,
+    "end": 223.0,
+    "text": "it will return"
+  },
+  {
+    "start": 223.0,
+    "end": 224.0,
+    "text": "and it will return"
+  },
+  {
+    "start": 224.0,
+    "end": 225.0,
+    "text": "and it will"
+  },
+  {
+    "start": 225.0,
+    "end": 226.0,
+    "text": "get"
+  },
+  {
+    "start": 226.0,
+    "end": 227.0,
+    "text": "the list"
+  },
+  {
+    "start": 227.0,
+    "end": 228.0,
+    "text": "in this list"
+  },
+  {
+    "start": 228.0,
+    "end": 229.0,
+    "text": "and here"
+  },
+  {
+    "start": 229.0,
+    "end": 231.0,
+    "text": "I can do the simple print"
+  },
+  {
+    "start": 231.0,
+    "end": 232.0,
+    "text": "if I print it"
+  },
+  {
+    "start": 232.0,
+    "end": 233.0,
+    "text": "then"
+  },
+  {
+    "start": 233.0,
+    "end": 234.0,
+    "text": "it will give all the"
+  },
+  {
+    "start": 234.0,
+    "end": 235.0,
+    "text": "numbers"
+  },
+  {
+    "start": 235.0,
+    "end": 236.0,
+    "text": "which are in my"
+  },
+  {
+    "start": 236.0,
+    "end": 237.0,
+    "text": "list"
+  },
+  {
+    "start": 237.0,
+    "end": 238.0,
+    "text": "the same"
+  },
+  {
+    "start": 238.0,
+    "end": 239.0,
+    "text": "work is"
+  },
+  {
+    "start": 239.0,
+    "end": 240.0,
+    "text": "but here"
+  },
+  {
+    "start": 240.0,
+    "end": 241.0,
+    "text": "we did not"
+  },
+  {
+    "start": 241.0,
+    "end": 242.0,
+    "text": "give the name of the function"
+  },
+  {
+    "start": 242.0,
+    "end": 243.0,
+    "text": "in a simple"
+  },
+  {
+    "start": 243.0,
+    "end": 244.0,
+    "text": "easy way"
+  },
+  {
+    "start": 244.0,
+    "end": 245.0,
+    "text": "I created it"
+  },
+  {
+    "start": 245.0,
+    "end": 246.0,
+    "text": "and can do more"
+  },
+  {
+    "start": 246.0,
+    "end": 247.0,
+    "text": "examples"
+  },
+  {
+    "start": 247.0,
+    "end": 248.0,
+    "text": "let's suppose"
+  },
+  {
+    "start": 248.0,
+    "end": 249.0,
+    "text": "I am a sorted example"
+  },
+  {
+    "start": 249.0,
+    "end": 250.0,
+    "text": "sorted"
+  },
+  {
+    "start": 250.0,
+    "end": 251.0,
+    "text": "so I have"
+  },
+  {
+    "start": 251.0,
+    "end": 252.0,
+    "text": "sorted"
+  },
+  {
+    "start": 252.0,
+    "end": 253.0,
+    "text": "I have"
+  },
+  {
+    "start": 253.0,
+    "end": 254.0,
+    "text": "japur, cottage"
+  },
+  {
+    "start": 254.0,
+    "end": 255.0,
+    "text": "etc."
+  },
+  {
+    "start": 255.0,
+    "end": 256.0,
+    "text": "and I want"
+  },
+  {
+    "start": 256.0,
+    "end": 257.0,
+    "text": "to sort"
+  },
+  {
+    "start": 257.0,
+    "end": 258.0,
+    "text": "number of"
+  },
+  {
+    "start": 258.0,
+    "end": 259.0,
+    "text": "characters"
+  },
+  {
+    "start": 259.0,
+    "end": 260.0,
+    "text": "like"
+  },
+  {
+    "start": 260.0,
+    "end": 261.0,
+    "text": "how many"
+  },
+  {
+    "start": 261.0,
+    "end": 262.0,
+    "text": "japur is"
+  },
+  {
+    "start": 262.0,
+    "end": 263.0,
+    "text": "japur"
+  },
+  {
+    "start": 263.0,
+    "end": 264.0,
+    "text": "after japur"
+  },
+  {
+    "start": 264.0,
+    "end": 265.0,
+    "text": "in Delhi"
+  },
+  {
+    "start": 265.0,
+    "end": 266.0,
+    "text": "5"
+  },
+  {
+    "start": 266.0,
+    "end": 267.0,
+    "text": "the number of characters"
+  },
+  {
+    "start": 267.0,
+    "end": 268.0,
+    "text": "in it"
+  },
+  {
+    "start": 268.0,
+    "end": 269.0,
+    "text": "is"
+  },
+  {
+    "start": 269.0,
+    "end": 270.0,
+    "text": "sorted"
+  },
+  {
+    "start": 270.0,
+    "end": 271.0,
+    "text": "so what I am"
+  },
+  {
+    "start": 271.0,
+    "end": 272.0,
+    "text": "doing here"
+  },
+  {
+    "start": 272.0,
+    "end": 273.0,
+    "text": "I created a formal"
+  },
+  {
+    "start": 273.0,
+    "end": 274.0,
+    "text": "function"
+  },
+  {
+    "start": 274.0,
+    "end": 275.0,
+    "text": "and I gave"
+  },
+  {
+    "start": 275.0,
+    "end": 276.0,
+    "text": "some names"
+  },
+  {
+    "start": 276.0,
+    "end": 277.0,
+    "text": "and I"
+  },
+  {
+    "start": 277.0,
+    "end": 278.0,
+    "text": "passed the list"
+  },
+  {
+    "start": 278.0,
+    "end": 279.0,
+    "text": "and returned"
+  },
+  {
+    "start": 279.0,
+    "end": 280.0,
+    "text": "the length"
+  },
+  {
+    "start": 280.0,
+    "end": 281.0,
+    "text": "is"
+  },
+  {
+    "start": 281.0,
+    "end": 282.0,
+    "text": "returning"
+  },
+  {
+    "start": 282.0,
+    "end": 283.0,
+    "text": "like this"
+  },
+  {
+    "start": 283.0,
+    "end": 284.0,
+    "text": "4"
+  },
+  {
+    "start": 284.0,
+    "end": 285.0,
+    "text": "10"
+  },
+  {
+    "start": 285.0,
+    "end": 286.0,
+    "text": "5"
+  },
+  {
+    "start": 286.0,
+    "end": 287.0,
+    "text": "6"
+  },
+  {
+    "start": 287.0,
+    "end": 288.0,
+    "text": "6"
+  },
+  {
+    "start": 288.0,
+    "end": 289.0,
+    "text": "4"
+  },
+  {
+    "start": 289.0,
+    "end": 290.0,
+    "text": "6"
+  },
+  {
+    "start": 290.0,
+    "end": 291.0,
+    "text": "4"
+  },
+  {
+    "start": 291.0,
+    "end": 292.0,
+    "text": "6"
+  },
+  {
+    "start": 292.0,
+    "end": 293.0,
+    "text": "4"
+  },
+  {
+    "start": 293.0,
+    "end": 294.0,
+    "text": "7"
+  },
+  {
+    "start": 294.0,
+    "end": 295.0,
+    "text": "7"
+  },
+  {
+    "start": 295.0,
+    "end": 296.0,
+    "text": "6"
+  },
+  {
+    "start": 296.0,
+    "end": 297.0,
+    "text": "7"
+  },
+  {
+    "start": 297.0,
+    "end": 298.0,
+    "text": "9"
+  },
+  {
+    "start": 298.0,
+    "end": 299.0,
+    "text": "9"
+  },
+  {
+    "start": 299.0,
+    "end": 300.0,
+    "text": "9"
+  },
+  {
+    "start": 300.0,
+    "end": 301.0,
+    "text": "9"
+  },
+  {
+    "start": 301.0,
+    "end": 302.0,
+    "text": "9"
+  },
+  {
+    "start": 302.0,
+    "end": 303.0,
+    "text": "9"
+  },
+  {
+    "start": 303.0,
+    "end": 304.0,
+    "text": "9"
+  },
+  {
+    "start": 304.0,
+    "end": 305.0,
+    "text": "9"
+  },
+  {
+    "start": 305.0,
+    "end": 306.0,
+    "text": "9"
+  },
+  {
+    "start": 306.0,
+    "end": 307.0,
+    "text": "9"
+  },
+  {
+    "start": 307.0,
+    "end": 308.0,
+    "text": "9"
+  },
+  {
+    "start": 308.0,
+    "end": 309.0,
+    "text": "9"
+  },
+  {
+    "start": 309.0,
+    "end": 310.0,
+    "text": "9"
+  },
+  {
+    "start": 310.0,
+    "end": 311.0,
+    "text": "9"
+  },
+  {
+    "start": 311.0,
+    "end": 312.0,
+    "text": "9"
+  },
+  {
+    "start": 312.0,
+    "end": 313.0,
+    "text": "9"
+  },
+  {
+    "start": 313.0,
+    "end": 314.0,
+    "text": "9"
+  },
+  {
+    "start": 314.0,
+    "end": 315.0,
+    "text": "9"
+  },
+  {
+    "start": 315.0,
+    "end": 316.0,
+    "text": "9"
+  },
+  {
+    "start": 316.0,
+    "end": 344.06,
+    "text": "entsausoะ Mrs.Force係 Siamn Не"
+  },
+  {
+    "start": 344.06,
+    "end": 349.56,
+    "text": "پٹھ ہی دی رہے اور اس میں اگر آپ سے پوچھ لے کیسر اگر مجھے یہ تو بائیڈی فالٹ جو ہے وہ"
+  },
+  {
+    "start": 349.56,
+    "end": 353.76,
+    "text": "Assending Order میں کر رہے لیکن اگر مجھے Desending Order میں کر رہے ہیں تو کوئی فرک نہیں بڑتا"
+  },
+  {
+    "start": 353.76,
+    "end": 358.92,
+    "text": "آپ جو Sorted Sorted ke'a انتر آپ تیس رہ ایک اور جو ہے وہ Reverse"
+  },
+  {
+    "start": 358.92,
+    "end": 362.76,
+    "text": "تیس رہا اگر بڑی یہ پیل اگر بڑی ان ویڈی ہوگی جس کے اندر سے آپ نے کر"
+  },
+  {
+    "start": 362.76,
+    "end": 366.96,
+    "text": "نا دوسرا آپ نے کی value دی دی کی کس کے بیسے پہ اپنے Sorted کر رہے اور تیس رہا"
+  }
+]

@@ -1,0 +1,400 @@
+[0.00 - 2.00] DSV Data, Welcome to Greatsmashers
+[2.00 - 6.70] Today's video is explaining how to plot CSV file data
+[6.70 - 9.20] Means I have a CSV file
+[9.20 - 12.20] I have taken the CSV file into Python
+[12.20 - 14.70] And then I have to plot it
+[14.70 - 17.20] I will explain it with a simple example
+[17.20 - 20.20] First of all, let me tell you
+[20.20 - 23.20] I have already made a video of CSV
+[23.20 - 26.20] Where I have explained data frames
+[26.20 - 27.80] But let me tell you again
+[27.80 - 30.50] CSV file is called Comma separated files
+[30.50 - 34.00] Whenever we download the API through data
+[34.00 - 37.80] If we want to download the multiple sources from multiple websites
+[37.80 - 40.60] Then it is a very different format
+[40.60 - 43.40] Like your CSV format
+[43.40 - 46.00] Like your XMLA format
+[46.00 - 49.00] Like my XL file is a format
+[49.00 - 52.80] The most widely used one of them is
+[52.80 - 55.00] CSV Comma separated file
+[55.00 - 59.70] Where we separate every value from Comma
+[59.70 - 61.40] By default Comma separated
+[61.40 - 63.90] You can separate it from any other value
+[63.90 - 66.90] But mainly it is separated from Comma
+[66.90 - 68.80] And this is very easy
+[68.80 - 71.30] And there is a text-based data
+[71.30 - 73.80] And first of all, this text-based data
+[73.80 - 75.70] This is my file
+[75.70 - 77.10] Which I have downloaded
+[77.10 - 80.20] Now I have not taken this file into Python
+[80.20 - 81.80] And when I will take Python into Python
+[81.80 - 83.80] I will read it
+[83.80 - 86.60] Then I will write it on any operation
+[86.60 - 88.10] Easy to write
+[88.10 - 92.10] So if you want to do a data visualization
+[92.10 - 95.60] So somewhere this steps are very important
+[95.60 - 97.40] Now we are doing small data
+[97.40 - 100.40] Then you can do the same thing on big files
+[100.40 - 103.00] So first of all what we have done is my file
+[103.00 - 107.20] This file is called Student underscore scores.csv
+[107.20 - 109.60] So I have saved this file in Python
+[109.60 - 111.10] Now I am going to do this
+[111.20 - 114.00] First of all, I am going to import Python
+[114.00 - 116.20] So when Python imports
+[116.20 - 118.30] So the biggest thing is that you have to
+[118.30 - 119.40] In the data frames
+[119.40 - 121.10] What is the data frames?
+[121.10 - 122.60] Take this from one side
+[122.60 - 125.00] If I want to take an Excel type field
+[125.00 - 128.30] As we can easily apply some pressure on the Excel
+[128.30 - 131.20] If I want to manage the data easily
+[131.20 - 133.70] Python is the biggest in it
+[133.70 - 134.70] Your data frames
+[134.70 - 136.50] So you have to import Pandas
+[136.50 - 137.70] Pandas is a library
+[137.70 - 139.80] Which has been my data frames
+[139.90 - 141.40] Already that is there
+[141.40 - 143.40] I can use it directly
+[143.40 - 145.40] Import Pandas as PDA
+[145.40 - 146.00] Allies
+[146.00 - 147.40] A small name created
+[147.40 - 149.50] Otherwise you have to write Pandas
+[149.50 - 150.40] So PD has taken
+[150.40 - 153.90] Now here PD.ReadUnderscoreCSV
+[153.90 - 154.70] So what I am doing?
+[154.70 - 157.10] ReadUnderscoreCSV is functionally
+[157.10 - 158.50] I am doing CSV file
+[158.50 - 160.50] I have shown you the file
+[160.50 - 162.90] That is StudentUnderscoreScore.CSV
+[162.90 - 164.40] So I have written it in single quotes
+[164.40 - 166.40] And I have read it in the data frame
+[166.40 - 167.40] If you print it
+[167.40 - 169.00] Then I will print it
+[169.00 - 173.10] So my file is shown here
+[173.10 - 174.10] So what is this?
+[174.10 - 175.10] Name, subject, marks
+[175.10 - 176.70] What is our column name?
+[176.70 - 178.20] As it is in database
+[178.20 - 179.10] It is the same
+[179.10 - 180.40] It is the name of column
+[180.40 - 181.70] And it is my rose
+[181.70 - 182.70] Now Rone number
+[182.70 - 183.90] We had not given it
+[183.90 - 184.90] But by default
+[184.90 - 186.90] Rone number 012345
+[186.90 - 187.90] This way
+[187.90 - 188.90] I have it
+[188.90 - 190.40] I will show it to you
+[190.40 - 192.90] Now I want to do any operation
+[192.90 - 193.90] I can easily do
+[193.90 - 194.90] So first of all
+[194.90 - 195.90] I want to show you
+[195.90 - 197.30] Very basic
+[197.40 - 199.40] One of the most basic operations
+[199.40 - 201.40] Which of the files
+[201.40 - 203.20] Look, you have a file
+[203.20 - 205.20] You have brought it in your environment
+[205.20 - 206.20] So first of all
+[206.20 - 207.70] I know what is inside it
+[207.70 - 208.70] How many columns
+[208.70 - 210.00] How many rows
+[210.00 - 211.00] How many names
+[211.00 - 211.80] How many columns
+[211.80 - 213.70] All these things are not familiar
+[213.70 - 214.70] So first of all
+[214.70 - 215.20] I have done
+[215.20 - 215.70] Head
+[215.70 - 216.20] Head
+[216.20 - 217.20] What is the default
+[217.20 - 219.20] That is first 5 rows
+[219.20 - 220.00] I will show
+[220.00 - 221.20] So as I will execute
+[221.20 - 222.20] So what has done
+[222.20 - 224.20] First 5 rows
+[224.20 - 226.80] That was the last row of the Mishik
+[226.90 - 228.10] So if 50
+[228.10 - 229.40] What is 1,100 rows
+[229.40 - 230.40] So first 5 rows
+[230.40 - 231.40] Show it
+[231.40 - 232.40] Which you have a little idea
+[232.40 - 233.40] Good in it
+[233.40 - 234.40] All these things
+[234.40 - 235.40] This is the data
+[235.40 - 238.40] You can see the last 5 rows of the same
+[238.40 - 240.40] So this is a very simple concept
+[240.40 - 241.40] Now after that
+[241.40 - 242.40] We have done
+[242.40 - 244.20] Second operation here
+[244.20 - 245.20] I have already
+[245.20 - 246.20] Some operations for saving
+[246.20 - 248.20] So that you know
+[248.20 - 250.20] And I am writing it in the column
+[250.20 - 252.20] So that it becomes a comment
+[252.20 - 253.20] And the one who is executing
+[253.20 - 254.20] I am going to do the rest
+[254.20 - 256.20] I have made the comment
+[256.40 - 257.40] Next I am doing
+[257.40 - 258.40] DF.Shape
+[258.40 - 259.40] Now this shape
+[259.40 - 260.90] What will it be?
+[260.90 - 261.90] Look carefully
+[261.90 - 263.60] What shape has been put
+[263.60 - 265.00] 6.3
+[265.00 - 266.50] 6.3 means
+[266.50 - 267.50] Number of rows
+[267.50 - 269.00] Coma number of columns
+[269.00 - 270.80] How many rows in my table
+[270.80 - 272.00] And how many columns
+[272.00 - 273.20] So you have
+[273.20 - 273.60] Here
+[273.60 - 274.60] That total
+[274.60 - 275.60] Showed
+[275.60 - 276.40] This is my
+[276.40 - 277.40] That shape
+[277.40 - 278.20] Third
+[278.20 - 278.80] I have
+[278.80 - 280.00] DF.columns
+[280.00 - 281.00] I also know
+[281.00 - 283.00] If I want to check the names of columns
+[283.00 - 284.30] I have executed it
+[284.30 - 285.60] What has been shown
+[285.70 - 287.20] Your name here
+[287.20 - 288.20] Showed
+[288.20 - 289.00] The name
+[289.00 - 290.00] And then
+[290.00 - 291.00] The subject
+[291.00 - 292.00] And then
+[292.00 - 293.00] Mark
+[293.00 - 294.00] And the type
+[294.00 - 295.00] Because
+[295.00 - 295.40] Text filen
+[295.40 - 297.00] So in text file
+[297.00 - 299.20] You never have to give
+[299.20 - 300.20] Data type
+[300.20 - 301.20] Like integer
+[301.20 - 302.20] All these
+[302.20 - 303.20] Data base
+[303.20 - 304.20] But here
+[304.20 - 305.20] You don't have to give
+[305.20 - 306.20] You
+[306.20 - 307.20] There
+[307.20 - 310.20] This is my done
+[310.20 - 311.20] After that
+[311.20 - 312.20] I can do some other operations
+[312.20 - 313.20] As I did
+[313.20 - 314.20] Every job
+[314.20 - 315.20] Marks
+[315.20 - 315.80] Here
+[315.80 - 316.20] I have
+[316.20 - 317.40] Marks column
+[317.40 - 318.60] Only Marks column
+[318.60 - 319.60] Its average
+[319.60 - 320.60] So simply
+[320.60 - 321.60] DF
+[321.60 - 322.60] Marks
+[322.60 - 323.60] I wrote in single codes
+[323.60 - 324.60] So what will be done
+[324.60 - 325.60] The value
+[325.60 - 326.60] All Marks
+[326.60 - 327.60] Means
+[327.60 - 328.60] My 6th row
+[328.60 - 330.20] Marks' full column
+[330.20 - 331.00] In that
+[331.00 - 332.00] All the values
+[332.00 - 333.00] What will be the sum
+[333.00 - 334.00] The value
+[334.00 - 335.00] Then
+[335.00 - 336.00] Look at this
+[336.00 - 337.00] Next
+[337.00 - 338.00] Let's suppose
+[338.00 - 338.80] If I want to find
+[338.80 - 339.80] So to find
+[339.80 - 340.80] What will you do to find
+[340.80 - 342.80] First
+[342.80 - 343.80] Marks
+[343.80 - 344.60] If you only give
+[344.60 - 345.60] Marks
+[345.60 - 346.60] If you take
+[346.60 - 347.60] Maximum Marks
+[347.60 - 348.60] You will
+[348.60 - 349.60] Give
+[349.60 - 350.60] Maximum Marks
+[350.60 - 351.60] So let's suppose
+[351.60 - 352.60] Maximum Marks
+[352.60 - 353.60] In that
+[353.60 - 354.60] 92
+[354.60 - 355.60] But I have to find
+[355.60 - 356.60] What is the name
+[356.60 - 358.60] What is its subject
+[358.60 - 359.60] All the details
+[359.60 - 360.60] If you want
+[360.60 - 361.60] So here
+[361.60 - 362.60] What is used
+[362.60 - 363.60] ID
+[363.60 - 364.60] What is this
+[364.60 - 365.60] Index
+[365.60 - 366.60] It means
+[366.60 - 367.60] Index
+[367.60 - 368.60] Means the maximum
+[368.60 - 369.60] The value of its index
+[369.60 - 370.60] Means
+[370.60 - 371.60] What is the row
+[371.80 - 372.80] You also
+[372.80 - 373.80] Showed
+[373.80 - 374.80] Like
+[374.80 - 375.80] You are seeing
+[375.80 - 376.80] You will see
+[376.80 - 377.80] You will see
+[377.80 - 379.00] If you don't take
+[379.00 - 380.00] All these
+[380.00 - 380.40] You will
+[380.40 - 381.20] By adding
+[381.20 - 382.20] By dividing
+[382.20 - 383.20] I am doing the second
+[383.20 - 384.20] I am doing
+[384.20 - 385.20] Let's suppose
+[385.20 - 386.20] To find
+[386.20 - 387.20] Maximum Marks
+[387.20 - 388.20] If I print
+[388.20 - 389.20] Maximum Marks
+[389.20 - 390.20] Then 92 will be the same
+[390.20 - 391.20] But I don't know
+[391.20 - 392.20] What is the number
+[392.20 - 393.20] So I have to do
+[393.20 - 394.20] What will I do
+[394.20 - 395.20] I have to take
+[395.20 - 396.20] Index
+[396.20 - 397.20] It means
+[397.20 - 398.20] Which index
+[398.20 - 399.40] Which number
+[399.40 - 400.40] This is 2
+[400.40 - 402.60] I will take the index value of IDX
+[402.60 - 403.60] And then
+[403.60 - 406.60] I will take the whole row
+[406.60 - 408.60] So this whole row
+[408.60 - 409.60] Which will be my print
+[409.60 - 410.60] Now
+[410.60 - 411.60] I have to print
+[411.60 - 412.60] Name
+[412.60 - 413.60] I can do the name
+[413.60 - 414.60] So this
+[414.60 - 415.60] Just look at the distance
+[415.60 - 417.60] What I am doing here
+[417.60 - 418.60] IDX
+[418.60 - 419.60] What did it do
+[419.60 - 420.60] The maximum value
+[420.60 - 421.60] 92
+[421.60 - 422.60] 92
+[422.60 - 423.60] The row
+[423.60 - 424.60] What was the index
+[424.60 - 425.60] 2
+[425.60 - 426.60] So it has to be given
+[426.60 - 427.60] 2 values
+[427.60 - 429.60] And what will be the DF dot location
+[429.60 - 432.60] It will take all the values from the whole location
+[432.60 - 433.60] So from the max
+[433.60 - 434.60] Maximum value
+[434.60 - 435.40] And the
+[435.40 - 436.80] What did you take
+[436.80 - 437.40] Index
+[437.40 - 438.40] And the
+[438.40 - 440.40] What did I get from its location
+[440.40 - 442.40] All the rows
+[442.40 - 443.60] So what is the top
+[443.60 - 445.00] The whole row
+[445.00 - 446.00] The name has come
+[446.00 - 447.00] The subject has come
+[447.00 - 448.00] And the marks have come
+[448.00 - 449.00] 92
+[449.00 - 450.60] Now what I have printed
+[450.60 - 451.80] Name
+[451.80 - 453.20] And the marks
+[453.20 - 454.20] So the
+[454.20 - 455.20] Now the entire
+[455.20 - 456.00] The
+[456.00 - 457.00] Both the values
+[457.00 - 458.20] To print
+[458.20 - 461.20] So this I have executed it like this
+[461.20 - 462.20] So look
+[462.20 - 462.80] Viana
+[462.80 - 464.00] Comma 92
+[464.00 - 466.00] So this is the work of this
+[466.00 - 467.00] If I only post
+[467.00 - 469.00] I will do the upper
+[469.00 - 470.00] Okay
+[470.00 - 471.80] If I only post the upper
+[471.80 - 473.40] So what will I do
+[473.40 - 475.40] Here just show the value
+[475.40 - 476.40] What is the meaning
+[476.40 - 477.40] Or if I do the
+[477.40 - 478.40] Let's post
+[478.40 - 480.40] That it has to be the max value
+[480.40 - 481.40] So what will the max do
+[481.40 - 482.40] Like the max
+[482.40 - 484.40] Just the max value
+[484.40 - 485.60] But what to do
+[485.60 - 486.80] I had to do
+[486.80 - 488.80] Actually, its name is also
+[488.80 - 490.80] So for that I have to first
+[490.80 - 491.80] I have to take the ID
+[491.80 - 493.80] I have to take the index value
+[493.80 - 494.80] Which is the place
+[494.80 - 495.80] It is the maximum
+[495.80 - 497.80] And then I have to take the marks
+[497.80 - 498.80] I want to take the name
+[498.80 - 499.80] The subject
+[499.80 - 500.80] And last
+[500.80 - 501.80] We have said
+[501.80 - 502.80] Group bike
+[502.80 - 503.80] Which is again
+[503.80 - 504.80] Very, very important
+[504.80 - 505.80] In the database
+[505.80 - 507.80] That it is a group bike
+[507.80 - 508.80] I have to take the subject
+[508.80 - 509.80] Which is the maximum value
+[509.80 - 510.80] Or the subject
+[510.80 - 511.80] Which is the minimum
+[511.80 - 513.00] I have a multi-perse
+[513.00 - 514.80] The math is also the size
+[514.80 - 516.20] So what is the
+[516.20 - 518.20] The most important
+[518.20 - 520.20] Or can you say
+[520.20 - 522.20] What is the maximum marks in size
+[522.20 - 523.20] Or let's post
+[523.20 - 525.20] English is the most important
+[525.20 - 528.20] So if I have to take the name
+[528.20 - 529.20] The max
+[529.20 - 531.20] Or any value
+[531.20 - 533.20] If I have to take the count
+[533.20 - 534.20] Then I can take the name
+[534.20 - 535.20] So what did we do
+[535.20 - 537.20] Df.GroupBike
+[537.20 - 538.20] What will we do
+[538.20 - 539.20] We will do
+[539.20 - 540.20] Subject recording
+[540.20 - 541.20] Because my column
+[541.20 - 542.20] I have chosen the subject
+[542.20 - 544.20] And what is given in the data
+[544.20 - 546.20] And I have taken the name of the marks
+[546.20 - 548.20] So I will print it
+[548.20 - 550.20] So like I have executed the result
+[550.20 - 551.20] Look at that
+[551.20 - 552.20] Very easily
+[552.20 - 553.20] Very important
+[553.20 - 554.20] Group bike is the first subject
+[554.20 - 556.20] So where do you go to the subject
+[556.20 - 557.20] English is
+[557.20 - 558.20] All the values of English
+[558.20 - 560.20] And divide it by
+[560.20 - 562.20] I have shown you the total value of this
+[562.20 - 564.20] The amount of math
+[564.20 - 566.20] The amount of values
+[566.20 - 568.20] All the minimum values
+[568.20 - 570.20] Which you have
+[570.20 - 571.20] You can say
+[571.20 - 572.20] In the whole English
+[572.20 - 577.02] میں, sapsa minimum max, nikaaltsak teo, pure math, sapsa minimum, yaafay, pure size, sapsa minimum
+[577.02 - 580.42] maximum maximum, joo bhi, aapi, aapi nikhoge, uske kawding nikaaltsak teo kaaltsak teo kaaltsak teo
+[580.42 - 584.02] bhi aap, baaya, baadehi, simpel, sei, fundaazay, nikaaltsak teo, lekin, bhaat,
+[584.02 - 589.26] impotentai, deli, abkyaaloo ki, joo data analytics, yaafay data visualization, joo bhi
+[589.26 - 593.06] karya, sabko, ye, deli ke kawding, joo haapo, uskak teo, to, to, to, to, to, to, to, to,

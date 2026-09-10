@@ -1,0 +1,742 @@
+[
+  {
+    "start": 0.0,
+    "end": 2.0,
+    "text": "Dear students, welcome to Gets Meshers"
+  },
+  {
+    "start": 2.0,
+    "end": 4.0,
+    "text": "I am going to explain this video"
+  },
+  {
+    "start": 4.0,
+    "end": 8.0,
+    "text": "What are the various statistical functions on Numpi Aris"
+  },
+  {
+    "start": 8.0,
+    "end": 10.0,
+    "text": "So whenever we use Numpi Aris"
+  },
+  {
+    "start": 10.0,
+    "end": 15.0,
+    "text": "So you know that you are the best at managing the numerical data"
+  },
+  {
+    "start": 15.0,
+    "end": 18.0,
+    "text": "And then if you want to get me mathematical operations"
+  },
+  {
+    "start": 18.0,
+    "end": 20.0,
+    "text": "or you want to get statistical operations"
+  },
+  {
+    "start": 20.0,
+    "end": 23.0,
+    "text": "then which one can I get? Because it is a very easy method"
+  },
+  {
+    "start": 23.0,
+    "end": 26.0,
+    "text": "So here we have major statistical operations"
+  },
+  {
+    "start": 26.0,
+    "end": 28.0,
+    "text": "And first of all we have max"
+  },
+  {
+    "start": 28.0,
+    "end": 32.0,
+    "text": "We have to remove max, we have to remove all the minimum"
+  },
+  {
+    "start": 32.0,
+    "end": 34.0,
+    "text": "We have to remove all the total"
+  },
+  {
+    "start": 34.0,
+    "end": 36.0,
+    "text": "We have to remove the mean value, the median"
+  },
+  {
+    "start": 36.0,
+    "end": 38.0,
+    "text": "We have to remove all the values in the product"
+  },
+  {
+    "start": 38.0,
+    "end": 42.0,
+    "text": "We have to remove various and standard deviation"
+  },
+  {
+    "start": 42.0,
+    "end": 45.0,
+    "text": "So there is another thing, but mainly you have to ask this"
+  },
+  {
+    "start": 45.0,
+    "end": 47.0,
+    "text": "And these are the most common questions"
+  },
+  {
+    "start": 47.0,
+    "end": 49.0,
+    "text": "Interviews or more than a competitive example"
+  },
+  {
+    "start": 49.0,
+    "end": 52.0,
+    "text": "So I am going to execute this and tell you"
+  },
+  {
+    "start": 52.0,
+    "end": 56.0,
+    "text": "So that you can easily get notes and come anywhere"
+  },
+  {
+    "start": 56.0,
+    "end": 58.0,
+    "text": "You can answer this easily"
+  },
+  {
+    "start": 58.0,
+    "end": 60.0,
+    "text": "So first of all we have to do is"
+  },
+  {
+    "start": 60.0,
+    "end": 62.0,
+    "text": "Import Numpi is NP"
+  },
+  {
+    "start": 62.0,
+    "end": 64.0,
+    "text": "First of all we have to remember that you will understand"
+  },
+  {
+    "start": 64.0,
+    "end": 66.0,
+    "text": "how to remove max and how to mean"
+  },
+  {
+    "start": 66.0,
+    "end": 68.0,
+    "text": "So this is 423 simple for a single array"
+  },
+  {
+    "start": 68.0,
+    "end": 70.0,
+    "text": "We are applying the first function of max"
+  },
+  {
+    "start": 70.0,
+    "end": 72.0,
+    "text": "So I have removed the mean value of np.mx"
+  },
+  {
+    "start": 72.0,
+    "end": 73.0,
+    "text": "How to remove it?"
+  },
+  {
+    "start": 73.0,
+    "end": 74.0,
+    "text": "np.mx"
+  },
+  {
+    "start": 74.0,
+    "end": 76.0,
+    "text": "And the x that we have passed"
+  },
+  {
+    "start": 76.0,
+    "end": 78.0,
+    "text": "and we have printed it in Y"
+  },
+  {
+    "start": 78.0,
+    "end": 79.0,
+    "text": "And printed it in Y"
+  },
+  {
+    "start": 79.0,
+    "end": 81.0,
+    "text": "So we have executed it"
+  },
+  {
+    "start": 81.0,
+    "end": 83.0,
+    "text": "And we have scanned the entire array"
+  },
+  {
+    "start": 83.0,
+    "end": 86.0,
+    "text": "And we have scanned it in the maximum"
+  },
+  {
+    "start": 86.0,
+    "end": 88.0,
+    "text": "So we have scanned it in the 9"
+  },
+  {
+    "start": 88.0,
+    "end": 91.0,
+    "text": "So we have scanned it in the 9"
+  },
+  {
+    "start": 91.0,
+    "end": 94.0,
+    "text": "So this is a little time consuming"
+  },
+  {
+    "start": 94.0,
+    "end": 97.0,
+    "text": "Because when we are applying the operation"
+  },
+  {
+    "start": 97.0,
+    "end": 99.0,
+    "text": "We have to scan the entire array"
+  },
+  {
+    "start": 99.0,
+    "end": 101.0,
+    "text": "And we have to search"
+  },
+  {
+    "start": 101.0,
+    "end": 103.0,
+    "text": "We are not doing direct access to this element"
+  },
+  {
+    "start": 103.0,
+    "end": 105.0,
+    "text": "We are searching for the maximum"
+  },
+  {
+    "start": 105.0,
+    "end": 107.0,
+    "text": "of the entire array"
+  },
+  {
+    "start": 107.0,
+    "end": 109.0,
+    "text": "So this is my 923"
+  },
+  {
+    "start": 109.0,
+    "end": 111.0,
+    "text": "If I want to remove the mean"
+  },
+  {
+    "start": 111.0,
+    "end": 113.0,
+    "text": "So let me remove the mean"
+  },
+  {
+    "start": 113.0,
+    "end": 115.0,
+    "text": "So look at your 422"
+  },
+  {
+    "start": 115.0,
+    "end": 117.0,
+    "text": "This is the 222"
+  },
+  {
+    "start": 117.0,
+    "end": 119.0,
+    "text": "So your 222 is printed"
+  },
+  {
+    "start": 119.0,
+    "end": 121.0,
+    "text": "And then we have to remember"
+  },
+  {
+    "start": 121.0,
+    "end": 123.0,
+    "text": "that we have to execute it in simple size"
+  },
+  {
+    "start": 123.0,
+    "end": 125.0,
+    "text": "So we have to do all the elements"
+  },
+  {
+    "start": 125.0,
+    "end": 128.0,
+    "text": "and then we have to do the basic"
+  },
+  {
+    "start": 128.0,
+    "end": 130.0,
+    "text": "And then we have to do the basic"
+  },
+  {
+    "start": 130.0,
+    "end": 131.0,
+    "text": "Next is mean"
+  },
+  {
+    "start": 131.0,
+    "end": 132.0,
+    "text": "What is the mean?"
+  },
+  {
+    "start": 132.0,
+    "end": 133.0,
+    "text": "What is the mean?"
+  },
+  {
+    "start": 133.0,
+    "end": 134.0,
+    "text": "The mean is"
+  },
+  {
+    "start": 134.0,
+    "end": 136.0,
+    "text": "that all these are totally divided by"
+  },
+  {
+    "start": 136.0,
+    "end": 138.0,
+    "text": "total number of elements"
+  },
+  {
+    "start": 138.0,
+    "end": 140.0,
+    "text": "So what is the total?"
+  },
+  {
+    "start": 140.0,
+    "end": 142.0,
+    "text": "So it is 25"
+  },
+  {
+    "start": 142.0,
+    "end": 144.0,
+    "text": "So if you divide by 1, 2, 3, 4, 5"
+  },
+  {
+    "start": 144.0,
+    "end": 146.0,
+    "text": "You should have 5"
+  },
+  {
+    "start": 146.0,
+    "end": 148.0,
+    "text": "And then you have to remove the median"
+  },
+  {
+    "start": 148.0,
+    "end": 152.0,
+    "text": "So what is the median?"
+  },
+  {
+    "start": 152.0,
+    "end": 154.0,
+    "text": "Obviously what is the median?"
+  },
+  {
+    "start": 154.0,
+    "end": 156.0,
+    "text": "First of all we have to sort it out"
+  },
+  {
+    "start": 156.0,
+    "end": 158.0,
+    "text": "And then we have to do the median"
+  },
+  {
+    "start": 158.0,
+    "end": 160.0,
+    "text": "So how we will do it?"
+  },
+  {
+    "start": 160.0,
+    "end": 162.0,
+    "text": "For the median"
+  },
+  {
+    "start": 162.0,
+    "end": 164.0,
+    "text": "You should sort it out"
+  },
+  {
+    "start": 164.0,
+    "end": 166.0,
+    "text": "So to sort it out"
+  },
+  {
+    "start": 166.0,
+    "end": 168.0,
+    "text": "You have to sort it out"
+  },
+  {
+    "start": 168.0,
+    "end": 170.0,
+    "text": "So you have to sort it out"
+  },
+  {
+    "start": 170.0,
+    "end": 172.0,
+    "text": "So your 422 is the median"
+  },
+  {
+    "start": 172.0,
+    "end": 174.0,
+    "text": "And let's suppose"
+  },
+  {
+    "start": 174.0,
+    "end": 176.0,
+    "text": "If we have more elements"
+  },
+  {
+    "start": 176.0,
+    "end": 178.0,
+    "text": "Let's say tell"
+  },
+  {
+    "start": 178.0,
+    "end": 180.0,
+    "text": "So this is the odd number"
+  },
+  {
+    "start": 180.0,
+    "end": 182.0,
+    "text": "So the odd number will be the median"
+  },
+  {
+    "start": 182.0,
+    "end": 184.0,
+    "text": "Let's suppose if we have even numbers"
+  },
+  {
+    "start": 184.0,
+    "end": 186.0,
+    "text": "If we add something else"
+  },
+  {
+    "start": 186.0,
+    "end": 188.0,
+    "text": "So if we have a number"
+  },
+  {
+    "start": 188.0,
+    "end": 190.0,
+    "text": "Then what we do?"
+  },
+  {
+    "start": 190.0,
+    "end": 192.0,
+    "text": "We get 2 values between them"
+  },
+  {
+    "start": 192.0,
+    "end": 194.0,
+    "text": "So if we divide it by 4 plus 7 divided by 2"
+  },
+  {
+    "start": 194.0,
+    "end": 196.0,
+    "text": "So then you divide it by 2 and then we can say"
+  },
+  {
+    "start": 196.0,
+    "end": 198.0,
+    "text": "So this is simple as a wonder"
+  },
+  {
+    "start": 198.0,
+    "end": 200.0,
+    "text": "If you have this kind of a wonder"
+  },
+  {
+    "start": 200.0,
+    "end": 202.0,
+    "text": "So how do we do it?"
+  },
+  {
+    "start": 202.0,
+    "end": 204.0,
+    "text": "The other is your mathematics"
+  },
+  {
+    "start": 204.0,
+    "end": 206.0,
+    "text": "But then let's refresh again"
+  },
+  {
+    "start": 206.0,
+    "end": 208.0,
+    "text": "So after this"
+  },
+  {
+    "start": 208.0,
+    "end": 210.0,
+    "text": "After the median"
+  },
+  {
+    "start": 210.0,
+    "end": 212.0,
+    "text": "So what will we do in the product?"
+  },
+  {
+    "start": 212.0,
+    "end": 214.0,
+    "text": "We multiply it all"
+  },
+  {
+    "start": 214.0,
+    "end": 216.0,
+    "text": "4 into 2 into 3 into 9 into 7"
+  },
+  {
+    "start": 216.0,
+    "end": 218.0,
+    "text": "So this is your product"
+  },
+  {
+    "start": 218.0,
+    "end": 220.0,
+    "text": "Then after that you have your variance"
+  },
+  {
+    "start": 220.0,
+    "end": 222.0,
+    "text": "And standard deviation"
+  },
+  {
+    "start": 222.0,
+    "end": 224.0,
+    "text": "In the case of variance, you have your variance"
+  },
+  {
+    "start": 224.0,
+    "end": 226.0,
+    "text": "How do we do it?"
+  },
+  {
+    "start": 226.0,
+    "end": 228.0,
+    "text": "And what is the answer of this?"
+  },
+  {
+    "start": 228.0,
+    "end": 230.0,
+    "text": "What is the advantage of the variance?"
+  },
+  {
+    "start": 230.0,
+    "end": 232.0,
+    "text": "Let me tell you the variance"
+  },
+  {
+    "start": 232.0,
+    "end": 234.0,
+    "text": "The variance is the value of the values"
+  },
+  {
+    "start": 234.0,
+    "end": 236.0,
+    "text": "How far is the disperser?"
+  },
+  {
+    "start": 236.0,
+    "end": 238.0,
+    "text": "So here"
+  },
+  {
+    "start": 238.0,
+    "end": 240.0,
+    "text": "What is the mean of this?"
+  },
+  {
+    "start": 240.0,
+    "end": 242.0,
+    "text": "What is the mean of this?"
+  },
+  {
+    "start": 242.0,
+    "end": 244.0,
+    "text": "So how do we do it?"
+  },
+  {
+    "start": 244.0,
+    "end": 245.3,
+    "text": "The value of the values is minus 4"
+  },
+  {
+    "start": 245.3,
+    "end": 246.4,
+    "text": "And a value of values is minus 4"
+  },
+  {
+    "start": 246.4,
+    "end": 248.2,
+    "text": "Means it is minus 5 minus 2"
+  },
+  {
+    "start": 248.2,
+    "end": 249.0,
+    "text": "Then it is 2"
+  },
+  {
+    "start": 249.0,
+    "end": 251.4,
+    "text": "That the means is minus plus 5 minus 3"
+  },
+  {
+    "start": 251.4,
+    "end": 253.8,
+    "text": "Then it is, plus 5 minus 9"
+  },
+  {
+    "start": 253.8,
+    "end": 256.6,
+    "text": "Then it is, plus 5 minus 7"
+  },
+  {
+    "start": 256.6,
+    "end": 259.4,
+    "text": "And then it is, divided by 5"
+  },
+  {
+    "start": 259.4,
+    "end": 260.4,
+    "text": "So this is your formula"
+  },
+  {
+    "start": 260.4,
+    "end": 261.4,
+    "text": "From this formula"
+  },
+  {
+    "start": 261.4,
+    "end": 263.4,
+    "text": "You make all these elements"
+  },
+  {
+    "start": 263.4,
+    "end": 263.68,
+    "text": "To combine the middle store"
+  },
+  {
+    "start": 263.68,
+    "end": 265.0,
+    "text": "And minus each one along with the square"
+  },
+  {
+    "start": 265.0,
+    "end": 266.52,
+    "text": "And divide by total number"
+  },
+  {
+    "start": 266.52,
+    "end": 268.52,
+    "text": "And this is your variance"
+  },
+  {
+    "start": 268.52,
+    "end": 270.2,
+    "text": "And we prepare the statement"
+  },
+  {
+    "start": 270.2,
+    "end": 271.22,
+    "text": "So this way"
+  },
+  {
+    "start": 271.22,
+    "end": 272.26,
+    "text": "We denote these"
+  },
+  {
+    "start": 272.26,
+    "end": 274.26,
+    "text": "& this is your variance"
+  },
+  {
+    "start": 274.26,
+    "end": 276.26,
+    "text": "standard deviation is the square root"
+  },
+  {
+    "start": 276.26,
+    "end": 278.26,
+    "text": "i.e. this value is the answer to this"
+  },
+  {
+    "start": 278.26,
+    "end": 280.26,
+    "text": "6.8"
+  },
+  {
+    "start": 280.26,
+    "end": 282.26,
+    "text": "so 6.8"
+  },
+  {
+    "start": 282.26,
+    "end": 284.26,
+    "text": "the variance is the square root"
+  },
+  {
+    "start": 284.26,
+    "end": 286.26,
+    "text": "what happens to this? standard deviation"
+  },
+  {
+    "start": 286.26,
+    "end": 288.26,
+    "text": "standard deviation is the answer to this"
+  },
+  {
+    "start": 288.26,
+    "end": 290.26,
+    "text": "so here we have simple function"
+  },
+  {
+    "start": 290.26,
+    "end": 292.26,
+    "text": "STD"
+  },
+  {
+    "start": 292.26,
+    "end": 294.26,
+    "text": "STD is the square root of 6.8"
+  },
+  {
+    "start": 294.26,
+    "end": 296.26,
+    "text": "so this square root is 2.6"
+  },
+  {
+    "start": 296.26,
+    "end": 298.26,
+    "text": "the value of this is the value of this"
+  },
+  {
+    "start": 298.26,
+    "end": 300.26,
+    "text": "according to the value of this"
+  },
+  {
+    "start": 300.26,
+    "end": 302.26,
+    "text": "simple function operations"
+  },
+  {
+    "start": 302.26,
+    "end": 304.26,
+    "text": "you can see the execution of this function"
+  }
+]

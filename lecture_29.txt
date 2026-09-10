@@ -1,0 +1,384 @@
+[0.00 - 2.00] Dhees students, welcome to GatesMashers
+[2.00 - 5.00] Today's video is explaining file handling in python
+[5.00 - 9.00] Like we discuss file handling in every programming language
+[9.00 - 13.00] python has one of the most important topics in python
+[13.00 - 15.00] and why is this important?
+[15.00 - 19.00] The basic thing is that whenever user stores data
+[19.00 - 21.00] he wants to store it permanently
+[21.00 - 24.00] and we store files in the form of data
+[24.00 - 27.00] like you can see in your laptop, in the computer
+[27.00 - 30.00] we store files in the form of data
+[30.00 - 33.00] like text file, png file, mp3 file
+[33.00 - 36.00] whatever format we organize the files
+[36.00 - 39.00] so that I can store it permanently
+[39.00 - 43.00] and when I read the news, I can access it
+[43.00 - 45.00] and for permanent storage
+[45.00 - 48.00] like we use hard disk, solid state drives
+[48.00 - 51.00] and like I have kept files here
+[51.00 - 54.00] whenever I want to use it, I can use it
+[54.00 - 58.00] and why we don't use RAM
+[58.00 - 62.00] it is useful because cpu always uses data
+[62.00 - 64.00] and then we process it
+[64.00 - 67.00] but you can store it permanently
+[67.00 - 71.00] so we want the data to be stored permanently
+[71.00 - 76.00] and we organize the files properly
+[76.00 - 81.00] so when we talk about file handling
+[81.00 - 83.00] then the main thing here is that
+[83.00 - 85.00] these three operations are first and foremost
+[85.00 - 87.00] what is the first operation?
+[87.00 - 89.00] Open file.
+[89.00 - 92.00] You can also find a particular location in your disk
+[92.00 - 94.00] or in the environment of python
+[94.00 - 96.00] or outside python environment
+[96.00 - 98.00] but first of all, what is the first thing?
+[98.00 - 99.00] Open the file.
+[99.00 - 101.00] So, open the file like this
+[101.00 - 103.00] when you open the file
+[103.00 - 107.00] then you will perform the operations
+[107.00 - 109.00] and read the file
+[109.00 - 113.00] and you will need to read a set of characters
+[113.00 - 115.00] or you will need to read a data
+[115.00 - 119.00] or you will need to update some values
+[119.00 - 121.00] and then you can talk about all the things
+[121.00 - 123.00] and then you will find a file
+[123.00 - 124.00] close the file
+[124.00 - 126.00] when you open the file
+[126.00 - 128.00] you can say that
+[128.00 - 131.00] we called it RAM in the disk
+[131.00 - 135.00] now cpu will perform the operations
+[135.00 - 136.00] I mean we are using it
+[136.00 - 138.00] but cpu will do it
+[138.00 - 140.00] now read write is also done
+[140.00 - 142.00] I have changed something
+[142.00 - 144.00] I have changed the value of x
+[144.00 - 146.00] I have changed it
+[146.00 - 148.00] now what do I want?
+[148.00 - 150.00] do I want that it is in the RAM?
+[150.00 - 153.00] if you only keep the RAM in the RAM
+[153.00 - 156.00] then how will it go in the permanent storage?
+[156.00 - 158.00] it can be in permanent storage
+[158.00 - 160.00] you have to complete the data
+[160.00 - 162.00] and this is the old tile
+[162.00 - 164.00] if any power failure is solved
+[164.00 - 166.00] then this data will be lost
+[166.00 - 168.00] then what will you do?
+[168.00 - 170.00] you want to permanently
+[170.00 - 172.00] in the file in the disk
+[172.00 - 174.00] the storage is closed
+[174.00 - 176.00] then the third step is closed
+[176.00 - 178.00] so closed means
+[178.00 - 180.00] close the file
+[180.00 - 182.00] and then complete the entire
+[182.00 - 184.00] updated file
+[184.00 - 186.00] so these three operations
+[186.00 - 188.00] we will use it
+[188.00 - 190.00] with execution
+[190.00 - 192.00] but first of all
+[192.00 - 194.00] open the file
+[194.00 - 196.00] then what we will use
+[196.00 - 198.00] open the function
+[198.00 - 200.00] open and then the name of the file
+[200.00 - 202.00] the name of the file
+[202.00 - 204.00] the name of the file
+[204.00 - 206.00] in single codes
+[206.00 - 208.00] the file opens
+[208.00 - 210.00] and when the file is open in the RAM
+[210.00 - 212.00] then what is this f1?
+[212.00 - 214.00] f1,0,x,y,z
+[214.00 - 216.00] there is a file point
+[216.00 - 218.00] it can be called as a handler
+[218.00 - 220.00] it is a point
+[220.00 - 222.00] why is the file pointing?
+[222.00 - 224.00] you want to read something
+[224.00 - 226.00] so a point
+[226.00 - 228.00] you will find that
+[228.00 - 230.00] you can do f1
+[230.00 - 232.00] like f1.read
+[232.00 - 234.00] you can read it
+[234.00 - 236.00] i can write it
+[236.00 - 238.00] in all the files
+[238.00 - 240.00] read is possible
+[240.00 - 242.00] basically,fund
+[242.00 - 244.00] but when we open the file
+[244.00 - 246.00] when we open the file
+[246.00 - 248.00] then it is directly
+[248.00 - 250.00] by default it is open in read mode
+[250.00 - 252.00] we do not mention it
+[252.00 - 254.00] we will not mention the file
+[254.00 - 256.00] in read mode
+[256.00 - 258.00] but if we want to open it
+[258.00 - 260.00] like what is the mode
+[260.00 - 262.00] first of all,read mode
+[262.00 - 264.00] you can write it
+[264.00 - 266.00] then what is the file
+[266.00 - 268.00] in read mode
+[268.00 - 270.00] the other right
+[270.00 - 272.00] is the right mode
+[272.00 - 274.00] open the file
+[274.00 - 276.00] whatever changes
+[276.00 - 278.00] like the file
+[278.00 - 280.00] a,b,c
+[280.00 - 282.00] now if you write something
+[282.00 - 284.00] in write mode
+[284.00 - 286.00] it will be overwrite
+[286.00 - 288.00] whatever changes
+[288.00 - 290.00] and new values
+[290.00 - 292.00] will be overwritten
+[292.00 - 294.00] if you open a file
+[294.00 - 296.00] with write mode
+[296.00 - 298.00] and let's suppose
+[298.00 - 300.00] it will create
+[300.00 - 302.00] it will not be the file
+[302.00 - 304.00] if you think it is not the file
+[304.00 - 306.00] then open it
+[306.00 - 308.00] and create
+[308.00 - 310.00] and if the file is already
+[310.00 - 312.00] then whatever is written
+[312.00 - 314.00] then it will be overwrite
+[314.00 - 316.00] in the new values
+[316.00 - 318.00] if you want to save
+[318.00 - 320.00] write it
+[320.00 - 322.00] and let it be written
+[322.00 - 324.00] in the last
+[324.00 - 326.00] then you can edit it
+[326.00 - 328.00] for that you can use
+[328.00 - 330.00] the new values
+[330.00 - 332.00] and let it be written
+[332.00 - 334.00] in the last
+[334.00 - 336.00] then it will be
+[336.00 - 338.00] a pen mode
+[338.00 - 340.00] and it is also
+[340.00 - 342.00] create a new file
+[342.00 - 344.00] if it does not exist
+[344.00 - 346.00] this is the same
+[346.00 - 348.00] read or read
+[348.00 - 350.00] and write
+[350.00 - 352.00] and write it
+[352.00 - 354.00] and write it
+[354.00 - 356.00] and then write it
+[356.00 - 358.00] and write it
+[358.00 - 360.00] and write it
+[360.00 - 362.00] and write it
+[362.00 - 364.00] and that means
+[364.00 - 366.00] if you have already made
+[366.00 - 368.00] then it will be
+[368.00 - 370.00] files are already
+[370.00 - 372.00] and that means
+[372.00 - 374.00] you can open in this mode
+[374.00 - 376.00] and write it
+[376.00 - 378.00] and write it
+[378.00 - 380.00] and write it
+[380.00 - 382.00] and then write it
+[382.00 - 384.00] and write it
+[384.00 - 386.00] in this mode
+[386.00 - 388.00] and write it
+[388.00 - 390.00] and write it
+[390.00 - 391.00] and write it
+[391.00 - 393.00] اگر آپ بنری مورڈ میں اپنے کرنا چاہتے ہو
+[393.00 - 395.30] بنری مورڈ کا مலک کیا ہے کہ آپ
+[395.30 - 397.30] ریدے بل فارمیٹ نہیں ہوتا
+[397.30 - 398.78] لیکن کئی بار ایسری کے سے ریٹا کو
+[398.78 - 400.80] storke na wadta kui bada rita kui
+[400.80 - 403.14] ایمیجیز ہے تو میں او اس کو بنری
+[403.14 - 404.90] مورڈ میں بھی storke sikta
+[404.90 - 406.02] بنری مورڈ میں بھی اس کو
+[406.02 - 406.90] saved کر sikta
+[406.90 - 408.14] دینا آ جاتا جیک پلس
+[408.14 - 409.54] پلس کا مலک کیا ہے کہ اگر
+[409.54 - 411.48] میں رید رہٹ 2 میں کرنا ہے تو
+[411.48 - 413.10] اس کے لیمے پلس مورڈ میں اپنے کر sikta
+[413.10 - 415.10] تو یہ ملٹیبل مورڈ ہے جو ہم
+[415.10 - 417.60] use کرتے ہیں when we open a file
+[417.60 - 419.00] تو اب ہم بیکتے ہیں ایک
+[419.00 - 420.06] اگزیگیشن کے طرح کی کیا
+[420.06 - 421.06] این کو use کرنے
+[421.06 - 423.10] OK let's see the
+[423.10 - 424.10] execution part.
+[424.10 - 425.10] تو یہاں پہ سب سے پلے
+[425.10 - 426.30] ہم نے کیا ہے یہ
+[426.30 - 428.20] میرا زوبیٹر جو ہے اس کے
+[428.20 - 429.16] اندر مل پائیتھن
+[429.16 - 430.72] platform کے اندر ہم نے
+[430.72 - 432.40] یا پہیتھن انویرمیٹ میں
+[432.40 - 433.20] ایک فائل جو ہے وہ
+[433.20 - 434.20] میں نے منایا ہے
+[434.20 - 435.70] new.txt
+[435.70 - 436.70] کوئی بھی نام کی فائلہ
+[436.70 - 437.40] بن آسکتے ہو
+[437.40 - 438.70] جیسے کوئی بھی txt
+[438.70 - 439.70] فائل آپ نے txt
+[439.70 - 440.70] فائل بن آئی اور اس میں
+[440.70 - 441.70] میں نے کچھ بھی
+[441.70 - 442.50] نیم فرمجم کچھ بھی آپ
+[442.50 - 443.20] بھی نا چاہتے ہو تو
+[443.20 - 443.60] لگ دو جسے
+[443.60 - 444.30] hi welcome to
+[444.30 - 444.50] greats
+[444.50 - 445.00] measure this is
+[445.00 - 445.60] file handling in
+[445.60 - 446.10] python
+[446.10 - 446.70] اس طریقے سے
+[446.70 - 447.20] میں نے کچھ
+[447.20 - 447.70] کنتنٹیس میں
+[447.70 - 448.50] لگ دیا
+[448.50 - 449.20] اب میں جاتا ہوں یہ
+[449.20 - 449.60] ایہتے ہیں
+[449.60 - 450.70] سب سے
+[450.70 - 451.30] پیلا اپرییشن
+[451.30 - 451.70] ہم لو کیا پر
+[451.70 - 452.70] perform کر رہے
+[452.70 - 453.20] open
+[453.20 - 454.20] open a file
+[454.20 - 455.20] کیونکیش جو بھی
+[455.20 - 455.46] read
+[455.46 - 455.70] رائٹ کر رہے
+[455.70 - 456.20] چاہتے ہیں
+[456.20 - 456.70] اس کے لی پہلے
+[456.70 - 457.20] open
+[468.70 - 470.70] f.read
+[470.70 - 471.70] جسی میں
+[471.70 - 472.70] اس کو اجزیکیوٹ کرتا ہوں
+[472.70 - 473.40] تو یہاں پے
+[473.40 - 474.40] دیکھو کیا آئے گا
+[474.40 - 475.20] جو میں نے
+[475.20 - 476.40] کنتنٹ لکھا ہوں ہے
+[476.40 - 476.70] وہ
+[476.70 - 477.40] file
+[477.40 - 477.90] کا کنتنٹ
+[477.90 - 478.40] یہاں پیسنے
+[478.40 - 479.20] read کر دیا
+[479.20 - 479.80] یہ دیکھلو جی
+[479.80 - 480.90] hi welcome to
+[480.90 - 481.50] greats measure
+[481.50 - 481.90] this is
+[481.90 - 482.60] file handling in
+[482.60 - 483.50] python
+[483.50 - 483.84] اس کو
+[483.84 - 484.14] thoda
+[484.14 - 484.70] sardom out
+[484.70 - 485.20] کر دے تو
+[485.20 - 485.70] لےو جی
+[485.70 - 486.16] دیکھرہ
+[486.16 - 486.70] sardho
+[486.70 - 487.20] تو یہ
+[487.20 - 487.70] آپ کو
+[487.70 - 488.00] یہاں پی
+[488.00 - 488.50] دیکھر آوگا
+[488.50 - 488.70] کی سری
+[488.70 - 489.40] slash
+[489.40 - 489.50] and
+[489.50 - 490.20] kasi آیاں
+[490.20 - 491.00] واہپے
+[491.00 - 492.00] تو نہیں تھا
+[492.00 - 493.00] لیکن یہاں
+[493.00 - 494.00] دیان سے دیکھو یہ
+[494.00 - 495.00] new line
+[495.00 - 496.00] slash
+[496.00 - 497.00] ان کے بلو پہلی
+[497.00 - 498.00] لائینا اُس کے بہت
+[498.00 - 499.00] نکس لائی میں
+[499.00 - 500.00] دوسری لکھیا
+[500.00 - 501.00] تو اس نے
+[501.00 - 502.00] کیا کر دیا
+[502.00 - 503.00] اس نے بایشی
+[503.00 - 504.00] سکھا دی
+[504.00 - 505.00] hi welcome to greats measure
+[505.00 - 506.00] slash
+[506.00 - 507.00] and
+[507.00 - 508.00] یہ new line
+[508.00 - 509.00] again
+[509.00 - 510.00] next line
+[510.00 - 511.00] یہ لکھا ہوئے
+[511.00 - 512.00] تو یہ آپ کا
+[512.00 - 513.00] pura as it is
+[513.00 - 514.00] read کر دے
+[514.00 - 515.00] دینا ماری پہ سایا تھا
+[515.00 - 516.00] اگر میں
+[516.00 - 517.00] file
+[517.00 - 518.00] کو اپن کرنا چاہتا ہوں
+[518.00 - 519.00] with the right mode
+[519.00 - 520.00] و یہ آئے
+[520.00 - 522.00] کچھ بھی
+[522.00 - 523.00] write کر دیا
+[523.00 - 525.00] f.write python is important for interviews
+[525.00 - 527.00] و file
+[527.00 - 528.00] کو اینے closed
+[528.00 - 529.00] کیا پر مدلی
+[529.00 - 530.00] آپ save
+[530.00 - 531.00] جیسی میں
+[531.00 - 532.00] execute
+[532.00 - 533.00] کیا ہے
+[533.00 - 534.00] سکسسفلی
+[534.00 - 535.00] execute
+[535.00 - 536.00] ایک زیکیٹ ہونے
+[536.00 - 537.00] کے بعد میں
+[537.00 - 538.00] دوارا سے
+[538.00 - 539.00] فیر اسی
+[539.00 - 541.00] file کو read کر دیا
+[541.00 - 542.00] دیان سے دیکھو
+[542.00 - 543.00] python is important
+[543.00 - 544.00] for interviews
+[544.00 - 545.00] لیکھا گیا
+[545.00 - 546.00] یہ جو
+[546.00 - 547.00] with the high welcome to getsmation
+[547.00 - 548.00] وہ overwrite
+[548.00 - 549.00] ہو گئی
+[549.00 - 550.00] تو یہی آپ کو
+[550.00 - 551.00] دیھا نا چاہا رہا تھا کہ
+[551.00 - 552.00] w mode میں
+[552.00 - 553.00] وہ جیچ overwrite
+[553.00 - 554.00] ہو جاتی ہے
+[554.00 - 555.00] تو python is important for
+[555.00 - 556.00] interviews لیکھا گیا
+[556.00 - 557.00] پہلے والا ہت گیا
+[557.00 - 558.00] اب دیکھو
+[558.00 - 559.00] اب اس میں
+[559.00 - 560.00] کا لیکھا گیا
+[560.00 - 561.00] python is important for interviews
+[561.00 - 562.00] پہلے والا ہت گیا
+[562.00 - 563.00] اب میں
+[563.00 - 564.00] کیا کر رہا ہوں
+[564.00 - 565.00] file کو
+[565.00 - 566.00] append mode میں
+[566.00 - 567.00] open کر رہا ہوں
+[567.00 - 568.00] تو میں نے
+[568.00 - 569.00] call it a
+[569.00 - 570.00] append mode میں
+[570.00 - 571.00] نے اس کو open
+[571.00 - 572.00] کیا
+[572.00 - 573.00] تو جیسی میں
+[573.00 - 574.00] append mode میں
+[574.00 - 575.00] open کر رہا ہوں
+[575.00 - 576.00] تو practicit daily
+[576.00 - 577.00] کچھ بھی آپ لیکنا چاہتے ہو
+[577.00 - 578.00] لیکن دو
+[578.00 - 602.00] اور میں اس کو
+[602.00 - 603.00] کیا کر دیا
+[603.00 - 605.00] اور اس نے
+[605.00 - 606.00] کیا کر دیا
+[606.00 - 607.00] so practicit daily
+[607.00 - 608.00] وہ
+[608.00 - 609.00] اس میں
+[609.00 - 610.00] add کر دیا
+[610.00 - 611.00] اب اس یہی
+[611.00 - 612.00] فرق آپ کو
+[612.00 - 613.00] دیھا رہا ہوں
+[613.00 - 614.00] اور اب آپ آپ آپ
+[614.00 - 615.00] جیسے میں نے
+[615.00 - 616.00] یہاں
+[616.00 - 617.00] file تھے ہوں
+[617.00 - 618.00] اور نیو
+[618.00 - 619.00] .Txt
+[619.00 - 620.00] اب اس نیو
+[620.00 - 621.00] .Txt
+[621.00 - 622.00] اب اس نیو
+[622.00 - 623.00] .Txt
+[623.00 - 624.00] اب اس نیو
+[624.00 - 625.00] .Txt
+[625.00 - 626.00] اب اس نیو
+[626.00 - 627.00] .Txt
+[627.00 - 628.00] اب اس نیو
+[628.00 - 629.00] .Txt
+[629.00 - 630.00] اب اس نیو
+[630.00 - 631.00] .Txt
+[631.00 - 632.00] اب اس نیو

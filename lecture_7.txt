@@ -1,0 +1,133 @@
+[0.00 - 2.00] DS students, Welcome to Greatsmashers
+[2.00 - 4.00] Pytan program in series now welcome to greatsmashers
+[4.00 - 8.00] In today's video, we will take a very important question and a very interesting question
+[8.00 - 12.00] What is a question? We have taken some inputs string from user
+[12.00 - 14.00] We can also put some inputs string in the heart of the user
+[14.00 - 20.00] Now we have to take all the variables in the inputs string and operate them
+[20.00 - 24.00] As the user has put inputs string in the I love you
+[24.00 - 26.00] Ae, I, O, U
+[26.00 - 28.00] Ae, I, O, U
+[28.00 - 30.00] Now I love you
+[30.00 - 32.00] Ae, I, O, U
+[32.00 - 34.00] Who comes from this 5th level?
+[34.00 - 38.00] All of you have to print the entire thing and enter
+[38.00 - 40.00] So, we have to do this thing
+[40.00 - 42.00] It is a very simple code
+[42.00 - 44.00] But the question is very useful
+[44.00 - 46.00] How we code it
+[46.00 - 48.00] And its time complexity is also
+[48.00 - 50.00] There are many things that are asked
+[50.00 - 52.00] And we have to get interviews
+[52.00 - 54.00] So, we will cover all the things here
+[54.00 - 56.00] Just don't go to the topic today
+[56.00 - 58.00] Because it is a little wrong from the second to the second
+[58.00 - 60.00] But I thought I will be fine
+[60.00 - 62.00] I will make a video but I didn't do it
+[62.00 - 64.00] So, I said this video is not necessary
+[64.00 - 66.00] You can also benefit from it
+[66.00 - 68.00] So, I should not delay it
+[68.00 - 70.00] So, I have taken this code
+[70.00 - 72.00] So, what we have to do
+[72.00 - 74.00] We have to import the string from user
+[74.00 - 76.00] So, you know that we use the input function
+[76.00 - 78.00] Now, with the input, you can also take the input
+[78.00 - 80.00] But I have written the lower here
+[80.00 - 82.00] Why is it lower?
+[82.00 - 84.00] So, we can put it in the capital
+[84.00 - 86.00] So, we have to do this
+[86.00 - 88.00] If we put it in the capital, it will convert it to lower
+[88.00 - 90.00] So, automatically, we will convert the input to lower
+[90.00 - 92.00] And convert all the letters to lower
+[92.00 - 94.00] And we have added a variable input
+[94.00 - 96.00] In the underscore value
+[96.00 - 98.00] You can also name it
+[98.00 - 100.00] A, B, C, D, A, X, Y
+[100.00 - 102.00] Whatever you want to take
+[102.00 - 104.00] We have taken the string here
+[104.00 - 106.00] Because I know that whatever I will come
+[106.00 - 108.00] As if I am putting the input string
+[108.00 - 110.00] I love you
+[110.00 - 111.00] You
+[111.00 - 113.00] Now, you know who comes to me
+[113.00 - 115.00] A, E, I, O, U
+[115.00 - 117.00] You know that this is also a vowel
+[117.00 - 118.00] I
+[118.00 - 120.00] You know that O is also a vowel
+[120.00 - 122.00] A, E, I, O, U
+[122.00 - 125.00] So, here, I have a total of 4 vowels here
+[125.00 - 127.00] So, in this way, if I have to convert it
+[127.00 - 128.00] And I have to print it
+[128.00 - 130.00] I will print it in vowels
+[130.00 - 132.00] So, you know that 5th is obviously
+[132.00 - 134.00] You have to write this way
+[134.00 - 136.00] If A is in input string
+[136.00 - 138.00] Meaning, whatever I have input
+[138.00 - 140.00] If A is in input
+[140.00 - 141.00] Then, what will I do?
+[141.00 - 142.00] Add the vowel in it
+[142.00 - 144.00] Add it in the string
+[144.00 - 146.00] So, if you have A in it
+[146.00 - 148.00] Add one in the vowels
+[148.00 - 149.00] But, A is not here
+[149.00 - 150.00] So, obviously, the next one we have
+[150.00 - 152.00] If e is in the VN
+[152.00 - 154.00] So, e is here
+[154.00 - 155.00] Add it in the E vowel
+[155.00 - 158.00] First of all, the first is the e in the vowel
+[158.00 - 160.00] Then it comes
+[160.00 - 162.00] So, after that, its A is here
+[162.00 - 164.00] Then, the O
+[164.00 - 166.00] Yes, O is here
+[166.00 - 167.00] Then, the next U is there
+[197.00 - 199.00] input , if that string size is L
+[199.00 - 201.00] i mean very infinite value
+[201.00 - 203.00] very very very value value
+[203.00 - 205.00] so let's say if i take its size
+[205.00 - 207.00] n my total maximum is where can be n
+[207.00 - 209.00] n can be n value
+[209.00 - 211.00] infinite so obviously
+[211.00 - 213.00] for the first one we are searching for
+[213.00 - 217.00] n so that it will search for the whole last
+[217.00 - 219.00] it can be that this is your last string
+[219.00 - 221.00] it can be first
+[221.00 - 223.00] but as it is
+[223.00 - 225.00] in the first case, we have to go to the last
+[225.00 - 227.00] n times that is the search that it will search for
+[227.00 - 229.00] n times
+[229.00 - 231.00] then after that, e is here
+[231.00 - 233.00] in e case, we can find it in the first time
+[233.00 - 235.00] e is also your maximum
+[235.00 - 237.00] maximum is the last second last position
+[237.00 - 239.00] so maximum time is also your
+[239.00 - 241.00] even the end
+[241.00 - 243.00] n if you take n, you will also make a value
+[243.00 - 245.00] minus 1 and minus 2
+[245.00 - 247.00] then you will also believe that
+[247.00 - 249.00] your value is infinite
+[249.00 - 251.00] if you take 1-1, then it will be infinite
+[251.00 - 253.00] so you can say like
+[253.00 - 255.00] the same with the case of
+[255.00 - 257.00] because i am taking the worst case here
+[257.00 - 259.00] which case i am taking the worst
+[259.00 - 261.00] so let's say you have made a crore size
+[261.00 - 263.00] and now you have to put an input of size
+[263.00 - 265.00] and e i o u
+[265.00 - 267.00] the last five letters
+[267.00 - 269.00] so obviously n times your search
+[269.00 - 271.00] n the n minus 1
+[271.00 - 273.00] n minus 2
+[273.00 - 275.00] n minus 3
+[275.00 - 277.00] so if you total this, then what happens
+[277.00 - 279.00] from one side of your
+[279.00 - 281.00] 5 n and which you can also
+[281.00 - 283.00] add n times complexity
+[283.00 - 285.00] so this is also extra
+[285.00 - 287.00] so you can tell that you can
+[287.00 - 289.00] ask interviews from you,
+[289.00 - 291.00] just note the code,
+[291.00 - 293.00] you can execute it
+[295.00 - 297.00] we have put the string
+[297.00 - 299.00] in the i-level
+[299.00 - 301.00] so this is the output
+[301.00 - 303.00] so note the code
+[303.00 - 305.00] and write the code
