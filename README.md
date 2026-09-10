@@ -1,5 +1,7 @@
 # AI Teaching Assistant — RAG Based Learning System
 
+live demo link :    https://chaudharisakshie-rag-based-ai-teaching-assistant-app-agnl4n.streamlit.app/
+
 An AI-powered Teaching Assistant that allows students to ask questions about lecture content and receive answers grounded in the provided educational lectures.
 
 ## Features
